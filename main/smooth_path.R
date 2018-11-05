@@ -86,7 +86,7 @@ plot_heuristic_solution <- simple_path %>%
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
   labs(x = "", y = "")
 
-save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution", width = 3, height = 3)
+save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution.svg", width = 3, height = 3)
 
 
 #==== final example ====
