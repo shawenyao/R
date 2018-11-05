@@ -23,7 +23,7 @@ plot1 <- bind_rows(
     mutate(iteration = "Smoothed")
 ) %>% 
   ggplot(aes(x = x, y = y)) +
-  geom_path(size = 3, linejoin = "round", lineend = "round") +
+  geom_path(size = 2.5, linejoin = "round", lineend = "round") +
   geom_point(size = 5, aes(color = iteration)) +
   scale_color_manual(values = c("Original" = "#F8766D", "Smoothed" = "#619CFF")) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
@@ -73,7 +73,7 @@ plot_example <- bind_rows(
     mutate(iteration = "Smooth x 2", type = "2-way")
 ) %>% 
   ggplot(aes(x = x, y = y)) +
-  geom_path(size = 3, linejoin = "round", lineend = "round") +
+  geom_path(size = 2.5, linejoin = "round", lineend = "round") +
   geom_point(size = 5, aes(color = iteration)) +
   facet_grid(type~iteration, switch = "y") +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
