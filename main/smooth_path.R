@@ -124,6 +124,7 @@ plot_example <- bind_rows(
     smooth_path_double() %>% 
     mutate(iteration = "Smooth x 2", type = "Average")
 ) %>% 
+  mutate(type = factor(type, levels = type)) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 2.5, linejoin = "round", lineend = "round") +
   geom_point(size = 5, aes(color = iteration)) +
