@@ -92,37 +92,37 @@ save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution.sv
 #==== final example ====
 plot_example <- bind_rows(
   path %>% 
-    mutate(iteration = "Original", type = "1-way"),
+    mutate(iteration = "Original", type = "Forward"),
   path %>% 
-    smooth_path() %>% mutate(iteration = "Smooth x 1", type = "1-way"),
+    smooth_path() %>% mutate(iteration = "Smooth x 1", type = "Forward"),
   path %>% 
     smooth_path() %>% 
     smooth_path() %>% 
-    mutate(iteration = "Smooth x 2", type = "1-way"),
+    mutate(iteration = "Smooth x 2", type = "Forward"),
   
   path %>% 
-    mutate(iteration = "Original", type = "1-way Reversed"),
+    mutate(iteration = "Original", type = "Backward"),
   path %>%
     reverse_df() %>% 
     smooth_path() %>%
     reverse_df() %>% 
-    mutate(iteration = "Smooth x 1", type = "1-way Reversed"),
+    mutate(iteration = "Smooth x 1", type = "Backward"),
   path %>% 
     reverse_df() %>% 
     smooth_path() %>%
     smooth_path() %>%
     reverse_df() %>% 
-    mutate(iteration = "Smooth x 2", type = "1-way Reversed"),
+    mutate(iteration = "Smooth x 2", type = "Backward"),
   
   path %>% 
-    mutate(iteration = "Original", type = "2-way"),
+    mutate(iteration = "Original", type = "Average"),
   path %>% 
     smooth_path_double() %>% 
-    mutate(iteration = "Smooth x 1", type = "2-way"),
+    mutate(iteration = "Smooth x 1", type = "Average"),
   path %>% 
     smooth_path_double() %>% 
     smooth_path_double() %>% 
-    mutate(iteration = "Smooth x 2", type = "2-way")
+    mutate(iteration = "Smooth x 2", type = "Average")
 ) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 2.5, linejoin = "round", lineend = "round") +
