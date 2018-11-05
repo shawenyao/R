@@ -13,18 +13,27 @@ path <- data.frame(
   y = c(3, 4, 2, 1.5, 4, 6, 7)
 )
 
-plot1 <- path %>% 
+plot1 <- bind_rows(
+  path %>% 
+    mutate(iteration = "original"),
+  path %>% 
+    smooth_path_double() %>% 
+    smooth_path_double() %>% 
+    mutate(iteration = "smoothed")
+) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 3, linejoin = "round", lineend = "round") +
-  geom_point(size = 8, color = rgb(248, 118, 109, maxColorValue = 255)) +
-  scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.1, max(path$x) + 0.1)) +
-  scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.1, max(path$y) + 0.1)) +
+  geom_point(size = 8, aes(color = iteration)) +
+  scale_color_manual(values = c("original" = "#F8766D", "smoothed" = "#619CFF")) +
+  scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.4, max(path$x) + 0.4)) +
+  scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.4, max(path$y) + 0.4)) +
   coord_fixed() +
+  facet_wrap(iteration~.) +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank()) +
+  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
   labs(x = "", y = "")
 
-save_svg(plot = plot1, file_name = "output/plot1.svg", width = 4, height = 4)
+save_svg(plot = plot1, file_name = "output/plot1.svg", width = 4, height = 8)
 
 
 bind_rows(
