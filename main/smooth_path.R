@@ -33,7 +33,7 @@ plot1 <- bind_rows(
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
   labs(x = "", y = "")
 
-save_svg(plot = plot1, file_name = "output/plot1.svg", width = 4, height = 8)
+save_svg(plot = plot1, file_name = "output/plot1.svg", width = 8, height = 4)
 
 
 bind_rows(
