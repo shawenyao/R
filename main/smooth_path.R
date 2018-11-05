@@ -24,7 +24,7 @@ plot1 <- bind_rows(
 ) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 3, linejoin = "round", lineend = "round") +
-  geom_point(size = 6, aes(color = iteration)) +
+  geom_point(size = 5, aes(color = iteration)) +
   scale_color_manual(values = c("Original" = "#F8766D", "Smoothed" = "#619CFF")) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
@@ -35,6 +35,7 @@ plot1 <- bind_rows(
   labs(x = "", y = "")
 
 save_svg(plot = plot1, file_name = "output/plot1.svg", width = 6, height = 3)
+
 
 #==== final example ====
 plot_example <- bind_rows(
@@ -73,7 +74,7 @@ plot_example <- bind_rows(
 ) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 3, linejoin = "round", lineend = "round") +
-  geom_point(size = 6, aes(color = iteration)) +
+  geom_point(size = 5, aes(color = iteration)) +
   facet_grid(type~iteration, switch = "y") +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
