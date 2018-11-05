@@ -68,7 +68,7 @@ plot_problem_formulation <- simple_path %>%
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
   labs(x = "", y = "")
 
-save_svg(plot_problem_formulation, file_name = "output/plot_problem_formulation.svg", width = 4, height = 4)
+save_svg(plot_problem_formulation, file_name = "output/plot_problem_formulation.svg", width = 4, height = 3)
 
 
 plot_heuristic_solution <- simple_path %>% 
@@ -86,7 +86,7 @@ plot_heuristic_solution <- simple_path %>%
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
   labs(x = "", y = "")
 
-save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution.svg", width = 4, height = 4)
+save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution.svg", width = 4, height = 3)
 
 
 #==== final example ====
