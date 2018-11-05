@@ -37,6 +37,58 @@ plot1 <- bind_rows(
 save_svg(plot = plot1, file_name = "output/plot1.svg", width = 6, height = 3)
 
 
+#==== plot 2 & 3 ====
+simple_path <- tibble(
+  x = c(1, 6, 7.5),
+  y = c(1, 6, 2),
+  label = c("A", "B", "C"),
+  iteration = "Original"
+)
+
+added_points <- tibble(
+  x = c(3.5, 2.086197, 4.75),
+  y = c(3.5, 4.913803, 4.75),
+  label = c("D", "P", "E"),
+  iteration = "Added"
+)
+
+all_points <- bind_rows(simple_path, added_points)
+
+plot_problem_formulation <- simple_path %>% 
+  ggplot(aes(x = x, y = y)) +
+  geom_path(size = 2.5, linejoin = "round", lineend = "round") +
+  geom_line(data = all_points %>% filter(label %in% c("A", "B", "P")), size = 1.5, linetype = 2) +
+  geom_point(data = all_points %>% filter(label %in% c("A", "B", "C", "P")), size = 5, aes(color = iteration)) +
+  geom_text(data = all_points %>% filter(label %in% c("A", "B", "C", "P")), aes(x = x - 0.6, y = y + 0.2, label = label), size = 10) +
+  scale_color_manual(values = c("Original" = "#F8766D", "Added" = "gold")) +
+  scale_x_continuous(breaks = seq(min(simple_path$x), max(simple_path$x), 1), limits = c(min(simple_path$x) - 0.6, max(simple_path$x) + 0.6)) +
+  scale_y_continuous(breaks = seq(min(simple_path$y), max(simple_path$y), 1), limits = c(min(simple_path$y) - 0.3, max(simple_path$y) + 0.3)) +
+  coord_fixed() +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
+  labs(x = "", y = "")
+
+save_svg(plot_problem_formulation, file_name = "output/plot_problem_formulation.svg", width = 3, height = 3)
+
+
+plot_heuristic_solution <- simple_path %>% 
+  ggplot(aes(x = x, y = y)) +
+  geom_path(size = 2.5, linejoin = "round", lineend = "round") +
+  geom_line(data = all_points %>% filter(label %in% c("D", "P")), size = 1.5, linetype = 2) +
+  geom_line(data = all_points %>% filter(label %in% c("C", "E")), size = 1.5, linetype = 2) +
+  geom_point(data = all_points, size = 5, aes(color = iteration)) +
+  geom_text(data = all_points, aes(x = x - 0.6, y = y + 0.2, label = label), size = 10) +
+  scale_color_manual(values = c("Original" = "#F8766D", "Added" = "gold")) +
+  scale_x_continuous(breaks = seq(min(simple_path$x), max(simple_path$x), 1), limits = c(min(simple_path$x) - 0.6, max(simple_path$x) + 0.6)) +
+  scale_y_continuous(breaks = seq(min(simple_path$y), max(simple_path$y), 1), limits = c(min(simple_path$y) - 0.3, max(simple_path$y) + 0.3)) +
+  coord_fixed() +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
+  labs(x = "", y = "")
+
+save_svg(plot_heuristic_solution, file_name = "output/plot_heuristic_solution", width = 3, height = 3)
+
+
 #==== final example ====
 plot_example <- bind_rows(
   path %>% 
