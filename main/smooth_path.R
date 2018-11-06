@@ -156,11 +156,9 @@ path_lambda <- seq(0, 0.3, length.out = 200) %>%
   bind_rows()
 
 plot_lambda <- path_lambda %>% 
-  # filter(lambda %in% a[1:3]) %>%
   ggplot(aes(x = x, y = y)) +
-  geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = factor(lambda))) +
-  scale_colour_hue(h = c(270, 360)) +
-  # scale_color_gradientn(colours = clpalette('4607999') %>% swatch() %>% .[[1]]) +
+  geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, group = lambda)) +
+  scale_color_gradientn(colours = clpalette('4607999') %>% swatch() %>% .[[1]]) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
