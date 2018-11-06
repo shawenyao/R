@@ -1,6 +1,7 @@
 library(dplyr)
 library(purrr)
 library(ggplot2)
+library(colourlovers)
 library(beepr)
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
@@ -137,6 +138,38 @@ plot_example <- bind_rows(
   labs(x = "", y = "")
 
 save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg", width = 10, height = 10)
+
+
+#==== the effect of lambda plot ====
+path_lambda <- seq(0, 0.3, length.out = 200) %>% 
+  map(
+    function(lambda){
+      
+      output <- path %>% 
+        smooth_path_double(lambda = lambda) %>% 
+        smooth_path_double(lambda = lambda) %>% 
+        smooth_path_double(lambda = lambda) %>% 
+        smooth_path_double(lambda = lambda) %>%
+        mutate(lambda = lambda)
+    }
+  ) %>% 
+  bind_rows()
+
+plot_lambda <- path_lambda %>% 
+  # filter(lambda %in% a[1:3]) %>%
+  ggplot(aes(x = x, y = y)) +
+  geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = factor(lambda))) +
+  scale_colour_hue(h = c(270, 360)) +
+  # scale_color_gradientn(colours = clpalette('4607999') %>% swatch() %>% .[[1]]) +
+  scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
+  scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
+  coord_fixed() +
+  theme_minimal() +
+  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
+  labs(x = "", y = "")
+
+save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 10, height = 10)
+
 
 # play sound when finished
 beep(sound = 2)
