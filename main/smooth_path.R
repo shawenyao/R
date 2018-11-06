@@ -133,7 +133,7 @@ plot_example <- bind_rows(
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20, face = "bold")) +
+  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
   labs(x = "", y = "")
 
 save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg", width = 10, height = 10)
