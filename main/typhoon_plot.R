@@ -25,7 +25,7 @@ data <- seq_len(total) %>%
   bind_rows()
 
 plot <- ggplot(data, aes(x = x, y = y, group = id)) +
-  geom_path(size = 0.5) +
+  geom_path(size = 0.5, lineend = "round") +
   coord_fixed() +
   theme_minimal() +
   theme(
@@ -37,7 +37,7 @@ plot <- ggplot(data, aes(x = x, y = y, group = id)) +
   ) +
   labs(x = "", y = "")
 
-save_svg(plot = plot, file_name = "output/typhoon/typhoon.svg", width = 9, height = 9)
+save_svg(plot = plot, file_name = "output/typhoon/typhoon.svg", width = 10, height = 10)
 
 # play sound when finished
 beep(sound = 2)
