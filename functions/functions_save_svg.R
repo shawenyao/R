@@ -1,9 +1,10 @@
 #' save a plot in svg format
 #'
-#' @param 
-#' @param 
-#' @param 
-#' @param 
+#' @param plot a plot object
+#' @param print_plot a boolean switch to turn on printing to console
+#' @param file_name file name of the output file
+#' @param width width of the output
+#' @param height height of the output
 #'
 #' @return NULL
 #'
