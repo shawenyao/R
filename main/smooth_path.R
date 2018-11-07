@@ -37,7 +37,7 @@ plot1 <- bind_rows(
     axis.line = element_blank(),
     axis.text = element_blank(), 
     strip.text = element_blank(),
-    panel.spacing = unit(2, "lines")
+    panel.spacing = unit(1.5, "lines")
   ) +
   labs(x = "", y = "")
 
