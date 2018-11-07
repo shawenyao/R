@@ -32,7 +32,13 @@ plot1 <- bind_rows(
   coord_fixed() +
   facet_wrap(iteration~.) +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
+  theme(
+    legend.position = "none", 
+    axis.line = element_blank(),
+    axis.text = element_blank(), 
+    strip.text = element_blank(),
+    panel.spacing = unit(2, "lines")
+  ) +
   labs(x = "", y = "")
 
 save_svg(plot = plot1, file_name = "output/smooth_path/plot1.svg", width = 6, height = 3)
