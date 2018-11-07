@@ -138,7 +138,7 @@ plot_example <- bind_rows(
     legend.position = "none", 
     axis.text = element_blank(), 
     strip.text = element_text(size = 20),
-    plot.margin = margin(0.25, 0, 0, -0.75, "cm")
+    plot.margin = margin(0.25, 0, 0, -2.5, "cm")
   ) +
   labs(x = "", y = "")
 
@@ -146,7 +146,7 @@ save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg",
 
 
 #==== the effect of lambda plot ====
-path_lambda <- seq(0, 0.5, length.out = 200) %>% 
+path_lambda <- seq(0, 0.4, length.out = 200) %>% 
   map(
     function(lambda){
       
@@ -172,7 +172,7 @@ plot_lambda <- path_lambda %>%
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
   labs(x = "", y = "")
 
-save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 6, height = 6)
+save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 8, height = 8)
 
 
 # play sound when finished
