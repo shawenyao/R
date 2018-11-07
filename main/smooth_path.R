@@ -1,7 +1,6 @@
 library(dplyr)
 library(purrr)
 library(ggplot2)
-library(colourlovers)
 library(beepr)
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
@@ -152,7 +151,7 @@ save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg",
 
 
 #==== the effect of lambda plot ====
-path_lambda <- seq(0, 0.3, length.out = 200) %>% 
+path_lambda <- seq(0, 0.26, length.out = 200) %>% 
   map(
     function(lambda){
       
@@ -169,8 +168,8 @@ path_lambda <- seq(0, 0.3, length.out = 200) %>%
 plot_lambda <- path_lambda %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, alpha = -lambda, group = lambda)) +
-  scale_alpha(range = c(0, 0.5)) +
-  scale_color_gradientn(colours = clpalette("915632") %>% swatch() %>% .[[1]]) +
+  scale_alpha(range = c(0.5, 1)) +
+  scale_color_gradientn(colours = c("#F8766D", "#00BA38", "#619CFF")) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
