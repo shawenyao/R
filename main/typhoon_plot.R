@@ -37,8 +37,7 @@ plot <- ggplot(data, aes(x = x, y = y, group = id)) +
   ) +
   labs(x = "", y = "")
 
-save_svg(plot = plot, file_name = "output/typhoon/typhoon.svg", width = 6, height = 6)
+save_svg(plot = plot, file_name = "output/typhoon/typhoon.svg", width = 9, height = 9)
 
 # play sound when finished
 beep(sound = 2)
-
