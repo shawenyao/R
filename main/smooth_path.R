@@ -134,14 +134,19 @@ plot_example <- bind_rows(
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
+  theme(
+    legend.position = "none", 
+    axis.text = element_blank(), 
+    strip.text = element_text(size = 20),
+    plot.margin = margin(0.25, 0, 0, -0.75, "cm")
+  ) +
   labs(x = "", y = "")
 
-save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg", width = 10, height = 10)
+save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg", width = 9, height = 9)
 
 
 #==== the effect of lambda plot ====
-path_lambda <- seq(0, 0.3, length.out = 200) %>% 
+path_lambda <- seq(0, 0.5, length.out = 200) %>% 
   map(
     function(lambda){
       
@@ -157,8 +162,9 @@ path_lambda <- seq(0, 0.3, length.out = 200) %>%
 
 plot_lambda <- path_lambda %>% 
   ggplot(aes(x = x, y = y)) +
-  geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, group = lambda)) +
-  scale_color_gradientn(colours = clpalette('4607999') %>% swatch() %>% .[[1]]) +
+  geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, alpha = -lambda, group = lambda)) +
+  scale_alpha(range = c(0.1, 0.6)) +
+  scale_color_gradientn(colours = clpalette('915632') %>% swatch() %>% .[[1]]) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
@@ -166,7 +172,7 @@ plot_lambda <- path_lambda %>%
   theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
   labs(x = "", y = "")
 
-save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 10, height = 10)
+save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 6, height = 6)
 
 
 # play sound when finished
