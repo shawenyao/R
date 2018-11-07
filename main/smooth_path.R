@@ -138,7 +138,7 @@ plot_example <- bind_rows(
     legend.position = "none", 
     axis.text = element_blank(), 
     strip.text = element_text(size = 20),
-    plot.margin = margin(0.25, 0, 0, -1.5, "cm")
+    plot.margin = margin(0.25, 0, 0, -0.5, "cm")
   ) +
   labs(x = "", y = "")
 
@@ -163,7 +163,7 @@ path_lambda <- seq(0, 0.5, length.out = 200) %>%
 plot_lambda <- path_lambda %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, alpha = -lambda, group = lambda)) +
-  scale_alpha(range = c(0.01, 0.6)) +
+  scale_alpha(range = c(0, 0.6)) +
   scale_color_gradientn(colours = clpalette('915632') %>% swatch() %>% .[[1]]) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
