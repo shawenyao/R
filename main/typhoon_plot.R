@@ -25,7 +25,7 @@ data <- seq_len(total) %>%
   bind_rows()
 
 plot <- ggplot(data, aes(x = x, y = y, group = id)) +
-  geom_path(size = 0.5, lineend = "round") +
+  geom_path(size = 0.5, lineend = "round", alpha = 0.2) +
   coord_fixed() +
   theme_minimal() +
   theme(
