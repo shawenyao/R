@@ -27,8 +27,8 @@ data <- seq_len(iteration) %>%
   }) %>% 
   bind_rows()
 
-plot <- ggplot(data, aes(x = x, y = y, group = id)) +
-  geom_path(size = 0.5, lineend = "round", alpha = 0.2) +
+plot1 <- ggplot(data, aes(x = x, y = y, group = id)) +
+  geom_path(size = 0.4, lineend = "round", alpha = 0.2) +
   coord_fixed() +
   theme_minimal() +
   theme(
@@ -40,7 +40,7 @@ plot <- ggplot(data, aes(x = x, y = y, group = id)) +
   ) +
   labs(x = "", y = "")
 
-save_svg(plot = plot, file_name = "output/typhoon/typhoon.svg", width = 10, height = 10)
+save_svg(plot = plot1, file_name = "output/typhoon/typhoon.svg", width = 10, height = 10)
 
 
 set.seed(1)
@@ -66,7 +66,7 @@ data <- seq_len(iteration) %>%
   bind_rows()
 
 plot2 <- ggplot(data, aes(x = x, y = y, group = id)) +
-  geom_path(size = 0.5, lineend = "round", alpha = 0.2) +
+  geom_path(size = 0.4, lineend = "round", alpha = 0.2) +
   coord_fixed() +
   theme_minimal() +
   theme(
