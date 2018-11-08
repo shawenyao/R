@@ -6,21 +6,23 @@ source("./functions/functions_save_svg.R")
 
 set.seed(1)
 
-a <- 6
-b <- 3
-
-total <- 60
-data <- seq_len(total) %>% 
+iteration <- 5
+total <- 30
+data <- seq_len(iteration) %>% 
   map(function(i){
-    tibble(
-      id = i,
-      theta = seq(from = sample(3:10, size = 1), to = sample(11:30, size = 1), length.out = 1000)
-    ) %>% 
-      mutate(
-        r = 1 / theta,
-        x = r * cos(theta + 2 * pi * (i + rnorm(1, sd = 0.2)) / total),
-        y = r * sin(theta + 2 * pi * (i + rnorm(1, sd = 0.2)) / total)
-      )
+    seq_len(total) %>% 
+      map(function(j){
+        tibble(
+          id = j + (i - 1) * total,
+          theta = seq(from = sample(3:10, size = 1), to = sample(11:30, size = 1), length.out = 1000)
+        ) %>% 
+          mutate(
+            r = 1 / theta,
+            x = r * cos(theta + 2 * pi * (j + rnorm(1, sd = 0.2)) / total) + rnorm(1, sd = 0.005),
+            y = r * sin(theta + 2 * pi * (j + rnorm(1, sd = 0.2)) / total) + rnorm(1, sd = 0.005)
+          )
+      }) %>% 
+      bind_rows()
   }) %>% 
   bind_rows()
 
