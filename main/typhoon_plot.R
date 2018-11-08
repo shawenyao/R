@@ -14,7 +14,7 @@ data <- seq_len(total) %>%
   map(function(i){
     tibble(
       id = i,
-      theta = seq(from = sample(3:10, size = 1), to = sample(11:30, size = 1), length.out = 1000)
+      theta = seq(from = sample(3:10, size = 1), to = sample(11:40, size = 1), length.out = 1000)
     ) %>% 
       mutate(
         r = 1 / theta,
