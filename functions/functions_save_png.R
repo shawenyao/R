@@ -8,13 +8,13 @@
 #'
 #' @return NULL
 #'
-save_png <- function(plot, print_plot = TRUE, file_name, width, height){
+save_png <- function(plot, print_plot = TRUE, file_name, width, height, type = "cairo"){
   
   if(isTRUE(print_plot)){
     print(plot)
   }
   
-  png(file_name, width = width, height = height, type='cairo')
+  png(file_name, width = width, height = height, type = type)
   print(plot)
   dev.off()
   

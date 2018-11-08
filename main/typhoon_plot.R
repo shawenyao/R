@@ -10,7 +10,7 @@ source("./functions/functions_save_png.R")
 set.seed(1)
 
 list(
-  plot_id = c(1:3),
+  plot_id = 1:3,
   iteration = c(1, 3, 10),
   total = c(30, 45, 60)
 ) %>% 
