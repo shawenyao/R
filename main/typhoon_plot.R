@@ -11,7 +11,7 @@ set.seed(1)
 
 list(
   plot_id = 1:3,
-  iteration = c(1, 3, 10),
+  iteration = c(2, 5, 10),
   total = c(30, 45, 60)
 ) %>% 
   pmap(
