@@ -7,7 +7,7 @@ source("./functions/functions_save_svg.R")
 source("./functions/functions_save_png.R")
 
 
-set.seed(1)
+set.seed(2)
 
 list(
   plot_id = 1:3,
@@ -20,7 +20,8 @@ list(
         save_png(
           file_name = paste0("output/typhoon/typhoon", plot_id, ".png"),
           width = 880, 
-          height = 880
+          height = 880,
+          print_plot = FALSE
         )
     }
   )
