@@ -7,11 +7,11 @@ source("./functions/functions_save_svg.R")
 source("./functions/functions_save_png.R")
 
 
-set.seed(2)
+set.seed(350)
 
 list(
   plot_id = 1:3,
-  iteration = c(2, 5, 10),
+  iteration = c(3, 5, 10),
   total = c(30, 45, 60)
 ) %>% 
   pmap(
