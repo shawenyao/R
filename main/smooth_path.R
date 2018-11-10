@@ -100,11 +100,11 @@ plot_example <- bind_rows(
   path %>% 
     mutate(iteration = "Original", type = "Forward"),
   path %>% 
-    smooth_path() %>% mutate(iteration = "Smooth x 1", type = "Forward"),
+    smooth_path() %>% mutate(iteration = "Iteration x 1", type = "Forward"),
   path %>% 
     smooth_path() %>% 
     smooth_path() %>% 
-    mutate(iteration = "Smooth x 2", type = "Forward"),
+    mutate(iteration = "Iteration x 2", type = "Forward"),
   
   path %>% 
     mutate(iteration = "Original", type = "Backward"),
@@ -112,25 +112,28 @@ plot_example <- bind_rows(
     reverse_df() %>% 
     smooth_path() %>%
     reverse_df() %>% 
-    mutate(iteration = "Smooth x 1", type = "Backward"),
+    mutate(iteration = "Iteration x 1", type = "Backward"),
   path %>% 
     reverse_df() %>% 
     smooth_path() %>%
     smooth_path() %>%
     reverse_df() %>% 
-    mutate(iteration = "Smooth x 2", type = "Backward"),
+    mutate(iteration = "Iteration x 2", type = "Backward"),
   
   path %>% 
     mutate(iteration = "Original", type = "Average"),
   path %>% 
     smooth_path_double() %>% 
-    mutate(iteration = "Smooth x 1", type = "Average"),
+    mutate(iteration = "Iteration x 1", type = "Average"),
   path %>% 
     smooth_path_double() %>% 
     smooth_path_double() %>% 
-    mutate(iteration = "Smooth x 2", type = "Average")
+    mutate(iteration = "Iteration x 2", type = "Average")
 ) %>% 
-  mutate(type = factor(type, levels = unique(type))) %>% 
+  mutate(
+    type = factor(type, levels = unique(type)),
+    iteration = factor(iteration, levels = unique(iteration))
+  ) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 2.5, linejoin = "round", lineend = "round") +
   geom_point(size = 5, aes(color = iteration)) +
@@ -168,7 +171,7 @@ path_lambda <- seq(0, 0.26, length.out = 200) %>%
 plot_lambda <- path_lambda %>% 
   ggplot(aes(x = x, y = y)) +
   geom_path(size = 1, linejoin = "round", lineend = "round", aes(color = lambda, alpha = -lambda, group = lambda)) +
-  scale_alpha(range = c(0.5, 1)) +
+  scale_alpha(range = c(0.3, 1)) +
   scale_color_gradientn(colours = c("#F8766D", "#00BA38", "#619CFF")) +
   scale_x_continuous(breaks = seq(min(path$x), max(path$x), 1), limits = c(min(path$x) - 0.6, max(path$x) + 0.6)) +
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
