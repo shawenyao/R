@@ -11,9 +11,9 @@ total <- 4
 sprial_arms <- list(
   id = seq_len(total),
   from = c(2.7, 3.3, 2.7, 3.3),
-  to = c(10, 9, 8, 9),
-  width = c(1.1, 0.8, 1.1, 0.8),
-  alpha = c(0.4, 0.3, 0.4, 0.3)
+  # to = c(10, 9, 8, 9),
+  to = c(7.7, 8.5, 7.5, 8),
+  width = c(1.1, 0.8, 1.1, 0.8)
 ) %>% 
   pmap(function(id, from, to, width, alpha){
     tibble(
@@ -25,7 +25,7 @@ sprial_arms <- list(
         x = r * cos(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / total),
         y = r * sin(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / total),
         width = width,
-        alpha = alpha
+        alpha = 0.15 + (1 - row_number() / n()) * 0.2
       )
   }) %>% 
   bind_rows()
@@ -51,7 +51,7 @@ stars <- sprial_arms %>%
 
 rho <- 0.9
 galactic_center <- tibble(
-  x = rnorm(1000, sd = 2.5)
+  x = rnorm(1000, sd = 2.25)
 ) %>% 
   mutate(
     y = rho * x + sqrt(1 - rho ^ 2) * rnorm(1000, sd = 2.25),
@@ -73,16 +73,16 @@ galactic_center <- tibble(
 
 milky_way_plot <- ggplot(sprial_arms, aes(x = x, y = y)) +
   # geom_path(size = 10, lineend = "round", alpha = 0.05, color = "white") +
+  # spiral arms
+  geom_point(data = stars, size = 40, shape = 8, alpha = stars$alpha / 18, color = "white") +
+  geom_point(data = stars, size = 60, shape = 8, alpha = stars$alpha / 36, color = "white") +
+  geom_point(data = stars, size = stars$size, shape = 8, alpha = stars$alpha, color = stars$color) +
+  coord_fixed() +
+  theme_minimal() +
   # galactic center
   geom_point(data = galactic_center, size = 15, shape = 8, alpha = 0.01, color = "gold") +
   geom_point(data = galactic_center, size = 30, shape = 8, alpha = 0.005, color = "gold") +
   geom_point(data = galactic_center, size = galactic_center$size, shape = 8, alpha = galactic_center$alpha, color = galactic_center$color) + 
-  # spiral arms
-  geom_point(data = stars, size = 40, shape = 8, alpha = 0.015, color = "white") +
-  geom_point(data = stars, size = 60, shape = 8, alpha = 0.01, color = "white") +
-  geom_point(data = stars, size = stars$size, shape = 8, alpha = stars$alpha, color = stars$color) +
-  coord_fixed() +
-  theme_minimal() +
   theme(
     legend.position = "none",
     axis.line = element_blank(),
