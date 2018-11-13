@@ -48,9 +48,18 @@ milky_way_plot_large <- plot_milky_way(
 
 save_jpg(
   milky_way_plot_large,
-  file_name = "output/milky_way/milky_way_large.jpg",
+  file_name = "output/milky_way/milky_way_large_displate.jpg",
   width = 2900, 
   height = 4060,
+  print_plot = FALSE,
+  bg = "#000011"
+)
+
+save_jpg(
+  milky_way_plot_large,
+  file_name = "output/milky_way/milky_way_large.jpg",
+  width = 2900, 
+  height = 3400,
   print_plot = FALSE,
   bg = "#000011"
 )
