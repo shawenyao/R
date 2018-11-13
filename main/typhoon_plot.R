@@ -3,7 +3,6 @@ library(beepr)
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_plot_typhoon.R")
-source("./functions/functions_save_svg.R")
 source("./functions/functions_save_png.R")
 
 
