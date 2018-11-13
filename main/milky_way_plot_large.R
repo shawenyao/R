@@ -45,6 +45,7 @@ milky_way_plot_large <- plot_milky_way(
   
   background_color = "#000011"
 )
+
 save_jpg(
   milky_way_plot_large,
   file_name = "output/milky_way/milky_way_large.jpg",
