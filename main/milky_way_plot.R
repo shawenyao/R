@@ -11,8 +11,7 @@ total <- 4
 sprial_arms <- list(
   id = seq_len(total),
   from = c(2.7, 3.3, 2.7, 3.3),
-  # to = c(10, 9, 8, 9),
-  to = c(7.7, 8.5, 7.5, 8),
+  to = c(7.75, 8.5, 7.5, 8.25),
   width = c(1.1, 0.8, 1.1, 0.8)
 ) %>% 
   pmap(function(id, from, to, width, alpha){
@@ -25,7 +24,7 @@ sprial_arms <- list(
         x = r * cos(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / total),
         y = r * sin(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / total),
         width = width,
-        alpha = 0.15 + (1 - row_number() / n()) * 0.2
+        alpha = 0.01 + (1 - row_number() / n()) * 0.4
       )
   }) %>% 
   bind_rows()
