@@ -10,7 +10,7 @@ setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
 
 files <- list.files("frames") %>% 
   # 30 fps for 10 seconds
-  sample(size = 30 * 10, replace = TRUE)
+  sample(size = 30 * 8, replace = TRUE)
 
 for(i in seq_along(files)){
   
@@ -18,7 +18,7 @@ for(i in seq_along(files)){
   
   frame <- paste0("./frames/", files[i]) %>% 
     readImage() %>% 
-    resizeImage(width = 880, height = 880) %>% 
+    resizeImage(width = 800, height = 800) %>% 
     rotateImage(angle = seq(from = 360, to = 360 / length(files), length.out = length(files))[i])
   
   # fix background color after rotation
