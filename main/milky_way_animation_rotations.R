@@ -9,7 +9,8 @@ set.seed(1)
 setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
 
 files <- list.files("frames") %>% 
-  sample(size = 99, replace = TRUE)
+  # 30 fps for 10 seconds
+  sample(size = 30 * 10, replace = TRUE)
 
 for(i in seq_along(files)){
   
@@ -17,8 +18,8 @@ for(i in seq_along(files)){
   
   frame <- paste0("./frames/", files[i]) %>% 
     readImage() %>% 
-    rotateImage(angle = seq(from = 360, to = 360 / length(files), length.out = length(files))[i]) %>% 
-    resizeImage(width = 880, height = 880)
+    resizeImage(width = 880, height = 880) %>% 
+    rotateImage(angle = seq(from = 360, to = 360 / length(files), length.out = length(files))[i])
   
   writeImage(
     data = frame,
