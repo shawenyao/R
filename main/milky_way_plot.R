@@ -11,8 +11,10 @@ milky_way_plot_large <- plot_milky_way(
   theta_from = c(2.7, 3.3, 2.7, 3.3),
   theta_to = c(7.75, 8.5, 7.5, 8.25),
   theta_length = 1000,
-  arm_width = c(1.1, 0.8, 1.1, 0.8),
   theta_power = -1.5,
+  arm_sd_x = 0.01,
+  arm_sd_y = 0.01,
+  arm_width = c(1.1, 0.8, 1.1, 0.8),
   arm_alpha_from = 0.4,
   arm_alpha_to = 0.01,
   

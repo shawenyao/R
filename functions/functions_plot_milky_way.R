@@ -4,8 +4,10 @@
 #' @param theta_from
 #' @param theta_to
 #' @param theta_length
-#' @param arm_width width of the spiral arms
 #' @param theta_power
+#' @param arm_sd_x
+#' @param arm_sd_y
+#' @param arm_width width of the spiral arms
 #' @param arm_alpha_from
 #' @param arm_alpha_to
 #' 
@@ -16,8 +18,10 @@ get_spiral_arms <- function(
   theta_from,
   theta_to,
   theta_length,
-  arm_width,
   theta_power,
+  arm_sd_x,
+  arm_sd_y,
+  arm_width,
   arm_alpha_from,
   arm_alpha_to
 ){
@@ -34,8 +38,8 @@ get_spiral_arms <- function(
       ) %>% 
         mutate(
           r = 1 / theta ^ theta_power,
-          x = r * cos(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / num_of_arms),
-          y = r * sin(theta + 2 * pi * (id + rnorm(1, sd = 0.01)) / num_of_arms),
+          x = r * cos(theta + 2 * pi * (id + rnorm(1, sd = arm_sd_x)) / num_of_arms),
+          y = r * sin(theta + 2 * pi * (id + rnorm(1, sd = arm_sd_y)) / num_of_arms),
           width = arm_width,
           alpha = seq(arm_alpha_from, arm_alpha_to, length.out = n())
         )
@@ -141,8 +145,10 @@ get_galactic_center <- function(
 #' @param theta_from
 #' @param theta_to
 #' @param theta_length
-#' @param arm_width width of the spiral arms
 #' @param theta_power
+#' @param arm_sd_x
+#' @param arm_sd_y
+#' @param arm_width width of the spiral arms
 #' @param arm_alpha_from
 #' @param arm_alpha_to
 #' 
@@ -173,6 +179,8 @@ get_galactic_center <- function(
 #' @param gc_halo_alpha1
 #' @param gc_halo_alpha2
 #' 
+#' @param x_axis_range
+#' @param y_axis_range
 #' @param background_color
 #' 
 #' @return a ggplot object of milky way
@@ -182,8 +190,10 @@ plot_milky_way <- function(
   theta_from,
   theta_to,
   theta_length,
-  arm_width,
   theta_power,
+  arm_sd_x,
+  arm_sd_y,
+  arm_width,
   arm_alpha_from,
   arm_alpha_to,
   
@@ -214,6 +224,8 @@ plot_milky_way <- function(
   gc_halo_alpha1,
   gc_halo_alpha2,
   
+  x_axis_range = NULL,
+  y_axis_range = NULL,
   background_color
 ){
   
@@ -222,8 +234,10 @@ plot_milky_way <- function(
     theta_from = theta_from,
     theta_to = theta_to,
     theta_length = theta_length,
-    arm_width = arm_width,
     theta_power = theta_power,
+    arm_sd_x = arm_sd_x,
+    arm_sd_y = arm_sd_y,
+    arm_width = arm_width,
     arm_alpha_from = arm_alpha_from,
     arm_alpha_to = arm_alpha_to
   )
@@ -251,7 +265,7 @@ plot_milky_way <- function(
   )
   
   
-  ggplot(sprial_arms, aes(x = x, y = y)) +
+  output <- ggplot(sprial_arms, aes(x = x, y = y)) +
     # spiral arms
     geom_point(data = stars, size = star_halo_size1, alpha = stars$alpha * star_alpha_adj1, color = "white", shape = 8) +
     geom_point(data = stars, size = star_halo_size2, alpha = stars$alpha * star_alpha_adj2, color = "white", shape = 8) +
@@ -276,7 +290,12 @@ plot_milky_way <- function(
       plot.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "cm")
     ) +
     labs(x = "", y = "")
+  
+  if(!is.null(x_axis_range)){
+    output <- output +
+      xlim(x_axis_range[1], x_axis_range[2]) +
+      ylim(y_axis_range[1], y_axis_range[2])
+  }
+  
+  output
 }
-
-
-
