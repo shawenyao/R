@@ -16,9 +16,9 @@ function step(startTime) {
   // then we check if it is time to update the frame
   if (timeFromLastUpdate > timePerFrame) {
     // hide all frames
-    $('.eye-animation').css('opacity', 0);
+    $('.animation').css('opacity', 0);
     // and show the required one
-    $(`.eye-animation-${frameNumber}`).css('opacity', 1);
+    $(`.animation-${frameNumber}`).css('opacity', 1);
     // reset the last update time
     timeWhenLastUpdate = startTime;
 
