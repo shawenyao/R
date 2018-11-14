@@ -21,11 +21,16 @@ for(i in seq_along(files)){
     resizeImage(width = 880, height = 880) %>% 
     rotateImage(angle = seq(from = 360, to = 360 / length(files), length.out = length(files))[i])
   
+  # fix background color after rotation
+  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 1] = 0
+  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 2] = 0
+  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 3] = 17
+  
   writeImage(
     data = frame,
     file_name = paste0("./rotated_frames/milky_way_rotated_frame_", str_pad(i, 2, side = "left", pad = "0"), ".jpg"),
     bg = "#000011",
-    quality = 0.8
+    quality = 0.75
   )
 }
 
