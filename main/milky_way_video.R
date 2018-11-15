@@ -9,9 +9,9 @@ set.seed(1)
 
 setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
 
-files <- list.files("frames")[1:2] %>% 
+files <- list.files("frames")[1] %>% 
   # 25 fps for 20 seconds
-  sample(size = 25 * 20, replace = TRUE)
+  sample(size = 25 * 30, replace = TRUE)
 
 for(i in seq_along(files)){
   
@@ -36,7 +36,7 @@ for(i in seq_along(files)){
   )
 }
 
-system2("ffmpeg", "-i video_frames/frame_%03d.jpg -y -c:v libx264 -preset veryslow -r 25 -tune stillimage -crf 25 videos/milky_way.mkv")
+system2("ffmpeg", "-i video_frames/frame_%03d.jpg -y -c:v libx264 -preset veryslow -r 25 -tune stillimage -crf 30 videos/milky_way.mp4")
 
 # play sound when finished
 beep(sound = 2)
