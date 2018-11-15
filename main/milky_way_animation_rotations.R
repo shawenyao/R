@@ -9,8 +9,8 @@ set.seed(1)
 setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
 
 files <- list.files("frames") %>% 
-  # 30 fps for 10 seconds
-  sample(size = 30 * 8, replace = TRUE)
+  # 30 fps for 6 seconds
+  sample(size = 30 * 6, replace = TRUE)
 
 for(i in seq_along(files)){
   
