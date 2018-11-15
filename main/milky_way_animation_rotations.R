@@ -28,7 +28,7 @@ for(i in seq_along(files)){
   
   writeImage(
     data = frame,
-    file_name = paste0("./rotated_frames/milky_way_rotated_frame_", str_pad(i, 2, side = "left", pad = "0"), ".jpg"),
+    file_name = paste0("./rotated_frames/milky_way_rotated_frame_", str_pad(i, 3, side = "left", pad = "0"), ".jpg"),
     bg = "#000011",
     quality = 0.75
   )
