@@ -182,6 +182,7 @@ get_galactic_center <- function(
 #' @param x_axis_range
 #' @param y_axis_range
 #' @param background_color
+#' @param seed
 #' 
 #' @return a ggplot object of milky way
 #' 
@@ -226,8 +227,13 @@ plot_milky_way <- function(
   
   x_axis_range = NULL,
   y_axis_range = NULL,
-  background_color
+  background_color,
+  seed = NULL
 ){
+  
+  if(!is.null(seed)){
+    set.seed(seed)
+  }
   
   sprial_arms <- get_spiral_arms(
     num_of_arms = num_of_arms,
