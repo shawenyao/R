@@ -7,7 +7,11 @@ library(beepr)
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_plot_milky_way.R")
 source("./functions/functions_save_jpg.R")
-set.seed(1)
+set.seed(350)
+# number of raw frames
+N <- 25
+# number of rotated frames
+M <- 25 * 40
 
 #==== create frames ====
 milky_way_frame <- function(
@@ -58,7 +62,7 @@ milky_way_frame <- function(
     
     gc_halo_size1 = 30,
     gc_halo_size2 = 60,
-    gc_halo_alpha1 = gc_alpha_slope,
+    gc_halo_alpha1 = gc_halo_alpha1,
     gc_halo_alpha2 = gc_halo_alpha2,
     
     x_axis_range = c(-26, 26),
@@ -67,24 +71,35 @@ milky_way_frame <- function(
     seed = seed
   )
 }
-for(i in 1:(25 * 40)){
+
+# pre-draw noises
+rand_adj <- 1 / 10
+r_arm_alpha_from <- rnorm(N, sd = 0.5 * rand_adj)
+r_arm_alpha_to <- rnorm(N, sd = 0.05 * rand_adj)
+r_gc_alpha_from <- rnorm(N, sd = 0.01 * rand_adj)
+r_gc_alpha_slope <- rnorm(N, sd = 0.2 * rand_adj / 3)
+r_star_alpha_adj1 <- rnorm(N, sd = 18 * rand_adj)
+r_star_alpha_adj2 <- rnorm(N, sd = 36 * rand_adj)
+r_gc_halo_alpha1 <- rnorm(N, sd = 0.01 * rand_adj)
+r_gc_halo_alpha2 <- rnorm(N, sd = 0.005 * rand_adj)
+
+for(i in 1:N){
   
-  print(paste0("Processing frame ", i))
+  print(paste0("Processing raw frame ", i))
   
-  set.seed(1)
   milky_way_frame(
-    arm_alpha_from = 0.5 + rnorm(1, sd = 0.05),
-    arm_alpha_to = 0.05 + rnorm(1, sd = 0.005),
-    gc_alpha_from = 0.01 + rnorm(1, sd = 0.001),
-    gc_alpha_slope = 0.2 + rnorm(1, sd = 0.02),
-    star_alpha_adj1 = 1 / (18 + rnorm(1, sd = 1)),
-    star_alpha_adj2 = 1 / (36 + rnorm(1, sd = 2)),
-    gc_halo_alpha1 = 0.01 + rnorm(1, sd = 0.001),
-    gc_halo_alpha2 = 0.005 + rnorm(1, sd = 0.0005),
+    arm_alpha_from = (0.5 + r_arm_alpha_from[i]) %>% pmax(0) %>% pmin(1),
+    arm_alpha_to = (0.05 + r_arm_alpha_to[i]) %>% pmax(0) %>% pmin(1),
+    gc_alpha_from = (0.01 + r_gc_alpha_from[i]) %>% pmax(0) %>% pmin(1),
+    gc_alpha_slope = (0.2 + r_gc_alpha_slope[i]) %>% pmax(0) %>% pmin(1),
+    star_alpha_adj1 = (1 / (18 + r_star_alpha_adj1[i])) %>% pmax(0) %>% pmin(1),
+    star_alpha_adj2 = (1 / (36 + r_star_alpha_adj2[i])) %>% pmax(0) %>% pmin(1),
+    gc_halo_alpha1 = (0.01 + r_gc_halo_alpha1[i]) %>% pmax(0) %>% pmin(1),
+    gc_halo_alpha2 = (0.005 + r_gc_halo_alpha2[i]) %>% pmax(0) %>% pmin(1),
     seed = 1
   ) %>% 
     save_jpg(
-      file_name = paste0("output/milky_way/frames/video_frames/raw_", str_pad(i, 2, side = "left", pad = "0"), ".jpg"),
+      file_name = paste0("output/milky_way/video_frames/raw_", str_pad(i, 3, side = "left", pad = "0"), ".jpg"),
       width = 2900, 
       height = 2900,
       print_plot = FALSE,
@@ -95,7 +110,8 @@ for(i in 1:(25 * 40)){
 
 #==== rotate frames ====
 setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
-files <- list.files(path = "video_frames", pattern = "raw_%03d.jpg")
+files <- list.files(path = "video_frames") %>% 
+  sample(size = M, replace = TRUE)
 
 for(i in seq_along(files)){
   

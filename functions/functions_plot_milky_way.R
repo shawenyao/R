@@ -25,6 +25,7 @@ get_spiral_arms <- function(
   arm_alpha_from,
   arm_alpha_to
 ){
+  
   list(
     id = seq_len(num_of_arms),
     theta_from = theta_from,
