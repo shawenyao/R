@@ -22,9 +22,10 @@ for(i in seq_along(files)){
     rotateImage(angle = seq(from = 360, to = 360 / length(files), length.out = length(files))[i])
   
   # fix background color after rotation
-  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 1] = 0
-  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 2] = 0
-  frame[frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0, 3] = 17
+  black_pixel_index <- frame[,,1] == 0 & frame[,,2] == 0 & frame[,,3] == 0
+  frame[,,1][black_pixel_index] <-  0.003921569
+  frame[,,2][black_pixel_index] <-  0
+  frame[,,3][black_pixel_index] <-  0.0627451
   
   writeImage(
     data = frame,

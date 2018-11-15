@@ -1,5 +1,5 @@
-const totalFrames = 99;
-const animationDuration = 4000;
+const totalFrames = 180;
+const animationDuration = 6000;
 const timePerFrame = animationDuration / totalFrames;
 let timeWhenLastUpdate;
 let timeFromLastUpdate;
