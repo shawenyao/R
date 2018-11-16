@@ -13,6 +13,7 @@ N <- 25
 # number of rotated frames
 M <- 25 * 40
 
+
 #==== create frames ====
 milky_way_frame <- function(
   arm_alpha_from,
