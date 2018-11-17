@@ -3,6 +3,7 @@ library(imager)
 library(tidyverse)
 library(beepr)
 
+
 #==== general setup ====
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_plot_milky_way.R")
@@ -111,7 +112,7 @@ for(i in 1:N){
 
 #==== rotate frames ====
 setwd("C:/Users/Wenyao/Desktop/R/R/output/milky_way")
-files <- list.files(path = "video_frames") %>% 
+files <- list.files(path = "video_frames", pattern = "^raw") %>% 
   sample(size = M, replace = TRUE)
 
 for(i in seq_along(files)){
