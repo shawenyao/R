@@ -11,7 +11,7 @@
 #' @param arm_alpha_from
 #' @param arm_alpha_to
 #' 
-#' @return 
+#' @return a data.frame of coordinates
 #' 
 get_spiral_arms <- function(
   num_of_arms,
@@ -58,7 +58,7 @@ get_spiral_arms <- function(
 #' @param star_size_interval
 #' @param star_color
 #' 
-#' @return 
+#' @return a data.frame of coordinates
 #' 
 get_stars <- function(
   sprial_arms,
@@ -103,7 +103,7 @@ get_stars <- function(
 #' @param gc_alpha_slope
 #' @param gc_color
 #' 
-#' @return 
+#' @return a data.frame of coordinates
 #' 
 get_galactic_center <- function(
   gc_rho,
