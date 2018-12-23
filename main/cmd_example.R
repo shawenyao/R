@@ -44,13 +44,13 @@ batch_mode_on <- is.na(Sys.getenv("RSTUDIO", unset = NA))
 
 #==== assign args values accordingly ====
 if(batch_mode_on){
-  cat("Running in batch mode\r\n")
+  cat("Running in batch mode.\r\n")
   
   # assign args passed from batch call
   parse_args(print_on = FALSE)  
   
 }else{
-  cat("Running in RStudio mode\r\n")
+  cat("Running in RStudio mode.\r\n")
   
   # assign args manually
   arg1 <- "m1"
