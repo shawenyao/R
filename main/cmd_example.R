@@ -50,7 +50,7 @@ if(batch_mode_on){
   parse_args(print_on = FALSE)  
   
 }else{
-  cat("Running in RStudio mode.\r\n")
+  cat("Running in interactive mode.\r\n")
   
   # assign args manually
   arg1 <- "m1"
