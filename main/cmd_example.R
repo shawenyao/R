@@ -68,5 +68,5 @@ print(paste0("arg3 = ", arg3))
 #==== prevent batch mode from closing itself ====
 if(batch_mode_on){
   cat("Job finished. Press CTRL + C to exit.\r\n")
-  invisible(readLines(file("stdin"), 1))
+  readLines(con = "stdin", n = 1)
 }
