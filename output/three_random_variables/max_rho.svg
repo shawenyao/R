@@ -56,7 +56,7 @@
   <path d="M 309 5.480469 L 311 5.480469 L 311 195.644531 L 309 195.644531 Z M 309 5.480469 "/>
 </clipPath>
 </defs>
-<g id="surface1">
+<g id="surface21">
 <rect x="0" y="0" width="432" height="216" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <g clip-path="url(#clip1)" clip-rule="nonzero">
 <path style="fill:none;stroke-width:0.533489;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(92.156863%,92.156863%,92.156863%);stroke-opacity:1;stroke-miterlimit:10;" d="M 129.359375 164.546875 L 318.519531 164.546875 "/>
@@ -114,5 +114,6 @@
 </g>
 <path style="fill:none;stroke-width:3.200935;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 223.9375 143.050781 L 223.9375 57.070313 "/>
 <path style="fill-rule:nonzero;fill:rgb(0%,0%,100%);fill-opacity:1;stroke-width:3.200935;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 231.027344 69.34375 L 223.9375 57.070313 L 216.851563 69.34375 Z M 231.027344 69.34375 "/>
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:0.708661;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 228.5625 143.050781 C 228.5625 149.214844 219.316406 149.214844 219.316406 143.050781 C 219.316406 136.890625 228.5625 136.890625 228.5625 143.050781 "/>
 </g>
 </svg>

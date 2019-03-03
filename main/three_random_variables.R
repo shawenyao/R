@@ -13,6 +13,7 @@ plot1 <- tibble(
 ) %>% 
   ggplot(aes(x = x, y = y, xend = xend, yend = yend)) +
   geom_segment(arrow = arrow(length = unit(0.5,"cm"), type = "closed"), size = 1.5, linejoin = "round", lineend = "round", color = "blue") +
+  geom_point(aes(x = 0, y = 0), color = "black", size = 4) +
   xlim(-1, 1) +
   ylim(-0.5, 1.5) +
   coord_fixed() +
@@ -35,6 +36,7 @@ plot2 <- tibble(
 ) %>% 
   ggplot(aes(x = x, y = y, xend = xend, yend = yend, group = id)) +
   geom_segment(arrow = arrow(length = unit(0.5,"cm"), type = "closed"), size = 1.5, linejoin = "round", lineend = "round", color = "blue") +
+  geom_point(aes(x = 0, y = 0), color = "black", size = 4) +
   xlim(-1, 1) +
   ylim(-0.75, 1.25) +
   coord_fixed() +
