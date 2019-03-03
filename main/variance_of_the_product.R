@@ -15,15 +15,21 @@ sigma <- matrix(
   ncol = 3
 )
 
+# correlated correlated standard normal random variables
 x_dash <- x %*% chol(sigma)
 
-# mean & variance of the sum
+# mean & 
 mean(x_dash[,1] + x_dash[,2] + x_dash[,3])
+# formula for mean of the sum
+mean(x_dash[,1]) + mean(x_dash[,2]) + mean(x_dash[,3])
+
+# variance of the sum
 var(x_dash[,1] + x_dash[,2] + x_dash[,3])
+# formula for variance of the sum
 sum(cov(x_dash))
 
-# mean & variance of the product
-mean(x_dash[,1] * x_dash[,2] * x_dash[,3])
-var(x_dash[,1] * x_dash[,2] * x_dash[,3])
 
-variance <- x_dash %*% cov(x_dash) %*% t(x_dash)
+# mean of the product
+mean(x_dash[,1] * x_dash[,2] * x_dash[,3])
+# variance of the product
+var(x_dash[,1] * x_dash[,2] * x_dash[,3])
