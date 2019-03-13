@@ -12,7 +12,7 @@ plot1 <- tibble(
 ) %>% 
   mutate(y_lower = -1 / (x - 1)) %>% 
   ggplot(aes(x = x)) +
-  geom_ribbon(aes(x = x, ymin = y_lower, ymax = y_upper), alpha = 0.05) +
+  geom_ribbon(aes(x = x, ymin = y_lower, ymax = y_upper), alpha = 0.075) +
   geom_line(aes(y = y_lower), color = "gray66", size = 2) +
   geom_point(aes(y = y_lower), color = "coral3", size = 5) +
   geom_point(aes(y = y_lower), color = "white", size = 2) +
@@ -33,7 +33,7 @@ plot2 <- tibble(
 ) %>% 
   mutate(y_lower = acos(-1 / (x - 1)) / pi * 180) %>% 
   ggplot(aes(x = x)) +
-  geom_ribbon(aes(x = x, ymin = y_lower, ymax = y_upper), alpha = 0.05) +
+  geom_ribbon(aes(x = x, ymin = y_lower, ymax = y_upper), alpha = 0.075) +
   geom_line(aes(y = y_lower), color = "gray66", size = 2) +
   geom_point(aes(y = y_lower), color = "coral3", size = 5) +
   geom_point(aes(y = y_lower), color = "white", size = 2) +
