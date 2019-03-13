@@ -50,8 +50,8 @@ plot2 <- tibble(
 
 
 #==== output ====
-save_svg(plot = plot1, file_name = "output/three_random_variables_part_ii/rho_range.svg", width = 8, height = 3)
-save_svg(plot = plot2, file_name = "output/three_random_variables_part_ii/theta_range.svg", width = 8, height = 3)
+save_svg(plot = plot1, file_name = "output/three_random_variables_part_ii/rho_range.svg", width = 6, height = 3)
+save_svg(plot = plot2, file_name = "output/three_random_variables_part_ii/theta_range.svg", width = 6, height = 3)
 
 # play sound when finished
 beep(sound = 2)
