@@ -7,7 +7,7 @@ source("./functions/functions_save_svg.R")
 
 #==== plot ====
 plot1 <- tibble(
-  x = 2:30,
+  x = 2:20,
   y_upper = 1
 ) %>% 
   mutate(y_lower = -1 / (x - 1)) %>% 
@@ -28,7 +28,7 @@ plot1 <- tibble(
   labs(x = "", y = TeX("$\\rho$"))
 
 plot2 <- tibble(
-  x = 2:30,
+  x = 2:20,
   y_upper = 0
 ) %>% 
   mutate(y_lower = acos(-1 / (x - 1)) / pi * 180) %>% 
