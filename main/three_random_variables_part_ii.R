@@ -7,7 +7,7 @@ source("./functions/functions_save_svg.R")
 
 #==== plot ====
 plot1 <- tibble(
-  x = 2:20,
+  x = 2:30,
   y_upper = 1
 ) %>% 
   mutate(y_lower = -1 / (x - 1)) %>% 
@@ -28,7 +28,7 @@ plot1 <- tibble(
   labs(x = "", y = TeX("$\\rho$"))
 
 plot2 <- tibble(
-  x = 2:20,
+  x = 2:30,
   y_upper = 0
 ) %>% 
   mutate(y_lower = acos(-1 / (x - 1)) / pi * 180) %>% 
@@ -50,8 +50,8 @@ plot2 <- tibble(
 
 
 #==== output ====
-save_svg(plot = plot1, file_name = "output/three_random_variables_part_ii/rho_range.svg", width = 6, height = 3)
-save_svg(plot = plot2, file_name = "output/three_random_variables_part_ii/theta_range.svg", width = 6, height = 3)
+save_svg(plot = plot1, file_name = "output/three_random_variables_part_ii/rho_range.svg", width = 8, height = 3)
+save_svg(plot = plot2, file_name = "output/three_random_variables_part_ii/theta_range.svg", width = 8, height = 3)
 
 # play sound when finished
 beep(sound = 2)
