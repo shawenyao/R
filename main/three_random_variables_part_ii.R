@@ -40,7 +40,7 @@ plot2 <- tibble(
   geom_line(aes(y = y_upper), color = "gray66", size = 2) +
   geom_point(aes(y = y_upper), color = "dodgerblue3", size = 5) +
   geom_point(aes(y = y_upper), color = "white", size = 2) +
-  ylim(0, 180) +
+  scale_y_continuous(labels = seq(0, 180, 30), breaks = seq(0, 180, 30)) +
   theme_minimal() +
   theme(
     text = element_text(size = 20),
