@@ -1,7 +1,5 @@
-library(dplyr)
-library(purrr)
-library(ggplot2)
-library(beepr)
+suppressWarnings(library(tidyrverse))
+suppressWarnings(library(beepr))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_save_svg.R")
@@ -37,8 +35,7 @@ plot1 <- bind_rows(
     axis.text = element_blank(), 
     strip.text = element_blank(),
     panel.spacing = unit(1.5, "lines")
-  ) +
-  labs(x = "", y = "")
+  )
 
 save_svg(plot = plot1, file_name = "output/smooth_path/plot1.svg", width = 6, height = 3)
 
@@ -71,8 +68,11 @@ plot_problem_formulation <- simple_path %>%
   scale_y_continuous(breaks = seq(min(simple_path$y), max(simple_path$y), 1), limits = c(min(simple_path$y) - 0.3, max(simple_path$y) + 0.3)) +
   coord_fixed() +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
-  labs(x = "", y = "")
+  theme(
+    legend.position = "none", 
+    axis.text = element_blank(), 
+    strip.text = element_blank()
+  )
 
 save_svg(plot_problem_formulation, file_name = "output/smooth_path/plot_problem_formulation.svg", width = 4, height = 3)
 
@@ -89,8 +89,11 @@ plot_heuristic_solution <- simple_path %>%
   scale_y_continuous(breaks = seq(min(simple_path$y), max(simple_path$y), 1), limits = c(min(simple_path$y) - 0.3, max(simple_path$y) + 0.3)) +
   coord_fixed() +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_blank()) +
-  labs(x = "", y = "")
+  theme(
+    legend.position = "none",
+    axis.text = element_blank()
+    strip.text = element_blank()
+  )
 
 save_svg(plot_heuristic_solution, file_name = "output/smooth_path/plot_heuristic_solution.svg", width = 4, height = 3)
 
@@ -147,8 +150,7 @@ plot_example <- bind_rows(
     axis.text = element_blank(), 
     strip.text = element_text(size = 20),
     plot.margin = margin(0.25, 0, 0, -0.5, "cm")
-  ) +
-  labs(x = "", y = "")
+  )
 
 save_svg(plot = plot_example, file_name = "output/smooth_path/plot_example.svg", width = 9, height = 9)
 
@@ -177,8 +179,11 @@ plot_lambda <- path_lambda %>%
   scale_y_continuous(breaks = seq(min(path$y), max(path$y), 1), limits = c(min(path$y) - 0.6, max(path$y) + 0.6)) +
   coord_fixed() +
   theme_minimal() +
-  theme(legend.position = "none", axis.text = element_blank(), strip.text = element_text(size = 20)) +
-  labs(x = "", y = "")
+  theme(
+    legend.position = "none",
+    axis.text = element_blank(), 
+    strip.text = element_text(size = 20)
+  )
 
 save_svg(plot = plot_lambda, file_name = "output/smooth_path/plot_lambda.svg", width = 6, height = 6)
 
