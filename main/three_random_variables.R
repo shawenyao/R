@@ -1,5 +1,5 @@
-library(tidyverse)
-library(beepr)
+suppressWarnings(library(tidyverse))
+suppressWarnings(library(beepr))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_save_svg.R")
@@ -22,10 +22,10 @@ plot1 <- tibble(
     legend.position = "none", 
     axis.line = element_blank(),
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_blank(),
     panel.spacing = unit(1.5, "lines")
-  ) +
-  labs(x = "", y = "")
+  )
 
 plot2 <- tibble(
   x = c(0, 0, 0),
@@ -45,10 +45,10 @@ plot2 <- tibble(
     legend.position = "none", 
     axis.line = element_blank(),
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_blank(),
     panel.spacing = unit(1.5, "lines")
-  ) +
-  labs(x = "", y = "")
+  )
 
 
 #==== output ====

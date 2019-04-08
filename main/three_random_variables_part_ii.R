@@ -1,6 +1,6 @@
-library(tidyverse)
-library(latex2exp)
-library(beepr)
+suppressWarnings(library(tidyverse))
+suppressWarnings(library(latex2exp))
+suppressWarnings(library(beepr))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_save_svg.R")
@@ -23,9 +23,10 @@ plot1 <- tibble(
   theme_minimal() +
   theme(
     text = element_text(size = 20),
+    axis.title.x = element_blank(),
     axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0))
   ) +
-  labs(x = "", y = TeX("$\\rho$"))
+  labs(y = TeX("$\\rho$"))
 
 plot2 <- tibble(
   x = 2:20,
@@ -44,9 +45,10 @@ plot2 <- tibble(
   theme_minimal() +
   theme(
     text = element_text(size = 20),
+    axis.title.x = element_blank(),
     axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0))
   ) +
-  labs(x = "", y = TeX("$\\theta^{o}$"))
+  labs(y = TeX("$\\theta^{o}$"))
 
 
 #==== output ====
