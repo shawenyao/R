@@ -1,4 +1,4 @@
-suppressWarnings(library(tidyrverse))
+suppressWarnings(library(tidyverse))
 suppressWarnings(library(beepr))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/")
@@ -33,6 +33,7 @@ plot1 <- bind_rows(
     legend.position = "none", 
     axis.line = element_blank(),
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_blank(),
     panel.spacing = unit(1.5, "lines")
   )
@@ -71,6 +72,7 @@ plot_problem_formulation <- simple_path %>%
   theme(
     legend.position = "none", 
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_blank()
   )
 
@@ -91,7 +93,8 @@ plot_heuristic_solution <- simple_path %>%
   theme_minimal() +
   theme(
     legend.position = "none",
-    axis.text = element_blank()
+    axis.text = element_blank(),
+    axis.title = element_blank(),
     strip.text = element_blank()
   )
 
@@ -148,6 +151,7 @@ plot_example <- bind_rows(
   theme(
     legend.position = "none", 
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_text(size = 20),
     plot.margin = margin(0.25, 0, 0, -0.5, "cm")
   )
@@ -182,6 +186,7 @@ plot_lambda <- path_lambda %>%
   theme(
     legend.position = "none",
     axis.text = element_blank(), 
+    axis.title = element_blank(),
     strip.text = element_text(size = 20)
   )
 
