@@ -90,6 +90,8 @@ plot1 <- ggplot(road_network) +
   theme_minimal() +
   theme(
     text = element_blank(),
+    axis.title.x = element_blank(),
+    axis.title.y = element_blank(),
     panel.grid = element_blank()
   )
 
