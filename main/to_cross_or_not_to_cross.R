@@ -87,6 +87,7 @@ plot1 <- ggplot(road_network) +
     aes(x = x, y = y, label = label)
   ) +
   coord_fixed() +
+  scale_y_reverse() +
   theme_minimal() +
   theme(
     text = element_blank(),
