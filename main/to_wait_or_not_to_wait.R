@@ -15,20 +15,20 @@ block_width <- 1
 road_dim <- 5
 
 # the "importance" of each horizontal road
-road_horizontal <- tibble(
+road_x <- tibble(
   name = seq_len(road_dim),
   importance = runif(road_dim, min = 0.1, max = 0.9)
 )
 # the "importance" of each vertical road
-road_verticial <- tibble(
+road_y <- tibble(
   name = seq_len(road_dim),
   importance = runif(road_dim, min = 0.1, max = 0.9)
 )
 
 # the center coordinates of blocks
-block_x <- cumsum(c(0, road_verticial$importance)) +
+block_x <- cumsum(c(0, road_y$importance)) +
   cumsum(c(block_width / 2, rep(block_width, times = road_dim)))
-block_y <- cumsum(c(0, road_horizontal$importance)) +
+block_y <- cumsum(c(0, road_x$importance)) +
   cumsum(c(block_width / 2, rep(block_width, times = road_dim)))
 
 road_network <- expand.grid(
