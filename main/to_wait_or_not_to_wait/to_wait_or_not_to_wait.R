@@ -36,7 +36,7 @@ crossroad_x <- matrix(road_x$importance, ncol = road_dim, nrow = road_dim)
 crossroad_y <- matrix(road_y$importance, ncol = road_dim, nrow = road_dim, byrow = TRUE)
 
 # standardized "importance" at each intersection
-# equivalent to the maximum wait time
+# equivalent to the maximum wait time for a red light
 crossroad_standard_x <- crossroad_x / (crossroad_x + crossroad_y)
 crossroad_standard_y <- crossroad_y / (crossroad_x + crossroad_y)
 
