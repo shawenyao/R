@@ -1,30 +1,3 @@
-suppressWarnings(library(tidyverse))
-suppressWarnings(library(beepr))
-
-setwd("C:/Users/Wenyao/Desktop/R/R/")
-source("./functions/functions_save_svg.R")
-
-
-#==== initialization ====
-set.seed(10)
-
-# the width/height of each block
-block_width <- 1
-
-# number of roads (either horizontal or vertical) 
-road_dim <- 5
-
-# the "importance" of each horizontal road
-road_x <- tibble(
-  name = seq_len(road_dim),
-  importance = runif(road_dim, min = 0.1, max = 0.9)
-)
-# the "importance" of each vertical road
-road_y <- tibble(
-  name = seq_len(road_dim),
-  importance = runif(road_dim, min = 0.1, max = 0.9)
-)
-
 # the center coordinates of blocks
 block_x <- cumsum(c(0, road_y$importance)) +
   cumsum(c(block_width / 2, rep(block_width, times = road_dim)))
