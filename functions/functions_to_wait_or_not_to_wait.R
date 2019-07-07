@@ -64,8 +64,6 @@ simulate_strategy <- function(
   
   # apply a decision rule
   strategy_outcome <- strategy(
-    green_x, 
-    green_y, 
     wait_time_x, 
     wait_time_y,
     crossroad_standard_x,

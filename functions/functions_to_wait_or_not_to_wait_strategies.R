@@ -1,7 +1,5 @@
 #' stategy: "let the light guide your way"
 #' 
-#' @param green_x a matrix indicating whether it's a green light to go right at each intersection
-#' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
 #' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
@@ -10,8 +8,6 @@
 #' @arg2 additional argument placeholder 2
 #' 
 strategy_let_the_light_guide_your_way <- function(
-  green_x, 
-  green_y, 
   wait_time_x, 
   wait_time_y,
   crossroad_standard_x,
@@ -47,13 +43,13 @@ strategy_let_the_light_guide_your_way <- function(
       route_y[position_x, position_y - 1] <- 1
       position_x <- position_x + 1
       
-    }else if(green_x[position_x, position_y] == 1){
+    }else if(wait_time_x[position_x, position_y] == 0){
       
       # go right (no wait)
       route_x[position_x, position_y] <- 1
       position_y <- position_y + 1
       
-    }else if(green_y[position_x, position_y] == 1){
+    }else if(wait_time_y[position_x, position_y] == 0){
       
       # go down (no wait)
       route_y[position_x, position_y] <- 1
@@ -68,8 +64,6 @@ strategy_let_the_light_guide_your_way <- function(
 
 #' stategy: "conditioinal wait"
 #' 
-#' @param green_x a matrix indicating whether it's a green light to go right at each intersection
-#' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
 #' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
@@ -78,8 +72,6 @@ strategy_let_the_light_guide_your_way <- function(
 #' @arg2 additional argument placeholder 2
 #' 
 strategy_conditional_wait <- function(
-  green_x, 
-  green_y, 
   wait_time_x, 
   wait_time_y,
   crossroad_standard_x,
@@ -120,7 +112,7 @@ strategy_conditional_wait <- function(
       route_y[position_x, position_y - 1] <- 1
       position_x <- position_x + 1
       
-    }else if(green_x[position_x, position_y] == 1){
+    }else if(wait_time_x[position_x, position_y] == 0){
       
       if(
         wait_time_y[position_x, position_y] / crossroad_standard_x[position_x, position_y] < threshold1 &
@@ -138,7 +130,7 @@ strategy_conditional_wait <- function(
         position_y <- position_y + 1
       }
       
-    }else if(green_y[position_x, position_y] == 1){
+    }else if(wait_time_y[position_x, position_y] == 0){
       
       if(
         wait_time_x[position_x, position_y] / crossroad_standard_y[position_x, position_y] < threshold1 &
@@ -165,8 +157,6 @@ strategy_conditional_wait <- function(
 
 #' stategy: "ride along main street"
 #' 
-#' @param green_x a matrix indicating whether it's a green light to go right at each intersection
-#' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
 #' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
@@ -175,8 +165,6 @@ strategy_conditional_wait <- function(
 #' @arg2 additional argument placeholder 2
 #' 
 strategy_ride_along_main_street <- function(
-  green_x, 
-  green_y, 
   wait_time_x, 
   wait_time_y,
   crossroad_standard_x,
@@ -226,13 +214,13 @@ strategy_ride_along_main_street <- function(
       route_x[position_x, position_y] <- 1
       position_y <- position_y + 1
       
-    }else if(green_x[position_x, position_y] == 1){
+    }else if(wait_time_x[position_x, position_y] == 0){
       
       # go right (no wait)
       route_x[position_x, position_y] <- 1
       position_y <- position_y + 1
       
-    }else if(green_y[position_x, position_y] == 1){
+    }else if(wait_time_y[position_x, position_y] == 0){
       
       # go down (no wait)
       route_y[position_x, position_y] <- 1
