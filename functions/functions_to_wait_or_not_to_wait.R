@@ -24,7 +24,7 @@ plot_wait_time <- function(wait_time){
       axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
     ) +
     labs(x = "Wait Time") +
-    xlim(0, 4)
+    xlim(0, 3)
 }
 
 
