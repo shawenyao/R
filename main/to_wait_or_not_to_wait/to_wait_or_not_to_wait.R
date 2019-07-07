@@ -9,7 +9,7 @@ source("./functions/functions_to_wait_or_not_to_wait_strategies.R")
 
 
 #==== initialization ====
-set.seed(10)
+set.seed(100)
 
 # the width/height of each block
 block_width <- 1
