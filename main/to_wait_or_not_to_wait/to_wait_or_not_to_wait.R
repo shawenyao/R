@@ -133,4 +133,4 @@ plot3 <- plot_wait_time(wait_time)
 
 
 #==== output ====
-save_svg(plot = plot3, file_name = "output/to_cross_or_not_to_cross/plot3.svg", width = 6, height = 6)
+save_svg(plot = plot3, file_name = "output/to_cross_or_not_to_cross/plot3.svg", width = 7.5, height = 4)
