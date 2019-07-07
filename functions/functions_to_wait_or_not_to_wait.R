@@ -76,8 +76,8 @@ simulate_strategy <- function(
   
   # total wait time
   calculate_wait_time(
-    strategy_outcome$wait_x, 
-    strategy_outcome$wait_y, 
+    strategy_outcome$route_x, 
+    strategy_outcome$route_y, 
     wait_time_x, 
     wait_time_y
   )
@@ -86,16 +86,16 @@ simulate_strategy <- function(
 
 #' calculate the total wait time
 #' 
-#' @param wait_x a matrix indicating whether you need to wait to go right at each intersection
-#' @param wait_y a matrix indicating whether you need to wait to go down at each intersection
+#' @param route_x a matrix indicating whether you will go right at each intersection
+#' @param route_y a matrix indicating whether you will go down at each intersection
 #' @param wait_time_x a matrix of wait time to go right at each intersection
 #' @param wait_time_y a matrix of wait time to go down at each intersection
 #' 
 calculate_wait_time <- function(
-  wait_x,
-  wait_y,
+  route_x,
+  route_y,
   wait_time_x,
   wait_time_y
 ){
-  sum(wait_x * wait_time_x + wait_y * wait_time_y)
+  sum(route_x * wait_time_x + route_y * wait_time_y)
 }

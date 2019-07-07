@@ -4,8 +4,8 @@
 #' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
-#' @param crossroad_standard_x the maximum wait time to go right at each intersection
-#' @param crossroad_standard_y the maximum wait time to go down at each intersection
+#' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
+#' @param crossroad_standard_y the maximum wait time (for red light) to go down at each intersection
 #' @arg1 additional argument placeholder 1
 #' @arg2 additional argument placeholder 2
 #' 
@@ -25,11 +25,6 @@ strategy_let_the_light_guide_your_way <- function(
   # whether one goes down at crossroad
   route_y <- matrix(0, ncol = road_dim, nrow = road_dim)
   
-  # whether one need to wait to go right at crossroad
-  wait_x <- matrix(0, ncol = road_dim, nrow = road_dim)
-  # whether one need to wait to go down at crossroad
-  wait_y <- matrix(0, ncol = road_dim, nrow = road_dim)
-  
   position_x <- 1
   position_y <- 1
   
@@ -43,20 +38,12 @@ strategy_let_the_light_guide_your_way <- function(
     }else if(position_x == road_dim + 1){
       
       # reachcing the boundary at the bottom
-      if(green_x[position_x - 1, position_y] == 0){
-        # wait if necessary
-        wait_x[position_x - 1, position_y] <- 1
-      }
       route_x[position_x - 1, position_y] <- 1
       position_y <- position_y + 1
       
     }else if(position_y == road_dim + 1){
       
       # reachcing the boundary on the right
-      if(green_y[position_x, position_y - 1] == 0){
-        # wait if necessary
-        wait_y[position_x, position_y - 1] <- 1
-      }
       route_y[position_x, position_y - 1] <- 1
       position_x <- position_x + 1
       
@@ -75,7 +62,7 @@ strategy_let_the_light_guide_your_way <- function(
     }
   }
   
-  list(wait_x = wait_x, wait_y = wait_y)
+  list(route_x = route_x, route_y = route_y)
 }
 
 
@@ -85,8 +72,8 @@ strategy_let_the_light_guide_your_way <- function(
 #' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
-#' @param crossroad_standard_x the maximum wait time to go right at each intersection
-#' @param crossroad_standard_y the maximum wait time to go down at each intersection
+#' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
+#' @param crossroad_standard_y the maximum wait time (for red light) to go down at each intersection
 #' @arg1 additional argument placeholder 1
 #' @arg2 additional argument placeholder 2
 #' 
@@ -106,11 +93,6 @@ strategy_conditional_wait <- function(
   # whether one goes down at crossroad
   route_y <- matrix(0, ncol = road_dim, nrow = road_dim)
   
-  # whether one need to wait to go right at crossroad
-  wait_x <- matrix(0, ncol = road_dim, nrow = road_dim)
-  # whether one need to wait to go down at crossroad
-  wait_y <- matrix(0, ncol = road_dim, nrow = road_dim)
-  
   position_x <- 1
   position_y <- 1
   
@@ -129,33 +111,24 @@ strategy_conditional_wait <- function(
     }else if(position_x == road_dim + 1){
       
       # reachcing the boundary at the bottom
-      if(green_x[position_x - 1, position_y] == 0){
-        # wait if necessary
-        wait_x[position_x - 1, position_y] <- 1
-      }
       route_x[position_x - 1, position_y] <- 1
       position_y <- position_y + 1
       
     }else if(position_y == road_dim + 1){
       
       # reachcing the boundary on the right
-      if(green_y[position_x, position_y - 1] == 0){
-        # wait if necessary
-        wait_y[position_x, position_y - 1] <- 1
-      }
       route_y[position_x, position_y - 1] <- 1
       position_x <- position_x + 1
       
     }else if(green_x[position_x, position_y] == 1){
       
       if(
-        wait_time_y[position_x, position_y] / crossroad_standard_y[position_x, position_y] < threshold1 &
-        crossroad_standard_y[position_x, position_y] / crossroad_standard_x[position_x, position_y] > threshold2
+        wait_time_y[position_x, position_y] / crossroad_standard_x[position_x, position_y] < threshold1 &
+        crossroad_standard_x[position_x, position_y] / crossroad_standard_y[position_x, position_y] > threshold2
       ){
         
         # go down even though you have to wait
         # because you don't have to wait for too long
-        wait_y[position_x, position_y] <- 1
         route_y[position_x, position_y] <- 1
         position_x <- position_x + 1
         
@@ -168,13 +141,12 @@ strategy_conditional_wait <- function(
     }else if(green_y[position_x, position_y] == 1){
       
       if(
-        wait_time_x[position_x, position_y] / crossroad_standard_x[position_x, position_y] < threshold1 &
-        crossroad_standard_x[position_x, position_y] / crossroad_standard_y[position_x, position_y] > threshold2
+        wait_time_x[position_x, position_y] / crossroad_standard_y[position_x, position_y] < threshold1 &
+        crossroad_standard_y[position_x, position_y] / crossroad_standard_x[position_x, position_y] > threshold2
       ){
         
         # go right even though you have to wait
         # because you don't have to wait for too long
-        wait_x[position_x, position_y] <- 1
         route_x[position_x, position_y] <- 1
         position_y <- position_y + 1
         
@@ -187,7 +159,7 @@ strategy_conditional_wait <- function(
     
   }
   
-  list(wait_x = wait_x, wait_y = wait_y)
+  list(route_x = route_x, route_y = route_y)
 }
 
 
@@ -197,8 +169,8 @@ strategy_conditional_wait <- function(
 #' @param green_y a matrix indicating whether it's a green light to go down at each intersection
 #' @param wait_time_x a matrix of the wait time to go right at each intersection
 #' @param wait_time_y a matrix of the wait time to go down at each intersection
-#' @param crossroad_standard_x the maximum wait time to go right at each intersection
-#' @param crossroad_standard_y the maximum wait time to go down at each intersection
+#' @param crossroad_standard_x the maximum wait time (for red light) to go right at each intersection
+#' @param crossroad_standard_y the maximum wait time (for red light) to go down at each intersection
 #' @arg1 additional argument placeholder 1
 #' @arg2 additional argument placeholder 2
 #' 
@@ -218,11 +190,6 @@ strategy_ride_along_main_street <- function(
   # whether one goes down at crossroad
   route_y <- matrix(0, ncol = road_dim, nrow = road_dim)
   
-  # whether one need to wait to go right at crossroad
-  wait_x <- matrix(0, ncol = road_dim, nrow = road_dim)
-  # whether one need to wait to go down at crossroad
-  wait_y <- matrix(0, ncol = road_dim, nrow = road_dim)
-  
   position_x <- 1
   position_y <- 1
   
@@ -236,20 +203,12 @@ strategy_ride_along_main_street <- function(
     }else if(position_x == road_dim + 1){
       
       # reachcing the boundary at the bottom
-      if(green_x[position_x - 1, position_y] == 0){
-        # wait if necessary
-        wait_x[position_x - 1, position_y] <- 1
-      }
       route_x[position_x - 1, position_y] <- 1
       position_y <- position_y + 1
       
     }else if(position_y == road_dim + 1){
       
       # reachcing the boundary on the right
-      if(green_y[position_x, position_y - 1] == 0){
-        # wait if necessary
-        wait_y[position_x, position_y - 1] <- 1
-      }
       route_y[position_x, position_y - 1] <- 1
       position_x <- position_x + 1
       
@@ -257,10 +216,6 @@ strategy_ride_along_main_street <- function(
       
       # on the vertical main road
       # go down
-      if(green_y[position_x, position_y] == 0){
-        # wait if necessary
-        wait_y[position_x, position_y] <- 1
-      }
       route_y[position_x, position_y] <- 1
       position_x <- position_x + 1
       
@@ -268,10 +223,6 @@ strategy_ride_along_main_street <- function(
       
       # on the horizontal main road
       # go right
-      if(green_x[position_x, position_y] == 0){
-        # wait if necessary
-        wait_x[position_x, position_y] <- 1
-      }
       route_x[position_x, position_y] <- 1
       position_y <- position_y + 1
       
@@ -290,5 +241,5 @@ strategy_ride_along_main_street <- function(
     }
   }
   
-  list(wait_x = wait_x, wait_y = wait_y)
+  list(route_x = route_x, route_y = route_y)
 }
