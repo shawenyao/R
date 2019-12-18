@@ -29,7 +29,7 @@ label_exclusive_words <- function(i, word_count_list){
   word_count_list[[i]] %>% 
     select(-n) %>% 
     # exclude the words that also appear in other books
-    anti_join(word_count_list[setdiff(seq_along(word_count_list), i)] %>% bind_rows, by = c("word")) %>% 
+    anti_join(word_count_list[setdiff(seq_along(word_count_list), i)] %>% bind_rows(), by = c("word")) %>% 
     # set exlusive indicator
     mutate(exclusive = TRUE) %>% 
     # bring back the full list of words
