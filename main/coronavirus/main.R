@@ -6,7 +6,7 @@ suppressWarnings(library(tidyverse))
 suppressWarnings(library(zoo))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/output/coronavirus")
-
+set.seed(350)
 
 #===== load data =====
 coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
@@ -88,7 +88,7 @@ output <- output %>%
 
 
 #===== save =====
-saveWidget(output, file = "index.html")
+saveWidget(output, file = "map.html")
 
 # play sound when finished
 beep(sound = 2)
