@@ -39,10 +39,10 @@ coronavirus <- coronavirus_raw %>%
 #===== plot on map =====
 # initialize
 output <- leaflet(
-  options = leafletOptions(minZoom = 2.5, maxZoom = 6)
+  options = leafletOptions(minZoom = 3, maxZoom = 6)
 ) %>% 
   addTiles() %>% 
-  setView(lng = 8, lat = 35, zoom = 2.5) %>% 
+  setView(lng = 100, lat = 35, zoom = 4) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90)
 
 # plot group by date
