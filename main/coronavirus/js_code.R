@@ -1,8 +1,8 @@
 # js code to let the animation start on load
 js_code <- paste0(
   "async function(el, x) {",
+  "while(true){",
   "await new Promise(r => setTimeout(r, 1000));",
-  "while(true){"
 )
 
 for(i in 1:(length(all_dates))){
