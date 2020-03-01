@@ -5,13 +5,13 @@ suppressWarnings(library(rio))
 suppressWarnings(library(tidyverse))
 suppressWarnings(library(zoo))
 
-
 setwd("C:/Users/Wenyao/Desktop/R/R/output/coronavirus")
 
-# load data -----
+
+#===== load data =====
 coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
 
-# convert to long foramt -----
+# format data
 coronavirus <- coronavirus_raw %>% 
   mutate(
     id = if_else(
@@ -27,18 +27,16 @@ coronavirus <- coronavirus_raw %>%
   ) %>% 
   select(-`Province/State`, -`Country/Region`) %>% 
   gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
-  mutate(date = as.Date(date, format = "%m/%d/%y")) %>% 
-  # derive cumulative cases
-  group_by(id) %>% 
-  arrange(date) %>% 
-  ungroup() %>% 
   mutate(
+    date = as.Date(date, format = "%m/%d/%y"),
+    
     # smooth scale for better visualization effect
     p_norm = pnorm(cases, mean = mean(cases), sd = sd(cases)),
     size = 10 + (p_norm - min(p_norm)) / (max(p_norm) - min(p_norm)) * 90
   )
 
-# plot on map -----
+
+#===== plot on map =====
 # initialize
 output <- leaflet(
   options = leafletOptions(minZoom = 2.5, maxZoom = 6)
@@ -47,7 +45,7 @@ output <- leaflet(
   setView(lng = 8, lat = 35, zoom = 2.5) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90)
 
-# plot by date
+# plot group by date
 all_dates <- unique(coronavirus$date)
 for(a_date in all_dates){
   print(as.Date(a_date))
@@ -74,13 +72,14 @@ for(a_date in all_dates){
   }
 }
 
+# add control panel
 output <- output %>% 
   addLayersControl(
     overlayGroups = as.character(all_dates),
     options = layersControlOptions(collapsed = TRUE)
   ) 
 
-# let the animation autoplay on load -----
+# let the animation autoplay on load
 source("../../main/coronavirus/js_code.R", echo = TRUE)
 output <- output %>% 
   onRender(
@@ -88,7 +87,7 @@ output <- output %>%
   )
 
 
-# save -----
+#===== save =====
 saveWidget(output, file = "index.html")
 
 # play sound when finished
