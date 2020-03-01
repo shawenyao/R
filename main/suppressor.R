@@ -53,5 +53,5 @@ plot2 <- tibble(
     axis.title.y = element_text(margin = margin(t = 0, r = 10, b = 0, l = 0))
   )
 
-save_svg(plot = plot1, file_name = "output/supressor/plot1.svg", width = 6, height = 3)
-save_svg(plot = plot2, file_name = "output/supressor/plot2.svg", width = 6, height = 3)
+save_svg(plot = plot1, file_name = "output/suppressor/plot1.svg", width = 6, height = 3)
+save_svg(plot = plot2, file_name = "output/suppressor/plot2.svg", width = 6, height = 3)
