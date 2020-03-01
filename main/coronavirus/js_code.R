@@ -13,8 +13,9 @@ for(i in 1:(length(all_dates))){
     last_frame <- i - 1
     current_frame <- 0
     
+    # additional wait on the last frame
     js_code <- js_code %>% paste0(
-      "await new Promise(r => setTimeout(r, 667));"
+      "await new Promise(r => setTimeout(r, 1000));"
     )
   }
   
