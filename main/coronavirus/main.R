@@ -61,7 +61,7 @@ for(a_date in all_dates){
       color = "red",
       fillOpacity = 0.4,
       label = ~paste0(display_name, ": ", cases, " cases confirmed"),
-      labelOptions = labelOptions(noHide = FALSE, textsize = "20px"),
+      labelOptions = labelOptions(noHide = FALSE, textsize = "15px"),
       group = as.character(as.Date(a_date))
     )
   
