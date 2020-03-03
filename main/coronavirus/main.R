@@ -88,7 +88,7 @@ output <- output %>%
 
 
 #===== save =====
-saveWidget(output, file = "map.html")
+saveWidget(output, file = "map.html", selfcontained = TRUE)
 
 # play sound when finished
 beep(sound = 2)
