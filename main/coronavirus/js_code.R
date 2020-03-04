@@ -23,7 +23,7 @@ for(i in 1:(length(all_dates))){
   }
   
   js_code <- js_code %>% paste0(
-    "await new Promise(r => setTimeout(r, 333));",
+    "await new Promise(r => setTimeout(r, 250));",
     "document.getElementsByTagName('input').item(", last_frame, ").click();",
     "document.getElementsByTagName('input').item(", current_frame, ").click();"
   )
