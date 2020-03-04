@@ -24,7 +24,7 @@ for(i in 1:(length(all_dates))){
     "await new Promise(r => setTimeout(r, 333));",
     "document.getElementsByTagName('input').item(", last_frame, ").click();",
     "document.getElementsByTagName('input').item(", current_frame, ").click();",
-    "i = i + 1",
+    "i = i + 1;"
   )
 }
 
