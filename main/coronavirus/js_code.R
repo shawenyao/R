@@ -2,7 +2,8 @@
 js_code <- paste0(
   "async function(el, x) {",
   "await new Promise(r => setTimeout(r, 1000));",
-  "while(true){"
+  "i = 0;",
+  "while(i < 10){"
 )
 
 for(i in 1:(length(all_dates))){
@@ -22,7 +23,8 @@ for(i in 1:(length(all_dates))){
   js_code <- js_code %>% paste0(
     "await new Promise(r => setTimeout(r, 333));",
     "document.getElementsByTagName('input').item(", last_frame, ").click();",
-    "document.getElementsByTagName('input').item(", current_frame, ").click();"
+    "document.getElementsByTagName('input').item(", current_frame, ").click();",
+    "i = i + 1",
   )
 }
 
