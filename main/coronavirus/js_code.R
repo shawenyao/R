@@ -1,4 +1,4 @@
-# js code to let the animation start on load and loop forever
+# js code to let the animation start on load and loop for certain times
 js_code <- paste0(
   "async function(el, x) {",
   "await new Promise(r => setTimeout(r, 1000));",

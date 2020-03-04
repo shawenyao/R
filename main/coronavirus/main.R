@@ -79,7 +79,7 @@ output <- output %>%
     options = layersControlOptions(collapsed = TRUE)
   ) 
 
-# let the animation autoplay on load and loop forever
+# let the animation autoplay on load and loop
 source("../../main/coronavirus/js_code.R", echo = TRUE)
 output <- output %>% 
   onRender(
