@@ -28,9 +28,17 @@ coronavirus <- coronavirus_raw %>%
   select(-`Province/State`, -`Country/Region`) %>% 
   gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
   mutate(
-    date = as.Date(date, format = "%m/%d/%y"),
-    
-    # smooth scale for better visualization effect
+    date = as.Date(date, format = "%m/%d/%y")
+  ) %>% 
+  group_by(id) %>% 
+  arrange(date) %>% 
+  # forward filling
+  mutate(
+    cases = na.locf(cases)
+  ) %>% 
+  ungroup() %>% 
+  # smooth scale for better visualization effect
+  mutate(
     p_norm = pnorm(cases, mean = mean(cases), sd = sd(cases)),
     size = 10 + (p_norm - min(p_norm)) / (max(p_norm) - min(p_norm)) * 90
   )
