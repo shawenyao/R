@@ -42,7 +42,7 @@ coronavirus <- coronavirus_raw %>%
   # smooth scale for better visualization effect
   mutate(
     p_norm = pnorm(cases, mean = mean(cases), sd = sd(cases)),
-    size = 10 + (p_norm - min(p_norm)) / (max(p_norm) - min(p_norm)) * 90
+    size = 10 + (p_norm - min(p_norm)) / (max(p_norm) - min(p_norm)) * 110
   )
 
 
