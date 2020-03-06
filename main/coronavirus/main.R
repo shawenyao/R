@@ -30,13 +30,15 @@ coronavirus <- coronavirus_raw %>%
   mutate(
     date = as.Date(date, format = "%m/%d/%y")
   ) %>% 
+  
+  # forward filling
   group_by(id) %>% 
   arrange(date) %>% 
-  # forward filling
   mutate(
     cases = na.locf(cases)
   ) %>% 
   ungroup() %>% 
+  
   # smooth scale for better visualization effect
   mutate(
     p_norm = pnorm(cases, mean = mean(cases), sd = sd(cases)),
