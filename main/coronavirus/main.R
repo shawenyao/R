@@ -49,7 +49,7 @@ coronavirus <- coronavirus_raw %>%
 #===== plot on map =====
 # initialize
 output <- leaflet(
-  options = leafletOptions(minZoom = 3, maxZoom = 10)
+  options = leafletOptions(minZoom = 3, maxZoom = 9)
 ) %>% 
   addTiles() %>% 
   setView(lng = 120, lat = 35, zoom = 4) %>% 
