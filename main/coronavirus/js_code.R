@@ -8,12 +8,12 @@ js_code <- paste0(
 
 for(i in 1:(length(all_dates))){
   
-  last_frame <- i - 1
+  last_frame <- length(all_dates) - i
   
   if(i != length(all_dates)){
-    current_frame <- i
+    current_frame <- last_frame - 1
   }else{
-    current_frame <- 0
+    current_frame <- length(all_dates) - 1
     
     # additional wait on the last frame
     js_code <- js_code %>% paste0(

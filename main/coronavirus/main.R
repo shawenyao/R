@@ -90,7 +90,7 @@ for(a_date in all_dates){
 # add control panel
 output <- output %>% 
   addLayersControl(
-    overlayGroups = as.character(all_dates),
+    overlayGroups = as.character(all_dates[length(all_dates):1]),
     options = layersControlOptions(collapsed = TRUE)
   ) 
 
