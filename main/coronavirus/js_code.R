@@ -8,10 +8,8 @@ js_code <- paste0(
 
 for(i in 1:(length(all_dates))){
   
-  last_frame <- length(all_dates) - i
-  
   if(i != length(all_dates)){
-    current_frame <- last_frame - 1
+    current_frame <- length(all_dates) - i - 1
   }else{
     current_frame <- length(all_dates) - 1
     
@@ -24,7 +22,6 @@ for(i in 1:(length(all_dates))){
   
   js_code <- js_code %>% paste0(
     "await new Promise(r => setTimeout(r, 250));",
-    "document.getElementsByTagName('input').item(", last_frame, ").click();",
     "document.getElementsByTagName('input').item(", current_frame, ").click();"
   )
 }
