@@ -8,8 +8,17 @@ suppressWarnings(library(zoo))
 setwd("C:/Users/Wenyao/Desktop/R/R/output/coronavirus")
 set.seed(350)
 
+refresh_data <- FALSE
+
+
 #===== load data =====
-coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+if(refresh_data){
+  export(
+    import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv"),
+    "../../input/coronavirus.csv"
+  )
+}
+coronavirus_raw <- import("../../input/coronavirus/coronavirus.csv")
 
 # format data
 coronavirus <- coronavirus_raw %>% 
