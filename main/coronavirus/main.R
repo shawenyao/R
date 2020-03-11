@@ -12,62 +12,65 @@ refresh_data <- TRUE
 
 #===== load data =====
 if(refresh_data){
-  export(
-    import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv"),
-    "../../input/coronavirus/coronavirus.csv"
-  )
+  
+  coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+  
+  # for US, identify states where county-level stats are available
+  # (to be excluded to avoid double-counting)
+  states_with_county_level_reports <- coronavirus_raw %>% 
+    select(`Province/State`) %>% 
+    distinct() %>% 
+    separate(
+      `Province/State`, 
+      into = c("county", "state"), 
+      sep = ", ",
+      fill = "left"
+    ) %>% 
+    right_join(
+      tibble(state.name, state.abb),
+      by = c("state" = "state.abb")
+    ) %>% 
+    filter(!is.na(county)) %>% 
+    pull(state.name) %>% 
+    unique()
+  
+  # format data
+  coronavirus_input <- coronavirus_raw %>% 
+    filter(!`Province/State` %in% states_with_county_level_reports) %>%
+    mutate(
+      id = if_else(
+        `Province/State` == "",
+        `Country/Region`,
+        paste0(`Province/State`, " @ ", `Country/Region`)
+      ),
+      display_name = if_else(
+        `Province/State` == "",
+        `Country/Region`,
+        `Province/State`
+      )
+    ) %>% 
+    select(-`Province/State`, -`Country/Region`) %>% 
+    gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
+    mutate(
+      date = as.Date(date, format = "%m/%d/%y")
+    ) %>% 
+    arrange(id, date) %>% 
+    # forward filling
+    group_by(id) %>% 
+    mutate(
+      cases = na.locf(cases)
+    ) %>% 
+    ungroup()
+  
+  export(coronavirus_input, "../../input/coronavirus/coronavirus.csv")
+  
 }
-coronavirus_raw <- import("../../input/coronavirus/coronavirus.csv")
 
-# for US, identify states where county-level stats are available
-# (to be excluded to avoid double-counting)
-states_with_county_level_reports <- coronavirus_raw %>% 
-  select(`Province/State`) %>% 
-  distinct() %>% 
-  separate(
-    `Province/State`, 
-    into = c("county", "state"), 
-    sep = ", ",
-    fill = "left"
-  ) %>% 
-  right_join(
-    tibble(state.name, state.abb),
-    by = c("state" = "state.abb")
-  ) %>% 
-  filter(!is.na(county)) %>% 
-  pull(state.name) %>% 
-  unique()
+# read from pre-saved copy
+coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
 
-# format data
-coronavirus <- coronavirus_raw %>% 
-  filter(!`Province/State` %in% states_with_county_level_reports) %>%
-  mutate(
-    id = if_else(
-      `Province/State` == "",
-      `Country/Region`,
-      paste0(`Province/State`, " @ ", `Country/Region`)
-    ),
-    display_name = if_else(
-      `Province/State` == "",
-      `Country/Region`,
-      `Province/State`
-    )
-  ) %>% 
-  select(-`Province/State`, -`Country/Region`) %>% 
-  gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
-  mutate(
-    date = as.Date(date, format = "%m/%d/%y")
-  ) %>% 
-  
-  # forward filling
-  group_by(id) %>% 
-  arrange(date) %>% 
-  mutate(
-    cases = na.locf(cases)
-  ) %>% 
-  ungroup() %>% 
-  
-  # smooth scale for better visualization effect
+# smooth scale for better visualization effect
+coronavirus <- coronavirus_input %>% 
   mutate(
     cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     size = 10 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 110
