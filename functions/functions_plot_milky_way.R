@@ -273,6 +273,7 @@ plot_milky_way <- function(
   
   
   output <- ggplot(sprial_arms, aes(x = x, y = y)) +
+    
     # spiral arms
     geom_point(data = stars, size = star_halo_size1, alpha = stars$alpha * star_alpha_adj1, color = "white", shape = 8) +
     geom_point(data = stars, size = star_halo_size2, alpha = stars$alpha * star_alpha_adj2, color = "white", shape = 8) +
