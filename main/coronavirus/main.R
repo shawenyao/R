@@ -16,29 +16,8 @@ if(refresh_data){
   
   coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
   
-  # obsolete after March 10th, 2020, as US starts to report only at the state-level
-  # for US, identify states where county-level stats are available
-  # (to be excluded to avoid double-counting)
-  # states_with_county_level_reports <- coronavirus_raw %>% 
-  #   select(`Province/State`) %>% 
-  #   distinct() %>% 
-  #   separate(
-  #     `Province/State`, 
-  #     into = c("county", "state"), 
-  #     sep = ", ",
-  #     fill = "left"
-  #   ) %>% 
-  #   right_join(
-  #     tibble(state.name, state.abb),
-  #     by = c("state" = "state.abb")
-  #   ) %>% 
-  #   filter(!is.na(county)) %>% 
-  #   pull(state.name) %>% 
-  #   unique()
-  
   # format data
   coronavirus_input <- coronavirus_raw %>% 
-    # filter(!`Province/State` %in% states_with_county_level_reports) %>%
     mutate(
       id = if_else(
         `Province/State` == "",
