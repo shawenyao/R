@@ -15,7 +15,7 @@ for(i in 1:(length(all_dates))){
     
     # additional wait on the last frame
     js_code <- js_code %>% paste0(
-      "await new Promise(r => setTimeout(r, 2000));",
+      "await new Promise(r => setTimeout(r, 1000));",
       "if(count == 3 - 1) { break; }"
     )
   }
