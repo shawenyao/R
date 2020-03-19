@@ -53,7 +53,8 @@ coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
 # smooth scale for better visualization effect
 coronavirus <- coronavirus_input %>% 
   mutate(
-    cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
+    # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
+    cases_scaled = cases,
     size = 10 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 110
   )
 
