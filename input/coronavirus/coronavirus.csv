@@ -1082,63 +1082,6 @@ Lat,Long,id,display_name,date,cases
 40.0691,45.0382,Armenia,Armenia,2020-03-16,52
 40.0691,45.0382,Armenia,Armenia,2020-03-17,78
 40.0691,45.0382,Armenia,Armenia,2020-03-18,84
-12.5211,-69.9683,Aruba,Aruba,2020-01-22,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-23,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-24,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-25,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-26,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-27,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-28,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-29,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-30,0
-12.5211,-69.9683,Aruba,Aruba,2020-01-31,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-01,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-02,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-03,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-04,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-05,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-06,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-07,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-08,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-09,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-10,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-11,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-12,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-13,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-14,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-15,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-16,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-17,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-18,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-19,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-20,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-21,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-22,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-23,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-24,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-25,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-26,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-27,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-28,0
-12.5211,-69.9683,Aruba,Aruba,2020-02-29,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-01,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-02,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-03,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-04,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-05,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-06,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-07,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-08,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-09,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-10,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-11,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-12,0
-12.5211,-69.9683,Aruba,Aruba,2020-03-13,2
-12.5211,-69.9683,Aruba,Aruba,2020-03-14,2
-12.5211,-69.9683,Aruba,Aruba,2020-03-15,2
-12.5211,-69.9683,Aruba,Aruba,2020-03-16,2
-12.5211,-69.9683,Aruba,Aruba,2020-03-17,3
-12.5211,-69.9683,Aruba,Aruba,2020-03-18,4
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-22,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-23,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-24,0
@@ -1190,12 +1133,12 @@ Lat,Long,id,display_name,date,cases
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-10,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-11,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-12,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-13,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-14,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-15,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-16,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-17,0
-12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-18,2
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-13,2
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-14,2
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-15,2
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-16,2
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-17,3
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-18,4
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-01-22,0
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-01-23,0
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-01-24,0
@@ -7124,63 +7067,6 @@ Lat,Long,id,display_name,date,cases
 46.2276,2.2137,France @ France,France,2020-03-16,6633
 46.2276,2.2137,France @ France,France,2020-03-17,7652
 46.2276,2.2137,France @ France,France,2020-03-18,9043
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-22,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-23,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-24,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-25,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-26,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-27,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-28,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-29,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-30,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-01-31,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-01,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-02,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-03,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-04,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-05,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-06,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-07,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-08,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-09,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-10,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-11,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-12,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-13,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-14,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-15,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-16,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-17,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-18,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-19,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-20,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-21,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-22,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-23,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-24,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-25,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-26,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-27,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-28,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-02-29,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-01,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-02,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-03,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-04,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-05,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-06,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-07,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-08,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-09,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-10,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-11,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-12,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-13,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-14,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-15,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-16,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-17,0
-3.9339,-53.1258,French Guiana,French Guiana,2020-03-18,11
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-22,0
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-23,0
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-24,0
@@ -7237,7 +7123,7 @@ Lat,Long,id,display_name,date,cases
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-15,7
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-16,11
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-17,11
-3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-18,0
+3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-18,11
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-22,0
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-23,0
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-24,0
@@ -7635,7 +7521,7 @@ Lat,Long,id,display_name,date,cases
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-14,0
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-15,0
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-16,0
-13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-17,0
+13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-17,1
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-03-18,1
 37.8099,101.0583,Gansu @ China,Gansu,2020-01-22,0
 37.8099,101.0583,Gansu @ China,Gansu,2020-01-23,2
@@ -8378,63 +8264,6 @@ Lat,Long,id,display_name,date,cases
 32.4893,-94.8521,"Gregg, TX @ US","Gregg, TX",2020-03-16,0
 32.4893,-94.8521,"Gregg, TX @ US","Gregg, TX",2020-03-17,0
 32.4893,-94.8521,"Gregg, TX @ US","Gregg, TX",2020-03-18,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-22,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-23,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-24,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-25,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-26,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-27,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-28,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-29,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-30,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-01-31,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-01,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-02,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-03,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-04,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-05,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-06,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-07,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-08,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-09,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-10,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-11,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-12,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-13,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-14,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-15,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-16,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-17,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-18,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-19,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-20,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-21,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-22,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-23,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-24,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-25,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-26,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-27,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-28,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-02-29,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-01,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-02,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-03,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-04,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-05,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-06,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-07,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-08,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-09,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-10,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-11,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-12,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-13,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-14,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-15,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-16,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-17,0
-16.265,-61.551,Guadeloupe,Guadeloupe,2020-03-18,27
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-01-22,0
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-01-23,0
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-01-24,0
@@ -8491,64 +8320,7 @@ Lat,Long,id,display_name,date,cases
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-15,3
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-16,6
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-17,18
-16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-18,0
-13.4443,144.7937,Guam,Guam,2020-01-22,0
-13.4443,144.7937,Guam,Guam,2020-01-23,0
-13.4443,144.7937,Guam,Guam,2020-01-24,0
-13.4443,144.7937,Guam,Guam,2020-01-25,0
-13.4443,144.7937,Guam,Guam,2020-01-26,0
-13.4443,144.7937,Guam,Guam,2020-01-27,0
-13.4443,144.7937,Guam,Guam,2020-01-28,0
-13.4443,144.7937,Guam,Guam,2020-01-29,0
-13.4443,144.7937,Guam,Guam,2020-01-30,0
-13.4443,144.7937,Guam,Guam,2020-01-31,0
-13.4443,144.7937,Guam,Guam,2020-02-01,0
-13.4443,144.7937,Guam,Guam,2020-02-02,0
-13.4443,144.7937,Guam,Guam,2020-02-03,0
-13.4443,144.7937,Guam,Guam,2020-02-04,0
-13.4443,144.7937,Guam,Guam,2020-02-05,0
-13.4443,144.7937,Guam,Guam,2020-02-06,0
-13.4443,144.7937,Guam,Guam,2020-02-07,0
-13.4443,144.7937,Guam,Guam,2020-02-08,0
-13.4443,144.7937,Guam,Guam,2020-02-09,0
-13.4443,144.7937,Guam,Guam,2020-02-10,0
-13.4443,144.7937,Guam,Guam,2020-02-11,0
-13.4443,144.7937,Guam,Guam,2020-02-12,0
-13.4443,144.7937,Guam,Guam,2020-02-13,0
-13.4443,144.7937,Guam,Guam,2020-02-14,0
-13.4443,144.7937,Guam,Guam,2020-02-15,0
-13.4443,144.7937,Guam,Guam,2020-02-16,0
-13.4443,144.7937,Guam,Guam,2020-02-17,0
-13.4443,144.7937,Guam,Guam,2020-02-18,0
-13.4443,144.7937,Guam,Guam,2020-02-19,0
-13.4443,144.7937,Guam,Guam,2020-02-20,0
-13.4443,144.7937,Guam,Guam,2020-02-21,0
-13.4443,144.7937,Guam,Guam,2020-02-22,0
-13.4443,144.7937,Guam,Guam,2020-02-23,0
-13.4443,144.7937,Guam,Guam,2020-02-24,0
-13.4443,144.7937,Guam,Guam,2020-02-25,0
-13.4443,144.7937,Guam,Guam,2020-02-26,0
-13.4443,144.7937,Guam,Guam,2020-02-27,0
-13.4443,144.7937,Guam,Guam,2020-02-28,0
-13.4443,144.7937,Guam,Guam,2020-02-29,0
-13.4443,144.7937,Guam,Guam,2020-03-01,0
-13.4443,144.7937,Guam,Guam,2020-03-02,0
-13.4443,144.7937,Guam,Guam,2020-03-03,0
-13.4443,144.7937,Guam,Guam,2020-03-04,0
-13.4443,144.7937,Guam,Guam,2020-03-05,0
-13.4443,144.7937,Guam,Guam,2020-03-06,0
-13.4443,144.7937,Guam,Guam,2020-03-07,0
-13.4443,144.7937,Guam,Guam,2020-03-08,0
-13.4443,144.7937,Guam,Guam,2020-03-09,0
-13.4443,144.7937,Guam,Guam,2020-03-10,0
-13.4443,144.7937,Guam,Guam,2020-03-11,0
-13.4443,144.7937,Guam,Guam,2020-03-12,0
-13.4443,144.7937,Guam,Guam,2020-03-13,0
-13.4443,144.7937,Guam,Guam,2020-03-14,0
-13.4443,144.7937,Guam,Guam,2020-03-15,0
-13.4443,144.7937,Guam,Guam,2020-03-16,0
-13.4443,144.7937,Guam,Guam,2020-03-17,0
-13.4443,144.7937,Guam,Guam,2020-03-18,0
+16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-18,27
 13.4443,144.7937,Guam @ US,Guam,2020-01-22,0
 13.4443,144.7937,Guam @ US,Guam,2020-01-23,0
 13.4443,144.7937,Guam @ US,Guam,2020-01-24,0
@@ -8777,63 +8549,6 @@ Lat,Long,id,display_name,date,cases
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-16,2
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-17,6
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-18,6
-49.45,-2.58,Guernsey,Guernsey,2020-01-22,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-23,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-24,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-25,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-26,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-27,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-28,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-29,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-30,0
-49.45,-2.58,Guernsey,Guernsey,2020-01-31,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-01,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-02,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-03,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-04,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-05,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-06,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-07,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-08,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-09,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-10,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-11,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-12,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-13,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-14,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-15,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-16,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-17,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-18,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-19,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-20,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-21,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-22,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-23,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-24,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-25,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-26,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-27,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-28,0
-49.45,-2.58,Guernsey,Guernsey,2020-02-29,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-01,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-02,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-03,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-04,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-05,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-06,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-07,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-08,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-09,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-10,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-11,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-12,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-13,0
-49.45,-2.58,Guernsey,Guernsey,2020-03-14,1
-49.45,-2.58,Guernsey,Guernsey,2020-03-15,1
-49.45,-2.58,Guernsey,Guernsey,2020-03-16,1
-49.45,-2.58,Guernsey,Guernsey,2020-03-17,1
-49.45,-2.58,Guernsey,Guernsey,2020-03-18,0
 9.9456,-9.6966,Guinea,Guinea,2020-01-22,0
 9.9456,-9.6966,Guinea,Guinea,2020-01-23,0
 9.9456,-9.6966,Guinea,Guinea,2020-01-24,0
@@ -11513,63 +11228,6 @@ Lat,Long,id,display_name,date,cases
 39.58,-105.2663,"Jefferson, CO @ US","Jefferson, CO",2020-03-16,0
 39.58,-105.2663,"Jefferson, CO @ US","Jefferson, CO",2020-03-17,0
 39.58,-105.2663,"Jefferson, CO @ US","Jefferson, CO",2020-03-18,0
-49.19,-2.11,Jersey,Jersey,2020-01-22,0
-49.19,-2.11,Jersey,Jersey,2020-01-23,0
-49.19,-2.11,Jersey,Jersey,2020-01-24,0
-49.19,-2.11,Jersey,Jersey,2020-01-25,0
-49.19,-2.11,Jersey,Jersey,2020-01-26,0
-49.19,-2.11,Jersey,Jersey,2020-01-27,0
-49.19,-2.11,Jersey,Jersey,2020-01-28,0
-49.19,-2.11,Jersey,Jersey,2020-01-29,0
-49.19,-2.11,Jersey,Jersey,2020-01-30,0
-49.19,-2.11,Jersey,Jersey,2020-01-31,0
-49.19,-2.11,Jersey,Jersey,2020-02-01,0
-49.19,-2.11,Jersey,Jersey,2020-02-02,0
-49.19,-2.11,Jersey,Jersey,2020-02-03,0
-49.19,-2.11,Jersey,Jersey,2020-02-04,0
-49.19,-2.11,Jersey,Jersey,2020-02-05,0
-49.19,-2.11,Jersey,Jersey,2020-02-06,0
-49.19,-2.11,Jersey,Jersey,2020-02-07,0
-49.19,-2.11,Jersey,Jersey,2020-02-08,0
-49.19,-2.11,Jersey,Jersey,2020-02-09,0
-49.19,-2.11,Jersey,Jersey,2020-02-10,0
-49.19,-2.11,Jersey,Jersey,2020-02-11,0
-49.19,-2.11,Jersey,Jersey,2020-02-12,0
-49.19,-2.11,Jersey,Jersey,2020-02-13,0
-49.19,-2.11,Jersey,Jersey,2020-02-14,0
-49.19,-2.11,Jersey,Jersey,2020-02-15,0
-49.19,-2.11,Jersey,Jersey,2020-02-16,0
-49.19,-2.11,Jersey,Jersey,2020-02-17,0
-49.19,-2.11,Jersey,Jersey,2020-02-18,0
-49.19,-2.11,Jersey,Jersey,2020-02-19,0
-49.19,-2.11,Jersey,Jersey,2020-02-20,0
-49.19,-2.11,Jersey,Jersey,2020-02-21,0
-49.19,-2.11,Jersey,Jersey,2020-02-22,0
-49.19,-2.11,Jersey,Jersey,2020-02-23,0
-49.19,-2.11,Jersey,Jersey,2020-02-24,0
-49.19,-2.11,Jersey,Jersey,2020-02-25,0
-49.19,-2.11,Jersey,Jersey,2020-02-26,0
-49.19,-2.11,Jersey,Jersey,2020-02-27,0
-49.19,-2.11,Jersey,Jersey,2020-02-28,0
-49.19,-2.11,Jersey,Jersey,2020-02-29,0
-49.19,-2.11,Jersey,Jersey,2020-03-01,0
-49.19,-2.11,Jersey,Jersey,2020-03-02,0
-49.19,-2.11,Jersey,Jersey,2020-03-03,0
-49.19,-2.11,Jersey,Jersey,2020-03-04,0
-49.19,-2.11,Jersey,Jersey,2020-03-05,0
-49.19,-2.11,Jersey,Jersey,2020-03-06,0
-49.19,-2.11,Jersey,Jersey,2020-03-07,0
-49.19,-2.11,Jersey,Jersey,2020-03-08,0
-49.19,-2.11,Jersey,Jersey,2020-03-09,0
-49.19,-2.11,Jersey,Jersey,2020-03-10,0
-49.19,-2.11,Jersey,Jersey,2020-03-11,0
-49.19,-2.11,Jersey,Jersey,2020-03-12,0
-49.19,-2.11,Jersey,Jersey,2020-03-13,0
-49.19,-2.11,Jersey,Jersey,2020-03-14,2
-49.19,-2.11,Jersey,Jersey,2020-03-15,2
-49.19,-2.11,Jersey,Jersey,2020-03-16,2
-49.19,-2.11,Jersey,Jersey,2020-03-17,2
-49.19,-2.11,Jersey,Jersey,2020-03-18,0
 32.9711,119.455,Jiangsu @ China,Jiangsu,2020-01-22,1
 32.9711,119.455,Jiangsu @ China,Jiangsu,2020-01-23,5
 32.9711,119.455,Jiangsu @ China,Jiangsu,2020-01-24,9
@@ -14648,63 +14306,6 @@ Lat,Long,id,display_name,date,cases
 -20.2,57.5,Mauritius,Mauritius,2020-03-16,0
 -20.2,57.5,Mauritius,Mauritius,2020-03-17,0
 -20.2,57.5,Mauritius,Mauritius,2020-03-18,3
--12.8275,45.1662,Mayotte,Mayotte,2020-01-22,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-23,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-24,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-25,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-26,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-27,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-28,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-29,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-30,0
--12.8275,45.1662,Mayotte,Mayotte,2020-01-31,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-01,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-02,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-03,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-04,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-05,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-06,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-07,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-08,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-09,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-10,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-11,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-12,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-13,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-14,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-15,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-16,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-17,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-18,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-19,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-20,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-21,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-22,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-23,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-24,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-25,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-26,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-27,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-28,0
--12.8275,45.1662,Mayotte,Mayotte,2020-02-29,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-01,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-02,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-03,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-04,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-05,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-06,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-07,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-08,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-09,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-10,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-11,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-12,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-13,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-14,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-15,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-16,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-17,0
--12.8275,45.1662,Mayotte,Mayotte,2020-03-18,3
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-22,0
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-23,0
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-24,0
@@ -14761,7 +14362,7 @@ Lat,Long,id,display_name,date,cases
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-15,1
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-16,1
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-17,1
--12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-18,0
+-12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-18,3
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-22,0
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-23,0
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-24,0
@@ -19607,63 +19208,6 @@ Lat,Long,id,display_name,date,cases
 41.8882,-71.4774,"Providence County, RI @ US","Providence County, RI",2020-03-16,0
 41.8882,-71.4774,"Providence County, RI @ US","Providence County, RI",2020-03-17,0
 41.8882,-71.4774,"Providence County, RI @ US","Providence County, RI",2020-03-18,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-22,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-23,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-24,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-25,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-26,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-27,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-28,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-29,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-30,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-01-31,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-01,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-02,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-03,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-04,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-05,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-06,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-07,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-08,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-09,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-10,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-11,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-12,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-13,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-14,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-15,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-16,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-17,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-18,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-19,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-20,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-21,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-22,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-23,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-24,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-25,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-26,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-27,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-28,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-02-29,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-01,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-02,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-03,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-04,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-05,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-06,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-07,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-08,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-09,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-10,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-11,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-12,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-13,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-14,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-15,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-16,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-17,0
-18.2,-66.5,Puerto Rico,Puerto Rico,2020-03-18,0
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-01-22,0
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-01-23,0
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-01-24,0
@@ -20006,120 +19550,6 @@ Lat,Long,id,display_name,date,cases
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-03-16,0
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-03-17,0
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-03-18,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-22,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-23,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-24,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-25,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-26,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-27,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-28,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-29,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-30,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-01-31,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-01,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-02,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-03,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-04,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-05,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-06,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-07,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-08,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-09,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-10,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-11,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-12,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-13,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-14,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-15,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-16,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-17,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-18,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-19,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-20,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-21,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-22,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-23,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-24,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-25,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-26,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-27,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-28,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-02-29,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-01,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-02,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-03,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-04,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-05,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-06,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-07,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-08,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-09,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-10,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-11,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-12,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-13,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-14,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-15,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-16,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-17,0
--1.44,15.556,Republic of the Congo,Republic of the Congo,2020-03-18,0
--21.1151,55.5364,Reunion,Reunion,2020-01-22,0
--21.1151,55.5364,Reunion,Reunion,2020-01-23,0
--21.1151,55.5364,Reunion,Reunion,2020-01-24,0
--21.1151,55.5364,Reunion,Reunion,2020-01-25,0
--21.1151,55.5364,Reunion,Reunion,2020-01-26,0
--21.1151,55.5364,Reunion,Reunion,2020-01-27,0
--21.1151,55.5364,Reunion,Reunion,2020-01-28,0
--21.1151,55.5364,Reunion,Reunion,2020-01-29,0
--21.1151,55.5364,Reunion,Reunion,2020-01-30,0
--21.1151,55.5364,Reunion,Reunion,2020-01-31,0
--21.1151,55.5364,Reunion,Reunion,2020-02-01,0
--21.1151,55.5364,Reunion,Reunion,2020-02-02,0
--21.1151,55.5364,Reunion,Reunion,2020-02-03,0
--21.1151,55.5364,Reunion,Reunion,2020-02-04,0
--21.1151,55.5364,Reunion,Reunion,2020-02-05,0
--21.1151,55.5364,Reunion,Reunion,2020-02-06,0
--21.1151,55.5364,Reunion,Reunion,2020-02-07,0
--21.1151,55.5364,Reunion,Reunion,2020-02-08,0
--21.1151,55.5364,Reunion,Reunion,2020-02-09,0
--21.1151,55.5364,Reunion,Reunion,2020-02-10,0
--21.1151,55.5364,Reunion,Reunion,2020-02-11,0
--21.1151,55.5364,Reunion,Reunion,2020-02-12,0
--21.1151,55.5364,Reunion,Reunion,2020-02-13,0
--21.1151,55.5364,Reunion,Reunion,2020-02-14,0
--21.1151,55.5364,Reunion,Reunion,2020-02-15,0
--21.1151,55.5364,Reunion,Reunion,2020-02-16,0
--21.1151,55.5364,Reunion,Reunion,2020-02-17,0
--21.1151,55.5364,Reunion,Reunion,2020-02-18,0
--21.1151,55.5364,Reunion,Reunion,2020-02-19,0
--21.1151,55.5364,Reunion,Reunion,2020-02-20,0
--21.1151,55.5364,Reunion,Reunion,2020-02-21,0
--21.1151,55.5364,Reunion,Reunion,2020-02-22,0
--21.1151,55.5364,Reunion,Reunion,2020-02-23,0
--21.1151,55.5364,Reunion,Reunion,2020-02-24,0
--21.1151,55.5364,Reunion,Reunion,2020-02-25,0
--21.1151,55.5364,Reunion,Reunion,2020-02-26,0
--21.1151,55.5364,Reunion,Reunion,2020-02-27,0
--21.1151,55.5364,Reunion,Reunion,2020-02-28,0
--21.1151,55.5364,Reunion,Reunion,2020-02-29,0
--21.1151,55.5364,Reunion,Reunion,2020-03-01,0
--21.1151,55.5364,Reunion,Reunion,2020-03-02,0
--21.1151,55.5364,Reunion,Reunion,2020-03-03,0
--21.1151,55.5364,Reunion,Reunion,2020-03-04,0
--21.1151,55.5364,Reunion,Reunion,2020-03-05,0
--21.1151,55.5364,Reunion,Reunion,2020-03-06,0
--21.1151,55.5364,Reunion,Reunion,2020-03-07,0
--21.1151,55.5364,Reunion,Reunion,2020-03-08,0
--21.1151,55.5364,Reunion,Reunion,2020-03-09,0
--21.1151,55.5364,Reunion,Reunion,2020-03-10,0
--21.1151,55.5364,Reunion,Reunion,2020-03-11,0
--21.1151,55.5364,Reunion,Reunion,2020-03-12,0
--21.1151,55.5364,Reunion,Reunion,2020-03-13,0
--21.1151,55.5364,Reunion,Reunion,2020-03-14,0
--21.1151,55.5364,Reunion,Reunion,2020-03-15,0
--21.1151,55.5364,Reunion,Reunion,2020-03-16,0
--21.1151,55.5364,Reunion,Reunion,2020-03-17,0
--21.1151,55.5364,Reunion,Reunion,2020-03-18,12
 -21.1351,55.2471,Reunion @ France,Reunion,2020-01-22,0
 -21.1351,55.2471,Reunion @ France,Reunion,2020-01-23,0
 -21.1351,55.2471,Reunion @ France,Reunion,2020-01-24,0
@@ -20176,7 +19606,7 @@ Lat,Long,id,display_name,date,cases
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-15,7
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-16,9
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-17,9
--21.1351,55.2471,Reunion @ France,Reunion,2020-03-18,0
+-21.1351,55.2471,Reunion @ France,Reunion,2020-03-18,12
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-22,0
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-23,0
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-24,0
@@ -24281,63 +23711,6 @@ Lat,Long,id,display_name,date,cases
 24.25,-76,The Bahamas,The Bahamas,2020-03-16,1
 24.25,-76,The Bahamas,The Bahamas,2020-03-17,1
 24.25,-76,The Bahamas,The Bahamas,2020-03-18,1
-13.4667,-16.6,The Gambia,The Gambia,2020-01-22,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-23,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-24,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-25,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-26,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-27,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-28,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-29,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-30,0
-13.4667,-16.6,The Gambia,The Gambia,2020-01-31,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-01,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-02,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-03,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-04,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-05,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-06,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-07,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-08,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-09,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-10,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-11,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-12,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-13,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-14,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-15,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-16,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-17,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-18,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-19,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-20,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-21,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-22,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-23,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-24,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-25,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-26,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-27,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-28,0
-13.4667,-16.6,The Gambia,The Gambia,2020-02-29,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-01,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-02,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-03,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-04,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-05,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-06,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-07,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-08,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-09,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-10,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-11,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-12,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-13,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-14,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-15,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-16,0
-13.4667,-16.6,The Gambia,The Gambia,2020-03-17,1
-13.4667,-16.6,The Gambia,The Gambia,2020-03-18,0
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-22,0
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-23,0
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-24,0
@@ -25136,63 +24509,6 @@ Lat,Long,id,display_name,date,cases
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-16,1543
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-17,1950
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-18,2626
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-22,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-23,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-24,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-25,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-26,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-27,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-28,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-29,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-30,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-01-31,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-01,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-02,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-03,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-04,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-05,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-06,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-07,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-08,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-09,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-10,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-11,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-12,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-13,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-14,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-15,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-16,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-17,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-18,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-19,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-20,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-21,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-22,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-23,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-24,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-25,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-26,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-27,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-28,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-02-29,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-01,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-02,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-03,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-04,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-05,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-06,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-07,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-08,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-09,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-10,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-11,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-12,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-13,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-14,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-15,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-16,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-17,0
-18.35,-64.933,United States Virgin Islands @ US,United States Virgin Islands,2020-03-18,2
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-22,0
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-23,0
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-24,0
@@ -25250,63 +24566,6 @@ Lat,Long,id,display_name,date,cases
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-16,8
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-17,29
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-18,50
-37.0902,-95.7129,US @ US,US,2020-01-22,0
-37.0902,-95.7129,US @ US,US,2020-01-23,0
-37.0902,-95.7129,US @ US,US,2020-01-24,0
-37.0902,-95.7129,US @ US,US,2020-01-25,0
-37.0902,-95.7129,US @ US,US,2020-01-26,0
-37.0902,-95.7129,US @ US,US,2020-01-27,0
-37.0902,-95.7129,US @ US,US,2020-01-28,0
-37.0902,-95.7129,US @ US,US,2020-01-29,0
-37.0902,-95.7129,US @ US,US,2020-01-30,0
-37.0902,-95.7129,US @ US,US,2020-01-31,0
-37.0902,-95.7129,US @ US,US,2020-02-01,0
-37.0902,-95.7129,US @ US,US,2020-02-02,0
-37.0902,-95.7129,US @ US,US,2020-02-03,0
-37.0902,-95.7129,US @ US,US,2020-02-04,0
-37.0902,-95.7129,US @ US,US,2020-02-05,0
-37.0902,-95.7129,US @ US,US,2020-02-06,0
-37.0902,-95.7129,US @ US,US,2020-02-07,0
-37.0902,-95.7129,US @ US,US,2020-02-08,0
-37.0902,-95.7129,US @ US,US,2020-02-09,0
-37.0902,-95.7129,US @ US,US,2020-02-10,0
-37.0902,-95.7129,US @ US,US,2020-02-11,0
-37.0902,-95.7129,US @ US,US,2020-02-12,0
-37.0902,-95.7129,US @ US,US,2020-02-13,0
-37.0902,-95.7129,US @ US,US,2020-02-14,0
-37.0902,-95.7129,US @ US,US,2020-02-15,0
-37.0902,-95.7129,US @ US,US,2020-02-16,0
-37.0902,-95.7129,US @ US,US,2020-02-17,0
-37.0902,-95.7129,US @ US,US,2020-02-18,0
-37.0902,-95.7129,US @ US,US,2020-02-19,0
-37.0902,-95.7129,US @ US,US,2020-02-20,0
-37.0902,-95.7129,US @ US,US,2020-02-21,0
-37.0902,-95.7129,US @ US,US,2020-02-22,0
-37.0902,-95.7129,US @ US,US,2020-02-23,0
-37.0902,-95.7129,US @ US,US,2020-02-24,0
-37.0902,-95.7129,US @ US,US,2020-02-25,0
-37.0902,-95.7129,US @ US,US,2020-02-26,0
-37.0902,-95.7129,US @ US,US,2020-02-27,0
-37.0902,-95.7129,US @ US,US,2020-02-28,0
-37.0902,-95.7129,US @ US,US,2020-02-29,0
-37.0902,-95.7129,US @ US,US,2020-03-01,0
-37.0902,-95.7129,US @ US,US,2020-03-02,0
-37.0902,-95.7129,US @ US,US,2020-03-03,0
-37.0902,-95.7129,US @ US,US,2020-03-04,0
-37.0902,-95.7129,US @ US,US,2020-03-05,0
-37.0902,-95.7129,US @ US,US,2020-03-06,0
-37.0902,-95.7129,US @ US,US,2020-03-07,0
-37.0902,-95.7129,US @ US,US,2020-03-08,0
-37.0902,-95.7129,US @ US,US,2020-03-09,0
-37.0902,-95.7129,US @ US,US,2020-03-10,0
-37.0902,-95.7129,US @ US,US,2020-03-11,0
-37.0902,-95.7129,US @ US,US,2020-03-12,0
-37.0902,-95.7129,US @ US,US,2020-03-13,0
-37.0902,-95.7129,US @ US,US,2020-03-14,0
-37.0902,-95.7129,US @ US,US,2020-03-15,0
-37.0902,-95.7129,US @ US,US,2020-03-16,0
-37.0902,-95.7129,US @ US,US,2020-03-17,0
-37.0902,-95.7129,US @ US,US,2020-03-18,1
 40.15,-111.8624,Utah @ US,Utah,2020-01-22,0
 40.15,-111.8624,Utah @ US,Utah,2020-01-23,0
 40.15,-111.8624,Utah @ US,Utah,2020-01-24,0
