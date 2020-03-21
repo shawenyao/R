@@ -65,7 +65,7 @@ output <- leaflet(
   options = leafletOptions(minZoom = 3, maxZoom = 9)
 ) %>% 
   addTiles() %>% 
-  setView(lng = 120, lat = 35, zoom = 4) %>% 
+  setView(lng = 20, lat = 45, zoom = 4) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90)
 
 # plot group by date
