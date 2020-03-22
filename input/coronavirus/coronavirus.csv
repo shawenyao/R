@@ -178,7 +178,7 @@ Lat,Long,id,display_name,date,cases
 32.3182,-86.9023,Alabama @ US,Alabama,2020-03-18,46
 32.3182,-86.9023,Alabama @ US,Alabama,2020-03-19,78
 32.3182,-86.9023,Alabama @ US,Alabama,2020-03-20,83
-32.3182,-86.9023,Alabama @ US,Alabama,2020-03-21,83
+32.3182,-86.9023,Alabama @ US,Alabama,2020-03-21,131
 29.7938,-82.4944,"Alachua, FL @ US","Alachua, FL",2020-01-22,0
 29.7938,-82.4944,"Alachua, FL @ US","Alachua, FL",2020-01-23,0
 29.7938,-82.4944,"Alachua, FL @ US","Alachua, FL",2020-01-24,0
@@ -358,7 +358,7 @@ Lat,Long,id,display_name,date,cases
 61.3707,-152.4044,Alaska @ US,Alaska,2020-03-18,6
 61.3707,-152.4044,Alaska @ US,Alaska,2020-03-19,9
 61.3707,-152.4044,Alaska @ US,Alaska,2020-03-20,12
-61.3707,-152.4044,Alaska @ US,Alaska,2020-03-21,12
+61.3707,-152.4044,Alaska @ US,Alaska,2020-03-21,15
 41.1533,20.1683,Albania,Albania,2020-01-22,0
 41.1533,20.1683,Albania,Albania,2020-01-23,0
 41.1533,20.1683,Albania,Albania,2020-01-24,0
@@ -418,7 +418,7 @@ Lat,Long,id,display_name,date,cases
 41.1533,20.1683,Albania,Albania,2020-03-18,59
 41.1533,20.1683,Albania,Albania,2020-03-19,64
 41.1533,20.1683,Albania,Albania,2020-03-20,70
-41.1533,20.1683,Albania,Albania,2020-03-21,70
+41.1533,20.1683,Albania,Albania,2020-03-21,76
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-01-22,0
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-01-23,0
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-01-24,0
@@ -478,7 +478,7 @@ Lat,Long,id,display_name,date,cases
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-18,97
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-19,119
 53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-20,146
-53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-21,146
+53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-21,195
 28.0339,1.6596,Algeria,Algeria,2020-01-22,0
 28.0339,1.6596,Algeria,Algeria,2020-01-23,0
 28.0339,1.6596,Algeria,Algeria,2020-01-24,0
@@ -538,7 +538,7 @@ Lat,Long,id,display_name,date,cases
 28.0339,1.6596,Algeria,Algeria,2020-03-18,74
 28.0339,1.6596,Algeria,Algeria,2020-03-19,87
 28.0339,1.6596,Algeria,Algeria,2020-03-20,90
-28.0339,1.6596,Algeria,Algeria,2020-03-21,90
+28.0339,1.6596,Algeria,Algeria,2020-03-21,139
 42.5063,1.5218,Andorra,Andorra,2020-01-22,0
 42.5063,1.5218,Andorra,Andorra,2020-01-23,0
 42.5063,1.5218,Andorra,Andorra,2020-01-24,0
@@ -598,7 +598,7 @@ Lat,Long,id,display_name,date,cases
 42.5063,1.5218,Andorra,Andorra,2020-03-18,39
 42.5063,1.5218,Andorra,Andorra,2020-03-19,53
 42.5063,1.5218,Andorra,Andorra,2020-03-20,75
-42.5063,1.5218,Andorra,Andorra,2020-03-21,75
+42.5063,1.5218,Andorra,Andorra,2020-03-21,88
 -11.2027,17.8739,Angola,Angola,2020-01-22,0
 -11.2027,17.8739,Angola,Angola,2020-01-23,0
 -11.2027,17.8739,Angola,Angola,2020-01-24,0
@@ -658,7 +658,7 @@ Lat,Long,id,display_name,date,cases
 -11.2027,17.8739,Angola,Angola,2020-03-18,0
 -11.2027,17.8739,Angola,Angola,2020-03-19,0
 -11.2027,17.8739,Angola,Angola,2020-03-20,1
--11.2027,17.8739,Angola,Angola,2020-03-21,1
+-11.2027,17.8739,Angola,Angola,2020-03-21,2
 31.8257,117.2264,Anhui @ China,Anhui,2020-01-22,1
 31.8257,117.2264,Anhui @ China,Anhui,2020-01-23,9
 31.8257,117.2264,Anhui @ China,Anhui,2020-01-24,15
@@ -958,7 +958,7 @@ Lat,Long,id,display_name,date,cases
 -38.4161,-63.6167,Argentina,Argentina,2020-03-18,79
 -38.4161,-63.6167,Argentina,Argentina,2020-03-19,97
 -38.4161,-63.6167,Argentina,Argentina,2020-03-20,128
--38.4161,-63.6167,Argentina,Argentina,2020-03-21,128
+-38.4161,-63.6167,Argentina,Argentina,2020-03-21,158
 33.7298,-111.4312,Arizona @ US,Arizona,2020-01-22,0
 33.7298,-111.4312,Arizona @ US,Arizona,2020-01-23,0
 33.7298,-111.4312,Arizona @ US,Arizona,2020-01-24,0
@@ -1018,7 +1018,7 @@ Lat,Long,id,display_name,date,cases
 33.7298,-111.4312,Arizona @ US,Arizona,2020-03-18,27
 33.7298,-111.4312,Arizona @ US,Arizona,2020-03-19,45
 33.7298,-111.4312,Arizona @ US,Arizona,2020-03-20,78
-33.7298,-111.4312,Arizona @ US,Arizona,2020-03-21,78
+33.7298,-111.4312,Arizona @ US,Arizona,2020-03-21,118
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-01-22,0
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-01-23,0
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-01-24,0
@@ -1078,7 +1078,7 @@ Lat,Long,id,display_name,date,cases
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-03-18,33
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-03-19,62
 34.9697,-92.3731,Arkansas @ US,Arkansas,2020-03-20,96
-34.9697,-92.3731,Arkansas @ US,Arkansas,2020-03-21,96
+34.9697,-92.3731,Arkansas @ US,Arkansas,2020-03-21,122
 38.8816,-77.091,"Arlington, VA @ US","Arlington, VA",2020-01-22,0
 38.8816,-77.091,"Arlington, VA @ US","Arlington, VA",2020-01-23,0
 38.8816,-77.091,"Arlington, VA @ US","Arlington, VA",2020-01-24,0
@@ -1198,7 +1198,7 @@ Lat,Long,id,display_name,date,cases
 40.0691,45.0382,Armenia,Armenia,2020-03-18,84
 40.0691,45.0382,Armenia,Armenia,2020-03-19,115
 40.0691,45.0382,Armenia,Armenia,2020-03-20,136
-40.0691,45.0382,Armenia,Armenia,2020-03-21,136
+40.0691,45.0382,Armenia,Armenia,2020-03-21,160
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-22,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-23,0
 12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-01-24,0
@@ -1318,7 +1318,7 @@ Lat,Long,id,display_name,date,cases
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-18,3
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-19,4
 -35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-20,6
--35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-21,6
+-35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-21,9
 47.5162,14.5501,Austria,Austria,2020-01-22,0
 47.5162,14.5501,Austria,Austria,2020-01-23,0
 47.5162,14.5501,Austria,Austria,2020-01-24,0
@@ -1378,7 +1378,7 @@ Lat,Long,id,display_name,date,cases
 47.5162,14.5501,Austria,Austria,2020-03-18,1646
 47.5162,14.5501,Austria,Austria,2020-03-19,2013
 47.5162,14.5501,Austria,Austria,2020-03-20,2388
-47.5162,14.5501,Austria,Austria,2020-03-21,2388
+47.5162,14.5501,Austria,Austria,2020-03-21,2814
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-01-22,0
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-01-23,0
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-01-24,0
@@ -1438,7 +1438,7 @@ Lat,Long,id,display_name,date,cases
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-18,28
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-19,44
 40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-20,44
-40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-21,44
+40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-21,53
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-01-22,0
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-01-23,0
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-01-24,0
@@ -1498,7 +1498,7 @@ Lat,Long,id,display_name,date,cases
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-03-18,1
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-03-19,3
 25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-03-20,3
-25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-03-21,3
+25.0343,-77.3963,"Bahamas, The","Bahamas, The",2020-03-21,4
 26.0275,50.55,Bahrain,Bahrain,2020-01-22,0
 26.0275,50.55,Bahrain,Bahrain,2020-01-23,0
 26.0275,50.55,Bahrain,Bahrain,2020-01-24,0
@@ -1558,7 +1558,7 @@ Lat,Long,id,display_name,date,cases
 26.0275,50.55,Bahrain,Bahrain,2020-03-18,256
 26.0275,50.55,Bahrain,Bahrain,2020-03-19,278
 26.0275,50.55,Bahrain,Bahrain,2020-03-20,285
-26.0275,50.55,Bahrain,Bahrain,2020-03-21,285
+26.0275,50.55,Bahrain,Bahrain,2020-03-21,305
 23.685,90.3563,Bangladesh,Bangladesh,2020-01-22,0
 23.685,90.3563,Bangladesh,Bangladesh,2020-01-23,0
 23.685,90.3563,Bangladesh,Bangladesh,2020-01-24,0
@@ -1618,7 +1618,7 @@ Lat,Long,id,display_name,date,cases
 23.685,90.3563,Bangladesh,Bangladesh,2020-03-18,14
 23.685,90.3563,Bangladesh,Bangladesh,2020-03-19,17
 23.685,90.3563,Bangladesh,Bangladesh,2020-03-20,20
-23.685,90.3563,Bangladesh,Bangladesh,2020-03-21,20
+23.685,90.3563,Bangladesh,Bangladesh,2020-03-21,25
 13.1939,-59.5432,Barbados,Barbados,2020-01-22,0
 13.1939,-59.5432,Barbados,Barbados,2020-01-23,0
 13.1939,-59.5432,Barbados,Barbados,2020-01-24,0
@@ -1678,7 +1678,7 @@ Lat,Long,id,display_name,date,cases
 13.1939,-59.5432,Barbados,Barbados,2020-03-18,2
 13.1939,-59.5432,Barbados,Barbados,2020-03-19,5
 13.1939,-59.5432,Barbados,Barbados,2020-03-20,5
-13.1939,-59.5432,Barbados,Barbados,2020-03-21,5
+13.1939,-59.5432,Barbados,Barbados,2020-03-21,6
 44.4797,-98.2213,"Beadle, SD @ US","Beadle, SD",2020-01-22,0
 44.4797,-98.2213,"Beadle, SD @ US","Beadle, SD",2020-01-23,0
 44.4797,-98.2213,"Beadle, SD @ US","Beadle, SD",2020-01-24,0
@@ -1798,7 +1798,7 @@ Lat,Long,id,display_name,date,cases
 40.1824,116.4142,Beijing @ China,Beijing,2020-03-18,469
 40.1824,116.4142,Beijing @ China,Beijing,2020-03-19,480
 40.1824,116.4142,Beijing @ China,Beijing,2020-03-20,491
-40.1824,116.4142,Beijing @ China,Beijing,2020-03-21,491
+40.1824,116.4142,Beijing @ China,Beijing,2020-03-21,504
 53.7098,27.9534,Belarus,Belarus,2020-01-22,0
 53.7098,27.9534,Belarus,Belarus,2020-01-23,0
 53.7098,27.9534,Belarus,Belarus,2020-01-24,0
@@ -1858,7 +1858,7 @@ Lat,Long,id,display_name,date,cases
 53.7098,27.9534,Belarus,Belarus,2020-03-18,51
 53.7098,27.9534,Belarus,Belarus,2020-03-19,51
 53.7098,27.9534,Belarus,Belarus,2020-03-20,69
-53.7098,27.9534,Belarus,Belarus,2020-03-21,69
+53.7098,27.9534,Belarus,Belarus,2020-03-21,76
 50.8333,4,Belgium,Belgium,2020-01-22,0
 50.8333,4,Belgium,Belgium,2020-01-23,0
 50.8333,4,Belgium,Belgium,2020-01-24,0
@@ -1918,7 +1918,7 @@ Lat,Long,id,display_name,date,cases
 50.8333,4,Belgium,Belgium,2020-03-18,1486
 50.8333,4,Belgium,Belgium,2020-03-19,1795
 50.8333,4,Belgium,Belgium,2020-03-20,2257
-50.8333,4,Belgium,Belgium,2020-03-21,2257
+50.8333,4,Belgium,Belgium,2020-03-21,2815
 9.3077,2.3158,Benin,Benin,2020-01-22,0
 9.3077,2.3158,Benin,Benin,2020-01-23,0
 9.3077,2.3158,Benin,Benin,2020-01-24,0
@@ -2398,7 +2398,7 @@ Lat,Long,id,display_name,date,cases
 -16.2902,-63.5887,Bolivia,Bolivia,2020-03-18,12
 -16.2902,-63.5887,Bolivia,Bolivia,2020-03-19,12
 -16.2902,-63.5887,Bolivia,Bolivia,2020-03-20,15
--16.2902,-63.5887,Bolivia,Bolivia,2020-03-21,15
+-16.2902,-63.5887,Bolivia,Bolivia,2020-03-21,19
 42.9815,-97.8722,"Bon Homme, SD @ US","Bon Homme, SD",2020-01-22,0
 42.9815,-97.8722,"Bon Homme, SD @ US","Bon Homme, SD",2020-01-23,0
 42.9815,-97.8722,"Bon Homme, SD @ US","Bon Homme, SD",2020-01-24,0
@@ -2578,7 +2578,7 @@ Lat,Long,id,display_name,date,cases
 43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-18,38
 43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-19,63
 43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-20,89
-43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-21,89
+43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-21,93
 -14.235,-51.9253,Brazil,Brazil,2020-01-22,0
 -14.235,-51.9253,Brazil,Brazil,2020-01-23,0
 -14.235,-51.9253,Brazil,Brazil,2020-01-24,0
@@ -2638,7 +2638,7 @@ Lat,Long,id,display_name,date,cases
 -14.235,-51.9253,Brazil,Brazil,2020-03-18,372
 -14.235,-51.9253,Brazil,Brazil,2020-03-19,621
 -14.235,-51.9253,Brazil,Brazil,2020-03-20,793
--14.235,-51.9253,Brazil,Brazil,2020-03-21,793
+-14.235,-51.9253,Brazil,Brazil,2020-03-21,1021
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-01-22,0
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-01-23,0
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-01-24,0
@@ -2698,7 +2698,7 @@ Lat,Long,id,display_name,date,cases
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-18,186
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-19,231
 49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-20,271
-49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-21,271
+49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-21,424
 26.1901,-80.3659,"Broward County, FL @ US","Broward County, FL",2020-01-22,0
 26.1901,-80.3659,"Broward County, FL @ US","Broward County, FL",2020-01-23,0
 26.1901,-80.3659,"Broward County, FL @ US","Broward County, FL",2020-01-24,0
@@ -2818,7 +2818,7 @@ Lat,Long,id,display_name,date,cases
 4.5353,114.7277,Brunei,Brunei,2020-03-18,68
 4.5353,114.7277,Brunei,Brunei,2020-03-19,75
 4.5353,114.7277,Brunei,Brunei,2020-03-20,78
-4.5353,114.7277,Brunei,Brunei,2020-03-21,78
+4.5353,114.7277,Brunei,Brunei,2020-03-21,83
 40.4108,-75.2479,"Bucks, PA @ US","Bucks, PA",2020-01-22,0
 40.4108,-75.2479,"Bucks, PA @ US","Bucks, PA",2020-01-23,0
 40.4108,-75.2479,"Bucks, PA @ US","Bucks, PA",2020-01-24,0
@@ -2938,7 +2938,7 @@ Lat,Long,id,display_name,date,cases
 42.7339,25.4858,Bulgaria,Bulgaria,2020-03-18,92
 42.7339,25.4858,Bulgaria,Bulgaria,2020-03-19,94
 42.7339,25.4858,Bulgaria,Bulgaria,2020-03-20,127
-42.7339,25.4858,Bulgaria,Bulgaria,2020-03-21,127
+42.7339,25.4858,Bulgaria,Bulgaria,2020-03-21,163
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-01-22,0
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-01-23,0
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-01-24,0
@@ -2998,7 +2998,7 @@ Lat,Long,id,display_name,date,cases
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-18,20
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-19,33
 12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-20,40
-12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-21,40
+12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-21,64
 40.0712,-74.8649,"Burlington, NJ @ US","Burlington, NJ",2020-01-22,0
 40.0712,-74.8649,"Burlington, NJ @ US","Burlington, NJ",2020-01-23,0
 40.0712,-74.8649,"Burlington, NJ @ US","Burlington, NJ",2020-01-24,0
@@ -3118,7 +3118,7 @@ Lat,Long,id,display_name,date,cases
 16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-18,0
 16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-19,0
 16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-20,1
-16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-21,1
+16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-21,3
 38.196,-120.6805,"Calaveras, CA @ US","Calaveras, CA",2020-01-22,0
 38.196,-120.6805,"Calaveras, CA @ US","Calaveras, CA",2020-01-23,0
 38.196,-120.6805,"Calaveras, CA @ US","Calaveras, CA",2020-01-24,0
@@ -3238,7 +3238,7 @@ Lat,Long,id,display_name,date,cases
 36.1162,-119.6816,California @ US,California,2020-03-18,751
 36.1162,-119.6816,California @ US,California,2020-03-19,952
 36.1162,-119.6816,California @ US,California,2020-03-20,1177
-36.1162,-119.6816,California @ US,California,2020-03-21,1177
+36.1162,-119.6816,California @ US,California,2020-03-21,1364
 11.55,104.9167,Cambodia,Cambodia,2020-01-22,0
 11.55,104.9167,Cambodia,Cambodia,2020-01-23,0
 11.55,104.9167,Cambodia,Cambodia,2020-01-24,0
@@ -3298,7 +3298,7 @@ Lat,Long,id,display_name,date,cases
 11.55,104.9167,Cambodia,Cambodia,2020-03-18,35
 11.55,104.9167,Cambodia,Cambodia,2020-03-19,37
 11.55,104.9167,Cambodia,Cambodia,2020-03-20,51
-11.55,104.9167,Cambodia,Cambodia,2020-03-21,51
+11.55,104.9167,Cambodia,Cambodia,2020-03-21,53
 34.2465,-80.607,"Camden, NC @ US","Camden, NC",2020-01-22,0
 34.2465,-80.607,"Camden, NC @ US","Camden, NC",2020-01-23,0
 34.2465,-80.607,"Camden, NC @ US","Camden, NC",2020-01-24,0
@@ -3478,7 +3478,67 @@ Lat,Long,id,display_name,date,cases
 3.848,11.5021,Cameroon,Cameroon,2020-03-18,10
 3.848,11.5021,Cameroon,Cameroon,2020-03-19,13
 3.848,11.5021,Cameroon,Cameroon,2020-03-20,20
-3.848,11.5021,Cameroon,Cameroon,2020-03-21,20
+3.848,11.5021,Cameroon,Cameroon,2020-03-21,27
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-22,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-23,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-24,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-25,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-26,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-27,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-28,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-29,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-30,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-01-31,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-01,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-02,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-03,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-04,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-05,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-06,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-07,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-08,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-09,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-10,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-11,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-12,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-13,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-14,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-15,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-16,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-17,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-18,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-19,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-20,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-21,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-22,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-23,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-24,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-25,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-26,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-27,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-28,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-02-29,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-01,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-02,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-03,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-04,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-05,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-06,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-07,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-08,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-09,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-10,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-11,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-12,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-13,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-14,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-15,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-16,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-17,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-18,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-19,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-20,0
+15.1111,-23.6167,Cape Verde,Cape Verde,2020-03-21,1
 44.8254,-93.7842,"Carver County, MN @ US","Carver County, MN",2020-01-22,0
 44.8254,-93.7842,"Carver County, MN @ US","Carver County, MN",2020-01-23,0
 44.8254,-93.7842,"Carver County, MN @ US","Carver County, MN",2020-01-24,0
@@ -3778,7 +3838,7 @@ Lat,Long,id,display_name,date,cases
 49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-18,6
 49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-19,11
 49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-20,14
-49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-21,14
+49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-21,32
 43.0985,-98.3965,"Charles Mix, SD @ US","Charles Mix, SD",2020-01-22,0
 43.0985,-98.3965,"Charles Mix, SD @ US","Charles Mix, SD",2020-01-23,0
 43.0985,-98.3965,"Charles Mix, SD @ US","Charles Mix, SD",2020-01-24,0
@@ -4198,7 +4258,7 @@ Lat,Long,id,display_name,date,cases
 -35.6751,-71.543,Chile,Chile,2020-03-18,238
 -35.6751,-71.543,Chile,Chile,2020-03-19,238
 -35.6751,-71.543,Chile,Chile,2020-03-20,434
--35.6751,-71.543,Chile,Chile,2020-03-21,434
+-35.6751,-71.543,Chile,Chile,2020-03-21,537
 30.0572,107.874,Chongqing @ China,Chongqing,2020-01-22,6
 30.0572,107.874,Chongqing @ China,Chongqing,2020-01-23,9
 30.0572,107.874,Chongqing @ China,Chongqing,2020-01-24,27
@@ -4618,7 +4678,7 @@ Lat,Long,id,display_name,date,cases
 4.5709,-74.2973,Colombia,Colombia,2020-03-18,93
 4.5709,-74.2973,Colombia,Colombia,2020-03-19,102
 4.5709,-74.2973,Colombia,Colombia,2020-03-20,128
-4.5709,-74.2973,Colombia,Colombia,2020-03-21,128
+4.5709,-74.2973,Colombia,Colombia,2020-03-21,196
 39.0598,-105.3111,Colorado @ US,Colorado,2020-01-22,0
 39.0598,-105.3111,Colorado @ US,Colorado,2020-01-23,0
 39.0598,-105.3111,Colorado @ US,Colorado,2020-01-24,0
@@ -4678,7 +4738,7 @@ Lat,Long,id,display_name,date,cases
 39.0598,-105.3111,Colorado @ US,Colorado,2020-03-18,184
 39.0598,-105.3111,Colorado @ US,Colorado,2020-03-19,277
 39.0598,-105.3111,Colorado @ US,Colorado,2020-03-20,363
-39.0598,-105.3111,Colorado @ US,Colorado,2020-03-21,363
+39.0598,-105.3111,Colorado @ US,Colorado,2020-03-21,390
 -4.0383,21.7587,Congo (Brazzaville),Congo (Brazzaville),2020-01-22,0
 -4.0383,21.7587,Congo (Brazzaville),Congo (Brazzaville),2020-01-23,0
 -4.0383,21.7587,Congo (Brazzaville),Congo (Brazzaville),2020-01-24,0
@@ -4798,7 +4858,7 @@ Lat,Long,id,display_name,date,cases
 -4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-18,4
 -4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-19,14
 -4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-20,18
--4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-21,18
+-4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-21,23
 41.5978,-72.7554,Connecticut @ US,Connecticut,2020-01-22,0
 41.5978,-72.7554,Connecticut @ US,Connecticut,2020-01-23,0
 41.5978,-72.7554,Connecticut @ US,Connecticut,2020-01-24,0
@@ -5038,7 +5098,7 @@ Lat,Long,id,display_name,date,cases
 9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-18,50
 9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-19,69
 9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-20,89
-9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-21,89
+9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-21,117
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-01-22,0
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-01-23,0
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-01-24,0
@@ -5098,7 +5158,7 @@ Lat,Long,id,display_name,date,cases
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-18,6
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-19,9
 7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-20,9
-7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-21,9
+7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-21,14
 45.1,15.2,Croatia,Croatia,2020-01-22,0
 45.1,15.2,Croatia,Croatia,2020-01-23,0
 45.1,15.2,Croatia,Croatia,2020-01-24,0
@@ -5158,7 +5218,7 @@ Lat,Long,id,display_name,date,cases
 45.1,15.2,Croatia,Croatia,2020-03-18,81
 45.1,15.2,Croatia,Croatia,2020-03-19,105
 45.1,15.2,Croatia,Croatia,2020-03-20,128
-45.1,15.2,Croatia,Croatia,2020-03-21,128
+45.1,15.2,Croatia,Croatia,2020-03-21,206
 22,-80,Cuba,Cuba,2020-01-22,0
 22,-80,Cuba,Cuba,2020-01-23,0
 22,-80,Cuba,Cuba,2020-01-24,0
@@ -5218,7 +5278,7 @@ Lat,Long,id,display_name,date,cases
 22,-80,Cuba,Cuba,2020-03-18,7
 22,-80,Cuba,Cuba,2020-03-19,11
 22,-80,Cuba,Cuba,2020-03-20,16
-22,-80,Cuba,Cuba,2020-03-21,16
+22,-80,Cuba,Cuba,2020-03-21,21
 12.1696,-68.99,Curacao @ Netherlands,Curacao,2020-01-22,0
 12.1696,-68.99,Curacao @ Netherlands,Curacao,2020-01-23,0
 12.1696,-68.99,Curacao @ Netherlands,Curacao,2020-01-24,0
@@ -5398,7 +5458,7 @@ Lat,Long,id,display_name,date,cases
 35.1264,33.4299,Cyprus,Cyprus,2020-03-18,49
 35.1264,33.4299,Cyprus,Cyprus,2020-03-19,67
 35.1264,33.4299,Cyprus,Cyprus,2020-03-20,67
-35.1264,33.4299,Cyprus,Cyprus,2020-03-21,67
+35.1264,33.4299,Cyprus,Cyprus,2020-03-21,84
 49.8175,15.473,Czechia,Czechia,2020-01-22,0
 49.8175,15.473,Czechia,Czechia,2020-01-23,0
 49.8175,15.473,Czechia,Czechia,2020-01-24,0
@@ -5458,7 +5518,7 @@ Lat,Long,id,display_name,date,cases
 49.8175,15.473,Czechia,Czechia,2020-03-18,464
 49.8175,15.473,Czechia,Czechia,2020-03-19,694
 49.8175,15.473,Czechia,Czechia,2020-03-20,833
-49.8175,15.473,Czechia,Czechia,2020-03-21,833
+49.8175,15.473,Czechia,Czechia,2020-03-21,995
 32.7767,-96.797,"Dallas, TX @ US","Dallas, TX",2020-01-22,0
 32.7767,-96.797,"Dallas, TX @ US","Dallas, TX",2020-01-23,0
 32.7767,-96.797,"Dallas, TX @ US","Dallas, TX",2020-01-24,0
@@ -5878,7 +5938,7 @@ Lat,Long,id,display_name,date,cases
 39.3185,-75.5071,Delaware @ US,Delaware,2020-03-18,19
 39.3185,-75.5071,Delaware @ US,Delaware,2020-03-19,30
 39.3185,-75.5071,Delaware @ US,Delaware,2020-03-20,38
-39.3185,-75.5071,Delaware @ US,Delaware,2020-03-21,38
+39.3185,-75.5071,Delaware @ US,Delaware,2020-03-21,45
 39.9078,-75.3879,"Delaware County, PA @ US","Delaware County, PA",2020-01-22,0
 39.9078,-75.3879,"Delaware County, PA @ US","Delaware County, PA",2020-01-23,0
 39.9078,-75.3879,"Delaware County, PA @ US","Delaware County, PA",2020-01-24,0
@@ -5998,7 +6058,7 @@ Lat,Long,id,display_name,date,cases
 56.2639,9.5018,Denmark @ Denmark,Denmark,2020-03-18,1057
 56.2639,9.5018,Denmark @ Denmark,Denmark,2020-03-19,1151
 56.2639,9.5018,Denmark @ Denmark,Denmark,2020-03-20,1255
-56.2639,9.5018,Denmark @ Denmark,Denmark,2020-03-21,1255
+56.2639,9.5018,Denmark @ Denmark,Denmark,2020-03-21,1326
 39.7392,-104.9903,"Denver County, CO @ US","Denver County, CO",2020-01-22,0
 39.7392,-104.9903,"Denver County, CO @ US","Denver County, CO",2020-01-23,0
 39.7392,-104.9903,"Denver County, CO @ US","Denver County, CO",2020-01-24,0
@@ -6298,7 +6358,7 @@ Lat,Long,id,display_name,date,cases
 38.8974,-77.0268,District of Columbia @ US,District of Columbia,2020-03-18,31
 38.8974,-77.0268,District of Columbia @ US,District of Columbia,2020-03-19,40
 38.8974,-77.0268,District of Columbia @ US,District of Columbia,2020-03-20,71
-38.8974,-77.0268,District of Columbia @ US,District of Columbia,2020-03-21,71
+38.8974,-77.0268,District of Columbia @ US,District of Columbia,2020-03-21,77
 11.8251,42.5903,Djibouti,Djibouti,2020-01-22,0
 11.8251,42.5903,Djibouti,Djibouti,2020-01-23,0
 11.8251,42.5903,Djibouti,Djibouti,2020-01-24,0
@@ -6418,7 +6478,7 @@ Lat,Long,id,display_name,date,cases
 18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-18,21
 18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-19,34
 18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-20,72
-18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-21,72
+18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-21,112
 39.2587,-104.9389,"Douglas County, CO @ US","Douglas County, CO",2020-01-22,0
 39.2587,-104.9389,"Douglas County, CO @ US","Douglas County, CO",2020-01-23,0
 39.2587,-104.9389,"Douglas County, CO @ US","Douglas County, CO",2020-01-24,0
@@ -6659,6 +6719,66 @@ Lat,Long,id,display_name,date,cases
 39.6553,-106.8287,"Eagle, CO @ US","Eagle, CO",2020-03-19,0
 39.6553,-106.8287,"Eagle, CO @ US","Eagle, CO",2020-03-20,0
 39.6553,-106.8287,"Eagle, CO @ US","Eagle, CO",2020-03-21,0
+-8.55,125.56,East Timor,East Timor,2020-01-22,0
+-8.55,125.56,East Timor,East Timor,2020-01-23,0
+-8.55,125.56,East Timor,East Timor,2020-01-24,0
+-8.55,125.56,East Timor,East Timor,2020-01-25,0
+-8.55,125.56,East Timor,East Timor,2020-01-26,0
+-8.55,125.56,East Timor,East Timor,2020-01-27,0
+-8.55,125.56,East Timor,East Timor,2020-01-28,0
+-8.55,125.56,East Timor,East Timor,2020-01-29,0
+-8.55,125.56,East Timor,East Timor,2020-01-30,0
+-8.55,125.56,East Timor,East Timor,2020-01-31,0
+-8.55,125.56,East Timor,East Timor,2020-02-01,0
+-8.55,125.56,East Timor,East Timor,2020-02-02,0
+-8.55,125.56,East Timor,East Timor,2020-02-03,0
+-8.55,125.56,East Timor,East Timor,2020-02-04,0
+-8.55,125.56,East Timor,East Timor,2020-02-05,0
+-8.55,125.56,East Timor,East Timor,2020-02-06,0
+-8.55,125.56,East Timor,East Timor,2020-02-07,0
+-8.55,125.56,East Timor,East Timor,2020-02-08,0
+-8.55,125.56,East Timor,East Timor,2020-02-09,0
+-8.55,125.56,East Timor,East Timor,2020-02-10,0
+-8.55,125.56,East Timor,East Timor,2020-02-11,0
+-8.55,125.56,East Timor,East Timor,2020-02-12,0
+-8.55,125.56,East Timor,East Timor,2020-02-13,0
+-8.55,125.56,East Timor,East Timor,2020-02-14,0
+-8.55,125.56,East Timor,East Timor,2020-02-15,0
+-8.55,125.56,East Timor,East Timor,2020-02-16,0
+-8.55,125.56,East Timor,East Timor,2020-02-17,0
+-8.55,125.56,East Timor,East Timor,2020-02-18,0
+-8.55,125.56,East Timor,East Timor,2020-02-19,0
+-8.55,125.56,East Timor,East Timor,2020-02-20,0
+-8.55,125.56,East Timor,East Timor,2020-02-21,0
+-8.55,125.56,East Timor,East Timor,2020-02-22,0
+-8.55,125.56,East Timor,East Timor,2020-02-23,0
+-8.55,125.56,East Timor,East Timor,2020-02-24,0
+-8.55,125.56,East Timor,East Timor,2020-02-25,0
+-8.55,125.56,East Timor,East Timor,2020-02-26,0
+-8.55,125.56,East Timor,East Timor,2020-02-27,0
+-8.55,125.56,East Timor,East Timor,2020-02-28,0
+-8.55,125.56,East Timor,East Timor,2020-02-29,0
+-8.55,125.56,East Timor,East Timor,2020-03-01,0
+-8.55,125.56,East Timor,East Timor,2020-03-02,0
+-8.55,125.56,East Timor,East Timor,2020-03-03,0
+-8.55,125.56,East Timor,East Timor,2020-03-04,0
+-8.55,125.56,East Timor,East Timor,2020-03-05,0
+-8.55,125.56,East Timor,East Timor,2020-03-06,0
+-8.55,125.56,East Timor,East Timor,2020-03-07,0
+-8.55,125.56,East Timor,East Timor,2020-03-08,0
+-8.55,125.56,East Timor,East Timor,2020-03-09,0
+-8.55,125.56,East Timor,East Timor,2020-03-10,0
+-8.55,125.56,East Timor,East Timor,2020-03-11,0
+-8.55,125.56,East Timor,East Timor,2020-03-12,0
+-8.55,125.56,East Timor,East Timor,2020-03-13,0
+-8.55,125.56,East Timor,East Timor,2020-03-14,0
+-8.55,125.56,East Timor,East Timor,2020-03-15,0
+-8.55,125.56,East Timor,East Timor,2020-03-16,0
+-8.55,125.56,East Timor,East Timor,2020-03-17,0
+-8.55,125.56,East Timor,East Timor,2020-03-18,0
+-8.55,125.56,East Timor,East Timor,2020-03-19,0
+-8.55,125.56,East Timor,East Timor,2020-03-20,0
+-8.55,125.56,East Timor,East Timor,2020-03-21,1
 -1.8312,-78.1834,Ecuador,Ecuador,2020-01-22,0
 -1.8312,-78.1834,Ecuador,Ecuador,2020-01-23,0
 -1.8312,-78.1834,Ecuador,Ecuador,2020-01-24,0
@@ -6718,7 +6838,7 @@ Lat,Long,id,display_name,date,cases
 -1.8312,-78.1834,Ecuador,Ecuador,2020-03-18,111
 -1.8312,-78.1834,Ecuador,Ecuador,2020-03-19,199
 -1.8312,-78.1834,Ecuador,Ecuador,2020-03-20,367
--1.8312,-78.1834,Ecuador,Ecuador,2020-03-21,367
+-1.8312,-78.1834,Ecuador,Ecuador,2020-03-21,506
 26,30,Egypt,Egypt,2020-01-22,0
 26,30,Egypt,Egypt,2020-01-23,0
 26,30,Egypt,Egypt,2020-01-24,0
@@ -6778,7 +6898,7 @@ Lat,Long,id,display_name,date,cases
 26,30,Egypt,Egypt,2020-03-18,196
 26,30,Egypt,Egypt,2020-03-19,256
 26,30,Egypt,Egypt,2020-03-20,285
-26,30,Egypt,Egypt,2020-03-21,285
+26,30,Egypt,Egypt,2020-03-21,294
 38.9108,-104.4723,"El Paso County, CO @ US","El Paso County, CO",2020-01-22,0
 38.9108,-104.4723,"El Paso County, CO @ US","El Paso County, CO",2020-01-23,0
 38.9108,-104.4723,"El Paso County, CO @ US","El Paso County, CO",2020-01-24,0
@@ -6898,7 +7018,7 @@ Lat,Long,id,display_name,date,cases
 13.7942,-88.8965,El Salvador,El Salvador,2020-03-18,0
 13.7942,-88.8965,El Salvador,El Salvador,2020-03-19,1
 13.7942,-88.8965,El Salvador,El Salvador,2020-03-20,1
-13.7942,-88.8965,El Salvador,El Salvador,2020-03-21,1
+13.7942,-88.8965,El Salvador,El Salvador,2020-03-21,3
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-01-22,0
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-01-23,0
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-01-24,0
@@ -6959,6 +7079,66 @@ Lat,Long,id,display_name,date,cases
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-03-19,6
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-03-20,6
 1.5,10,Equatorial Guinea,Equatorial Guinea,2020-03-21,6
+15.1794,39.7823,Eritrea,Eritrea,2020-01-22,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-23,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-24,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-25,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-26,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-27,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-28,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-29,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-30,0
+15.1794,39.7823,Eritrea,Eritrea,2020-01-31,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-01,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-02,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-03,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-04,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-05,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-06,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-07,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-08,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-09,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-10,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-11,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-12,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-13,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-14,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-15,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-16,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-17,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-18,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-19,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-20,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-21,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-22,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-23,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-24,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-25,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-26,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-27,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-28,0
+15.1794,39.7823,Eritrea,Eritrea,2020-02-29,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-01,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-02,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-03,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-04,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-05,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-06,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-07,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-08,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-09,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-10,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-11,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-12,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-13,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-14,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-15,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-16,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-17,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-18,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-19,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-20,0
+15.1794,39.7823,Eritrea,Eritrea,2020-03-21,1
 42.632,-70.7829,"Essex, MA @ US","Essex, MA",2020-01-22,0
 42.632,-70.7829,"Essex, MA @ US","Essex, MA",2020-01-23,0
 42.632,-70.7829,"Essex, MA @ US","Essex, MA",2020-01-24,0
@@ -7078,7 +7258,7 @@ Lat,Long,id,display_name,date,cases
 58.5953,25.0136,Estonia,Estonia,2020-03-18,258
 58.5953,25.0136,Estonia,Estonia,2020-03-19,267
 58.5953,25.0136,Estonia,Estonia,2020-03-20,283
-58.5953,25.0136,Estonia,Estonia,2020-03-21,283
+58.5953,25.0136,Estonia,Estonia,2020-03-21,306
 -26.5225,31.4659,Eswatini,Eswatini,2020-01-22,0
 -26.5225,31.4659,Eswatini,Eswatini,2020-01-23,0
 -26.5225,31.4659,Eswatini,Eswatini,2020-01-24,0
@@ -7378,7 +7558,7 @@ Lat,Long,id,display_name,date,cases
 61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-18,58
 61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-19,72
 61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-20,80
-61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-21,80
+61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-21,92
 38.0606,-84.4803,"Fayette County, KY @ US","Fayette County, KY",2020-01-22,0
 38.0606,-84.4803,"Fayette County, KY @ US","Fayette County, KY",2020-01-23,0
 38.0606,-84.4803,"Fayette County, KY @ US","Fayette County, KY",2020-01-24,0
@@ -7618,7 +7798,7 @@ Lat,Long,id,display_name,date,cases
 64,26,Finland,Finland,2020-03-18,336
 64,26,Finland,Finland,2020-03-19,400
 64,26,Finland,Finland,2020-03-20,450
-64,26,Finland,Finland,2020-03-21,450
+64,26,Finland,Finland,2020-03-21,523
 27.7663,-81.6868,Florida @ US,Florida,2020-01-22,0
 27.7663,-81.6868,Florida @ US,Florida,2020-01-23,0
 27.7663,-81.6868,Florida @ US,Florida,2020-01-24,0
@@ -7678,7 +7858,7 @@ Lat,Long,id,display_name,date,cases
 27.7663,-81.6868,Florida @ US,Florida,2020-03-18,314
 27.7663,-81.6868,Florida @ US,Florida,2020-03-19,417
 27.7663,-81.6868,Florida @ US,Florida,2020-03-20,563
-27.7663,-81.6868,Florida @ US,Florida,2020-03-21,563
+27.7663,-81.6868,Florida @ US,Florida,2020-03-21,659
 37.5455,-82.7779,"Floyd, GA @ US","Floyd, GA",2020-01-22,0
 37.5455,-82.7779,"Floyd, GA @ US","Floyd, GA",2020-01-23,0
 37.5455,-82.7779,"Floyd, GA @ US","Floyd, GA",2020-01-24,0
@@ -7858,7 +8038,7 @@ Lat,Long,id,display_name,date,cases
 46.2276,2.2137,France @ France,France,2020-03-18,9043
 46.2276,2.2137,France @ France,France,2020-03-19,10871
 46.2276,2.2137,France @ France,France,2020-03-20,12612
-46.2276,2.2137,France @ France,France,2020-03-21,12612
+46.2276,2.2137,France @ France,France,2020-03-21,14282
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-22,0
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-23,0
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-01-24,0
@@ -7918,7 +8098,7 @@ Lat,Long,id,display_name,date,cases
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-18,11
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-19,11
 3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-20,15
-3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-21,15
+3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-21,18
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-22,0
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-23,0
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-01-24,0
@@ -7978,7 +8158,7 @@ Lat,Long,id,display_name,date,cases
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-18,3
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-19,6
 -17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-20,11
--17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-21,11
+-17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-21,15
 36.9859,-119.2321,"Fresno County, CA @ US","Fresno County, CA",2020-01-22,0
 36.9859,-119.2321,"Fresno County, CA @ US","Fresno County, CA",2020-01-23,0
 36.9859,-119.2321,"Fresno County, CA @ US","Fresno County, CA",2020-01-24,0
@@ -8158,7 +8338,7 @@ Lat,Long,id,display_name,date,cases
 26.0789,117.9874,Fujian @ China,Fujian,2020-03-18,296
 26.0789,117.9874,Fujian @ China,Fujian,2020-03-19,296
 26.0789,117.9874,Fujian @ China,Fujian,2020-03-20,299
-26.0789,117.9874,Fujian @ China,Fujian,2020-03-21,299
+26.0789,117.9874,Fujian @ China,Fujian,2020-03-21,303
 33.8034,-84.3963,"Fulton County, GA @ US","Fulton County, GA",2020-01-22,0
 33.8034,-84.3963,"Fulton County, GA @ US","Fulton County, GA",2020-01-23,0
 33.8034,-84.3963,"Fulton County, GA @ US","Fulton County, GA",2020-01-24,0
@@ -8278,7 +8458,7 @@ Lat,Long,id,display_name,date,cases
 -0.8037,11.6094,Gabon,Gabon,2020-03-18,1
 -0.8037,11.6094,Gabon,Gabon,2020-03-19,1
 -0.8037,11.6094,Gabon,Gabon,2020-03-20,3
--0.8037,11.6094,Gabon,Gabon,2020-03-21,3
+-0.8037,11.6094,Gabon,Gabon,2020-03-21,4
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-01-22,0
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-01-23,0
 13.4432,-15.3101,"Gambia, The","Gambia, The",2020-01-24,0
@@ -8458,7 +8638,7 @@ Lat,Long,id,display_name,date,cases
 42.3154,43.3569,Georgia,Georgia,2020-03-18,38
 42.3154,43.3569,Georgia,Georgia,2020-03-19,40
 42.3154,43.3569,Georgia,Georgia,2020-03-20,43
-42.3154,43.3569,Georgia,Georgia,2020-03-21,43
+42.3154,43.3569,Georgia,Georgia,2020-03-21,49
 33.0406,-83.6431,Georgia @ US,Georgia,2020-01-22,0
 33.0406,-83.6431,Georgia @ US,Georgia,2020-01-23,0
 33.0406,-83.6431,Georgia @ US,Georgia,2020-01-24,0
@@ -8518,7 +8698,7 @@ Lat,Long,id,display_name,date,cases
 33.0406,-83.6431,Georgia @ US,Georgia,2020-03-18,199
 33.0406,-83.6431,Georgia @ US,Georgia,2020-03-19,287
 33.0406,-83.6431,Georgia @ US,Georgia,2020-03-20,420
-33.0406,-83.6431,Georgia @ US,Georgia,2020-03-21,420
+33.0406,-83.6431,Georgia @ US,Georgia,2020-03-21,507
 51,9,Germany,Germany,2020-01-22,0
 51,9,Germany,Germany,2020-01-23,0
 51,9,Germany,Germany,2020-01-24,0
@@ -8578,7 +8758,7 @@ Lat,Long,id,display_name,date,cases
 51,9,Germany,Germany,2020-03-18,12327
 51,9,Germany,Germany,2020-03-19,15320
 51,9,Germany,Germany,2020-03-20,19848
-51,9,Germany,Germany,2020-03-21,19848
+51,9,Germany,Germany,2020-03-21,22213
 7.9465,-1.0232,Ghana,Ghana,2020-01-22,0
 7.9465,-1.0232,Ghana,Ghana,2020-01-23,0
 7.9465,-1.0232,Ghana,Ghana,2020-01-24,0
@@ -8638,7 +8818,7 @@ Lat,Long,id,display_name,date,cases
 7.9465,-1.0232,Ghana,Ghana,2020-03-18,7
 7.9465,-1.0232,Ghana,Ghana,2020-03-19,11
 7.9465,-1.0232,Ghana,Ghana,2020-03-20,16
-7.9465,-1.0232,Ghana,Ghana,2020-03-21,16
+7.9465,-1.0232,Ghana,Ghana,2020-03-21,19
 36.1408,-5.3536,Gibraltar @ United Kingdom,Gibraltar,2020-01-22,0
 36.1408,-5.3536,Gibraltar @ United Kingdom,Gibraltar,2020-01-23,0
 36.1408,-5.3536,Gibraltar @ United Kingdom,Gibraltar,2020-01-24,0
@@ -8998,7 +9178,7 @@ Lat,Long,id,display_name,date,cases
 39.0742,21.8243,Greece,Greece,2020-03-18,418
 39.0742,21.8243,Greece,Greece,2020-03-19,418
 39.0742,21.8243,Greece,Greece,2020-03-20,495
-39.0742,21.8243,Greece,Greece,2020-03-21,495
+39.0742,21.8243,Greece,Greece,2020-03-21,530
 71.7069,-42.6043,Greenland @ Denmark,Greenland,2020-01-22,0
 71.7069,-42.6043,Greenland @ Denmark,Greenland,2020-01-23,0
 71.7069,-42.6043,Greenland @ Denmark,Greenland,2020-01-24,0
@@ -9178,7 +9358,7 @@ Lat,Long,id,display_name,date,cases
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-18,27
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-19,33
 16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-20,45
-16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-21,45
+16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-21,53
 13.4443,144.7937,Guam @ US,Guam,2020-01-22,0
 13.4443,144.7937,Guam @ US,Guam,2020-01-23,0
 13.4443,144.7937,Guam @ US,Guam,2020-01-24,0
@@ -9238,7 +9418,7 @@ Lat,Long,id,display_name,date,cases
 13.4443,144.7937,Guam @ US,Guam,2020-03-18,5
 13.4443,144.7937,Guam @ US,Guam,2020-03-19,12
 13.4443,144.7937,Guam @ US,Guam,2020-03-20,14
-13.4443,144.7937,Guam @ US,Guam,2020-03-21,14
+13.4443,144.7937,Guam @ US,Guam,2020-03-21,15
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-01-22,26
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-01-23,32
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-01-24,53
@@ -9298,7 +9478,7 @@ Lat,Long,id,display_name,date,cases
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-18,1370
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-19,1378
 23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-20,1395
-23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-21,1395
+23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-21,1400
 23.8298,108.7881,Guangxi @ China,Guangxi,2020-01-22,2
 23.8298,108.7881,Guangxi @ China,Guangxi,2020-01-23,5
 23.8298,108.7881,Guangxi @ China,Guangxi,2020-01-24,23
@@ -9418,7 +9598,7 @@ Lat,Long,id,display_name,date,cases
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-18,6
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-19,9
 15.7835,-90.2308,Guatemala,Guatemala,2020-03-20,12
-15.7835,-90.2308,Guatemala,Guatemala,2020-03-21,12
+15.7835,-90.2308,Guatemala,Guatemala,2020-03-21,17
 9.9456,-9.6966,Guinea,Guinea,2020-01-22,0
 9.9456,-9.6966,Guinea,Guinea,2020-01-23,0
 9.9456,-9.6966,Guinea,Guinea,2020-01-24,0
@@ -9478,7 +9658,7 @@ Lat,Long,id,display_name,date,cases
 9.9456,-9.6966,Guinea,Guinea,2020-03-18,1
 9.9456,-9.6966,Guinea,Guinea,2020-03-19,1
 9.9456,-9.6966,Guinea,Guinea,2020-03-20,1
-9.9456,-9.6966,Guinea,Guinea,2020-03-21,1
+9.9456,-9.6966,Guinea,Guinea,2020-03-21,2
 26.8154,106.8748,Guizhou @ China,Guizhou,2020-01-22,1
 26.8154,106.8748,Guizhou @ China,Guizhou,2020-01-23,3
 26.8154,106.8748,Guizhou @ China,Guizhou,2020-01-24,3
@@ -10138,7 +10318,7 @@ Lat,Long,id,display_name,date,cases
 21.0943,-157.4983,Hawaii @ US,Hawaii,2020-03-18,14
 21.0943,-157.4983,Hawaii @ US,Hawaii,2020-03-19,16
 21.0943,-157.4983,Hawaii @ US,Hawaii,2020-03-20,26
-21.0943,-157.4983,Hawaii @ US,Hawaii,2020-03-21,26
+21.0943,-157.4983,Hawaii @ US,Hawaii,2020-03-21,37
 39.549,116.1306,Hebei @ China,Hebei,2020-01-22,1
 39.549,116.1306,Hebei @ China,Hebei,2020-01-23,1
 39.549,116.1306,Hebei @ China,Hebei,2020-01-24,2
@@ -10618,7 +10798,7 @@ Lat,Long,id,display_name,date,cases
 22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-18,181
 22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-19,208
 22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-20,256
-22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-21,256
+22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-21,273
 21.307,-157.8584,"Honolulu County, HI @ US","Honolulu County, HI",2020-01-22,0
 21.307,-157.8584,"Honolulu County, HI @ US","Honolulu County, HI",2020-01-23,0
 21.307,-157.8584,"Honolulu County, HI @ US","Honolulu County, HI",2020-01-24,0
@@ -11038,7 +11218,7 @@ Lat,Long,id,display_name,date,cases
 47.1625,19.5033,Hungary,Hungary,2020-03-18,58
 47.1625,19.5033,Hungary,Hungary,2020-03-19,73
 47.1625,19.5033,Hungary,Hungary,2020-03-20,85
-47.1625,19.5033,Hungary,Hungary,2020-03-21,85
+47.1625,19.5033,Hungary,Hungary,2020-03-21,103
 64.9631,-19.0208,Iceland,Iceland,2020-01-22,0
 64.9631,-19.0208,Iceland,Iceland,2020-01-23,0
 64.9631,-19.0208,Iceland,Iceland,2020-01-24,0
@@ -11098,7 +11278,7 @@ Lat,Long,id,display_name,date,cases
 64.9631,-19.0208,Iceland,Iceland,2020-03-18,250
 64.9631,-19.0208,Iceland,Iceland,2020-03-19,330
 64.9631,-19.0208,Iceland,Iceland,2020-03-20,409
-64.9631,-19.0208,Iceland,Iceland,2020-03-21,409
+64.9631,-19.0208,Iceland,Iceland,2020-03-21,473
 44.2405,-114.4788,Idaho @ US,Idaho,2020-01-22,0
 44.2405,-114.4788,Idaho @ US,Idaho,2020-01-23,0
 44.2405,-114.4788,Idaho @ US,Idaho,2020-01-24,0
@@ -11158,7 +11338,7 @@ Lat,Long,id,display_name,date,cases
 44.2405,-114.4788,Idaho @ US,Idaho,2020-03-18,9
 44.2405,-114.4788,Idaho @ US,Idaho,2020-03-19,11
 44.2405,-114.4788,Idaho @ US,Idaho,2020-03-20,23
-44.2405,-114.4788,Idaho @ US,Idaho,2020-03-21,23
+44.2405,-114.4788,Idaho @ US,Idaho,2020-03-21,36
 40.3495,-88.9861,Illinois @ US,Illinois,2020-01-22,0
 40.3495,-88.9861,Illinois @ US,Illinois,2020-01-23,0
 40.3495,-88.9861,Illinois @ US,Illinois,2020-01-24,0
@@ -11218,7 +11398,7 @@ Lat,Long,id,display_name,date,cases
 40.3495,-88.9861,Illinois @ US,Illinois,2020-03-18,162
 40.3495,-88.9861,Illinois @ US,Illinois,2020-03-19,422
 40.3495,-88.9861,Illinois @ US,Illinois,2020-03-20,585
-40.3495,-88.9861,Illinois @ US,Illinois,2020-03-21,585
+40.3495,-88.9861,Illinois @ US,Illinois,2020-03-21,753
 21,78,India,India,2020-01-22,0
 21,78,India,India,2020-01-23,0
 21,78,India,India,2020-01-24,0
@@ -11278,7 +11458,7 @@ Lat,Long,id,display_name,date,cases
 21,78,India,India,2020-03-18,156
 21,78,India,India,2020-03-19,194
 21,78,India,India,2020-03-20,244
-21,78,India,India,2020-03-21,244
+21,78,India,India,2020-03-21,330
 39.8494,-86.2583,Indiana @ US,Indiana,2020-01-22,0
 39.8494,-86.2583,Indiana @ US,Indiana,2020-01-23,0
 39.8494,-86.2583,Indiana @ US,Indiana,2020-01-24,0
@@ -11338,7 +11518,7 @@ Lat,Long,id,display_name,date,cases
 39.8494,-86.2583,Indiana @ US,Indiana,2020-03-18,39
 39.8494,-86.2583,Indiana @ US,Indiana,2020-03-19,60
 39.8494,-86.2583,Indiana @ US,Indiana,2020-03-20,86
-39.8494,-86.2583,Indiana @ US,Indiana,2020-03-21,86
+39.8494,-86.2583,Indiana @ US,Indiana,2020-03-21,128
 -0.7893,113.9213,Indonesia,Indonesia,2020-01-22,0
 -0.7893,113.9213,Indonesia,Indonesia,2020-01-23,0
 -0.7893,113.9213,Indonesia,Indonesia,2020-01-24,0
@@ -11398,7 +11578,7 @@ Lat,Long,id,display_name,date,cases
 -0.7893,113.9213,Indonesia,Indonesia,2020-03-18,227
 -0.7893,113.9213,Indonesia,Indonesia,2020-03-19,311
 -0.7893,113.9213,Indonesia,Indonesia,2020-03-20,369
--0.7893,113.9213,Indonesia,Indonesia,2020-03-21,369
+-0.7893,113.9213,Indonesia,Indonesia,2020-03-21,450
 44.0935,113.9448,Inner Mongolia @ China,Inner Mongolia,2020-01-22,0
 44.0935,113.9448,Inner Mongolia @ China,Inner Mongolia,2020-01-23,0
 44.0935,113.9448,Inner Mongolia @ China,Inner Mongolia,2020-01-24,1
@@ -11518,7 +11698,7 @@ Lat,Long,id,display_name,date,cases
 42.0115,-93.2105,Iowa @ US,Iowa,2020-03-18,29
 42.0115,-93.2105,Iowa @ US,Iowa,2020-03-19,44
 42.0115,-93.2105,Iowa @ US,Iowa,2020-03-20,45
-42.0115,-93.2105,Iowa @ US,Iowa,2020-03-21,45
+42.0115,-93.2105,Iowa @ US,Iowa,2020-03-21,68
 32,53,Iran,Iran,2020-01-22,0
 32,53,Iran,Iran,2020-01-23,0
 32,53,Iran,Iran,2020-01-24,0
@@ -11578,7 +11758,7 @@ Lat,Long,id,display_name,date,cases
 32,53,Iran,Iran,2020-03-18,17361
 32,53,Iran,Iran,2020-03-19,18407
 32,53,Iran,Iran,2020-03-20,19644
-32,53,Iran,Iran,2020-03-21,19644
+32,53,Iran,Iran,2020-03-21,20610
 33,44,Iraq,Iraq,2020-01-22,0
 33,44,Iraq,Iraq,2020-01-23,0
 33,44,Iraq,Iraq,2020-01-24,0
@@ -11638,7 +11818,7 @@ Lat,Long,id,display_name,date,cases
 33,44,Iraq,Iraq,2020-03-18,164
 33,44,Iraq,Iraq,2020-03-19,192
 33,44,Iraq,Iraq,2020-03-20,208
-33,44,Iraq,Iraq,2020-03-21,208
+33,44,Iraq,Iraq,2020-03-21,214
 53.1424,-7.6921,Ireland,Ireland,2020-01-22,0
 53.1424,-7.6921,Ireland,Ireland,2020-01-23,0
 53.1424,-7.6921,Ireland,Ireland,2020-01-24,0
@@ -11698,7 +11878,7 @@ Lat,Long,id,display_name,date,cases
 53.1424,-7.6921,Ireland,Ireland,2020-03-18,292
 53.1424,-7.6921,Ireland,Ireland,2020-03-19,557
 53.1424,-7.6921,Ireland,Ireland,2020-03-20,683
-53.1424,-7.6921,Ireland,Ireland,2020-03-21,683
+53.1424,-7.6921,Ireland,Ireland,2020-03-21,785
 48.1976,-122.5795,"Island, WA @ US","Island, WA",2020-01-22,0
 48.1976,-122.5795,"Island, WA @ US","Island, WA",2020-01-23,0
 48.1976,-122.5795,"Island, WA @ US","Island, WA",2020-01-24,0
@@ -11878,7 +12058,7 @@ Lat,Long,id,display_name,date,cases
 31,35,Israel,Israel,2020-03-18,433
 31,35,Israel,Israel,2020-03-19,677
 31,35,Israel,Israel,2020-03-20,705
-31,35,Israel,Israel,2020-03-21,705
+31,35,Israel,Israel,2020-03-21,883
 43,12,Italy,Italy,2020-01-22,0
 43,12,Italy,Italy,2020-01-23,0
 43,12,Italy,Italy,2020-01-24,0
@@ -11938,7 +12118,7 @@ Lat,Long,id,display_name,date,cases
 43,12,Italy,Italy,2020-03-18,35713
 43,12,Italy,Italy,2020-03-19,41035
 43,12,Italy,Italy,2020-03-20,47021
-43,12,Italy,Italy,2020-03-21,47021
+43,12,Italy,Italy,2020-03-21,53578
 42.3345,-122.7647,"Jackson County, OR  @ US","Jackson County, OR ",2020-01-22,0
 42.3345,-122.7647,"Jackson County, OR  @ US","Jackson County, OR ",2020-01-23,0
 42.3345,-122.7647,"Jackson County, OR  @ US","Jackson County, OR ",2020-01-24,0
@@ -12118,7 +12298,7 @@ Lat,Long,id,display_name,date,cases
 36,138,Japan,Japan,2020-03-18,889
 36,138,Japan,Japan,2020-03-19,924
 36,138,Japan,Japan,2020-03-20,963
-36,138,Japan,Japan,2020-03-21,963
+36,138,Japan,Japan,2020-03-21,1007
 38.1938,-85.6435,"Jefferson County, KY @ US","Jefferson County, KY",2020-01-22,0
 38.1938,-85.6435,"Jefferson County, KY @ US","Jefferson County, KY",2020-01-23,0
 38.1938,-85.6435,"Jefferson County, KY @ US","Jefferson County, KY",2020-01-24,0
@@ -12898,7 +13078,7 @@ Lat,Long,id,display_name,date,cases
 38.5266,-96.7265,Kansas @ US,Kansas,2020-03-18,18
 38.5266,-96.7265,Kansas @ US,Kansas,2020-03-19,34
 38.5266,-96.7265,Kansas @ US,Kansas,2020-03-20,44
-38.5266,-96.7265,Kansas @ US,Kansas,2020-03-21,44
+38.5266,-96.7265,Kansas @ US,Kansas,2020-03-21,57
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-01-22,0
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-01-23,0
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-01-24,0
@@ -12958,7 +13138,7 @@ Lat,Long,id,display_name,date,cases
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-18,35
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-19,44
 48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-20,49
-48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-21,49
+48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-21,53
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-01-22,0
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-01-23,0
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-01-24,0
@@ -13018,7 +13198,7 @@ Lat,Long,id,display_name,date,cases
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-03-18,27
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-03-19,37
 37.6681,-84.6701,Kentucky @ US,Kentucky,2020-03-20,47
-37.6681,-84.6701,Kentucky @ US,Kentucky,2020-03-21,47
+37.6681,-84.6701,Kentucky @ US,Kentucky,2020-03-21,87
 -0.0236,37.9062,Kenya,Kenya,2020-01-22,0
 -0.0236,37.9062,Kenya,Kenya,2020-01-23,0
 -0.0236,37.9062,Kenya,Kenya,2020-01-24,0
@@ -13498,7 +13678,7 @@ Lat,Long,id,display_name,date,cases
 36,128,"Korea, South","Korea, South",2020-03-18,8413
 36,128,"Korea, South","Korea, South",2020-03-19,8565
 36,128,"Korea, South","Korea, South",2020-03-20,8652
-36,128,"Korea, South","Korea, South",2020-03-21,8652
+36,128,"Korea, South","Korea, South",2020-03-21,8799
 42.6026,20.903,Kosovo,Kosovo,2020-01-22,0
 42.6026,20.903,Kosovo,Kosovo,2020-01-23,0
 42.6026,20.903,Kosovo,Kosovo,2020-01-24,0
@@ -13618,7 +13798,7 @@ Lat,Long,id,display_name,date,cases
 29.5,47.75,Kuwait,Kuwait,2020-03-18,142
 29.5,47.75,Kuwait,Kuwait,2020-03-19,148
 29.5,47.75,Kuwait,Kuwait,2020-03-20,159
-29.5,47.75,Kuwait,Kuwait,2020-03-21,159
+29.5,47.75,Kuwait,Kuwait,2020-03-21,176
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-01-22,0
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-01-23,0
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-01-24,0
@@ -13678,7 +13858,7 @@ Lat,Long,id,display_name,date,cases
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-18,3
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-19,3
 41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-20,6
-41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-21,6
+41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-21,14
 42.3689,-87.8272,"Lake, IL @ US","Lake, IL",2020-01-22,0
 42.3689,-87.8272,"Lake, IL @ US","Lake, IL",2020-01-23,0
 42.3689,-87.8272,"Lake, IL @ US","Lake, IL",2020-01-24,0
@@ -13918,7 +14098,7 @@ Lat,Long,id,display_name,date,cases
 56.8796,24.6032,Latvia,Latvia,2020-03-18,71
 56.8796,24.6032,Latvia,Latvia,2020-03-19,86
 56.8796,24.6032,Latvia,Latvia,2020-03-20,111
-56.8796,24.6032,Latvia,Latvia,2020-03-21,111
+56.8796,24.6032,Latvia,Latvia,2020-03-21,124
 33.8547,35.8623,Lebanon,Lebanon,2020-01-22,0
 33.8547,35.8623,Lebanon,Lebanon,2020-01-23,0
 33.8547,35.8623,Lebanon,Lebanon,2020-01-24,0
@@ -13978,7 +14158,7 @@ Lat,Long,id,display_name,date,cases
 33.8547,35.8623,Lebanon,Lebanon,2020-03-18,133
 33.8547,35.8623,Lebanon,Lebanon,2020-03-19,157
 33.8547,35.8623,Lebanon,Lebanon,2020-03-20,163
-33.8547,35.8623,Lebanon,Lebanon,2020-03-21,163
+33.8547,35.8623,Lebanon,Lebanon,2020-03-21,187
 26.663,-81.9535,"Lee County, FL @ US","Lee County, FL",2020-01-22,0
 26.663,-81.9535,"Lee County, FL @ US","Lee County, FL",2020-01-23,0
 26.663,-81.9535,"Lee County, FL @ US","Lee County, FL",2020-01-24,0
@@ -14158,7 +14338,7 @@ Lat,Long,id,display_name,date,cases
 6.4281,-9.4295,Liberia,Liberia,2020-03-18,2
 6.4281,-9.4295,Liberia,Liberia,2020-03-19,2
 6.4281,-9.4295,Liberia,Liberia,2020-03-20,2
-6.4281,-9.4295,Liberia,Liberia,2020-03-21,2
+6.4281,-9.4295,Liberia,Liberia,2020-03-21,3
 47.14,9.55,Liechtenstein,Liechtenstein,2020-01-22,0
 47.14,9.55,Liechtenstein,Liechtenstein,2020-01-23,0
 47.14,9.55,Liechtenstein,Liechtenstein,2020-01-24,0
@@ -14218,7 +14398,7 @@ Lat,Long,id,display_name,date,cases
 47.14,9.55,Liechtenstein,Liechtenstein,2020-03-18,28
 47.14,9.55,Liechtenstein,Liechtenstein,2020-03-19,28
 47.14,9.55,Liechtenstein,Liechtenstein,2020-03-20,28
-47.14,9.55,Liechtenstein,Liechtenstein,2020-03-21,28
+47.14,9.55,Liechtenstein,Liechtenstein,2020-03-21,37
 41.7866,-73.2765,"Litchfield, CT @ US","Litchfield, CT",2020-01-22,0
 41.7866,-73.2765,"Litchfield, CT @ US","Litchfield, CT",2020-01-23,0
 41.7866,-73.2765,"Litchfield, CT @ US","Litchfield, CT",2020-01-24,0
@@ -14338,7 +14518,7 @@ Lat,Long,id,display_name,date,cases
 55.1694,23.8813,Lithuania,Lithuania,2020-03-18,27
 55.1694,23.8813,Lithuania,Lithuania,2020-03-19,36
 55.1694,23.8813,Lithuania,Lithuania,2020-03-20,49
-55.1694,23.8813,Lithuania,Lithuania,2020-03-21,49
+55.1694,23.8813,Lithuania,Lithuania,2020-03-21,83
 34.0522,-118.2437,"Los Angeles, CA @ US","Los Angeles, CA",2020-01-22,0
 34.0522,-118.2437,"Los Angeles, CA @ US","Los Angeles, CA",2020-01-23,0
 34.0522,-118.2437,"Los Angeles, CA @ US","Los Angeles, CA",2020-01-24,0
@@ -14518,7 +14698,7 @@ Lat,Long,id,display_name,date,cases
 31.1695,-91.8678,Louisiana @ US,Louisiana,2020-03-18,257
 31.1695,-91.8678,Louisiana @ US,Louisiana,2020-03-19,392
 31.1695,-91.8678,Louisiana @ US,Louisiana,2020-03-20,538
-31.1695,-91.8678,Louisiana @ US,Louisiana,2020-03-21,538
+31.1695,-91.8678,Louisiana @ US,Louisiana,2020-03-21,585
 49.8153,6.1296,Luxembourg,Luxembourg,2020-01-22,0
 49.8153,6.1296,Luxembourg,Luxembourg,2020-01-23,0
 49.8153,6.1296,Luxembourg,Luxembourg,2020-01-24,0
@@ -14578,7 +14758,7 @@ Lat,Long,id,display_name,date,cases
 49.8153,6.1296,Luxembourg,Luxembourg,2020-03-18,203
 49.8153,6.1296,Luxembourg,Luxembourg,2020-03-19,335
 49.8153,6.1296,Luxembourg,Luxembourg,2020-03-20,484
-49.8153,6.1296,Luxembourg,Luxembourg,2020-03-21,484
+49.8153,6.1296,Luxembourg,Luxembourg,2020-03-21,670
 22.1667,113.55,Macau @ China,Macau,2020-01-22,1
 22.1667,113.55,Macau @ China,Macau,2020-01-23,2
 22.1667,113.55,Macau @ China,Macau,2020-01-24,2
@@ -14638,7 +14818,7 @@ Lat,Long,id,display_name,date,cases
 22.1667,113.55,Macau @ China,Macau,2020-03-18,15
 22.1667,113.55,Macau @ China,Macau,2020-03-19,17
 22.1667,113.55,Macau @ China,Macau,2020-03-20,17
-22.1667,113.55,Macau @ China,Macau,2020-03-21,17
+22.1667,113.55,Macau @ China,Macau,2020-03-21,18
 -18.7669,46.8691,Madagascar,Madagascar,2020-01-22,0
 -18.7669,46.8691,Madagascar,Madagascar,2020-01-23,0
 -18.7669,46.8691,Madagascar,Madagascar,2020-01-24,0
@@ -14818,7 +14998,7 @@ Lat,Long,id,display_name,date,cases
 44.6939,-69.3819,Maine @ US,Maine,2020-03-18,42
 44.6939,-69.3819,Maine @ US,Maine,2020-03-19,52
 44.6939,-69.3819,Maine @ US,Maine,2020-03-20,56
-44.6939,-69.3819,Maine @ US,Maine,2020-03-21,56
+44.6939,-69.3819,Maine @ US,Maine,2020-03-21,70
 2.5,112.5,Malaysia,Malaysia,2020-01-22,0
 2.5,112.5,Malaysia,Malaysia,2020-01-23,0
 2.5,112.5,Malaysia,Malaysia,2020-01-24,0
@@ -14878,7 +15058,7 @@ Lat,Long,id,display_name,date,cases
 2.5,112.5,Malaysia,Malaysia,2020-03-18,790
 2.5,112.5,Malaysia,Malaysia,2020-03-19,900
 2.5,112.5,Malaysia,Malaysia,2020-03-20,1030
-2.5,112.5,Malaysia,Malaysia,2020-03-21,1030
+2.5,112.5,Malaysia,Malaysia,2020-03-21,1183
 3.2028,73.2207,Maldives,Maldives,2020-01-22,0
 3.2028,73.2207,Maldives,Maldives,2020-01-23,0
 3.2028,73.2207,Maldives,Maldives,2020-01-24,0
@@ -14998,7 +15178,7 @@ Lat,Long,id,display_name,date,cases
 35.9375,14.3754,Malta,Malta,2020-03-18,38
 35.9375,14.3754,Malta,Malta,2020-03-19,53
 35.9375,14.3754,Malta,Malta,2020-03-20,64
-35.9375,14.3754,Malta,Malta,2020-03-21,64
+35.9375,14.3754,Malta,Malta,2020-03-21,73
 27.4799,-82.3452,"Manatee County, FL @ US","Manatee County, FL",2020-01-22,0
 27.4799,-82.3452,"Manatee County, FL @ US","Manatee County, FL",2020-01-23,0
 27.4799,-82.3452,"Manatee County, FL @ US","Manatee County, FL",2020-01-24,0
@@ -15118,7 +15298,7 @@ Lat,Long,id,display_name,date,cases
 53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-18,15
 53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-19,17
 53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-20,17
-53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-21,17
+53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-21,18
 33.2918,-112.4291,"Maricopa County, AZ @ US","Maricopa County, AZ",2020-01-22,0
 33.2918,-112.4291,"Maricopa County, AZ @ US","Maricopa County, AZ",2020-01-23,0
 33.2918,-112.4291,"Maricopa County, AZ @ US","Maricopa County, AZ",2020-01-24,0
@@ -15478,7 +15658,7 @@ Lat,Long,id,display_name,date,cases
 39.0639,-76.8021,Maryland @ US,Maryland,2020-03-18,85
 39.0639,-76.8021,Maryland @ US,Maryland,2020-03-19,107
 39.0639,-76.8021,Maryland @ US,Maryland,2020-03-20,149
-39.0639,-76.8021,Maryland @ US,Maryland,2020-03-21,149
+39.0639,-76.8021,Maryland @ US,Maryland,2020-03-21,193
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-01-22,0
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-01-23,0
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-01-24,0
@@ -15538,7 +15718,7 @@ Lat,Long,id,display_name,date,cases
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-03-18,218
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-03-19,328
 42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-03-20,413
-42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-03-21,413
+42.2302,-71.5301,Massachusetts @ US,Massachusetts,2020-03-21,525
 21.0079,10.9408,Mauritania,Mauritania,2020-01-22,0
 21.0079,10.9408,Mauritania,Mauritania,2020-01-23,0
 21.0079,10.9408,Mauritania,Mauritania,2020-01-24,0
@@ -15658,7 +15838,7 @@ Lat,Long,id,display_name,date,cases
 -20.2,57.5,Mauritius,Mauritius,2020-03-18,3
 -20.2,57.5,Mauritius,Mauritius,2020-03-19,3
 -20.2,57.5,Mauritius,Mauritius,2020-03-20,12
--20.2,57.5,Mauritius,Mauritius,2020-03-21,12
+-20.2,57.5,Mauritius,Mauritius,2020-03-21,14
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-22,0
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-23,0
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-01-24,0
@@ -15718,7 +15898,7 @@ Lat,Long,id,display_name,date,cases
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-18,3
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-19,3
 -12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-20,6
--12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-21,6
+-12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-21,7
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-22,0
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-23,0
 42.3334,-88.2668,"McHenry, IL @ US","McHenry, IL",2020-01-24,0
@@ -15838,7 +16018,7 @@ Lat,Long,id,display_name,date,cases
 23.6345,-102.5528,Mexico,Mexico,2020-03-18,93
 23.6345,-102.5528,Mexico,Mexico,2020-03-19,118
 23.6345,-102.5528,Mexico,Mexico,2020-03-20,164
-23.6345,-102.5528,Mexico,Mexico,2020-03-21,164
+23.6345,-102.5528,Mexico,Mexico,2020-03-21,203
 43.3266,-84.5361,Michigan @ US,Michigan,2020-01-22,0
 43.3266,-84.5361,Michigan @ US,Michigan,2020-01-23,0
 43.3266,-84.5361,Michigan @ US,Michigan,2020-01-24,0
@@ -15898,7 +16078,7 @@ Lat,Long,id,display_name,date,cases
 43.3266,-84.5361,Michigan @ US,Michigan,2020-03-18,83
 43.3266,-84.5361,Michigan @ US,Michigan,2020-03-19,334
 43.3266,-84.5361,Michigan @ US,Michigan,2020-03-20,552
-43.3266,-84.5361,Michigan @ US,Michigan,2020-03-21,552
+43.3266,-84.5361,Michigan @ US,Michigan,2020-03-21,788
 42.4672,-71.2874,"Middlesex County, MA @ US","Middlesex County, MA",2020-01-22,0
 42.4672,-71.2874,"Middlesex County, MA @ US","Middlesex County, MA",2020-01-23,0
 42.4672,-71.2874,"Middlesex County, MA @ US","Middlesex County, MA",2020-01-24,0
@@ -16138,7 +16318,7 @@ Lat,Long,id,display_name,date,cases
 45.6945,-93.9002,Minnesota @ US,Minnesota,2020-03-18,77
 45.6945,-93.9002,Minnesota @ US,Minnesota,2020-03-19,89
 45.6945,-93.9002,Minnesota @ US,Minnesota,2020-03-20,115
-45.6945,-93.9002,Minnesota @ US,Minnesota,2020-03-21,115
+45.6945,-93.9002,Minnesota @ US,Minnesota,2020-03-21,138
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-01-22,0
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-01-23,0
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-01-24,0
@@ -16198,7 +16378,7 @@ Lat,Long,id,display_name,date,cases
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-03-18,34
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-03-19,50
 32.7416,-89.6787,Mississippi @ US,Mississippi,2020-03-20,80
-32.7416,-89.6787,Mississippi @ US,Mississippi,2020-03-21,80
+32.7416,-89.6787,Mississippi @ US,Mississippi,2020-03-21,140
 38.4561,-92.2884,Missouri @ US,Missouri,2020-01-22,0
 38.4561,-92.2884,Missouri @ US,Missouri,2020-01-23,0
 38.4561,-92.2884,Missouri @ US,Missouri,2020-01-24,0
@@ -16258,7 +16438,7 @@ Lat,Long,id,display_name,date,cases
 38.4561,-92.2884,Missouri @ US,Missouri,2020-03-18,18
 38.4561,-92.2884,Missouri @ US,Missouri,2020-03-19,31
 38.4561,-92.2884,Missouri @ US,Missouri,2020-03-20,53
-38.4561,-92.2884,Missouri @ US,Missouri,2020-03-21,53
+38.4561,-92.2884,Missouri @ US,Missouri,2020-03-21,74
 47.4116,28.3699,Moldova,Moldova,2020-01-22,0
 47.4116,28.3699,Moldova,Moldova,2020-01-23,0
 47.4116,28.3699,Moldova,Moldova,2020-01-24,0
@@ -16318,7 +16498,7 @@ Lat,Long,id,display_name,date,cases
 47.4116,28.3699,Moldova,Moldova,2020-03-18,30
 47.4116,28.3699,Moldova,Moldova,2020-03-19,49
 47.4116,28.3699,Moldova,Moldova,2020-03-20,66
-47.4116,28.3699,Moldova,Moldova,2020-03-21,66
+47.4116,28.3699,Moldova,Moldova,2020-03-21,80
 43.7333,7.4167,Monaco,Monaco,2020-01-22,0
 43.7333,7.4167,Monaco,Monaco,2020-01-23,0
 43.7333,7.4167,Monaco,Monaco,2020-01-24,0
@@ -16438,7 +16618,7 @@ Lat,Long,id,display_name,date,cases
 46.8625,103.8467,Mongolia,Mongolia,2020-03-18,6
 46.8625,103.8467,Mongolia,Mongolia,2020-03-19,6
 46.8625,103.8467,Mongolia,Mongolia,2020-03-20,6
-46.8625,103.8467,Mongolia,Mongolia,2020-03-21,6
+46.8625,103.8467,Mongolia,Mongolia,2020-03-21,10
 40.2589,-74.124,"Monmouth, NJ @ US","Monmouth, NJ",2020-01-22,0
 40.2589,-74.124,"Monmouth, NJ @ US","Monmouth, NJ",2020-01-23,0
 40.2589,-74.124,"Monmouth, NJ @ US","Monmouth, NJ",2020-01-24,0
@@ -16618,7 +16798,7 @@ Lat,Long,id,display_name,date,cases
 46.9219,-110.4544,Montana @ US,Montana,2020-03-18,11
 46.9219,-110.4544,Montana @ US,Montana,2020-03-19,11
 46.9219,-110.4544,Montana @ US,Montana,2020-03-20,15
-46.9219,-110.4544,Montana @ US,Montana,2020-03-21,15
+46.9219,-110.4544,Montana @ US,Montana,2020-03-21,21
 42.5,19.3,Montenegro,Montenegro,2020-01-22,0
 42.5,19.3,Montenegro,Montenegro,2020-01-23,0
 42.5,19.3,Montenegro,Montenegro,2020-01-24,0
@@ -16978,7 +17158,7 @@ Lat,Long,id,display_name,date,cases
 31.7917,-7.0926,Morocco,Morocco,2020-03-18,49
 31.7917,-7.0926,Morocco,Morocco,2020-03-19,63
 31.7917,-7.0926,Morocco,Morocco,2020-03-20,77
-31.7917,-7.0926,Morocco,Morocco,2020-03-21,77
+31.7917,-7.0926,Morocco,Morocco,2020-03-21,96
 45.5146,-122.5863,"Multnomah, OR @ US","Multnomah, OR",2020-01-22,0
 45.5146,-122.5863,"Multnomah, OR @ US","Multnomah, OR",2020-01-23,0
 45.5146,-122.5863,"Multnomah, OR @ US","Multnomah, OR",2020-01-24,0
@@ -17338,7 +17518,7 @@ Lat,Long,id,display_name,date,cases
 41.1254,-98.2681,Nebraska @ US,Nebraska,2020-03-18,24
 41.1254,-98.2681,Nebraska @ US,Nebraska,2020-03-19,29
 41.1254,-98.2681,Nebraska @ US,Nebraska,2020-03-20,37
-41.1254,-98.2681,Nebraska @ US,Nebraska,2020-03-21,37
+41.1254,-98.2681,Nebraska @ US,Nebraska,2020-03-21,38
 28.1667,84.25,Nepal,Nepal,2020-01-22,0
 28.1667,84.25,Nepal,Nepal,2020-01-23,0
 28.1667,84.25,Nepal,Nepal,2020-01-24,0
@@ -17458,7 +17638,7 @@ Lat,Long,id,display_name,date,cases
 52.1326,5.2913,Netherlands @ Netherlands,Netherlands,2020-03-18,2051
 52.1326,5.2913,Netherlands @ Netherlands,Netherlands,2020-03-19,2460
 52.1326,5.2913,Netherlands @ Netherlands,Netherlands,2020-03-20,2994
-52.1326,5.2913,Netherlands @ Netherlands,Netherlands,2020-03-21,2994
+52.1326,5.2913,Netherlands @ Netherlands,Netherlands,2020-03-21,3631
 38.3135,-117.0554,Nevada @ US,Nevada,2020-01-22,0
 38.3135,-117.0554,Nevada @ US,Nevada,2020-01-23,0
 38.3135,-117.0554,Nevada @ US,Nevada,2020-01-24,0
@@ -17518,7 +17698,7 @@ Lat,Long,id,display_name,date,cases
 38.3135,-117.0554,Nevada @ US,Nevada,2020-03-18,55
 38.3135,-117.0554,Nevada @ US,Nevada,2020-03-19,95
 38.3135,-117.0554,Nevada @ US,Nevada,2020-03-20,114
-38.3135,-117.0554,Nevada @ US,Nevada,2020-03-21,114
+38.3135,-117.0554,Nevada @ US,Nevada,2020-03-21,161
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-01-22,0
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-01-23,0
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-01-24,0
@@ -17578,7 +17758,7 @@ Lat,Long,id,display_name,date,cases
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-18,11
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-19,11
 46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-20,11
-46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-21,11
+46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-21,17
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-01-22,0
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-01-23,0
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-01-24,0
@@ -17638,7 +17818,7 @@ Lat,Long,id,display_name,date,cases
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-18,0
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-19,2
 -20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-20,2
--20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-21,2
+-20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-21,4
 39.5393,-75.6674,"New Castle, DE @ US","New Castle, DE",2020-01-22,0
 39.5393,-75.6674,"New Castle, DE @ US","New Castle, DE",2020-01-23,0
 39.5393,-75.6674,"New Castle, DE @ US","New Castle, DE",2020-01-24,0
@@ -17758,7 +17938,7 @@ Lat,Long,id,display_name,date,cases
 43.4525,-71.5639,New Hampshire @ US,New Hampshire,2020-03-18,26
 43.4525,-71.5639,New Hampshire @ US,New Hampshire,2020-03-19,44
 43.4525,-71.5639,New Hampshire @ US,New Hampshire,2020-03-20,44
-43.4525,-71.5639,New Hampshire @ US,New Hampshire,2020-03-21,44
+43.4525,-71.5639,New Hampshire @ US,New Hampshire,2020-03-21,55
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-01-22,0
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-01-23,0
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-01-24,0
@@ -17818,7 +17998,7 @@ Lat,Long,id,display_name,date,cases
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-03-18,267
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-03-19,742
 40.2989,-74.521,New Jersey @ US,New Jersey,2020-03-20,890
-40.2989,-74.521,New Jersey @ US,New Jersey,2020-03-21,890
+40.2989,-74.521,New Jersey @ US,New Jersey,2020-03-21,1327
 34.8405,-106.2485,New Mexico @ US,New Mexico,2020-01-22,0
 34.8405,-106.2485,New Mexico @ US,New Mexico,2020-01-23,0
 34.8405,-106.2485,New Mexico @ US,New Mexico,2020-01-24,0
@@ -17938,7 +18118,7 @@ Lat,Long,id,display_name,date,cases
 -33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-18,267
 -33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-19,307
 -33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-20,353
--33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-21,353
+-33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-21,436
 42.1657,-74.9481,New York @ US,New York,2020-01-22,0
 42.1657,-74.9481,New York @ US,New York,2020-01-23,0
 42.1657,-74.9481,New York @ US,New York,2020-01-24,0
@@ -17998,7 +18178,7 @@ Lat,Long,id,display_name,date,cases
 42.1657,-74.9481,New York @ US,New York,2020-03-18,2495
 42.1657,-74.9481,New York @ US,New York,2020-03-19,5365
 42.1657,-74.9481,New York @ US,New York,2020-03-20,8310
-42.1657,-74.9481,New York @ US,New York,2020-03-21,8310
+42.1657,-74.9481,New York @ US,New York,2020-03-21,11710
 40.7128,-74.006,"New York County, NY @ US","New York County, NY",2020-01-22,0
 40.7128,-74.006,"New York County, NY @ US","New York County, NY",2020-01-23,0
 40.7128,-74.006,"New York County, NY @ US","New York County, NY",2020-01-24,0
@@ -18118,7 +18298,7 @@ Lat,Long,id,display_name,date,cases
 -40.9006,174.886,New Zealand,New Zealand,2020-03-18,20
 -40.9006,174.886,New Zealand,New Zealand,2020-03-19,28
 -40.9006,174.886,New Zealand,New Zealand,2020-03-20,39
--40.9006,174.886,New Zealand,New Zealand,2020-03-21,39
+-40.9006,174.886,New Zealand,New Zealand,2020-03-21,52
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-01-22,0
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-01-23,0
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-01-24,0
@@ -18178,7 +18358,7 @@ Lat,Long,id,display_name,date,cases
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-18,3
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-19,3
 53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-20,4
-53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-21,4
+53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-21,6
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-01-22,0
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-01-23,0
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-01-24,0
@@ -18238,7 +18418,7 @@ Lat,Long,id,display_name,date,cases
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-18,0
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-19,1
 12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-20,1
-12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-21,1
+12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-21,2
 17.6078,8.0817,Niger,Niger,2020-01-22,0
 17.6078,8.0817,Niger,Niger,2020-01-23,0
 17.6078,8.0817,Niger,Niger,2020-01-24,0
@@ -18358,7 +18538,7 @@ Lat,Long,id,display_name,date,cases
 9.082,8.6753,Nigeria,Nigeria,2020-03-18,8
 9.082,8.6753,Nigeria,Nigeria,2020-03-19,8
 9.082,8.6753,Nigeria,Nigeria,2020-03-20,12
-9.082,8.6753,Nigeria,Nigeria,2020-03-21,12
+9.082,8.6753,Nigeria,Nigeria,2020-03-21,22
 37.2692,106.1655,Ningxia @ China,Ningxia,2020-01-22,1
 37.2692,106.1655,Ningxia @ China,Ningxia,2020-01-23,1
 37.2692,106.1655,Ningxia @ China,Ningxia,2020-01-24,2
@@ -18658,7 +18838,7 @@ Lat,Long,id,display_name,date,cases
 35.6301,-79.8064,North Carolina @ US,North Carolina,2020-03-18,70
 35.6301,-79.8064,North Carolina @ US,North Carolina,2020-03-19,123
 35.6301,-79.8064,North Carolina @ US,North Carolina,2020-03-20,172
-35.6301,-79.8064,North Carolina @ US,North Carolina,2020-03-21,172
+35.6301,-79.8064,North Carolina @ US,North Carolina,2020-03-21,253
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-01-22,0
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-01-23,0
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-01-24,0
@@ -18718,7 +18898,7 @@ Lat,Long,id,display_name,date,cases
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-03-18,6
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-03-19,18
 47.5289,-99.784,North Dakota @ US,North Dakota,2020-03-20,19
-47.5289,-99.784,North Dakota @ US,North Dakota,2020-03-21,19
+47.5289,-99.784,North Dakota @ US,North Dakota,2020-03-21,28
 41.6086,21.7453,North Macedonia,North Macedonia,2020-01-22,0
 41.6086,21.7453,North Macedonia,North Macedonia,2020-01-23,0
 41.6086,21.7453,North Macedonia,North Macedonia,2020-01-24,0
@@ -18778,7 +18958,7 @@ Lat,Long,id,display_name,date,cases
 41.6086,21.7453,North Macedonia,North Macedonia,2020-03-18,35
 41.6086,21.7453,North Macedonia,North Macedonia,2020-03-19,48
 41.6086,21.7453,North Macedonia,North Macedonia,2020-03-20,67
-41.6086,21.7453,North Macedonia,North Macedonia,2020-03-21,67
+41.6086,21.7453,North Macedonia,North Macedonia,2020-03-21,85
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-01-22,0
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-01-23,0
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-01-24,0
@@ -18839,6 +19019,66 @@ Lat,Long,id,display_name,date,cases
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-03-19,1
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-03-20,3
 -12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-03-21,3
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-22,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-23,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-24,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-25,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-26,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-27,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-28,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-29,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-30,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-01-31,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-01,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-02,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-03,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-04,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-05,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-06,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-07,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-08,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-09,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-10,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-11,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-12,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-13,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-14,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-15,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-16,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-17,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-18,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-19,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-20,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-21,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-22,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-23,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-24,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-25,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-26,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-27,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-28,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-02-29,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-01,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-02,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-03,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-04,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-05,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-06,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-07,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-08,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-09,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-10,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-11,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-12,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-13,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-14,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-15,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-16,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-17,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-18,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-19,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-20,0
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-21,1
 60.472,8.4689,Norway,Norway,2020-01-22,0
 60.472,8.4689,Norway,Norway,2020-01-23,0
 60.472,8.4689,Norway,Norway,2020-01-24,0
@@ -18898,7 +19138,7 @@ Lat,Long,id,display_name,date,cases
 60.472,8.4689,Norway,Norway,2020-03-18,1550
 60.472,8.4689,Norway,Norway,2020-03-19,1746
 60.472,8.4689,Norway,Norway,2020-03-20,1914
-60.472,8.4689,Norway,Norway,2020-03-21,1914
+60.472,8.4689,Norway,Norway,2020-03-21,2118
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-01-22,0
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-01-23,0
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-01-24,0
@@ -18958,7 +19198,7 @@ Lat,Long,id,display_name,date,cases
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-18,12
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-19,14
 44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-20,15
-44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-21,15
+44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-21,21
 42.5922,-83.3362,"Oakland, MI @ US","Oakland, MI",2020-01-22,0
 42.5922,-83.3362,"Oakland, MI @ US","Oakland, MI",2020-01-23,0
 42.5922,-83.3362,"Oakland, MI @ US","Oakland, MI",2020-01-24,0
@@ -19078,7 +19318,7 @@ Lat,Long,id,display_name,date,cases
 40.3888,-82.7649,Ohio @ US,Ohio,2020-03-18,86
 40.3888,-82.7649,Ohio @ US,Ohio,2020-03-19,119
 40.3888,-82.7649,Ohio @ US,Ohio,2020-03-20,173
-40.3888,-82.7649,Ohio @ US,Ohio,2020-03-21,173
+40.3888,-82.7649,Ohio @ US,Ohio,2020-03-21,248
 30.5773,-86.6611,"Okaloosa County, FL @ US","Okaloosa County, FL",2020-01-22,0
 30.5773,-86.6611,"Okaloosa County, FL @ US","Okaloosa County, FL",2020-01-23,0
 30.5773,-86.6611,"Okaloosa County, FL @ US","Okaloosa County, FL",2020-01-24,0
@@ -19198,7 +19438,7 @@ Lat,Long,id,display_name,date,cases
 35.5653,-96.9289,Oklahoma @ US,Oklahoma,2020-03-18,19
 35.5653,-96.9289,Oklahoma @ US,Oklahoma,2020-03-19,44
 35.5653,-96.9289,Oklahoma @ US,Oklahoma,2020-03-20,49
-35.5653,-96.9289,Oklahoma @ US,Oklahoma,2020-03-21,49
+35.5653,-96.9289,Oklahoma @ US,Oklahoma,2020-03-21,53
 43.9952,-92.3814,"Olmsted, MN @ US","Olmsted, MN",2020-01-22,0
 43.9952,-92.3814,"Olmsted, MN @ US","Olmsted, MN",2020-01-23,0
 43.9952,-92.3814,"Olmsted, MN @ US","Olmsted, MN",2020-01-24,0
@@ -19318,7 +19558,7 @@ Lat,Long,id,display_name,date,cases
 21,57,Oman,Oman,2020-03-18,39
 21,57,Oman,Oman,2020-03-19,48
 21,57,Oman,Oman,2020-03-20,48
-21,57,Oman,Oman,2020-03-21,48
+21,57,Oman,Oman,2020-03-21,52
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-01-22,0
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-01-23,0
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-01-24,0
@@ -19378,7 +19618,7 @@ Lat,Long,id,display_name,date,cases
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-18,221
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-19,257
 51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-20,308
-51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-21,308
+51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-21,377
 33.7879,-117.8531,"Orange County, CA @ US","Orange County, CA",2020-01-22,0
 33.7879,-117.8531,"Orange County, CA @ US","Orange County, CA",2020-01-23,0
 33.7879,-117.8531,"Orange County, CA @ US","Orange County, CA",2020-01-24,0
@@ -19618,7 +19858,7 @@ Lat,Long,id,display_name,date,cases
 30.3753,69.3451,Pakistan,Pakistan,2020-03-18,299
 30.3753,69.3451,Pakistan,Pakistan,2020-03-19,454
 30.3753,69.3451,Pakistan,Pakistan,2020-03-20,501
-30.3753,69.3451,Pakistan,Pakistan,2020-03-21,501
+30.3753,69.3451,Pakistan,Pakistan,2020-03-21,730
 8.538,-80.7821,Panama,Panama,2020-01-22,0
 8.538,-80.7821,Panama,Panama,2020-01-23,0
 8.538,-80.7821,Panama,Panama,2020-01-24,0
@@ -19678,7 +19918,7 @@ Lat,Long,id,display_name,date,cases
 8.538,-80.7821,Panama,Panama,2020-03-18,86
 8.538,-80.7821,Panama,Panama,2020-03-19,109
 8.538,-80.7821,Panama,Panama,2020-03-20,137
-8.538,-80.7821,Panama,Panama,2020-03-21,137
+8.538,-80.7821,Panama,Panama,2020-03-21,200
 -6.315,143.9555,Papua New Guinea,Papua New Guinea,2020-01-22,0
 -6.315,143.9555,Papua New Guinea,Papua New Guinea,2020-01-23,0
 -6.315,143.9555,Papua New Guinea,Papua New Guinea,2020-01-24,0
@@ -19798,7 +20038,7 @@ Lat,Long,id,display_name,date,cases
 -23.4425,-58.4438,Paraguay,Paraguay,2020-03-18,11
 -23.4425,-58.4438,Paraguay,Paraguay,2020-03-19,11
 -23.4425,-58.4438,Paraguay,Paraguay,2020-03-20,13
--23.4425,-58.4438,Paraguay,Paraguay,2020-03-21,13
+-23.4425,-58.4438,Paraguay,Paraguay,2020-03-21,18
 28.3232,-82.4319,"Pasco, FL @ US","Pasco, FL",2020-01-22,0
 28.3232,-82.4319,"Pasco, FL @ US","Pasco, FL",2020-01-23,0
 28.3232,-82.4319,"Pasco, FL @ US","Pasco, FL",2020-01-24,0
@@ -20038,7 +20278,7 @@ Lat,Long,id,display_name,date,cases
 40.5908,-77.2098,Pennsylvania @ US,Pennsylvania,2020-03-18,152
 40.5908,-77.2098,Pennsylvania @ US,Pennsylvania,2020-03-19,206
 40.5908,-77.2098,Pennsylvania @ US,Pennsylvania,2020-03-20,303
-40.5908,-77.2098,Pennsylvania @ US,Pennsylvania,2020-03-21,303
+40.5908,-77.2098,Pennsylvania @ US,Pennsylvania,2020-03-21,396
 -9.19,-75.0152,Peru,Peru,2020-01-22,0
 -9.19,-75.0152,Peru,Peru,2020-01-23,0
 -9.19,-75.0152,Peru,Peru,2020-01-24,0
@@ -20098,7 +20338,7 @@ Lat,Long,id,display_name,date,cases
 -9.19,-75.0152,Peru,Peru,2020-03-18,145
 -9.19,-75.0152,Peru,Peru,2020-03-19,234
 -9.19,-75.0152,Peru,Peru,2020-03-20,234
--9.19,-75.0152,Peru,Peru,2020-03-21,234
+-9.19,-75.0152,Peru,Peru,2020-03-21,318
 39.9526,-75.1652,"Philadelphia, PA @ US","Philadelphia, PA",2020-01-22,0
 39.9526,-75.1652,"Philadelphia, PA @ US","Philadelphia, PA",2020-01-23,0
 39.9526,-75.1652,"Philadelphia, PA @ US","Philadelphia, PA",2020-01-24,0
@@ -20218,7 +20458,7 @@ Lat,Long,id,display_name,date,cases
 13,122,Philippines,Philippines,2020-03-18,202
 13,122,Philippines,Philippines,2020-03-19,217
 13,122,Philippines,Philippines,2020-03-20,230
-13,122,Philippines,Philippines,2020-03-21,230
+13,122,Philippines,Philippines,2020-03-21,307
 47.0676,-122.1295,"Pierce County, WA @ US","Pierce County, WA",2020-01-22,0
 47.0676,-122.1295,"Pierce County, WA @ US","Pierce County, WA",2020-01-23,0
 47.0676,-122.1295,"Pierce County, WA @ US","Pierce County, WA",2020-01-24,0
@@ -20638,7 +20878,7 @@ Lat,Long,id,display_name,date,cases
 51.9194,19.1451,Poland,Poland,2020-03-18,251
 51.9194,19.1451,Poland,Poland,2020-03-19,355
 51.9194,19.1451,Poland,Poland,2020-03-20,425
-51.9194,19.1451,Poland,Poland,2020-03-21,425
+51.9194,19.1451,Poland,Poland,2020-03-21,536
 34.0132,-85.1479,"Polk County, GA @ US","Polk County, GA",2020-01-22,0
 34.0132,-85.1479,"Polk County, GA @ US","Polk County, GA",2020-01-23,0
 34.0132,-85.1479,"Polk County, GA @ US","Polk County, GA",2020-01-24,0
@@ -20818,7 +21058,7 @@ Lat,Long,id,display_name,date,cases
 39.3999,-8.2245,Portugal,Portugal,2020-03-18,448
 39.3999,-8.2245,Portugal,Portugal,2020-03-19,785
 39.3999,-8.2245,Portugal,Portugal,2020-03-20,1020
-39.3999,-8.2245,Portugal,Portugal,2020-03-21,1020
+39.3999,-8.2245,Portugal,Portugal,2020-03-21,1280
 41.3912,-95.4778,"Pottawattamie, IA @ US","Pottawattamie, IA",2020-01-22,0
 41.3912,-95.4778,"Pottawattamie, IA @ US","Pottawattamie, IA",2020-01-23,0
 41.3912,-95.4778,"Pottawattamie, IA @ US","Pottawattamie, IA",2020-01-24,0
@@ -21118,7 +21358,7 @@ Lat,Long,id,display_name,date,cases
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-03-18,5
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-03-19,5
 18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-03-20,14
-18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-03-21,14
+18.2208,-66.5901,Puerto Rico @ US,Puerto Rico,2020-03-21,21
 25.3548,51.1839,Qatar,Qatar,2020-01-22,0
 25.3548,51.1839,Qatar,Qatar,2020-01-23,0
 25.3548,51.1839,Qatar,Qatar,2020-01-24,0
@@ -21178,7 +21418,7 @@ Lat,Long,id,display_name,date,cases
 25.3548,51.1839,Qatar,Qatar,2020-03-18,452
 25.3548,51.1839,Qatar,Qatar,2020-03-19,460
 25.3548,51.1839,Qatar,Qatar,2020-03-20,470
-25.3548,51.1839,Qatar,Qatar,2020-03-21,470
+25.3548,51.1839,Qatar,Qatar,2020-03-21,481
 35.7452,95.9956,Qinghai @ China,Qinghai,2020-01-22,0
 35.7452,95.9956,Qinghai @ China,Qinghai,2020-01-23,0
 35.7452,95.9956,Qinghai @ China,Qinghai,2020-01-24,0
@@ -21298,7 +21538,7 @@ Lat,Long,id,display_name,date,cases
 52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-18,94
 52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-19,121
 52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-20,139
-52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-21,139
+52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-21,181
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-01-22,0
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-01-23,0
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-01-24,0
@@ -21358,7 +21598,7 @@ Lat,Long,id,display_name,date,cases
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-03-18,94
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-03-19,144
 -28.0167,153.4,Queensland @ Australia,Queensland,2020-03-20,184
--28.0167,153.4,Queensland @ Australia,Queensland,2020-03-21,184
+-28.0167,153.4,Queensland @ Australia,Queensland,2020-03-21,221
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-01-22,0
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-01-23,0
 44.9964,-93.0616,"Ramsey County, MN @ US","Ramsey County, MN",2020-01-24,0
@@ -21478,7 +21718,7 @@ Lat,Long,id,display_name,date,cases
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-18,12
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-19,14
 -21.1351,55.2471,Reunion @ France,Reunion,2020-03-20,28
--21.1351,55.2471,Reunion @ France,Reunion,2020-03-21,28
+-21.1351,55.2471,Reunion @ France,Reunion,2020-03-21,45
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-22,0
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-23,0
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-01-24,0
@@ -21538,7 +21778,7 @@ Lat,Long,id,display_name,date,cases
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-03-18,33
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-03-19,44
 41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-03-20,54
-41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-03-21,54
+41.6809,-71.5118,Rhode Island @ US,Rhode Island,2020-03-21,66
 33.9533,-117.3961,"Riverside County, CA @ US","Riverside County, CA",2020-01-22,0
 33.9533,-117.3961,"Riverside County, CA @ US","Riverside County, CA",2020-01-23,0
 33.9533,-117.3961,"Riverside County, CA @ US","Riverside County, CA",2020-01-24,0
@@ -21778,7 +22018,7 @@ Lat,Long,id,display_name,date,cases
 45.9432,24.9668,Romania,Romania,2020-03-18,260
 45.9432,24.9668,Romania,Romania,2020-03-19,277
 45.9432,24.9668,Romania,Romania,2020-03-20,308
-45.9432,24.9668,Romania,Romania,2020-03-21,308
+45.9432,24.9668,Romania,Romania,2020-03-21,367
 60,90,Russia,Russia,2020-01-22,0
 60,90,Russia,Russia,2020-01-23,0
 60,90,Russia,Russia,2020-01-24,0
@@ -21838,7 +22078,7 @@ Lat,Long,id,display_name,date,cases
 60,90,Russia,Russia,2020-03-18,147
 60,90,Russia,Russia,2020-03-19,199
 60,90,Russia,Russia,2020-03-20,253
-60,90,Russia,Russia,2020-03-21,253
+60,90,Russia,Russia,2020-03-21,306
 -1.9403,29.8739,Rwanda,Rwanda,2020-01-22,0
 -1.9403,29.8739,Rwanda,Rwanda,2020-01-23,0
 -1.9403,29.8739,Rwanda,Rwanda,2020-01-24,0
@@ -22798,7 +23038,7 @@ Lat,Long,id,display_name,date,cases
 52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-18,8
 52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-19,16
 52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-20,20
-52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-21,20
+52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-21,26
 24,45,Saudi Arabia,Saudi Arabia,2020-01-22,0
 24,45,Saudi Arabia,Saudi Arabia,2020-01-23,0
 24,45,Saudi Arabia,Saudi Arabia,2020-01-24,0
@@ -22858,7 +23098,7 @@ Lat,Long,id,display_name,date,cases
 24,45,Saudi Arabia,Saudi Arabia,2020-03-18,171
 24,45,Saudi Arabia,Saudi Arabia,2020-03-19,274
 24,45,Saudi Arabia,Saudi Arabia,2020-03-20,344
-24,45,Saudi Arabia,Saudi Arabia,2020-03-21,344
+24,45,Saudi Arabia,Saudi Arabia,2020-03-21,392
 14.4974,-14.4524,Senegal,Senegal,2020-01-22,0
 14.4974,-14.4524,Senegal,Senegal,2020-01-23,0
 14.4974,-14.4524,Senegal,Senegal,2020-01-24,0
@@ -22918,7 +23158,7 @@ Lat,Long,id,display_name,date,cases
 14.4974,-14.4524,Senegal,Senegal,2020-03-18,31
 14.4974,-14.4524,Senegal,Senegal,2020-03-19,31
 14.4974,-14.4524,Senegal,Senegal,2020-03-20,38
-14.4974,-14.4524,Senegal,Senegal,2020-03-21,38
+14.4974,-14.4524,Senegal,Senegal,2020-03-21,47
 44.0165,21.0059,Serbia,Serbia,2020-01-22,0
 44.0165,21.0059,Serbia,Serbia,2020-01-23,0
 44.0165,21.0059,Serbia,Serbia,2020-01-24,0
@@ -22978,7 +23218,7 @@ Lat,Long,id,display_name,date,cases
 44.0165,21.0059,Serbia,Serbia,2020-03-18,83
 44.0165,21.0059,Serbia,Serbia,2020-03-19,103
 44.0165,21.0059,Serbia,Serbia,2020-03-20,135
-44.0165,21.0059,Serbia,Serbia,2020-03-21,135
+44.0165,21.0059,Serbia,Serbia,2020-03-21,171
 -4.6796,55.492,Seychelles,Seychelles,2020-01-22,0
 -4.6796,55.492,Seychelles,Seychelles,2020-01-23,0
 -4.6796,55.492,Seychelles,Seychelles,2020-01-24,0
@@ -23098,7 +23338,7 @@ Lat,Long,id,display_name,date,cases
 35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-18,246
 35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-19,246
 35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-20,247
-35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-21,247
+35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-21,248
 36.3427,118.1498,Shandong @ China,Shandong,2020-01-22,2
 36.3427,118.1498,Shandong @ China,Shandong,2020-01-23,6
 36.3427,118.1498,Shandong @ China,Shandong,2020-01-24,15
@@ -23158,7 +23398,7 @@ Lat,Long,id,display_name,date,cases
 36.3427,118.1498,Shandong @ China,Shandong,2020-03-18,761
 36.3427,118.1498,Shandong @ China,Shandong,2020-03-19,761
 36.3427,118.1498,Shandong @ China,Shandong,2020-03-20,762
-36.3427,118.1498,Shandong @ China,Shandong,2020-03-21,762
+36.3427,118.1498,Shandong @ China,Shandong,2020-03-21,764
 31.202,121.4491,Shanghai @ China,Shanghai,2020-01-22,9
 31.202,121.4491,Shanghai @ China,Shanghai,2020-01-23,16
 31.202,121.4491,Shanghai @ China,Shanghai,2020-01-24,20
@@ -23218,7 +23458,7 @@ Lat,Long,id,display_name,date,cases
 31.202,121.4491,Shanghai @ China,Shanghai,2020-03-18,361
 31.202,121.4491,Shanghai @ China,Shanghai,2020-03-19,363
 31.202,121.4491,Shanghai @ China,Shanghai,2020-03-20,371
-31.202,121.4491,Shanghai @ China,Shanghai,2020-03-21,371
+31.202,121.4491,Shanghai @ China,Shanghai,2020-03-21,380
 37.5777,112.2922,Shanxi @ China,Shanxi,2020-01-22,1
 37.5777,112.2922,Shanxi @ China,Shanxi,2020-01-23,1
 37.5777,112.2922,Shanxi @ China,Shanxi,2020-01-24,1
@@ -23458,7 +23698,7 @@ Lat,Long,id,display_name,date,cases
 30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-18,540
 30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-19,540
 30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-20,541
-30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-21,541
+30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-21,542
 1.2833,103.8333,Singapore,Singapore,2020-01-22,0
 1.2833,103.8333,Singapore,Singapore,2020-01-23,1
 1.2833,103.8333,Singapore,Singapore,2020-01-24,3
@@ -23518,7 +23758,7 @@ Lat,Long,id,display_name,date,cases
 1.2833,103.8333,Singapore,Singapore,2020-03-18,313
 1.2833,103.8333,Singapore,Singapore,2020-03-19,345
 1.2833,103.8333,Singapore,Singapore,2020-03-20,385
-1.2833,103.8333,Singapore,Singapore,2020-03-21,385
+1.2833,103.8333,Singapore,Singapore,2020-03-21,432
 18.0425,-63.0548,Sint Maarten @ Netherlands,Sint Maarten,2020-01-22,0
 18.0425,-63.0548,Sint Maarten @ Netherlands,Sint Maarten,2020-01-23,0
 18.0425,-63.0548,Sint Maarten @ Netherlands,Sint Maarten,2020-01-24,0
@@ -23698,7 +23938,7 @@ Lat,Long,id,display_name,date,cases
 48.669,19.699,Slovakia,Slovakia,2020-03-18,105
 48.669,19.699,Slovakia,Slovakia,2020-03-19,123
 48.669,19.699,Slovakia,Slovakia,2020-03-20,137
-48.669,19.699,Slovakia,Slovakia,2020-03-21,137
+48.669,19.699,Slovakia,Slovakia,2020-03-21,178
 46.1512,14.9955,Slovenia,Slovenia,2020-01-22,0
 46.1512,14.9955,Slovenia,Slovenia,2020-01-23,0
 46.1512,14.9955,Slovenia,Slovenia,2020-01-24,0
@@ -23758,7 +23998,7 @@ Lat,Long,id,display_name,date,cases
 46.1512,14.9955,Slovenia,Slovenia,2020-03-18,275
 46.1512,14.9955,Slovenia,Slovenia,2020-03-19,286
 46.1512,14.9955,Slovenia,Slovenia,2020-03-20,341
-46.1512,14.9955,Slovenia,Slovenia,2020-03-21,341
+46.1512,14.9955,Slovenia,Slovenia,2020-03-21,383
 48.033,-121.8339,"Snohomish County, WA @ US","Snohomish County, WA",2020-01-22,0
 48.033,-121.8339,"Snohomish County, WA @ US","Snohomish County, WA",2020-01-23,0
 48.033,-121.8339,"Snohomish County, WA @ US","Snohomish County, WA",2020-01-24,0
@@ -24118,7 +24358,7 @@ Lat,Long,id,display_name,date,cases
 -30.5595,22.9375,South Africa,South Africa,2020-03-18,116
 -30.5595,22.9375,South Africa,South Africa,2020-03-19,150
 -30.5595,22.9375,South Africa,South Africa,2020-03-20,202
--30.5595,22.9375,South Africa,South Africa,2020-03-21,202
+-30.5595,22.9375,South Africa,South Africa,2020-03-21,240
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-01-22,0
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-01-23,0
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-01-24,0
@@ -24178,7 +24418,7 @@ Lat,Long,id,display_name,date,cases
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-18,37
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-19,42
 -34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-20,50
--34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-21,50
+-34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-21,67
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-01-22,0
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-01-23,0
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-01-24,0
@@ -24238,7 +24478,7 @@ Lat,Long,id,display_name,date,cases
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-03-18,47
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-03-19,81
 33.8569,-80.945,South Carolina @ US,South Carolina,2020-03-20,126
-33.8569,-80.945,South Carolina @ US,South Carolina,2020-03-21,126
+33.8569,-80.945,South Carolina @ US,South Carolina,2020-03-21,171
 44.2998,-99.4388,South Dakota @ US,South Dakota,2020-01-22,0
 44.2998,-99.4388,South Dakota @ US,South Dakota,2020-01-23,0
 44.2998,-99.4388,South Dakota @ US,South Dakota,2020-01-24,0
@@ -24358,7 +24598,7 @@ Lat,Long,id,display_name,date,cases
 40,-4,Spain,Spain,2020-03-18,13910
 40,-4,Spain,Spain,2020-03-19,17963
 40,-4,Spain,Spain,2020-03-20,20410
-40,-4,Spain,Spain,2020-03-21,20410
+40,-4,Spain,Spain,2020-03-21,25374
 34.8606,-81.9535,"Spartanburg County, SC @ US","Spartanburg County, SC",2020-01-22,0
 34.8606,-81.9535,"Spartanburg County, SC @ US","Spartanburg County, SC",2020-01-23,0
 34.8606,-81.9535,"Spartanburg County, SC @ US","Spartanburg County, SC",2020-01-24,0
@@ -24538,7 +24778,7 @@ Lat,Long,id,display_name,date,cases
 7,81,Sri Lanka,Sri Lanka,2020-03-18,51
 7,81,Sri Lanka,Sri Lanka,2020-03-19,60
 7,81,Sri Lanka,Sri Lanka,2020-03-20,73
-7,81,Sri Lanka,Sri Lanka,2020-03-21,73
+7,81,Sri Lanka,Sri Lanka,2020-03-21,77
 18.0708,-63.0501,St Martin @ France,St Martin,2020-01-22,0
 18.0708,-63.0501,St Martin @ France,St Martin,2020-01-23,0
 18.0708,-63.0501,St Martin @ France,St Martin,2020-01-24,0
@@ -25318,7 +25558,7 @@ Lat,Long,id,display_name,date,cases
 63,16,Sweden,Sweden,2020-03-18,1279
 63,16,Sweden,Sweden,2020-03-19,1439
 63,16,Sweden,Sweden,2020-03-20,1639
-63,16,Sweden,Sweden,2020-03-21,1639
+63,16,Sweden,Sweden,2020-03-21,1763
 46.8182,8.2275,Switzerland,Switzerland,2020-01-22,0
 46.8182,8.2275,Switzerland,Switzerland,2020-01-23,0
 46.8182,8.2275,Switzerland,Switzerland,2020-01-24,0
@@ -25378,7 +25618,7 @@ Lat,Long,id,display_name,date,cases
 46.8182,8.2275,Switzerland,Switzerland,2020-03-18,3028
 46.8182,8.2275,Switzerland,Switzerland,2020-03-19,4075
 46.8182,8.2275,Switzerland,Switzerland,2020-03-20,5294
-46.8182,8.2275,Switzerland,Switzerland,2020-03-21,5294
+46.8182,8.2275,Switzerland,Switzerland,2020-03-21,6575
 23.7,121,Taiwan*,Taiwan*,2020-01-22,1
 23.7,121,Taiwan*,Taiwan*,2020-01-23,1
 23.7,121,Taiwan*,Taiwan*,2020-01-24,3
@@ -25438,7 +25678,7 @@ Lat,Long,id,display_name,date,cases
 23.7,121,Taiwan*,Taiwan*,2020-03-18,100
 23.7,121,Taiwan*,Taiwan*,2020-03-19,108
 23.7,121,Taiwan*,Taiwan*,2020-03-20,135
-23.7,121,Taiwan*,Taiwan*,2020-03-21,135
+23.7,121,Taiwan*,Taiwan*,2020-03-21,153
 -6.369,34.8888,Tanzania,Tanzania,2020-01-22,0
 -6.369,34.8888,Tanzania,Tanzania,2020-01-23,0
 -6.369,34.8888,Tanzania,Tanzania,2020-01-24,0
@@ -25618,7 +25858,7 @@ Lat,Long,id,display_name,date,cases
 -41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-18,10
 -41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-19,10
 -41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-20,10
--41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-21,10
+-41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-21,16
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-01-22,0
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-01-23,0
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-01-24,0
@@ -25678,7 +25918,7 @@ Lat,Long,id,display_name,date,cases
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-03-18,79
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-03-19,154
 35.7478,-86.6923,Tennessee @ US,Tennessee,2020-03-20,233
-35.7478,-86.6923,Tennessee @ US,Tennessee,2020-03-21,233
+35.7478,-86.6923,Tennessee @ US,Tennessee,2020-03-21,371
 31.0545,-97.5635,Texas @ US,Texas,2020-01-22,0
 31.0545,-97.5635,Texas @ US,Texas,2020-01-23,0
 31.0545,-97.5635,Texas @ US,Texas,2020-01-24,0
@@ -25738,7 +25978,7 @@ Lat,Long,id,display_name,date,cases
 31.0545,-97.5635,Texas @ US,Texas,2020-03-18,173
 31.0545,-97.5635,Texas @ US,Texas,2020-03-19,260
 31.0545,-97.5635,Texas @ US,Texas,2020-03-20,394
-31.0545,-97.5635,Texas @ US,Texas,2020-03-21,394
+31.0545,-97.5635,Texas @ US,Texas,2020-03-21,581
 15,101,Thailand,Thailand,2020-01-22,2
 15,101,Thailand,Thailand,2020-01-23,3
 15,101,Thailand,Thailand,2020-01-24,5
@@ -25798,7 +26038,7 @@ Lat,Long,id,display_name,date,cases
 15,101,Thailand,Thailand,2020-03-18,212
 15,101,Thailand,Thailand,2020-03-19,272
 15,101,Thailand,Thailand,2020-03-20,322
-15,101,Thailand,Thailand,2020-03-21,322
+15,101,Thailand,Thailand,2020-03-21,411
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-22,0
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-23,0
 46.8646,-122.7696,"Thurston, WA @ US","Thurston, WA",2020-01-24,0
@@ -26038,7 +26278,7 @@ Lat,Long,id,display_name,date,cases
 8.6195,0.8248,Togo,Togo,2020-03-18,1
 8.6195,0.8248,Togo,Togo,2020-03-19,1
 8.6195,0.8248,Togo,Togo,2020-03-20,9
-8.6195,0.8248,Togo,Togo,2020-03-21,9
+8.6195,0.8248,Togo,Togo,2020-03-21,16
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-01-22,0
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-01-23,0
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-01-24,0
@@ -26098,7 +26338,7 @@ Lat,Long,id,display_name,date,cases
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-18,7
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-19,9
 10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-20,9
-10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-21,9
+10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-21,49
 36.1593,-95.941,"Tulsa County, OK @ US","Tulsa County, OK",2020-01-22,0
 36.1593,-95.941,"Tulsa County, OK @ US","Tulsa County, OK",2020-01-23,0
 36.1593,-95.941,"Tulsa County, OK @ US","Tulsa County, OK",2020-01-24,0
@@ -26218,7 +26458,7 @@ Lat,Long,id,display_name,date,cases
 34,9,Tunisia,Tunisia,2020-03-18,29
 34,9,Tunisia,Tunisia,2020-03-19,39
 34,9,Tunisia,Tunisia,2020-03-20,54
-34,9,Tunisia,Tunisia,2020-03-21,54
+34,9,Tunisia,Tunisia,2020-03-21,60
 38.9637,35.2433,Turkey,Turkey,2020-01-22,0
 38.9637,35.2433,Turkey,Turkey,2020-01-23,0
 38.9637,35.2433,Turkey,Turkey,2020-01-24,0
@@ -26278,7 +26518,67 @@ Lat,Long,id,display_name,date,cases
 38.9637,35.2433,Turkey,Turkey,2020-03-18,98
 38.9637,35.2433,Turkey,Turkey,2020-03-19,192
 38.9637,35.2433,Turkey,Turkey,2020-03-20,359
-38.9637,35.2433,Turkey,Turkey,2020-03-21,359
+38.9637,35.2433,Turkey,Turkey,2020-03-21,670
+1,32,Uganda,Uganda,2020-01-22,0
+1,32,Uganda,Uganda,2020-01-23,0
+1,32,Uganda,Uganda,2020-01-24,0
+1,32,Uganda,Uganda,2020-01-25,0
+1,32,Uganda,Uganda,2020-01-26,0
+1,32,Uganda,Uganda,2020-01-27,0
+1,32,Uganda,Uganda,2020-01-28,0
+1,32,Uganda,Uganda,2020-01-29,0
+1,32,Uganda,Uganda,2020-01-30,0
+1,32,Uganda,Uganda,2020-01-31,0
+1,32,Uganda,Uganda,2020-02-01,0
+1,32,Uganda,Uganda,2020-02-02,0
+1,32,Uganda,Uganda,2020-02-03,0
+1,32,Uganda,Uganda,2020-02-04,0
+1,32,Uganda,Uganda,2020-02-05,0
+1,32,Uganda,Uganda,2020-02-06,0
+1,32,Uganda,Uganda,2020-02-07,0
+1,32,Uganda,Uganda,2020-02-08,0
+1,32,Uganda,Uganda,2020-02-09,0
+1,32,Uganda,Uganda,2020-02-10,0
+1,32,Uganda,Uganda,2020-02-11,0
+1,32,Uganda,Uganda,2020-02-12,0
+1,32,Uganda,Uganda,2020-02-13,0
+1,32,Uganda,Uganda,2020-02-14,0
+1,32,Uganda,Uganda,2020-02-15,0
+1,32,Uganda,Uganda,2020-02-16,0
+1,32,Uganda,Uganda,2020-02-17,0
+1,32,Uganda,Uganda,2020-02-18,0
+1,32,Uganda,Uganda,2020-02-19,0
+1,32,Uganda,Uganda,2020-02-20,0
+1,32,Uganda,Uganda,2020-02-21,0
+1,32,Uganda,Uganda,2020-02-22,0
+1,32,Uganda,Uganda,2020-02-23,0
+1,32,Uganda,Uganda,2020-02-24,0
+1,32,Uganda,Uganda,2020-02-25,0
+1,32,Uganda,Uganda,2020-02-26,0
+1,32,Uganda,Uganda,2020-02-27,0
+1,32,Uganda,Uganda,2020-02-28,0
+1,32,Uganda,Uganda,2020-02-29,0
+1,32,Uganda,Uganda,2020-03-01,0
+1,32,Uganda,Uganda,2020-03-02,0
+1,32,Uganda,Uganda,2020-03-03,0
+1,32,Uganda,Uganda,2020-03-04,0
+1,32,Uganda,Uganda,2020-03-05,0
+1,32,Uganda,Uganda,2020-03-06,0
+1,32,Uganda,Uganda,2020-03-07,0
+1,32,Uganda,Uganda,2020-03-08,0
+1,32,Uganda,Uganda,2020-03-09,0
+1,32,Uganda,Uganda,2020-03-10,0
+1,32,Uganda,Uganda,2020-03-11,0
+1,32,Uganda,Uganda,2020-03-12,0
+1,32,Uganda,Uganda,2020-03-13,0
+1,32,Uganda,Uganda,2020-03-14,0
+1,32,Uganda,Uganda,2020-03-15,0
+1,32,Uganda,Uganda,2020-03-16,0
+1,32,Uganda,Uganda,2020-03-17,0
+1,32,Uganda,Uganda,2020-03-18,0
+1,32,Uganda,Uganda,2020-03-19,0
+1,32,Uganda,Uganda,2020-03-20,0
+1,32,Uganda,Uganda,2020-03-21,1
 48.3794,31.1656,Ukraine,Ukraine,2020-01-22,0
 48.3794,31.1656,Ukraine,Ukraine,2020-01-23,0
 48.3794,31.1656,Ukraine,Ukraine,2020-01-24,0
@@ -26338,7 +26638,7 @@ Lat,Long,id,display_name,date,cases
 48.3794,31.1656,Ukraine,Ukraine,2020-03-18,14
 48.3794,31.1656,Ukraine,Ukraine,2020-03-19,16
 48.3794,31.1656,Ukraine,Ukraine,2020-03-20,29
-48.3794,31.1656,Ukraine,Ukraine,2020-03-21,29
+48.3794,31.1656,Ukraine,Ukraine,2020-03-21,47
 41.8586,-74.3118,"Ulster County, NY @ US","Ulster County, NY",2020-01-22,0
 41.8586,-74.3118,"Ulster County, NY @ US","Ulster County, NY",2020-01-23,0
 41.8586,-74.3118,"Ulster County, NY @ US","Ulster County, NY",2020-01-24,0
@@ -26578,7 +26878,7 @@ Lat,Long,id,display_name,date,cases
 24,54,United Arab Emirates,United Arab Emirates,2020-03-18,113
 24,54,United Arab Emirates,United Arab Emirates,2020-03-19,140
 24,54,United Arab Emirates,United Arab Emirates,2020-03-20,140
-24,54,United Arab Emirates,United Arab Emirates,2020-03-21,140
+24,54,United Arab Emirates,United Arab Emirates,2020-03-21,153
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-01-22,0
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-01-23,0
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-01-24,0
@@ -26638,7 +26938,7 @@ Lat,Long,id,display_name,date,cases
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-18,2626
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-19,2689
 55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-20,3983
-55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-21,3983
+55.3781,-3.436,United Kingdom @ United Kingdom,United Kingdom,2020-03-21,5018
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-22,0
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-23,0
 -32.5228,-55.7658,Uruguay,Uruguay,2020-01-24,0
@@ -26698,7 +26998,7 @@ Lat,Long,id,display_name,date,cases
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-18,50
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-19,79
 -32.5228,-55.7658,Uruguay,Uruguay,2020-03-20,94
--32.5228,-55.7658,Uruguay,Uruguay,2020-03-21,94
+-32.5228,-55.7658,Uruguay,Uruguay,2020-03-21,110
 40.15,-111.8624,Utah @ US,Utah,2020-01-22,0
 40.15,-111.8624,Utah @ US,Utah,2020-01-23,0
 40.15,-111.8624,Utah @ US,Utah,2020-01-24,0
@@ -26758,7 +27058,7 @@ Lat,Long,id,display_name,date,cases
 40.15,-111.8624,Utah @ US,Utah,2020-03-18,51
 40.15,-111.8624,Utah @ US,Utah,2020-03-19,80
 40.15,-111.8624,Utah @ US,Utah,2020-03-20,78
-40.15,-111.8624,Utah @ US,Utah,2020-03-21,78
+40.15,-111.8624,Utah @ US,Utah,2020-03-21,136
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-01-22,0
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-01-23,0
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-01-24,0
@@ -26818,7 +27118,7 @@ Lat,Long,id,display_name,date,cases
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-18,15
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-19,23
 41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-20,33
-41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-21,33
+41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-21,43
 6.4238,-66.5897,Venezuela,Venezuela,2020-01-22,0
 6.4238,-66.5897,Venezuela,Venezuela,2020-01-23,0
 6.4238,-66.5897,Venezuela,Venezuela,2020-01-24,0
@@ -26878,7 +27178,7 @@ Lat,Long,id,display_name,date,cases
 6.4238,-66.5897,Venezuela,Venezuela,2020-03-18,36
 6.4238,-66.5897,Venezuela,Venezuela,2020-03-19,42
 6.4238,-66.5897,Venezuela,Venezuela,2020-03-20,42
-6.4238,-66.5897,Venezuela,Venezuela,2020-03-21,42
+6.4238,-66.5897,Venezuela,Venezuela,2020-03-21,70
 34.3705,-119.1391,"Ventura, CA @ US","Ventura, CA",2020-01-22,0
 34.3705,-119.1391,"Ventura, CA @ US","Ventura, CA",2020-01-23,0
 34.3705,-119.1391,"Ventura, CA @ US","Ventura, CA",2020-01-24,0
@@ -27058,7 +27358,7 @@ Lat,Long,id,display_name,date,cases
 -37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-18,121
 -37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-19,121
 -37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-20,121
--37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-21,121
+-37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-21,229
 16,108,Vietnam,Vietnam,2020-01-22,0
 16,108,Vietnam,Vietnam,2020-01-23,2
 16,108,Vietnam,Vietnam,2020-01-24,2
@@ -27118,7 +27418,7 @@ Lat,Long,id,display_name,date,cases
 16,108,Vietnam,Vietnam,2020-03-18,75
 16,108,Vietnam,Vietnam,2020-03-19,85
 16,108,Vietnam,Vietnam,2020-03-20,91
-16,108,Vietnam,Vietnam,2020-03-21,91
+16,108,Vietnam,Vietnam,2020-03-21,94
 18.3358,-64.8963,Virgin Islands @ US,Virgin Islands,2020-01-22,0
 18.3358,-64.8963,Virgin Islands @ US,Virgin Islands,2020-01-23,0
 18.3358,-64.8963,Virgin Islands @ US,Virgin Islands,2020-01-24,0
@@ -27238,7 +27538,7 @@ Lat,Long,id,display_name,date,cases
 37.7693,-78.17,Virginia @ US,Virginia,2020-03-18,77
 37.7693,-78.17,Virginia @ US,Virginia,2020-03-19,99
 37.7693,-78.17,Virginia @ US,Virginia,2020-03-20,122
-37.7693,-78.17,Virginia @ US,Virginia,2020-03-21,122
+37.7693,-78.17,Virginia @ US,Virginia,2020-03-21,156
 29.028,-81.0755,"Volusia County, FL @ US","Volusia County, FL",2020-01-22,0
 29.028,-81.0755,"Volusia County, FL @ US","Volusia County, FL",2020-01-23,0
 29.028,-81.0755,"Volusia County, FL @ US","Volusia County, FL",2020-01-24,0
@@ -27418,7 +27718,7 @@ Lat,Long,id,display_name,date,cases
 47.4009,-121.4905,Washington @ US,Washington,2020-03-18,1014
 47.4009,-121.4905,Washington @ US,Washington,2020-03-19,1376
 47.4009,-121.4905,Washington @ US,Washington,2020-03-20,1524
-47.4009,-121.4905,Washington @ US,Washington,2020-03-21,1524
+47.4009,-121.4905,Washington @ US,Washington,2020-03-21,1793
 45.547,-123.1386,"Washington County, OR @ US","Washington County, OR",2020-01-22,0
 45.547,-123.1386,"Washington County, OR @ US","Washington County, OR",2020-01-23,0
 45.547,-123.1386,"Washington County, OR @ US","Washington County, OR",2020-01-24,0
@@ -27838,7 +28138,7 @@ Lat,Long,id,display_name,date,cases
 38.4912,-80.9545,West Virginia @ US,West Virginia,2020-03-18,1
 38.4912,-80.9545,West Virginia @ US,West Virginia,2020-03-19,2
 38.4912,-80.9545,West Virginia @ US,West Virginia,2020-03-20,7
-38.4912,-80.9545,West Virginia @ US,West Virginia,2020-03-21,7
+38.4912,-80.9545,West Virginia @ US,West Virginia,2020-03-21,8
 41.122,-73.7949,"Westchester County, NY @ US","Westchester County, NY",2020-01-22,0
 41.122,-73.7949,"Westchester County, NY @ US","Westchester County, NY",2020-01-23,0
 41.122,-73.7949,"Westchester County, NY @ US","Westchester County, NY",2020-01-24,0
@@ -27958,7 +28258,7 @@ Lat,Long,id,display_name,date,cases
 -31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-18,35
 -31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-19,52
 -31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-20,64
--31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-21,64
+-31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-21,90
 48.8787,-121.9719,"Whatcom, WA @ US","Whatcom, WA",2020-01-22,0
 48.8787,-121.9719,"Whatcom, WA @ US","Whatcom, WA",2020-01-23,0
 48.8787,-121.9719,"Whatcom, WA @ US","Whatcom, WA",2020-01-24,0
@@ -28138,7 +28438,7 @@ Lat,Long,id,display_name,date,cases
 44.2685,-89.6165,Wisconsin @ US,Wisconsin,2020-03-18,92
 44.2685,-89.6165,Wisconsin @ US,Wisconsin,2020-03-19,159
 44.2685,-89.6165,Wisconsin @ US,Wisconsin,2020-03-20,207
-44.2685,-89.6165,Wisconsin @ US,Wisconsin,2020-03-21,207
+44.2685,-89.6165,Wisconsin @ US,Wisconsin,2020-03-21,282
 42.4097,-71.8571,"Worcester, MA @ US","Worcester, MA",2020-01-22,0
 42.4097,-71.8571,"Worcester, MA @ US","Worcester, MA",2020-01-23,0
 42.4097,-71.8571,"Worcester, MA @ US","Worcester, MA",2020-01-24,0
@@ -28258,7 +28558,7 @@ Lat,Long,id,display_name,date,cases
 42.756,-107.3025,Wyoming @ US,Wyoming,2020-03-18,15
 42.756,-107.3025,Wyoming @ US,Wyoming,2020-03-19,18
 42.756,-107.3025,Wyoming @ US,Wyoming,2020-03-20,19
-42.756,-107.3025,Wyoming @ US,Wyoming,2020-03-21,19
+42.756,-107.3025,Wyoming @ US,Wyoming,2020-03-21,23
 41.1129,85.2401,Xinjiang @ China,Xinjiang,2020-01-22,0
 41.1129,85.2401,Xinjiang @ China,Xinjiang,2020-01-23,2
 41.1129,85.2401,Xinjiang @ China,Xinjiang,2020-01-24,2
@@ -28558,7 +28858,7 @@ Lat,Long,id,display_name,date,cases
 29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-18,1232
 29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-19,1233
 29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-20,1234
-29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-21,1234
+29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-21,1236
 -20,30,Zimbabwe,Zimbabwe,2020-01-22,0
 -20,30,Zimbabwe,Zimbabwe,2020-01-23,0
 -20,30,Zimbabwe,Zimbabwe,2020-01-24,0
@@ -28618,4 +28918,4 @@ Lat,Long,id,display_name,date,cases
 -20,30,Zimbabwe,Zimbabwe,2020-03-18,0
 -20,30,Zimbabwe,Zimbabwe,2020-03-19,0
 -20,30,Zimbabwe,Zimbabwe,2020-03-20,1
--20,30,Zimbabwe,Zimbabwe,2020-03-21,1
+-20,30,Zimbabwe,Zimbabwe,2020-03-21,3
