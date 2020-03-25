@@ -14,7 +14,7 @@ refresh_data <- TRUE
 #===== load data =====
 if(refresh_data){
   
-  coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
+  coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
   
   # format data
   coronavirus_input <- coronavirus_raw %>% 
