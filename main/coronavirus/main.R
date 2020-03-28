@@ -22,7 +22,7 @@ coronavirus <- coronavirus_input %>%
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = cases,
-    size = 5 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 95
+    size = 4 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 106
   ) %>% 
   arrange(date, id)
 
