@@ -5,30 +5,13 @@ if(refresh_data){
     filter(`Country/Region` != "US")
   coronavirus_raw_us <- import("https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv", colClasses = c("fips" = "numeric"))
   
-  # us coordinates
-  data(state.map)
-  us_state_coordinates <- state.map %>% 
-    group_by(region) %>% 
-    summarise(
-      long_state = median(long),
-      lat_state = median(lat)
-    ) %>% 
-    # add back other regions
-    bind_rows(
-      tibble(
-        region = c("puerto rico", "virgin islands", "guam"),
-        long_state = c(-66.5901, -64.8963, 144.7937),
-        lat_state = c(18.2208, 18.3358, 13.4443)
-      )
-    )
+  # us state coordinates
+  us_state_coordinates <- import("../../input/coronavirus/us_state_coordinates.csv") %>% 
+    select(state, long_state, lat_state) %>% 
+    mutate(state = tolower(state))
   # us county coordinates
-  data(county.map)
-  us_county_coordinates <- county.map %>% 
-    group_by(region) %>% 
-    summarise(
-      long_county = mean(long),
-      lat_county = mean(lat)
-    )
+  us_county_coordinates <- import("../../input/coronavirus/us_county_coordinates.csv") %>% 
+    select(fips, long_county, lat_county)
   
   # format data: non-US
   coronavirus_input_nonus <- coronavirus_raw_nonus %>% 
@@ -69,8 +52,8 @@ if(refresh_data){
       county = tolower(county),
       state = tolower(state)
     ) %>% 
-    left_join(us_county_coordinates, by = c("fips" = "region")) %>% 
-    left_join(us_state_coordinates, by = c("state" = "region")) %>% 
+    left_join(us_county_coordinates, by = "fips") %>% 
+    left_join(us_state_coordinates, by = "state") %>% 
     mutate(
       lat = if_else(!is.na(lat_county), lat_county, lat_state),
       long = if_else(!is.na(long_county), long_county, long_state)
@@ -87,6 +70,8 @@ if(refresh_data){
       lat = if_else(id == "New York City @ New York", 40.7831, lat),
       long = if_else(id == "New York City @ New York", -73.9712, long)
     )
+  
+  print(paste0("Total NAs: ", sum(is.na(coronavirus_input))))
     
   export(coronavirus_input, "../../input/coronavirus/coronavirus.csv")
 }

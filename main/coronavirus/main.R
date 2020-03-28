@@ -4,7 +4,7 @@ suppressWarnings(library(beepr))
 suppressWarnings(library(rio))
 suppressWarnings(library(tidyverse))
 suppressWarnings(library(zoo))
-suppressWarnings(library(choroplethrMaps))
+
 
 setwd("C:/Users/Wenyao/Desktop/R/R/output/coronavirus")
 set.seed(350)
@@ -22,7 +22,7 @@ coronavirus <- coronavirus_input %>%
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = cases,
-    size = 3 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 97
+    size = 5 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 95
   ) %>% 
   arrange(date, id)
 
