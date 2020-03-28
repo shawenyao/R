@@ -4,6 +4,7 @@ suppressWarnings(library(beepr))
 suppressWarnings(library(rio))
 suppressWarnings(library(tidyverse))
 suppressWarnings(library(zoo))
+suppressWarnings(library(choroplethrMaps))
 
 setwd("C:/Users/Wenyao/Desktop/R/R/output/coronavirus")
 set.seed(350)
@@ -12,41 +13,7 @@ refresh_data <- TRUE
 
 
 #===== load data =====
-if(refresh_data){
-  
-  coronavirus_raw <- import("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv")
-  
-  # format data
-  coronavirus_input <- coronavirus_raw %>% 
-    mutate(
-      id = if_else(
-        `Province/State` == "",
-        `Country/Region`,
-        paste0(`Province/State`, " @ ", `Country/Region`)
-      ),
-      display_name = if_else(
-        `Province/State` == "",
-        `Country/Region`,
-        `Province/State`
-      )
-    ) %>% 
-    select(-`Province/State`, -`Country/Region`) %>% 
-    gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
-    mutate(
-      date = as.Date(date, format = "%m/%d/%y")
-    ) %>% 
-    arrange(id, date) %>% 
-    # forward filling
-    group_by(id) %>% 
-    mutate(
-      cases = na.locf(cases)
-    ) %>% 
-    ungroup()
-  
-  export(coronavirus_input, "../../input/coronavirus/coronavirus.csv")
-  
-}
-
+source("../../main/coronavirus/prepare_data.R", echo = TRUE)
 # read from pre-saved copy
 coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
 
@@ -55,8 +22,9 @@ coronavirus <- coronavirus_input %>%
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = cases,
-    size = 10 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 110
-  )
+    size = 3 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 97
+  ) %>% 
+  arrange(date, id)
 
 
 #===== plot on map =====
@@ -65,7 +33,7 @@ output <- leaflet(
   options = leafletOptions(minZoom = 3, maxZoom = 9)
 ) %>% 
   addTiles() %>% 
-  setView(lng = 20, lat = 45, zoom = 4) %>% 
+  setView(lng = -95, lat = 38, zoom = 4) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90)
 
 # plot group by date
@@ -77,8 +45,8 @@ for(a_date in all_dates){
       data = coronavirus %>% 
         filter(date == as.Date(a_date)) %>% 
         filter(cases != 0),
-      lng = ~Long, 
-      lat = ~Lat,
+      lng = ~long, 
+      lat = ~lat,
       radius = ~size,
       stroke = FALSE, 
       color = "red",
