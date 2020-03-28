@@ -28742,7 +28742,6 @@ lat,long,id,display_name,date,cases
 38.373344,-86.873385,Dubois @ Indiana,Dubois @ Indiana,2020-03-26,1
 42.463481,-90.878771,Dubuque @ Iowa,Dubuque @ Iowa,2020-03-26,6
 41.380939,-70.701536,Dukes @ Massachusetts,Dukes @ Massachusetts,2020-03-26,1
-42.407211,-71.382439,Dukes and Nantucket @ Massachusetts,Dukes and Nantucket @ Massachusetts,2020-03-26,3
 36.153025,-90.062254,Dunklin @ Missouri,Dunklin @ Missouri,2020-03-26,2
 47.35461,-102.612365,Dunn @ North Dakota,Dunn @ North Dakota,2020-03-26,1
 44.947741,-91.89772,Dunn @ Wisconsin,Dunn @ Wisconsin,2020-03-26,1
@@ -30166,3 +30165,2041 @@ lat,long,id,display_name,date,cases
 -15.4167,28.2833,Zambia,Zambia,2020-03-26,16
 29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-26,1243
 -20,30,Zimbabwe,Zimbabwe,2020-03-26,3
+34.213809,-82.46046,Abbeville @ South Carolina,Abbeville @ South Carolina,2020-03-27,4
+30.291497,-92.411037,Acadia @ Louisiana,Acadia @ Louisiana,2020-03-27,8
+37.765944,-75.757807,Accomack @ Virginia,Accomack @ Virginia,2020-03-27,2
+43.447861,-116.244456,Ada @ Idaho,Ada @ Idaho,2020-03-27,76
+41.328528,-94.478164,Adair @ Iowa,Adair @ Iowa,2020-03-27,1
+40.190666,-92.603592,Adair @ Missouri,Adair @ Missouri,2020-03-27,2
+35.8975,-94.651671,Adair @ Oklahoma,Adair @ Oklahoma,2020-03-27,3
+39.874325,-104.331872,Adams @ Colorado,Adams @ Colorado,2020-03-27,71
+39.986053,-91.194961,Adams @ Illinois,Adams @ Illinois,2020-03-27,1
+40.745733,-84.936131,Adams @ Indiana,Adams @ Indiana,2020-03-27,1
+31.486218,-91.351781,Adams @ Mississippi,Adams @ Mississippi,2020-03-27,2
+40.520632,-98.500044,Adams @ Nebraska,Adams @ Nebraska,2020-03-27,2
+39.869471,-77.21773,Adams @ Pennsylvania,Adams @ Pennsylvania,2020-03-27,8
+47.00484,-118.533308,Adams @ Washington,Adams @ Washington,2020-03-27,5
+44.031248,-73.141581,Addison @ Vermont,Addison @ Vermont,2020-03-27,13
+33,65,Afghanistan,Afghanistan,2020-03-27,110
+33.549317,-81.63387,Aiken @ South Carolina,Aiken @ South Carolina,2020-03-27,6
+29.67574,-82.357221,Alachua @ Florida,Alachua @ Florida,2020-03-27,60
+36.041974,-79.399935,Alamance @ North Carolina,Alamance @ North Carolina,2020-03-27,5
+37.648081,-121.913304,Alameda @ California,Alameda @ California,2020-03-27,241
+37.568442,-105.788041,Alamosa @ Colorado,Alamosa @ Colorado,2020-03-27,1
+41.1533,20.1683,Albania,Albania,2020-03-27,186
+42.588271,-73.974014,Albany @ New York,Albany @ New York,2020-03-27,187
+41.665514,-105.721883,Albany @ Wyoming,Albany @ Wyoming,2020-03-27,1
+38.024184,-78.553506,Albemarle @ Virginia,Albemarle @ Virginia,2020-03-27,8
+53.9333,-116.5765,Alberta @ Canada,Alberta,2020-03-27,542
+38.818343,-77.082026,Alexandria city @ Virginia,Alexandria city @ Virginia,2020-03-27,18
+28.0339,1.6596,Algeria,Algeria,2020-03-27,409
+43.274964,-91.382751,Allamakee @ Iowa,Allamakee @ Iowa,2020-03-27,7
+42.595788,-86.634745,Allegan @ Michigan,Allegan @ Michigan,2020-03-27,1
+42.247894,-78.026176,Allegany @ New York,Allegany @ New York,2020-03-27,2
+40.46892,-79.98092,Allegheny @ Pennsylvania,Allegheny @ Pennsylvania,2020-03-27,158
+41.091855,-85.07223,Allen @ Indiana,Allen @ Indiana,2020-03-27,21
+36.75077,-86.192458,Allen @ Kentucky,Allen @ Kentucky,2020-03-27,1
+30.652744,-92.819605,Allen @ Louisiana,Allen @ Louisiana,2020-03-27,5
+38.44355,-120.653856,Amador @ California,Amador @ California,2020-03-27,2
+37.336131,-77.973218,Amelia @ Virginia,Amelia @ Virginia,2020-03-27,1
+37.630362,-79.147848,Amherst @ Virginia,Amherst @ Virginia,2020-03-27,1
+61.177549,-149.274354,Anchorage @ Alaska,Anchorage @ Alaska,2020-03-27,43
+38.005396,-84.986417,Anderson @ Kentucky,Anderson @ Kentucky,2020-03-27,2
+34.519549,-82.638086,Anderson @ South Carolina,Anderson @ South Carolina,2020-03-27,21
+36.116731,-84.195418,Anderson @ Tennessee,Anderson @ Tennessee,2020-03-27,4
+42.5063,1.5218,Andorra,Andorra,2020-03-27,267
+44.167681,-70.207435,Androscoggin @ Maine,Androscoggin @ Maine,2020-03-27,6
+31.251951,-94.611056,Angelina @ Texas,Angelina @ Texas,2020-03-27,2
+-11.2027,17.8739,Angola,Angola,2020-03-27,4
+31.8257,117.2264,Anhui @ China,Anhui,2020-03-27,990
+38.993374,-76.560511,Anne Arundel @ Maryland,Anne Arundel @ Maryland,2020-03-27,63
+45.27411,-93.242723,Anoka @ Minnesota,Anoka @ Minnesota,2020-03-27,10
+17.0608,-61.7964,Antigua and Barbuda,Antigua and Barbuda,2020-03-27,7
+35.385845,-109.493747,Apache @ Arizona,Apache @ Arizona,2020-03-27,11
+40.744683,-92.870345,Appanoose @ Iowa,Appanoose @ Iowa,2020-03-27,1
+39.644632,-104.331733,Arapahoe @ Colorado,Arapahoe @ Colorado,2020-03-27,155
+-38.4161,-63.6167,Argentina,Argentina,2020-03-27,589
+38.878337,-77.100703,Arlington @ Virginia,Arlington @ Virginia,2020-03-27,63
+40.0691,45.0382,Armenia,Armenia,2020-03-27,329
+40.812379,-79.464128,Armstrong @ Pennsylvania,Armstrong @ Pennsylvania,2020-03-27,1
+12.5186,-70.0358,Aruba @ Netherlands,Aruba,2020-03-27,33
+30.202946,-90.910023,Ascension @ Louisiana,Ascension @ Louisiana,2020-03-27,90
+40.843274,-82.270121,Ashland @ Ohio,Ashland @ Ohio,2020-03-27,3
+41.906644,-80.745641,Ashtabula @ Ohio,Ashtabula @ Ohio,2020-03-27,5
+29.899884,-91.050528,Assumption @ Louisiana,Assumption @ Louisiana,2020-03-27,8
+28.894296,-98.528187,Atascosa @ Texas,Atascosa @ Texas,2020-03-27,2
+40.431846,-95.437555,Atchison @ Missouri,Atchison @ Missouri,2020-03-27,1
+39.333848,-82.046008,Athens @ Ohio,Athens @ Ohio,2020-03-27,1
+39.469354,-74.633758,Atlantic @ New Jersey,Atlantic @ New Jersey,2020-03-27,14
+33.09047,-89.588622,Attala @ Mississippi,Attala @ Mississippi,2020-03-27,8
+43.724719,-98.577587,Aurora @ South Dakota,Aurora @ South Dakota,2020-03-27,1
+29.891901,-96.27017,Austin @ Texas,Austin @ Texas,2020-03-27,1
+-35.4735,149.0124,Australian Capital Territory @ Australia,Australian Capital Territory,2020-03-27,62
+47.5162,14.5501,Austria,Austria,2020-03-27,7657
+32.536382,-86.64449,Autauga @ Alabama,Autauga @ Alabama,2020-03-27,6
+31.085094,-91.993798,Avoyelles @ Louisiana,Avoyelles @ Louisiana,2020-03-27,10
+40.1431,47.5769,Azerbaijan,Azerbaijan,2020-03-27,165
+25.0343,-77.3963,Bahamas,Bahamas,2020-03-27,10
+26.0275,50.55,Bahrain,Bahrain,2020-03-27,466
+30.324442,-82.302284,Baker @ Florida,Baker @ Florida,2020-03-27,7
+31.319622,-84.454857,Baker @ Georgia,Baker @ Georgia,2020-03-27,1
+30.659218,-87.746067,Baldwin @ Alabama,Baldwin @ Alabama,2020-03-27,5
+33.059532,-83.255362,Baldwin @ Georgia,Baldwin @ Georgia,2020-03-27,2
+39.443167,-76.616569,Baltimore @ Maryland,Baltimore @ Maryland,2020-03-27,103
+39.300214,-76.610516,Baltimore city @ Maryland,Baltimore city @ Maryland,2020-03-27,103
+23.685,90.3563,Bangladesh,Bangladesh,2020-03-27,48
+42.692939,-112.228986,Bannock @ Idaho,Bannock @ Idaho,2020-03-27,3
+13.1939,-59.5432,Barbados,Barbados,2020-03-27,24
+41.798819,-70.211083,Barnstable @ Massachusetts,Barnstable @ Massachusetts,2020-03-27,100
+33.992009,-83.712303,Barrow @ Georgia,Barrow @ Georgia,2020-03-27,7
+42.582811,-85.31455,Barry @ Michigan,Barry @ Michigan,2020-03-27,1
+36.699378,-93.834326,Barry @ Missouri,Barry @ Missouri,2020-03-27,1
+39.205843,-85.897999,Bartholomew @ Indiana,Bartholomew @ Indiana,2020-03-27,6
+34.240918,-84.838188,Bartow @ Georgia,Bartow @ Georgia,2020-03-27,107
+30.103128,-97.311859,Bastrop @ Texas,Bastrop @ Texas,2020-03-27,2
+38.257217,-94.339246,Bates @ Missouri,Bates @ Missouri,2020-03-27,1
+36.28071,-92.330438,Baxter @ Arkansas,Baxter @ Arkansas,2020-03-27,1
+30.237563,-85.631348,Bay @ Florida,Bay @ Florida,2020-03-27,4
+43.699711,-83.978701,Bay @ Michigan,Bay @ Michigan,2020-03-27,4
+46.634199,-91.177282,Bayfield @ Wisconsin,Bayfield @ Wisconsin,2020-03-27,2
+44.418265,-98.279422,Beadle @ South Dakota,Beadle @ South Dakota,2020-03-27,16
+35.482313,-76.842014,Beaufort @ North Carolina,Beaufort @ North Carolina,2020-03-27,3
+32.358147,-80.68932,Beaufort @ South Carolina,Beaufort @ South Carolina,2020-03-27,35
+30.645018,-93.340253,Beauregard @ Louisiana,Beauregard @ Louisiana,2020-03-27,4
+40.68414,-80.350721,Beaver @ Pennsylvania,Beaver @ Pennsylvania,2020-03-27,14
+35.51366,-86.458294,Bedford @ Tennessee,Bedford @ Tennessee,2020-03-27,1
+37.312408,-79.527947,Bedford @ Virginia,Bedford @ Virginia,2020-03-27,2
+40.1824,116.4142,Beijing @ China,Beijing,2020-03-27,569
+53.7098,27.9534,Belarus,Belarus,2020-03-27,94
+50.8333,4,Belgium,Belgium,2020-03-27,7284
+13.1939,-59.5432,Belize,Belize,2020-03-27,2
+43.519109,-71.425366,Belknap @ New Hampshire,Belknap @ New Hampshire,2020-03-27,9
+31.04211,-97.481921,Bell @ Texas,Bell @ Texas,2020-03-27,25
+40.017682,-80.967727,Belmont @ Ohio,Belmont @ Ohio,2020-03-27,6
+47.878825,-94.986698,Beltrami @ Minnesota,Beltrami @ Minnesota,2020-03-27,1
+31.740776,-83.14719,Ben Hill @ Georgia,Ben Hill @ Georgia,2020-03-27,2
+9.3077,2.3158,Benin,Benin,2020-03-27,6
+43.035325,-73.11146,Bennington @ Vermont,Bennington @ Vermont,2020-03-27,13
+36.337825,-94.256187,Benton @ Arkansas,Benton @ Arkansas,2020-03-27,24
+42.092547,-92.05763,Benton @ Iowa,Benton @ Iowa,2020-03-27,3
+45.701227,-94.00144,Benton @ Minnesota,Benton @ Minnesota,2020-03-27,1
+34.810773,-89.200029,Benton @ Mississippi,Benton @ Mississippi,2020-03-27,2
+38.301036,-93.287942,Benton @ Missouri,Benton @ Missouri,2020-03-27,1
+44.490623,-123.426317,Benton @ Oregon,Benton @ Oregon,2020-03-27,6
+36.069253,-88.071212,Benton @ Tennessee,Benton @ Tennessee,2020-03-27,2
+46.228072,-119.516864,Benton @ Washington,Benton @ Washington,2020-03-27,42
+40.95909,-74.074522,Bergen @ New Jersey,Bergen @ New Jersey,2020-03-27,1505
+33.2077,-79.953655,Berkeley @ South Carolina,Berkeley @ South Carolina,2020-03-27,10
+39.457854,-78.032338,Berkeley @ West Virginia,Berkeley @ West Virginia,2020-03-27,9
+40.413957,-75.92686,Berks @ Pennsylvania,Berks @ Pennsylvania,2020-03-27,65
+42.375314,-73.213948,Berkshire @ Massachusetts,Berkshire @ Massachusetts,2020-03-27,105
+32.3078,-64.7505,Bermuda @ United Kingdom,Bermuda,2020-03-27,17
+35.054002,-106.669065,Bernalillo @ New Mexico,Bernalillo @ New Mexico,2020-03-27,82
+41.792639,-86.741822,Berrien @ Michigan,Berrien @ Michigan,2020-03-27,18
+36.06133,-76.962367,Bertie @ North Carolina,Bertie @ North Carolina,2020-03-27,3
+29.448671,-98.520147,Bexar @ Texas,Bexar @ Texas,2020-03-27,113
+27.5142,90.4336,Bhutan,Bhutan,2020-03-27,3
+32.808844,-83.694193,Bibb @ Georgia,Bibb @ Georgia,2020-03-27,11
+32.344268,-93.061513,Bienville @ Louisiana,Bienville @ Louisiana,2020-03-27,1
+45.419925,-96.402226,Big Stone @ Minnesota,Big Stone @ Minnesota,2020-03-27,1
+43.216357,-112.399206,Bingham @ Idaho,Bingham @ Idaho,2020-03-27,1
+42.472888,-92.306059,Black Hawk @ Iowa,Black Hawk @ Iowa,2020-03-27,7
+43.394482,-113.95529,Blaine @ Idaho,Blaine @ Idaho,2020-03-27,99
+40.497926,-78.31064,Blair @ Pennsylvania,Blair @ Pennsylvania,2020-03-27,1
+30.265605,-98.399977,Blanco @ Texas,Blanco @ Texas,2020-03-27,1
+33.977448,-86.567246,Blount @ Alabama,Blount @ Alabama,2020-03-27,5
+35.688185,-83.922973,Blount @ Tennessee,Blount @ Tennessee,2020-03-27,6
+44.038225,-94.064071,Blue Earth @ Minnesota,Blue Earth @ Minnesota,2020-03-27,7
+33.799278,-90.884476,Bolivar @ Mississippi,Bolivar @ Mississippi,2020-03-27,9
+-16.2902,-63.5887,Bolivia,Bolivia,2020-03-27,61
+37.318349,-90.024601,Bollinger @ Missouri,Bollinger @ Missouri,2020-03-27,1
+42.986031,-97.885613,Bon Homme @ South Dakota,Bon Homme @ South Dakota,2020-03-27,1
+36.304308,-93.079204,Boone @ Arkansas,Boone @ Arkansas,2020-03-27,1
+40.050892,-86.469014,Boone @ Indiana,Boone @ Indiana,2020-03-27,7
+38.974595,-84.731444,Boone @ Kentucky,Boone @ Kentucky,2020-03-27,3
+38.989657,-92.310779,Boone @ Missouri,Boone @ Missouri,2020-03-27,37
+43.9159,17.6791,Bosnia and Herzegovina,Bosnia and Herzegovina,2020-03-27,237
+32.696202,-93.617977,Bossier @ Louisiana,Bossier @ Louisiana,2020-03-27,37
+37.553193,-79.805318,Botetourt @ Virginia,Botetourt @ Virginia,2020-03-27,1
+40.094826,-105.398382,Boulder @ Colorado,Boulder @ Colorado,2020-03-27,76
+37.8561,-94.850928,Bourbon @ Kansas,Bourbon @ Kansas,2020-03-27,3
+38.202562,-84.20986,Bourbon @ Kentucky,Bourbon @ Kentucky,2020-03-27,2
+33.446051,-94.422375,Bowie @ Texas,Bowie @ Texas,2020-03-27,2
+41.476021,-113.052922,Box Elder @ Utah,Box Elder @ Utah,2020-03-27,2
+29.946934,-82.166796,Bradford @ Florida,Bradford @ Florida,2020-03-27,1
+41.791495,-76.502124,Bradford @ Pennsylvania,Bradford @ Pennsylvania,2020-03-27,2
+33.463819,-92.168164,Bradley @ Arkansas,Bradley @ Arkansas,2020-03-27,4
+35.153914,-84.859414,Bradley @ Tennessee,Bradley @ Tennessee,2020-03-27,6
+-14.235,-51.9253,Brazil,Brazil,2020-03-27,3417
+29.167818,-95.434647,Brazoria @ Texas,Brazoria @ Texas,2020-03-27,39
+30.656725,-96.302389,Brazos @ Texas,Brazos @ Texas,2020-03-27,31
+37.521178,-83.322401,Breathitt @ Kentucky,Breathitt @ Kentucky,2020-03-27,2
+28.298276,-80.700384,Brevard @ Florida,Brevard @ Florida,2020-03-27,20
+41.748576,-71.087062,Bristol @ Massachusetts,Bristol @ Massachusetts,2020-03-27,129
+41.705271,-71.285053,Bristol @ Rhode Island,Bristol @ Rhode Island,2020-03-27,5
+36.616954,-82.157564,Bristol city @ Virginia,Bristol city @ Virginia,2020-03-27,1
+49.2827,-123.1207,British Columbia @ Canada,British Columbia,2020-03-27,725
+46.334476,-111.496103,Broadwater @ Montana,Broadwater @ Montana,2020-03-27,2
+44.376675,-96.797797,Brookings @ South Dakota,Brookings @ South Dakota,2020-03-27,1
+42.161977,-75.830291,Broome @ New York,Broome @ New York,2020-03-27,18
+39.953383,-105.052125,Broomfield @ Colorado,Broomfield @ Colorado,2020-03-27,13
+26.19352,-80.476658,Broward @ Florida,Broward @ Florida,2020-03-27,631
+39.192585,-86.23941,Brown @ Indiana,Brown @ Indiana,2020-03-27,2
+45.589254,-98.352175,Brown @ South Dakota,Brown @ South Dakota,2020-03-27,2
+31.764103,-98.99847,Brown @ Texas,Brown @ Texas,2020-03-27,3
+44.473961,-87.995926,Brown @ Wisconsin,Brown @ Wisconsin,2020-03-27,5
+4.5353,114.7277,Brunei,Brunei,2020-03-27,115
+34.038708,-78.227688,Brunswick @ North Carolina,Brunswick @ North Carolina,2020-03-27,11
+32.017969,-81.438543,Bryan @ Georgia,Bryan @ Georgia,2020-03-27,5
+33.964004,-96.264137,Bryan @ Oklahoma,Bryan @ Oklahoma,2020-03-27,1
+42.470328,-91.838666,Buchanan @ Iowa,Buchanan @ Iowa,2020-03-27,1
+39.66037,-94.808173,Buchanan @ Missouri,Buchanan @ Missouri,2020-03-27,2
+40.336887,-75.10706,Bucks @ Pennsylvania,Bucks @ Pennsylvania,2020-03-27,124
+40.855226,-99.074983,Buffalo @ Nebraska,Buffalo @ Nebraska,2020-03-27,4
+42.7339,25.4858,Bulgaria,Bulgaria,2020-03-27,293
+37.969572,-85.703036,Bullitt @ Kentucky,Bullitt @ Kentucky,2020-03-27,2
+32.101759,-85.717261,Bullock @ Alabama,Bullock @ Alabama,2020-03-27,2
+35.609371,-82.530426,Buncombe @ North Carolina,Buncombe @ North Carolina,2020-03-27,15
+41.401304,-89.528377,Bureau @ Illinois,Bureau @ Illinois,2020-03-27,1
+33.063737,-82.00389,Burke @ Georgia,Burke @ Georgia,2020-03-27,3
+35.746182,-81.70618,Burke @ North Carolina,Burke @ North Carolina,2020-03-27,2
+12.2383,-1.5616,Burkina Faso,Burkina Faso,2020-03-27,180
+46.971843,-100.462001,Burleigh @ North Dakota,Burleigh @ North Dakota,2020-03-27,25
+39.875786,-74.663006,Burlington @ New Jersey,Burlington @ New Jersey,2020-03-27,88
+21.9162,95.956,Burma,Burma,2020-03-27,8
+30.789616,-98.201195,Burnet @ Texas,Burnet @ Texas,2020-03-27,1
+31.751667,-86.681969,Butler @ Alabama,Butler @ Alabama,2020-03-27,1
+42.734708,-92.780066,Butler @ Iowa,Butler @ Iowa,2020-03-27,1
+37.773681,-96.838762,Butler @ Kansas,Butler @ Kansas,2020-03-27,3
+39.439915,-84.565397,Butler @ Ohio,Butler @ Ohio,2020-03-27,23
+40.913834,-79.91896,Butler @ Pennsylvania,Butler @ Pennsylvania,2020-03-27,26
+39.665959,-121.601919,Butte @ California,Butte @ California,2020-03-27,5
+33.290355,-83.958221,Butts @ Georgia,Butts @ Georgia,2020-03-27,3
+35.387845,-80.552868,Cabarrus @ North Carolina,Cabarrus @ North Carolina,2020-03-27,21
+16.5388,-23.0418,Cabo Verde,Cabo Verde,2020-03-27,5
+41.734225,-111.744581,Cache @ Utah,Cache @ Utah,2020-03-27,5
+32.577195,-93.882423,Caddo @ Louisiana,Caddo @ Louisiana,2020-03-27,140
+35.16792,-98.381045,Caddo @ Oklahoma,Caddo @ Oklahoma,2020-03-27,1
+38.187844,-120.555115,Calaveras @ California,Calaveras @ California,2020-03-27,3
+30.229559,-93.358015,Calcasieu @ Louisiana,Calcasieu @ Louisiana,2020-03-27,22
+35.957857,-81.530076,Caldwell @ North Carolina,Caldwell @ North Carolina,2020-03-27,3
+44.468791,-72.112168,Caledonia @ Vermont,Caledonia @ Vermont,2020-03-27,2
+33.771706,-85.822513,Calhoun @ Alabama,Calhoun @ Alabama,2020-03-27,3
+31.521279,-84.62629,Calhoun @ Georgia,Calhoun @ Georgia,2020-03-27,2
+42.24299,-85.012385,Calhoun @ Michigan,Calhoun @ Michigan,2020-03-27,9
+33.936634,-89.337114,Calhoun @ Mississippi,Calhoun @ Mississippi,2020-03-27,3
+33.67478,-80.780347,Calhoun @ South Carolina,Calhoun @ South Carolina,2020-03-27,1
+28.445366,-96.5833,Calhoun @ Texas,Calhoun @ Texas,2020-03-27,2
+38.835966,-91.924089,Callaway @ Missouri,Callaway @ Missouri,2020-03-27,3
+36.620978,-88.274086,Calloway @ Kentucky,Calloway @ Kentucky,2020-03-27,2
+44.07841,-88.212132,Calumet @ Wisconsin,Calumet @ Wisconsin,2020-03-27,1
+38.521358,-76.525864,Calvert @ Maryland,Calvert @ Maryland,2020-03-27,9
+11.55,104.9167,Cambodia,Cambodia,2020-03-27,99
+40.494127,-78.715284,Cambria @ Pennsylvania,Cambria @ Pennsylvania,2020-03-27,1
+30.916358,-81.636516,Camden @ Georgia,Camden @ Georgia,2020-03-27,2
+38.031995,-92.765138,Camden @ Missouri,Camden @ Missouri,2020-03-27,1
+39.802352,-74.961251,Camden @ New Jersey,Camden @ New Jersey,2020-03-27,95
+26.102923,-97.478958,Cameron @ Texas,Cameron @ Texas,2020-03-27,13
+3.848,11.5021,Cameroon,Cameroon,2020-03-27,91
+38.946981,-84.379583,Campbell @ Kentucky,Campbell @ Kentucky,2020-03-27,2
+36.401592,-84.15925,Campbell @ Tennessee,Campbell @ Tennessee,2020-03-27,4
+44.241321,-105.552029,Campbell @ Wyoming,Campbell @ Wyoming,2020-03-27,1
+35.543416,-97.979836,Canadian @ Oklahoma,Canadian @ Oklahoma,2020-03-27,11
+35.808394,-86.062404,Cannon @ Tennessee,Cannon @ Tennessee,2020-03-27,2
+43.623051,-116.708527,Canyon @ Idaho,Canyon @ Idaho,2020-03-27,23
+37.383882,-89.684908,Cape Girardeau @ Missouri,Cape Girardeau @ Missouri,2020-03-27,6
+39.086143,-74.847716,Cape May @ New Jersey,Cape May @ New Jersey,2020-03-27,7
+40.917833,-75.709428,Carbon @ Pennsylvania,Carbon @ Pennsylvania,2020-03-27,2
+41.70359,-106.933153,Carbon @ Wyoming,Carbon @ Wyoming,2020-03-27,3
+38.871531,-75.831631,Caroline @ Maryland,Caroline @ Maryland,2020-03-27,1
+33.582237,-85.080527,Carroll @ Georgia,Carroll @ Georgia,2020-03-27,61
+40.58498,-86.565141,Carroll @ Indiana,Carroll @ Indiana,2020-03-27,1
+42.039492,-94.867647,Carroll @ Iowa,Carroll @ Iowa,2020-03-27,1
+39.563189,-77.015512,Carroll @ Maryland,Carroll @ Maryland,2020-03-27,9
+43.867567,-71.201665,Carroll @ New Hampshire,Carroll @ New Hampshire,2020-03-27,8
+40.579884,-81.090787,Carroll @ Ohio,Carroll @ Ohio,2020-03-27,3
+35.967896,-88.451659,Carroll @ Tennessee,Carroll @ Tennessee,2020-03-27,4
+39.153447,-119.743442,Carson City @ Nevada,Carson City @ Nevada,2020-03-27,4
+36.944783,-90.945626,Carter @ Missouri,Carter @ Missouri,2020-03-27,1
+34.251848,-97.287927,Carter @ Oklahoma,Carter @ Oklahoma,2020-03-27,1
+34.858313,-76.526967,Carteret @ North Carolina,Carteret @ North Carolina,2020-03-27,5
+44.821381,-93.800575,Carver @ Minnesota,Carver @ Minnesota,2020-03-27,8
+47.316443,-111.350571,Cascade @ Montana,Cascade @ Montana,2020-03-27,7
+41.91624,-85.999457,Cass @ Michigan,Cass @ Michigan,2020-03-27,1
+46.951427,-94.333773,Cass @ Minnesota,Cass @ Minnesota,2020-03-27,1
+38.647159,-94.354242,Cass @ Missouri,Cass @ Missouri,2020-03-27,8
+40.909878,-96.140609,Cass @ Nebraska,Cass @ Nebraska,2020-03-27,2
+46.927003,-97.252375,Cass @ North Dakota,Cass @ North Dakota,2020-03-27,11
+33.083698,-94.357579,Cass @ Texas,Cass @ Texas,2020-03-27,1
+42.288635,-113.605498,Cassia @ Idaho,Cassia @ Idaho,2020-03-27,1
+34.533621,-102.258786,Castro @ Texas,Castro @ Texas,2020-03-27,7
+31.666517,-91.846703,Catahoula @ Louisiana,Catahoula @ Louisiana,2020-03-27,1
+35.663182,-81.214151,Catawba @ North Carolina,Catawba @ North Carolina,2020-03-27,7
+34.899393,-85.137353,Catoosa @ Georgia,Catoosa @ Georgia,2020-03-27,1
+19.3133,-81.2546,Cayman Islands @ United Kingdom,Cayman Islands,2020-03-27,8
+43.008546,-76.574587,Cayuga @ New York,Cayuga @ New York,2020-03-27,2
+39.562352,-75.941584,Cecil @ Maryland,Cecil @ Maryland,2020-03-27,9
+41.772355,-91.13219,Cedar @ Iowa,Cedar @ Iowa,2020-03-27,5
+6.6111,20.9394,Central African Republic,Central African Republic,2020-03-27,3
+40.90916,-77.84783,Centre @ Pennsylvania,Centre @ Pennsylvania,2020-03-27,11
+43.075171,-93.251266,Cerro Gordo @ Iowa,Cerro Gordo @ Iowa,2020-03-27,3
+15.4542,18.7322,Chad,Chad,2020-03-27,3
+38.738246,-106.316972,Chaffee @ Colorado,Chaffee @ Colorado,2020-03-27,5
+32.917943,-85.391812,Chambers @ Alabama,Chambers @ Alabama,2020-03-27,15
+29.703933,-94.668875,Chambers @ Texas,Chambers @ Texas,2020-03-27,2
+40.13915,-88.197201,Champaign @ Illinois,Champaign @ Illinois,2020-03-27,10
+40.132759,-83.767543,Champaign @ Ohio,Champaign @ Ohio,2020-03-27,2
+49.3723,-2.3644,Channel Islands @ United Kingdom,Channel Islands,2020-03-27,88
+39.517969,-92.961621,Chariton @ Missouri,Chariton @ Missouri,2020-03-27,1
+38.472853,-77.015427,Charles @ Maryland,Charles @ Maryland,2020-03-27,17
+37.361048,-77.054171,Charles City @ Virginia,Charles City @ Virginia,2020-03-27,1
+43.206185,-98.595143,Charles Mix @ South Dakota,Charles Mix @ South Dakota,2020-03-27,1
+32.800458,-79.94248,Charleston @ South Carolina,Charleston @ South Carolina,2020-03-27,92
+45.513164,-85.450392,Charlevoix @ Michigan,Charlevoix @ Michigan,2020-03-27,4
+26.868826,-81.940858,Charlotte @ Florida,Charlotte @ Florida,2020-03-27,8
+38.037658,-78.485381,Charlottesville city @ Virginia,Charlottesville city @ Virginia,2020-03-27,11
+30.779904,-82.139644,Charlton @ Georgia,Charlton @ Georgia,2020-03-27,1
+31.974756,-81.091768,Chatham @ Georgia,Chatham @ Georgia,2020-03-27,15
+35.704994,-79.251454,Chatham @ North Carolina,Chatham @ North Carolina,2020-03-27,11
+32.347445,-84.788021,Chattahoochee @ Georgia,Chattahoochee @ Georgia,2020-03-27,1
+34.474179,-85.345289,Chattooga @ Georgia,Chattooga @ Georgia,2020-03-27,1
+42.304216,-79.407595,Chautauqua @ New York,Chautauqua @ New York,2020-03-27,1
+33.361605,-104.469837,Chaves @ New Mexico,Chaves @ New Mexico,2020-03-27,4
+36.25518,-87.100816,Cheatham @ Tennessee,Cheatham @ Tennessee,2020-03-27,7
+47.859892,-120.618543,Chelan @ Washington,Chelan @ Washington,2020-03-27,14
+42.155281,-76.747179,Chemung @ New York,Chemung @ New York,2020-03-27,11
+42.489732,-75.604905,Chenango @ New York,Chenango @ New York,2020-03-27,4
+34.069515,-85.654242,Cherokee @ Alabama,Cherokee @ Alabama,2020-03-27,1
+34.244317,-84.475057,Cherokee @ Georgia,Cherokee @ Georgia,2020-03-27,50
+37.169392,-94.845698,Cherokee @ Kansas,Cherokee @ Kansas,2020-03-27,2
+35.136233,-84.061308,Cherokee @ North Carolina,Cherokee @ North Carolina,2020-03-27,4
+35.904367,-94.996796,Cherokee @ Oklahoma,Cherokee @ Oklahoma,2020-03-27,1
+31.843859,-95.156504,Cherokee @ Texas,Cherokee @ Texas,2020-03-27,1
+36.679376,-76.301788,Chesapeake city @ Virginia,Chesapeake city @ Virginia,2020-03-27,5
+42.925455,-72.248217,Cheshire @ New Hampshire,Cheshire @ New Hampshire,2020-03-27,2
+39.973965,-75.749732,Chester @ Pennsylvania,Chester @ Pennsylvania,2020-03-27,107
+34.689345,-81.161249,Chester @ South Carolina,Chester @ South Carolina,2020-03-27,1
+35.416639,-88.605505,Chester @ Tennessee,Chester @ Tennessee,2020-03-27,2
+34.637018,-80.159227,Chesterfield @ South Carolina,Chesterfield @ South Carolina,2020-03-27,4
+37.378434,-77.585847,Chesterfield @ Virginia,Chesterfield @ Virginia,2020-03-27,12
+33.921654,-88.945808,Chickasaw @ Mississippi,Chickasaw @ Mississippi,2020-03-27,9
+33.267139,-91.297158,Chicot @ Arkansas,Chicot @ Arkansas,2020-03-27,1
+-35.6751,-71.543,Chile,Chile,2020-03-27,1610
+32.85406,-86.726628,Chilton @ Alabama,Chilton @ Alabama,2020-03-27,7
+46.321819,-84.52063,Chippewa @ Michigan,Chippewa @ Michigan,2020-03-27,1
+45.069092,-91.283505,Chippewa @ Wisconsin,Chippewa @ Wisconsin,2020-03-27,3
+45.505444,-92.903849,Chisago @ Minnesota,Chisago @ Minnesota,2020-03-27,2
+44.460676,-73.070525,Chittenden @ Vermont,Chittenden @ Vermont,2020-03-27,90
+31.991008,-88.248887,Choctaw @ Alabama,Choctaw @ Alabama,2020-03-27,1
+33.345964,-89.251332,Choctaw @ Mississippi,Choctaw @ Mississippi,2020-03-27,4
+34.027645,-95.554208,Choctaw @ Oklahoma,Choctaw @ Oklahoma,2020-03-27,1
+30.0572,107.874,Chongqing @ China,Chongqing,2020-03-27,578
+39.545524,-89.279593,Christian @ Illinois,Christian @ Illinois,2020-03-27,1
+36.893388,-87.493554,Christian @ Kentucky,Christian @ Kentucky,2020-03-27,6
+36.969739,-93.187614,Christian @ Missouri,Christian @ Missouri,2020-03-27,3
+34.93205,-108.000255,Cibola @ New Mexico,Cibola @ New Mexico,2020-03-27,2
+28.843628,-82.524796,Citrus @ Florida,Citrus @ Florida,2020-03-27,11
+45.160493,-122.195127,Clackamas @ Oregon,Clackamas @ Oregon,2020-03-27,31
+32.827585,-92.991125,Claiborne @ Louisiana,Claiborne @ Louisiana,2020-03-27,3
+36.501557,-83.660724,Claiborne @ Tennessee,Claiborne @ Tennessee,2020-03-27,2
+48.113009,-123.930611,Clallam @ Washington,Clallam @ Washington,2020-03-27,5
+43.991137,-84.838325,Clare @ Michigan,Clare @ Michigan,2020-03-27,1
+33.664682,-80.217889,Clarendon @ South Carolina,Clarendon @ South Carolina,2020-03-27,6
+34.053312,-93.176205,Clark @ Arkansas,Clark @ Arkansas,2020-03-27,17
+38.476217,-85.711122,Clark @ Indiana,Clark @ Indiana,2020-03-27,12
+37.970133,-84.144974,Clark @ Kentucky,Clark @ Kentucky,2020-03-27,5
+36.214236,-115.013819,Clark @ Nevada,Clark @ Nevada,2020-03-27,443
+39.917032,-83.783676,Clark @ Ohio,Clark @ Ohio,2020-03-27,2
+45.771674,-122.485903,Clark @ Washington,Clark @ Washington,2020-03-27,76
+44.733596,-90.610201,Clark @ Wisconsin,Clark @ Wisconsin,2020-03-27,3
+33.952234,-83.36713,Clarke @ Georgia,Clarke @ Georgia,2020-03-27,34
+46.024509,-123.705014,Clatsop @ Oregon,Clatsop @ Oregon,2020-03-27,2
+33.267809,-85.862051,Clay @ Alabama,Clay @ Alabama,2020-03-27,1
+29.987116,-81.858147,Clay @ Florida,Clay @ Florida,2020-03-27,22
+39.344964,-97.168853,Clay @ Kansas,Clay @ Kansas,2020-03-27,1
+46.898377,-96.494901,Clay @ Minnesota,Clay @ Minnesota,2020-03-27,4
+33.661734,-88.783326,Clay @ Mississippi,Clay @ Mississippi,2020-03-27,2
+39.315551,-94.421502,Clay @ Missouri,Clay @ Missouri,2020-03-27,9
+33.552242,-84.412977,Clayton @ Georgia,Clayton @ Georgia,2020-03-27,53
+42.840998,-91.323511,Clayton @ Iowa,Clayton @ Iowa,2020-03-27,1
+39.689403,-105.670791,Clear Creek @ Colorado,Clear Creek @ Colorado,2020-03-27,3
+41.000249,-78.473749,Clearfield @ Pennsylvania,Clearfield @ Pennsylvania,2020-03-27,2
+33.671981,-85.516109,Cleburne @ Alabama,Cleburne @ Alabama,2020-03-27,3
+35.566288,-92.059974,Cleburne @ Arkansas,Cleburne @ Arkansas,2020-03-27,49
+39.052084,-84.149614,Clermont @ Ohio,Clermont @ Ohio,2020-03-27,6
+33.893201,-92.188714,Cleveland @ Arkansas,Cleveland @ Arkansas,2020-03-27,4
+35.33463,-81.557115,Cleveland @ North Carolina,Cleveland @ North Carolina,2020-03-27,2
+35.203117,-97.328332,Cleveland @ Oklahoma,Cleveland @ Oklahoma,2020-03-27,39
+30.917653,-82.702614,Clinch @ Georgia,Clinch @ Georgia,2020-03-27,1
+38.606423,-89.423136,Clinton @ Illinois,Clinton @ Illinois,2020-03-27,5
+40.305944,-86.477567,Clinton @ Indiana,Clinton @ Indiana,2020-03-27,1
+41.898073,-90.534243,Clinton @ Iowa,Clinton @ Iowa,2020-03-27,1
+42.950455,-84.591695,Clinton @ Michigan,Clinton @ Michigan,2020-03-27,8
+39.608723,-94.395803,Clinton @ Missouri,Clinton @ Missouri,2020-03-27,1
+44.75271,-73.705648,Clinton @ New York,Clinton @ New York,2020-03-27,11
+39.414041,-83.814542,Clinton @ Ohio,Clinton @ Ohio,2020-03-27,2
+34.22867,-90.603165,Coahoma @ Mississippi,Coahoma @ Mississippi,2020-03-27,18
+33.93994,-84.574166,Cobb @ Georgia,Cobb @ Georgia,2020-03-27,163
+31.881793,-109.75412,Cochise @ Arizona,Cochise @ Arizona,2020-03-27,2
+35.916198,-83.119223,Cocke @ Tennessee,Cocke @ Tennessee,2020-03-27,1
+35.829692,-111.773728,Coconino @ Arizona,Coconino @ Arizona,2020-03-27,41
+44.966324,-97.198843,Codington @ South Dakota,Codington @ South Dakota,2020-03-27,1
+31.549245,-82.844938,Coffee @ Georgia,Coffee @ Georgia,2020-03-27,3
+38.23645,-95.729137,Coffey @ Kansas,Coffey @ Kansas,2020-03-27,1
+34.703112,-87.801457,Colbert @ Alabama,Colbert @ Alabama,2020-03-27,1
+38.506847,-92.271404,Cole @ Missouri,Cole @ Missouri,2020-03-27,10
+32.83498,-80.655345,Colleton @ South Carolina,Colleton @ South Carolina,2020-03-27,2
+26.118713,-81.400884,Collier @ Florida,Collier @ Florida,2020-03-27,85
+33.193885,-96.578153,Collin @ Texas,Collin @ Texas,2020-03-27,88
+4.5709,-74.2973,Colombia,Colombia,2020-03-27,539
+31.189758,-83.769741,Colquitt @ Georgia,Colquitt @ Georgia,2020-03-27,5
+33.21507,-93.226901,Columbia @ Arkansas,Columbia @ Arkansas,2020-03-27,1
+30.221305,-82.623127,Columbia @ Florida,Columbia @ Florida,2020-03-27,3
+33.550556,-82.251342,Columbia @ Georgia,Columbia @ Georgia,2020-03-27,10
+42.247729,-73.626805,Columbia @ New York,Columbia @ New York,2020-03-27,20
+45.941932,-123.081079,Columbia @ Oregon,Columbia @ Oregon,2020-03-27,1
+41.045517,-76.40426,Columbia @ Pennsylvania,Columbia @ Pennsylvania,2020-03-27,3
+46.292851,-117.911635,Columbia @ Washington,Columbia @ Washington,2020-03-27,1
+43.471882,-89.330472,Columbia @ Wisconsin,Columbia @ Wisconsin,2020-03-27,7
+40.768462,-80.777231,Columbiana @ Ohio,Columbiana @ Ohio,2020-03-27,7
+39.177739,-122.237563,Colusa @ California,Colusa @ California,2020-03-27,1
+29.803019,-98.255201,Comal @ Texas,Comal @ Texas,2020-03-27,9
+34.662628,-98.476597,Comanche @ Oklahoma,Comanche @ Oklahoma,2020-03-27,6
+-4.0383,21.7587,Congo (Brazzaville),Congo (Brazzaville),2020-03-27,4
+-4.0383,21.7587,Congo (Kinshasa),Congo (Kinshasa),2020-03-27,51
+37.919479,-121.951543,Contra Costa @ California,Contra Costa @ California,2020-03-27,151
+35.265702,-92.689248,Conway @ Arkansas,Conway @ Arkansas,2020-03-27,2
+41.894294,-87.645455,Cook @ Illinois,Cook @ Illinois,2020-03-27,2239
+33.639169,-97.210372,Cooke @ Texas,Cooke @ Texas,2020-03-27,1
+38.845386,-92.812323,Cooper @ Missouri,Cooper @ Missouri,2020-03-27,1
+32.931445,-86.243482,Coosa @ Alabama,Coosa @ Alabama,2020-03-27,2
+31.866915,-90.448758,Copiah @ Mississippi,Copiah @ Mississippi,2020-03-27,8
+42.593824,-76.076265,Cortland @ New York,Cortland @ New York,2020-03-27,4
+31.391177,-97.798022,Coryell @ Texas,Coryell @ Texas,2020-03-27,1
+40.29672,-81.930112,Coshocton @ Ohio,Coshocton @ Ohio,2020-03-27,4
+9.7489,-83.7534,Costa Rica,Costa Rica,2020-03-27,263
+37.277547,-105.42894,Costilla @ Colorado,Costilla @ Colorado,2020-03-27,1
+7.54,-5.5471,Cote d'Ivoire,Cote d'Ivoire,2020-03-27,101
+31.243987,-86.448721,Covington @ Alabama,Covington @ Alabama,2020-03-27,2
+33.352897,-84.762138,Coweta @ Georgia,Coweta @ Georgia,2020-03-27,19
+46.185923,-122.658682,Cowlitz @ Washington,Cowlitz @ Washington,2020-03-27,7
+36.76389,-95.201553,Craig @ Oklahoma,Craig @ Oklahoma,2020-03-27,1
+35.828268,-90.630411,Craighead @ Arkansas,Craighead @ Arkansas,2020-03-27,4
+31.422797,-102.487774,Crane @ Texas,Crane @ Texas,2020-03-27,1
+35.118179,-77.082541,Craven @ North Carolina,Craven @ North Carolina,2020-03-27,3
+35.583041,-94.236224,Crawford @ Arkansas,Crawford @ Arkansas,2020-03-27,1
+37.505628,-94.853941,Crawford @ Kansas,Crawford @ Kansas,2020-03-27,3
+44.680208,-84.611132,Crawford @ Michigan,Crawford @ Michigan,2020-03-27,1
+40.848508,-82.924771,Crawford @ Ohio,Crawford @ Ohio,2020-03-27,1
+41.68684,-80.107811,Crawford @ Pennsylvania,Crawford @ Pennsylvania,2020-03-27,1
+35.907732,-96.379793,Creek @ Oklahoma,Creek @ Oklahoma,2020-03-27,14
+31.732826,-86.319222,Crenshaw @ Alabama,Crenshaw @ Alabama,2020-03-27,1
+31.914753,-83.753338,Crisp @ Georgia,Crisp @ Georgia,2020-03-27,4
+35.211878,-90.315331,Crittenden @ Arkansas,Crittenden @ Arkansas,2020-03-27,12
+45.1,15.2,Croatia,Croatia,2020-03-27,586
+35.291259,-90.773894,Cross @ Arkansas,Cross @ Arkansas,2020-03-27,1
+38.321956,-103.787562,Crowley @ Colorado,Crowley @ Colorado,2020-03-27,1
+22,-80,Cuba,Cuba,2020-03-27,80
+34.131923,-86.869267,Cullman @ Alabama,Cullman @ Alabama,2020-03-27,7
+38.48593,-77.956476,Culpeper @ Virginia,Culpeper @ Virginia,2020-03-27,2
+39.273121,-88.240619,Cumberland @ Illinois,Cumberland @ Illinois,2020-03-27,1
+43.808348,-70.330375,Cumberland @ Maine,Cumberland @ Maine,2020-03-27,92
+39.328387,-75.121644,Cumberland @ New Jersey,Cumberland @ New Jersey,2020-03-27,9
+35.050192,-78.828719,Cumberland @ North Carolina,Cumberland @ North Carolina,2020-03-27,8
+40.164782,-77.26344,Cumberland @ Pennsylvania,Cumberland @ Pennsylvania,2020-03-27,16
+35.952398,-84.994761,Cumberland @ Tennessee,Cumberland @ Tennessee,2020-03-27,6
+12.1696,-68.99,Curacao @ Netherlands,Curacao,2020-03-27,8
+34.572984,-103.346055,Curry @ New Mexico,Curry @ New Mexico,2020-03-27,1
+44.273341,-114.252251,Custer @ Idaho,Custer @ Idaho,2020-03-27,1
+35.645601,-98.997386,Custer @ Oklahoma,Custer @ Oklahoma,2020-03-27,3
+41.760392,-81.724217,Cuyahoga @ Ohio,Cuyahoga @ Ohio,2020-03-27,330
+35.1264,33.4299,Cyprus,Cyprus,2020-03-27,162
+49.8175,15.473,Czechia,Czechia,2020-03-27,2279
+44.670893,-93.062481,Dakota @ Minnesota,Dakota @ Minnesota,2020-03-27,28
+32.33354,-87.114356,Dallas @ Alabama,Dallas @ Alabama,2020-03-27,2
+41.685321,-94.040707,Dallas @ Iowa,Dallas @ Iowa,2020-03-27,9
+32.766987,-96.778424,Dallas @ Texas,Dallas @ Texas,2020-03-27,367
+43.067468,-89.417852,Dane @ Wisconsin,Dane @ Wisconsin,2020-03-27,158
+36.583334,-79.408071,Danville city @ Virginia,Danville city @ Virginia,2020-03-27,4
+40.132176,-84.620438,Darke @ Ohio,Darke @ Ohio,2020-03-27,1
+34.332185,-79.962116,Darlington @ South Carolina,Darlington @ South Carolina,2020-03-27,8
+40.412565,-76.792634,Dauphin @ Pennsylvania,Dauphin @ Pennsylvania,2020-03-27,18
+35.795123,-80.206525,Davidson @ North Carolina,Davidson @ North Carolina,2020-03-27,4
+36.169129,-86.78479,Davidson @ Tennessee,Davidson @ Tennessee,2020-03-27,312
+35.929356,-80.542542,Davie @ North Carolina,Davie @ North Carolina,2020-03-27,2
+37.731671,-87.087139,Daviess @ Kentucky,Daviess @ Kentucky,2020-03-27,15
+41.037045,-112.202123,Davis @ Utah,Davis @ Utah,2020-03-27,50
+43.680439,-98.155868,Davison @ South Dakota,Davison @ South Dakota,2020-03-27,2
+34.442842,-84.173284,Dawson @ Georgia,Dawson @ Georgia,2020-03-27,2
+40.867378,-99.815154,Dawson @ Nebraska,Dawson @ Nebraska,2020-03-27,1
+32.059248,-93.740797,De Soto @ Louisiana,De Soto @ Louisiana,2020-03-27,13
+34.940766,-102.607564,Deaf Smith @ Texas,Deaf Smith @ Texas,2020-03-27,2
+39.151491,-84.97346,Dearborn @ Indiana,Dearborn @ Indiana,2020-03-27,4
+30.877961,-84.577744,Decatur @ Georgia,Decatur @ Georgia,2020-03-27,3
+39.30598,-85.499831,Decatur @ Indiana,Decatur @ Indiana,2020-03-27,26
+41.321679,-84.486433,Defiance @ Ohio,Defiance @ Ohio,2020-03-27,5
+34.460929,-85.803992,DeKalb @ Alabama,DeKalb @ Alabama,2020-03-27,4
+33.770661,-84.226343,DeKalb @ Georgia,DeKalb @ Georgia,2020-03-27,219
+41.894613,-88.768991,DeKalb @ Illinois,DeKalb @ Illinois,2020-03-27,4
+41.401189,-85.000185,DeKalb @ Indiana,DeKalb @ Indiana,2020-03-27,1
+35.98222,-85.833596,DeKalb @ Tennessee,DeKalb @ Tennessee,2020-03-27,3
+40.227165,-85.398856,Delaware @ Indiana,Delaware @ Indiana,2020-03-27,8
+42.193987,-74.966728,Delaware @ New York,Delaware @ New York,2020-03-27,8
+40.278941,-83.007462,Delaware @ Ohio,Delaware @ Ohio,2020-03-27,22
+36.393369,-94.808206,Delaware @ Oklahoma,Delaware @ Oklahoma,2020-03-27,2
+39.91667,-75.398786,Delaware @ Pennsylvania,Delaware @ Pennsylvania,2020-03-27,185
+38.861756,-107.864757,Delta @ Colorado,Delta @ Colorado,2020-03-27,2
+56.2639,9.5018,Denmark,Denmark,2020-03-27,2046
+33.205005,-97.119046,Denton @ Texas,Denton @ Texas,2020-03-27,137
+39.761849,-104.880625,Denver @ Colorado,Denver @ Colorado,2020-03-27,312
+40.915339,-91.186925,Des Moines @ Iowa,Des Moines @ Iowa,2020-03-27,1
+43.915118,-121.225575,Deschutes @ Oregon,Deschutes @ Oregon,2020-03-27,18
+33.828748,-91.244427,Desha @ Arkansas,Desha @ Arkansas,2020-03-27,2
+27.190581,-81.806253,DeSoto @ Florida,DeSoto @ Florida,2020-03-27,6
+34.874266,-89.99324,DeSoto @ Mississippi,DeSoto @ Mississippi,2020-03-27,63
+29.082342,-97.361656,DeWitt @ Texas,DeWitt @ Texas,2020-03-27,3
+0,0,Diamond Princess,Diamond Princess,2020-03-27,712
+0,0,Diamond Princess @ Canada,Diamond Princess,2020-03-27,0
+43.389611,-95.196057,Dickinson @ Iowa,Dickinson @ Iowa,2020-03-27,1
+46.012823,-87.866119,Dickinson @ Michigan,Dickinson @ Michigan,2020-03-27,1
+36.145533,-87.364155,Dickson @ Tennessee,Dickson @ Tennessee,2020-03-27,9
+34.390172,-79.374964,Dillon @ South Carolina,Dillon @ South Carolina,2020-03-27,1
+38.904149,-77.017094,District of Columbia @ District of Columbia,District of Columbia @ District of Columbia,2020-03-27,304
+11.8251,42.5903,Djibouti,Djibouti,2020-03-27,12
+32.350912,-106.832182,Doña Ana @ New Mexico,Doña Ana @ New Mexico,2020-03-27,16
+32.160656,-83.156818,Dodge @ Georgia,Dodge @ Georgia,2020-03-27,1
+44.020706,-92.869353,Dodge @ Minnesota,Dodge @ Minnesota,2020-03-27,5
+41.577008,-96.645853,Dodge @ Nebraska,Dodge @ Nebraska,2020-03-27,1
+43.422706,-88.704379,Dodge @ Wisconsin,Dodge @ Wisconsin,2020-03-27,6
+15.415,-61.371,Dominica,Dominica,2020-03-27,11
+18.7357,-70.1627,Dominican Republic,Dominican Republic,2020-03-27,581
+39.788502,-95.147225,Doniphan @ Kansas,Doniphan @ Kansas,2020-03-27,1
+33.082186,-80.404697,Dorchester @ South Carolina,Dorchester @ South Carolina,2020-03-27,9
+31.535068,-84.214444,Dougherty @ Georgia,Dougherty @ Georgia,2020-03-27,203
+39.326435,-104.926199,Douglas @ Colorado,Douglas @ Colorado,2020-03-27,79
+33.699317,-84.765944,Douglas @ Georgia,Douglas @ Georgia,2020-03-27,32
+39.766078,-88.222866,Douglas @ Illinois,Douglas @ Illinois,2020-03-27,1
+38.896573,-95.290529,Douglas @ Kansas,Douglas @ Kansas,2020-03-27,18
+41.297091,-96.154066,Douglas @ Nebraska,Douglas @ Nebraska,2020-03-27,60
+38.905129,-119.609019,Douglas @ Nevada,Douglas @ Nevada,2020-03-27,4
+43.285904,-123.15438,Douglas @ Oregon,Douglas @ Oregon,2020-03-27,4
+47.735866,-119.69588,Douglas @ Washington,Douglas @ Washington,2020-03-27,5
+46.463316,-91.89258,Douglas @ Wisconsin,Douglas @ Wisconsin,2020-03-27,5
+33.587242,-91.722778,Drew @ Arkansas,Drew @ Arkansas,2020-03-27,2
+38.373344,-86.873385,Dubois @ Indiana,Dubois @ Indiana,2020-03-27,1
+42.463481,-90.878771,Dubuque @ Iowa,Dubuque @ Iowa,2020-03-27,8
+41.380939,-70.701536,Dukes @ Massachusetts,Dukes @ Massachusetts,2020-03-27,1
+36.153025,-90.062254,Dunklin @ Missouri,Dunklin @ Missouri,2020-03-27,3
+47.35461,-102.612365,Dunn @ North Dakota,Dunn @ North Dakota,2020-03-27,1
+44.947741,-91.89772,Dunn @ Wisconsin,Dunn @ Wisconsin,2020-03-27,2
+41.852058,-88.086038,DuPage @ Illinois,DuPage @ Illinois,2020-03-27,199
+34.934403,-77.933543,Duplin @ North Carolina,Duplin @ North Carolina,2020-03-27,1
+36.036589,-78.877919,Durham @ North Carolina,Durham @ North Carolina,2020-03-27,83
+41.755009,-73.739951,Dutchess @ New York,Dutchess @ New York,2020-03-27,225
+30.335245,-81.648113,Duval @ Florida,Duval @ Florida,2020-03-27,99
+36.054196,-89.398306,Dyer @ Tennessee,Dyer @ Tennessee,2020-03-27,3
+39.630638,-106.692944,Eagle @ Colorado,Eagle @ Colorado,2020-03-27,170
+31.324191,-84.906723,Early @ Georgia,Early @ Georgia,2020-03-27,13
+30.544002,-91.093174,East Baton Rouge @ Louisiana,East Baton Rouge @ Louisiana,2020-03-27,124
+30.839784,-91.043434,East Feliciana @ Louisiana,East Feliciana @ Louisiana,2020-03-27,5
+32.324645,-98.83656,Eastland @ Texas,Eastland @ Texas,2020-03-27,2
+42.589614,-84.846524,Eaton @ Michigan,Eaton @ Michigan,2020-03-27,8
+44.726355,-91.286414,Eau Claire @ Wisconsin,Eau Claire @ Wisconsin,2020-03-27,8
+-1.8312,-78.1834,Ecuador,Ecuador,2020-03-27,1595
+32.457858,-104.306471,Eddy @ New Mexico,Eddy @ New Mexico,2020-03-27,2
+33.776498,-81.968245,Edgefield @ South Carolina,Edgefield @ South Carolina,2020-03-27,1
+32.361711,-81.343337,Effingham @ Georgia,Effingham @ Georgia,2020-03-27,4
+26,30,Egypt,Egypt,2020-03-27,536
+38.785532,-120.534398,El Dorado @ California,El Dorado @ California,2020-03-27,12
+38.827383,-104.527472,El Paso @ Colorado,El Paso @ Colorado,2020-03-27,160
+31.766403,-106.241391,El Paso @ Texas,El Paso @ Texas,2020-03-27,30
+13.7942,-88.8965,El Salvador,El Salvador,2020-03-27,13
+39.310817,-104.117928,Elbert @ Colorado,Elbert @ Colorado,2020-03-27,3
+41.600693,-85.863986,Elkhart @ Indiana,Elkhart @ Indiana,2020-03-27,9
+41.141133,-115.351424,Elko @ Nevada,Elko @ Nevada,2020-03-27,2
+32.347279,-96.798336,Ellis @ Texas,Ellis @ Texas,2020-03-27,13
+32.597229,-86.142739,Elmore @ Alabama,Elmore @ Alabama,2020-03-27,12
+45.590094,-84.986822,Emmet @ Michigan,Emmet @ Michigan,2020-03-27,3
+1.5,10,Equatorial Guinea,Equatorial Guinea,2020-03-27,12
+32.238136,-98.222377,Erath @ Texas,Erath @ Texas,2020-03-27,1
+42.752759,-78.778192,Erie @ New York,Erie @ New York,2020-03-27,219
+41.554006,-82.525897,Erie @ Ohio,Erie @ Ohio,2020-03-27,3
+42.117952,-80.096386,Erie @ Pennsylvania,Erie @ Pennsylvania,2020-03-27,7
+15.1794,39.7823,Eritrea,Eritrea,2020-03-27,6
+31.121748,-87.168429,Escambia @ Alabama,Escambia @ Alabama,2020-03-27,1
+30.611664,-87.33904,Escambia @ Florida,Escambia @ Florida,2020-03-27,28
+42.642711,-70.865107,Essex @ Massachusetts,Essex @ Massachusetts,2020-03-27,350
+40.787217,-74.246136,Essex @ New Jersey,Essex @ New Jersey,2020-03-27,826
+44.108971,-73.777573,Essex @ New York,Essex @ New York,2020-03-27,4
+58.5953,25.0136,Estonia,Estonia,2020-03-27,575
+-26.5225,31.4659,Eswatini,Eswatini,2020-03-27,9
+9.145,40.4897,Ethiopia,Ethiopia,2020-03-27,16
+34.047638,-86.03442,Etowah @ Alabama,Etowah @ Alabama,2020-03-27,5
+30.720693,-92.404086,Evangeline @ Louisiana,Evangeline @ Louisiana,2020-03-27,4
+64.690832,-146.599867,Fairbanks North Star Borough @ Alaska,Fairbanks North Star Borough @ Alaska,2020-03-27,19
+38.833743,-77.276117,Fairfax @ Virginia,Fairfax @ Virginia,2020-03-27,124
+38.853183,-77.299025,Fairfax city @ Virginia,Fairfax city @ Virginia,2020-03-27,1
+41.228103,-73.366757,Fairfield @ Connecticut,Fairfield @ Connecticut,2020-03-27,752
+39.752935,-82.628276,Fairfield @ Ohio,Fairfield @ Ohio,2020-03-27,8
+34.395669,-81.127001,Fairfield @ South Carolina,Fairfield @ South Carolina,2020-03-27,4
+31.25193,-96.934128,Falls @ Texas,Falls @ Texas,2020-03-27,1
+34.863837,-84.319287,Fannin @ Georgia,Fannin @ Georgia,2020-03-27,3
+33.591161,-96.104988,Fannin @ Texas,Fannin @ Texas,2020-03-27,1
+43.676522,-93.947234,Faribault @ Minnesota,Faribault @ Minnesota,2020-03-27,1
+61.8926,-6.9118,Faroe Islands @ Denmark,Faroe Islands,2020-03-27,144
+45.065476,-99.153564,Faulk @ South Dakota,Faulk @ South Dakota,2020-03-27,1
+35.146356,-92.324654,Faulkner @ Arkansas,Faulkner @ Arkansas,2020-03-27,28
+38.744103,-77.821585,Fauquier @ Virginia,Fauquier @ Virginia,2020-03-27,4
+33.412717,-84.493941,Fayette @ Georgia,Fayette @ Georgia,2020-03-27,22
+39.639655,-85.185032,Fayette @ Indiana,Fayette @ Indiana,2020-03-27,3
+42.86445,-91.839373,Fayette @ Iowa,Fayette @ Iowa,2020-03-27,1
+38.040157,-84.458443,Fayette @ Kentucky,Fayette @ Kentucky,2020-03-27,37
+39.553845,-83.459327,Fayette @ Ohio,Fayette @ Ohio,2020-03-27,1
+39.914115,-79.644586,Fayette @ Pennsylvania,Fayette @ Pennsylvania,2020-03-27,9
+35.196993,-89.413803,Fayette @ Tennessee,Fayette @ Tennessee,2020-03-27,3
+29.877886,-96.921231,Fayette @ Texas,Fayette @ Texas,2020-03-27,1
+48.437246,-118.517074,Ferry @ Washington,Ferry @ Washington,2020-03-27,1
+-17.7134,178.065,Fiji,Fiji,2020-03-27,5
+43.67727,-92.093681,Fillmore @ Minnesota,Fillmore @ Minnesota,2020-03-27,3
+64,26,Finland,Finland,2020-03-27,1041
+29.474894,-81.286362,Flagler @ Florida,Flagler @ Florida,2020-03-27,12
+48.314696,-114.054319,Flathead @ Montana,Flathead @ Montana,2020-03-27,6
+34.028535,-79.710233,Florence @ South Carolina,Florence @ South Carolina,2020-03-27,11
+34.263677,-85.21373,Floyd @ Georgia,Floyd @ Georgia,2020-03-27,26
+38.317937,-85.911474,Floyd @ Indiana,Floyd @ Indiana,2020-03-27,11
+37.830606,-78.284445,Fluvanna @ Virginia,Fluvanna @ Virginia,2020-03-27,3
+43.754722,-88.493284,Fond du Lac @ Wisconsin,Fond du Lac @ Wisconsin,2020-03-27,19
+37.688365,-99.884734,Ford @ Kansas,Ford @ Kansas,2020-03-27,1
+31.18858,-89.259447,Forrest @ Mississippi,Forrest @ Mississippi,2020-03-27,16
+34.225143,-84.127336,Forsyth @ Georgia,Forsyth @ Georgia,2020-03-27,21
+36.131667,-80.257289,Forsyth @ North Carolina,Forsyth @ North Carolina,2020-03-27,17
+29.526602,-95.771015,Fort Bend @ Texas,Fort Bend @ Texas,2020-03-27,101
+47.464327,-98.872817,Foster @ North Dakota,Foster @ North Dakota,2020-03-27,1
+40.121282,-87.234806,Fountain @ Indiana,Fountain @ Indiana,2020-03-27,1
+46.2276,2.2137,France,France,2020-03-27,32964
+34.441988,-87.842815,Franklin @ Alabama,Franklin @ Alabama,2020-03-27,3
+34.375155,-83.227291,Franklin @ Georgia,Franklin @ Georgia,2020-03-27,1
+37.991848,-88.926246,Franklin @ Illinois,Franklin @ Illinois,2020-03-27,1
+39.409762,-85.066964,Franklin @ Indiana,Franklin @ Indiana,2020-03-27,22
+38.558019,-95.278962,Franklin @ Kansas,Franklin @ Kansas,2020-03-27,2
+38.234919,-84.868786,Franklin @ Kentucky,Franklin @ Kentucky,2020-03-27,3
+44.973012,-70.444727,Franklin @ Maine,Franklin @ Maine,2020-03-27,1
+42.583791,-72.591655,Franklin @ Massachusetts,Franklin @ Massachusetts,2020-03-27,24
+31.477798,-90.895884,Franklin @ Mississippi,Franklin @ Mississippi,2020-03-27,3
+38.408313,-91.07341,Franklin @ Missouri,Franklin @ Missouri,2020-03-27,4
+44.594374,-74.31067,Franklin @ New York,Franklin @ New York,2020-03-27,2
+36.088241,-78.28309,Franklin @ North Carolina,Franklin @ North Carolina,2020-03-27,5
+39.969447,-83.008258,Franklin @ Ohio,Franklin @ Ohio,2020-03-27,152
+39.926686,-77.724485,Franklin @ Pennsylvania,Franklin @ Pennsylvania,2020-03-27,5
+35.155926,-86.099203,Franklin @ Tennessee,Franklin @ Tennessee,2020-03-27,3
+44.858964,-72.909402,Franklin @ Vermont,Franklin @ Vermont,2020-03-27,6
+36.99235,-79.883959,Franklin @ Virginia,Franklin @ Virginia,2020-03-27,1
+46.53458,-118.906944,Franklin @ Washington,Franklin @ Washington,2020-03-27,12
+39.470427,-77.397627,Frederick @ Maryland,Frederick @ Maryland,2020-03-27,15
+39.203637,-78.263916,Frederick @ Virginia,Frederick @ Virginia,2020-03-27,4
+38.299272,-77.486658,Fredericksburg city @ Virginia,Fredericksburg city @ Virginia,2020-03-27,1
+38.455658,-105.421438,Fremont @ Colorado,Fremont @ Colorado,2020-03-27,1
+44.218091,-111.484429,Fremont @ Idaho,Fremont @ Idaho,2020-03-27,1
+43.055303,-108.605531,Fremont @ Wyoming,Fremont @ Wyoming,2020-03-27,17
+3.9339,-53.1258,French Guiana @ France,French Guiana,2020-03-27,28
+-17.6797,149.4068,French Polynesia @ France,French Polynesia,2020-03-27,30
+36.761006,-119.655019,Fresno @ California,Fresno @ California,2020-03-27,31
+26.0789,117.9874,Fujian @ China,Fujian,2020-03-27,331
+33.790034,-84.468182,Fulton @ Georgia,Fulton @ Georgia,2020-03-27,347
+41.050384,-86.265006,Fulton @ Indiana,Fulton @ Indiana,2020-03-27,1
+43.115609,-74.423678,Fulton @ New York,Fulton @ New York,2020-03-27,1
+41.597264,-84.124267,Fulton @ Ohio,Fulton @ Ohio,2020-03-27,2
+-0.8037,11.6094,Gabon,Gabon,2020-03-27,7
+30.57917,-84.612783,Gadsden @ Florida,Gadsden @ Florida,2020-03-27,1
+32.743942,-102.631562,Gaines @ Texas,Gaines @ Texas,2020-03-27,1
+36.66564,-80.914308,Galax city @ Virginia,Galax city @ Virginia,2020-03-27,1
+45.535559,-111.173443,Gallatin @ Montana,Gallatin @ Montana,2020-03-27,42
+38.817046,-82.301746,Gallia @ Ohio,Gallia @ Ohio,2020-03-27,1
+29.228706,-94.894865,Galveston @ Texas,Galveston @ Texas,2020-03-27,49
+13.4432,-15.3101,Gambia,Gambia,2020-03-27,3
+37.8099,101.0583,Gansu @ China,Gansu,2020-03-27,136
+39.599352,-107.90978,Garfield @ Colorado,Garfield @ Colorado,2020-03-27,16
+34.578861,-93.146915,Garland @ Arkansas,Garland @ Arkansas,2020-03-27,20
+39.529871,-79.269416,Garrett @ Maryland,Garrett @ Maryland,2020-03-27,3
+34.70935,-97.312723,Garvin @ Oklahoma,Garvin @ Oklahoma,2020-03-27,2
+35.293344,-81.177256,Gaston @ North Carolina,Gaston @ North Carolina,2020-03-27,9
+41.499322,-81.173505,Geauga @ Ohio,Geauga @ Ohio,2020-03-27,10
+44.061473,-116.398784,Gem @ Idaho,Gem @ Idaho,2020-03-27,1
+43.021077,-83.706372,Genesee @ Michigan,Genesee @ Michigan,2020-03-27,91
+43.00091,-78.192778,Genesee @ New York,Genesee @ New York,2020-03-27,6
+30.855431,-88.642268,George @ Mississippi,George @ Mississippi,2020-03-27,1
+33.41753,-79.300812,Georgetown @ South Carolina,Georgetown @ South Carolina,2020-03-27,3
+42.3154,43.3569,Georgia,Georgia,2020-03-27,83
+51,9,Germany,Germany,2020-03-27,50871
+7.9465,-1.0232,Ghana,Ghana,2020-03-27,137
+36.1408,-5.3536,Gibraltar @ United Kingdom,Gibraltar,2020-03-27,55
+38.317413,-87.580566,Gibson @ Indiana,Gibson @ Indiana,2020-03-27,3
+35.991694,-88.933776,Gibson @ Tennessee,Gibson @ Tennessee,2020-03-27,2
+43.98975,-84.389816,Gladwin @ Michigan,Gladwin @ Michigan,2020-03-27,2
+39.721019,-75.143708,Gloucester @ New Jersey,Gloucester @ New Jersey,2020-03-27,40
+37.403541,-76.523505,Gloucester @ Virginia,Gloucester @ Virginia,2020-03-27,3
+31.212747,-81.496517,Glynn @ Georgia,Glynn @ Georgia,2020-03-27,7
+46.488054,-89.788314,Gogebic @ Michigan,Gogebic @ Michigan,2020-03-27,1
+37.724166,-77.914273,Goochland @ Virginia,Goochland @ Virginia,2020-03-27,3
+44.406178,-92.716,Goodhue @ Minnesota,Goodhue @ Minnesota,2020-03-27,2
+34.509667,-84.873862,Gordon @ Georgia,Gordon @ Georgia,2020-03-27,12
+42.08958,-104.353482,Goshen @ Wyoming,Goshen @ Wyoming,2020-03-27,1
+38.917239,-100.48736,Gove @ Kansas,Gove @ Kansas,2020-03-27,1
+35.021058,-97.88689,Grady @ Oklahoma,Grady @ Oklahoma,2020-03-27,2
+43.926488,-71.842264,Grafton @ New Hampshire,Grafton @ New Hampshire,2020-03-27,26
+32.931828,-109.87831,Graham @ Arizona,Graham @ Arizona,2020-03-27,4
+40.123289,-106.095876,Grand @ Colorado,Grand @ Colorado,2020-03-27,2
+37.6489,-122.6655,Grand Princess @ Canada,Grand Princess,2020-03-27,13
+44.718688,-85.553848,Grand Traverse @ Michigan,Grand Traverse @ Michigan,2020-03-27,3
+34.288063,-92.423984,Grant @ Arkansas,Grant @ Arkansas,2020-03-27,3
+40.515758,-85.654946,Grant @ Indiana,Grant @ Indiana,2020-03-27,5
+31.597787,-92.561716,Grant @ Louisiana,Grant @ Louisiana,2020-03-27,1
+44.496326,-119.014057,Grant @ Oregon,Grant @ Oregon,2020-03-27,1
+47.213633,-119.467788,Grant @ Washington,Grant @ Washington,2020-03-27,42
+42.870062,-90.695368,Grant @ Wisconsin,Grant @ Wisconsin,2020-03-27,1
+36.299884,-78.657634,Granville @ North Carolina,Granville @ North Carolina,2020-03-27,3
+43.292326,-84.60469,Gratiot @ Michigan,Gratiot @ Michigan,2020-03-27,1
+47.142786,-123.827043,Grays Harbor @ Washington,Grays Harbor @ Washington,2020-03-27,1
+37.458577,-86.344011,Grayson @ Kentucky,Grayson @ Kentucky,2020-03-27,2
+33.624508,-96.675699,Grayson @ Texas,Grayson @ Texas,2020-03-27,2
+39.0742,21.8243,Greece,Greece,2020-03-27,966
+42.677728,-89.605639,Green @ Wisconsin,Green @ Wisconsin,2020-03-27,3
+37.924418,-80.45059,Greenbrier @ West Virginia,Greenbrier @ West Virginia,2020-03-27,1
+32.844497,-87.964201,Greene @ Alabama,Greene @ Alabama,2020-03-27,1
+36.119922,-90.565241,Greene @ Arkansas,Greene @ Arkansas,2020-03-27,3
+33.576836,-83.167103,Greene @ Georgia,Greene @ Georgia,2020-03-27,1
+37.258196,-93.340641,Greene @ Missouri,Greene @ Missouri,2020-03-27,31
+42.286951,-74.149495,Greene @ New York,Greene @ New York,2020-03-27,6
+35.481933,-77.681667,Greene @ North Carolina,Greene @ North Carolina,2020-03-27,3
+39.687479,-83.894894,Greene @ Ohio,Greene @ Ohio,2020-03-27,3
+39.848983,-80.225694,Greene @ Pennsylvania,Greene @ Pennsylvania,2020-03-27,4
+36.178998,-82.847746,Greene @ Tennessee,Greene @ Tennessee,2020-03-27,8
+38.297981,-78.470163,Greene @ Virginia,Greene @ Virginia,2020-03-27,1
+71.7069,-42.6043,Greenland @ Denmark,Greenland,2020-03-27,10
+34.892645,-82.372077,Greenville @ South Carolina,Greenville @ South Carolina,2020-03-27,51
+34.155796,-82.127876,Greenwood @ South Carolina,Greenwood @ South Carolina,2020-03-27,2
+32.486397,-94.816276,Gregg @ Texas,Gregg @ Texas,2020-03-27,4
+12.1165,-61.679,Grenada,Grenada,2020-03-27,7
+33.770031,-89.80274,Grenada @ Mississippi,Grenada @ Mississippi,2020-03-27,2
+30.543231,-95.988082,Grimes @ Texas,Grimes @ Texas,2020-03-27,2
+41.29241,-88.401055,Grundy @ Illinois,Grundy @ Illinois,2020-03-27,2
+35.387273,-85.722188,Grundy @ Tennessee,Grundy @ Tennessee,2020-03-27,1
+29.583208,-97.949027,Guadalupe @ Texas,Guadalupe @ Texas,2020-03-27,8
+16.25,-61.5833,Guadeloupe @ France,Guadeloupe,2020-03-27,73
+23.3417,113.4244,Guangdong @ China,Guangdong,2020-03-27,1456
+23.8298,108.7881,Guangxi @ China,Guangxi,2020-03-27,254
+15.7835,-90.2308,Guatemala,Guatemala,2020-03-27,28
+36.079065,-79.788665,Guilford @ North Carolina,Guilford @ North Carolina,2020-03-27,31
+9.9456,-9.6966,Guinea,Guinea,2020-03-27,8
+11.8037,-15.1804,Guinea-Bissau,Guinea-Bissau,2020-03-27,2
+26.8154,106.8748,Guizhou @ China,Guizhou,2020-03-27,146
+38.669679,-107.078108,Gunnison @ Colorado,Gunnison @ Colorado,2020-03-27,66
+5,-58.75,Guyana,Guyana,2020-03-27,5
+33.959101,-84.022938,Gwinnett @ Georgia,Gwinnett @ Georgia,2020-03-27,121
+34.635108,-83.526406,Habersham @ Georgia,Habersham @ Georgia,2020-03-27,1
+19.1959,109.7453,Hainan @ China,Hainan,2020-03-27,168
+18.9712,-72.2852,Haiti,Haiti,2020-03-27,8
+34.068436,-101.822888,Hale @ Texas,Hale @ Texas,2020-03-27,1
+36.766461,-78.939614,Halifax @ Virginia,Halifax @ Virginia,2020-03-27,1
+34.317588,-83.818497,Hall @ Georgia,Hall @ Georgia,2020-03-27,30
+40.866023,-98.498004,Hall @ Nebraska,Hall @ Nebraska,2020-03-27,2
+36.218397,-83.266071,Hamblen @ Tennessee,Hamblen @ Tennessee,2020-03-27,2
+40.04987,-86.020586,Hamilton @ Indiana,Hamilton @ Indiana,2020-03-27,53
+40.877145,-98.021943,Hamilton @ Nebraska,Hamilton @ Nebraska,2020-03-27,1
+43.657879,-74.502456,Hamilton @ New York,Hamilton @ New York,2020-03-27,2
+39.196927,-84.544187,Hamilton @ Ohio,Hamilton @ Ohio,2020-03-27,63
+35.159186,-85.202296,Hamilton @ Tennessee,Hamilton @ Tennessee,2020-03-27,30
+42.136198,-72.635648,Hampden @ Massachusetts,Hampden @ Massachusetts,2020-03-27,90
+42.339459,-72.663694,Hampshire @ Massachusetts,Hampshire @ Massachusetts,2020-03-27,20
+37.04803,-76.297149,Hampton city @ Virginia,Hampton city @ Virginia,2020-03-27,5
+39.822604,-85.772904,Hancock @ Indiana,Hancock @ Indiana,2020-03-27,14
+43.075411,-93.743697,Hancock @ Iowa,Hancock @ Iowa,2020-03-27,3
+30.391437,-89.47985,Hancock @ Mississippi,Hancock @ Mississippi,2020-03-27,9
+41.000471,-83.666034,Hancock @ Ohio,Hancock @ Ohio,2020-03-27,2
+40.516931,-80.570057,Hancock @ West Virginia,Hancock @ West Virginia,2020-03-27,1
+37.760166,-77.490992,Hanover @ Virginia,Hanover @ Virginia,2020-03-27,2
+33.795165,-85.220062,Haralson @ Georgia,Haralson @ Georgia,2020-03-27,1
+42.389955,-93.241081,Hardin @ Iowa,Hardin @ Iowa,2020-03-27,1
+37.695836,-85.963183,Hardin @ Kentucky,Hardin @ Kentucky,2020-03-27,5
+35.201893,-88.185696,Hardin @ Tennessee,Hardin @ Tennessee,2020-03-27,1
+30.329612,-94.393149,Hardin @ Texas,Hardin @ Texas,2020-03-27,4
+39.537429,-76.299789,Harford @ Maryland,Harford @ Maryland,2020-03-27,18
+35.368635,-78.87161,Harnett @ North Carolina,Harnett @ North Carolina,2020-03-27,11
+32.731549,-84.912432,Harris @ Georgia,Harris @ Georgia,2020-03-27,1
+29.857273,-95.393037,Harris @ Texas,Harris @ Texas,2020-03-27,229
+38.18644,-86.103681,Harrison @ Indiana,Harrison @ Indiana,2020-03-27,4
+41.688584,-95.827149,Harrison @ Iowa,Harrison @ Iowa,2020-03-27,7
+38.443489,-84.332796,Harrison @ Kentucky,Harrison @ Kentucky,2020-03-27,11
+30.416536,-89.083376,Harrison @ Mississippi,Harrison @ Mississippi,2020-03-27,34
+32.547993,-94.374425,Harrison @ Texas,Harrison @ Texas,2020-03-27,1
+39.279199,-80.386487,Harrison @ West Virginia,Harrison @ West Virginia,2020-03-27,4
+38.436013,-78.874197,Harrisonburg city @ Virginia,Harrisonburg city @ Virginia,2020-03-27,5
+34.348733,-82.96329,Hart @ Georgia,Hart @ Georgia,2020-03-27,1
+41.806053,-72.732916,Hartford @ Connecticut,Hartford @ Connecticut,2020-03-27,189
+38.050144,-97.436707,Harvey @ Kansas,Harvey @ Kansas,2020-03-27,1
+19.597764,-155.502443,Hawaii @ Hawaii,Hawaii @ Hawaii,2020-03-27,7
+36.452206,-82.931386,Hawkins @ Tennessee,Hawkins @ Tennessee,2020-03-27,2
+30.061225,-98.029267,Hays @ Texas,Hays @ Texas,2020-03-27,13
+33.290968,-85.139594,Heard @ Georgia,Heard @ Georgia,2020-03-27,1
+39.549,116.1306,Hebei @ China,Hebei,2020-03-27,319
+47.862,127.7615,Heilongjiang @ China,Heilongjiang,2020-03-27,484
+33.728611,-93.665809,Hempstead @ Arkansas,Hempstead @ Arkansas,2020-03-27,1
+33.882,113.614,Henan @ China,Henan,2020-03-27,1275
+37.792542,-87.572577,Henderson @ Kentucky,Henderson @ Kentucky,2020-03-27,5
+35.336424,-82.479634,Henderson @ North Carolina,Henderson @ North Carolina,2020-03-27,6
+39.768749,-86.510287,Hendricks @ Indiana,Hendricks @ Indiana,2020-03-27,28
+45.006064,-93.475185,Hennepin @ Minnesota,Hennepin @ Minnesota,2020-03-27,141
+37.437521,-77.300333,Henrico @ Virginia,Henrico @ Virginia,2020-03-27,28
+33.452881,-84.15444,Henry @ Georgia,Henry @ Georgia,2020-03-27,44
+41.350021,-90.130838,Henry @ Illinois,Henry @ Illinois,2020-03-27,1
+39.929576,-85.397338,Henry @ Indiana,Henry @ Indiana,2020-03-27,1
+40.985864,-91.54427,Henry @ Iowa,Henry @ Iowa,2020-03-27,2
+38.386491,-93.792628,Henry @ Missouri,Henry @ Missouri,2020-03-27,1
+43.461635,-74.894694,Herkimer @ New York,Herkimer @ New York,2020-03-27,9
+28.567911,-82.464835,Hernando @ Florida,Hernando @ Florida,2020-03-27,12
+36.363517,-76.981616,Hertford @ North Carolina,Hertford @ North Carolina,2020-03-27,2
+26.396384,-98.18099,Hidalgo @ Texas,Hidalgo @ Texas,2020-03-27,18
+39.184488,-83.603668,Highland @ Ohio,Highland @ Ohio,2020-03-27,1
+27.342627,-81.340921,Highlands @ Florida,Highlands @ Florida,2020-03-27,6
+48.628331,-110.106372,Hill @ Montana,Hill @ Montana,2020-03-27,1
+27.90659,-82.349568,Hillsborough @ Florida,Hillsborough @ Florida,2020-03-27,174
+42.911643,-71.723101,Hillsborough @ New Hampshire,Hillsborough @ New Hampshire,2020-03-27,43
+41.864475,-84.642409,Hillsdale @ Michigan,Hillsdale @ Michigan,2020-03-27,6
+32.267924,-90.4659,Hinds @ Mississippi,Hinds @ Mississippi,2020-03-27,50
+37.811625,-107.383405,Hinsdale @ Colorado,Hinsdale @ Colorado,2020-03-27,1
+33.605932,-102.343398,Hockley @ Texas,Hockley @ Texas,2020-03-27,5
+35.017233,-79.241964,Hoke @ North Carolina,Hoke @ North Carolina,2020-03-27,2
+33.125942,-90.091197,Holmes @ Mississippi,Holmes @ Mississippi,2020-03-27,10
+41.9029,12.4534,Holy See,Holy See,2020-03-27,4
+15.2,-86.2419,Honduras,Honduras,2020-03-27,68
+22.3,114.2,Hong Kong @ China,Hong Kong,2020-03-27,519
+21.461364,-158.201976,Honolulu @ Hawaii,Honolulu @ Hawaii,2020-03-27,87
+32.430149,-97.831677,Hood @ Texas,Hood @ Texas,2020-03-27,2
+45.511775,-121.655976,Hood River @ Oregon,Hood River @ Oregon,2020-03-27,1
+37.31107,-87.542196,Hopkins @ Kentucky,Hopkins @ Kentucky,2020-03-27,1
+33.148959,-95.565194,Hopkins @ Texas,Hopkins @ Texas,2020-03-27,1
+33.909269,-78.976675,Horry @ South Carolina,Horry @ South Carolina,2020-03-27,24
+34.315177,-92.944147,Hot Spring @ Arkansas,Hot Spring @ Arkansas,2020-03-27,2
+43.720871,-108.435652,Hot Springs @ Wyoming,Hot Springs @ Wyoming,2020-03-27,1
+31.158193,-85.296398,Houston @ Alabama,Houston @ Alabama,2020-03-27,4
+32.458381,-83.662856,Houston @ Georgia,Houston @ Georgia,2020-03-27,10
+36.285777,-87.705605,Houston @ Tennessee,Houston @ Tennessee,2020-03-27,2
+34.083179,-93.990988,Howard @ Arkansas,Howard @ Arkansas,2020-03-27,3
+40.483537,-86.114118,Howard @ Indiana,Howard @ Indiana,2020-03-27,7
+39.252264,-76.924406,Howard @ Maryland,Howard @ Maryland,2020-03-27,62
+30.9756,112.2707,Hubei @ China,Hubei,2020-03-27,67801
+40.731384,-74.078627,Hudson @ New Jersey,Hudson @ New Jersey,2020-03-27,594
+37.687815,-104.959928,Huerfano @ Colorado,Huerfano @ Colorado,2020-03-27,1
+44.392258,-99.985846,Hughes @ South Dakota,Hughes @ South Dakota,2020-03-27,1
+40.706673,-123.925818,Humboldt @ California,Humboldt @ California,2020-03-27,14
+33.132978,-90.523911,Humphreys @ Mississippi,Humphreys @ Mississippi,2020-03-27,1
+27.6104,111.7088,Hunan @ China,Hunan,2020-03-27,1018
+47.1625,19.5033,Hungary,Hungary,2020-03-27,300
+33.123438,-96.083807,Hunt @ Texas,Hunt @ Texas,2020-03-27,1
+40.565283,-74.91197,Hunterdon @ New Jersey,Hunterdon @ New Jersey,2020-03-27,52
+40.826394,-85.478598,Huntington @ Indiana,Huntington @ Indiana,2020-03-27,1
+43.907616,-82.857045,Huron @ Michigan,Huron @ Michigan,2020-03-27,1
+41.14508,-82.594641,Huron @ Ohio,Huron @ Ohio,2020-03-27,3
+29.606013,-91.842706,Iberia @ Louisiana,Iberia @ Louisiana,2020-03-27,4
+30.288394,-91.36315,Iberville @ Louisiana,Iberville @ Louisiana,2020-03-27,20
+64.9631,-19.0208,Iceland,Iceland,2020-03-27,890
+45.849237,-115.467376,Idaho @ Idaho,Idaho @ Idaho,2020-03-27,1
+33.040816,-115.355395,Imperial @ California,Imperial @ California,2020-03-27,21
+35.737499,-91.559942,Independence @ Arkansas,Independence @ Arkansas,2020-03-27,3
+21,78,India,India,2020-03-27,887
+27.700638,-80.574803,Indian River @ Florida,Indian River @ Florida,2020-03-27,15
+40.651432,-79.087545,Indiana @ Pennsylvania,Indiana @ Pennsylvania,2020-03-27,2
+-0.7893,113.9213,Indonesia,Indonesia,2020-03-27,1046
+42.603534,-84.373811,Ingham @ Michigan,Ingham @ Michigan,2020-03-27,26
+44.0935,113.9448,Inner Mongolia @ China,Inner Mongolia,2020-03-27,92
+36.561977,-117.403927,Inyo @ California,Inyo @ California,2020-03-27,5
+42.94465,-85.073766,Ionia @ Michigan,Ionia @ Michigan,2020-03-27,2
+44.329482,-82.849447,Iosco @ Michigan,Iosco @ Michigan,2020-03-27,1
+41.683918,-92.059123,Iowa @ Iowa,Iowa @ Iowa,2020-03-27,1
+43.001021,-90.133692,Iowa @ Wisconsin,Iowa @ Wisconsin,2020-03-27,3
+32,53,Iran,Iran,2020-03-27,32332
+33,44,Iraq,Iraq,2020-03-27,458
+35.806356,-80.874545,Iredell @ North Carolina,Iredell @ North Carolina,2020-03-27,15
+53.1424,-7.6921,Ireland,Ireland,2020-03-27,2121
+37.882727,-113.290059,Iron @ Utah,Iron @ Utah,2020-03-27,2
+46.32655,-90.261299,Iron @ Wisconsin,Iron @ Wisconsin,2020-03-27,1
+40.748867,-87.833601,Iroquois @ Illinois,Iroquois @ Illinois,2020-03-27,1
+31.604306,-83.277037,Irwin @ Georgia,Irwin @ Georgia,2020-03-27,3
+43.645233,-84.839425,Isabella @ Michigan,Isabella @ Michigan,2020-03-27,4
+48.158436,-122.670503,Island @ Washington,Island @ Washington,2020-03-27,79
+54.2361,-4.5481,Isle of Man @ United Kingdom,Isle of Man,2020-03-27,29
+36.901418,-76.707569,Isle of Wight @ Virginia,Isle of Wight @ Virginia,2020-03-27,2
+31,35,Israel,Israel,2020-03-27,3035
+43,12,Italy,Italy,2020-03-27,86498
+34.281075,-88.363127,Itawamba @ Mississippi,Itawamba @ Mississippi,2020-03-27,3
+34.763522,-85.9774,Jackson @ Alabama,Jackson @ Alabama,2020-03-27,5
+30.787812,-85.210374,Jackson @ Florida,Jackson @ Florida,2020-03-27,1
+34.134157,-83.565133,Jackson @ Georgia,Jackson @ Georgia,2020-03-27,2
+37.786096,-89.381212,Jackson @ Illinois,Jackson @ Illinois,2020-03-27,1
+38.911957,-86.042516,Jackson @ Indiana,Jackson @ Indiana,2020-03-27,4
+39.410989,-95.794509,Jackson @ Kansas,Jackson @ Kansas,2020-03-27,1
+32.30448,-92.556672,Jackson @ Louisiana,Jackson @ Louisiana,2020-03-27,3
+42.248474,-84.420868,Jackson @ Michigan,Jackson @ Michigan,2020-03-27,17
+43.673025,-95.149704,Jackson @ Minnesota,Jackson @ Minnesota,2020-03-27,1
+30.458491,-88.619991,Jackson @ Mississippi,Jackson @ Mississippi,2020-03-27,24
+39.007233,-94.342507,Jackson @ Missouri,Jackson @ Missouri,2020-03-27,41
+34.593949,-99.41221,Jackson @ Oklahoma,Jackson @ Oklahoma,2020-03-27,1
+42.411782,-122.675797,Jackson @ Oregon,Jackson @ Oregon,2020-03-27,6
+28.959802,-96.58908,Jackson @ Texas,Jackson @ Texas,2020-03-27,1
+38.834234,-81.677717,Jackson @ West Virginia,Jackson @ West Virginia,2020-03-27,6
+18.1096,-77.2975,Jamaica,Jamaica,2020-03-27,26
+37.324427,-76.778319,James City @ Virginia,James City @ Virginia,2020-03-27,55
+36,138,Japan,Japan,2020-03-27,1468
+33.314905,-83.687892,Jasper @ Georgia,Jasper @ Georgia,2020-03-27,2
+41.017688,-87.118814,Jasper @ Indiana,Jasper @ Indiana,2020-03-27,4
+41.685686,-93.052971,Jasper @ Iowa,Jasper @ Iowa,2020-03-27,2
+37.200865,-94.338869,Jasper @ Missouri,Jasper @ Missouri,2020-03-27,2
+32.43059,-81.021627,Jasper @ South Carolina,Jasper @ South Carolina,2020-03-27,3
+33.553444,-86.896536,Jefferson @ Alabama,Jefferson @ Alabama,2020-03-27,179
+34.277696,-91.930701,Jefferson @ Arkansas,Jefferson @ Arkansas,2020-03-27,23
+39.58646,-105.245601,Jefferson @ Colorado,Jefferson @ Colorado,2020-03-27,158
+43.796965,-112.318588,Jefferson @ Idaho,Jefferson @ Idaho,2020-03-27,2
+39.239644,-95.375314,Jefferson @ Kansas,Jefferson @ Kansas,2020-03-27,1
+38.189533,-85.657624,Jefferson @ Kentucky,Jefferson @ Kentucky,2020-03-27,76
+29.5033,-90.036231,Jefferson @ Louisiana,Jefferson @ Louisiana,2020-03-27,548
+31.733633,-91.043878,Jefferson @ Mississippi,Jefferson @ Mississippi,2020-03-27,1
+38.257414,-90.543138,Jefferson @ Missouri,Jefferson @ Missouri,2020-03-27,15
+46.126557,-112.056771,Jefferson @ Montana,Jefferson @ Montana,2020-03-27,2
+43.995371,-76.053522,Jefferson @ New York,Jefferson @ New York,2020-03-27,3
+40.399188,-80.76141,Jefferson @ Ohio,Jefferson @ Ohio,2020-03-27,1
+36.048479,-83.440966,Jefferson @ Tennessee,Jefferson @ Tennessee,2020-03-27,5
+29.854,-94.149331,Jefferson @ Texas,Jefferson @ Texas,2020-03-27,8
+47.802641,-123.52181,Jefferson @ Washington,Jefferson @ Washington,2020-03-27,11
+39.307399,-77.86322,Jefferson @ West Virginia,Jefferson @ West Virginia,2020-03-27,4
+43.013807,-88.773986,Jefferson @ Wisconsin,Jefferson @ Wisconsin,2020-03-27,6
+30.269529,-92.816221,Jefferson Davis @ Louisiana,Jefferson Davis @ Louisiana,2020-03-27,1
+38.996234,-85.628111,Jennings @ Indiana,Jennings @ Indiana,2020-03-27,5
+37.873291,-84.58396,Jessamine @ Kentucky,Jessamine @ Kentucky,2020-03-27,10
+32.9711,119.455,Jiangsu @ China,Jiangsu,2020-03-27,641
+27.614,115.7221,Jiangxi @ China,Jiangxi,2020-03-27,936
+43.6661,126.1923,Jilin @ China,Jilin,2020-03-27,95
+42.362391,-90.211471,Jo Daviess @ Illinois,Jo Daviess @ Illinois,2020-03-27,1
+39.495986,-86.0946,Johnson @ Indiana,Johnson @ Indiana,2020-03-27,42
+41.668737,-91.588812,Johnson @ Iowa,Johnson @ Iowa,2020-03-27,58
+38.883907,-94.82233,Johnson @ Kansas,Johnson @ Kansas,2020-03-27,66
+38.74588,-93.805999,Johnson @ Missouri,Johnson @ Missouri,2020-03-27,8
+32.379511,-97.364823,Johnson @ Texas,Johnson @ Texas,2020-03-27,6
+44.044048,-106.588541,Johnson @ Wyoming,Johnson @ Wyoming,2020-03-27,4
+35.513405,-78.367267,Johnston @ North Carolina,Johnston @ North Carolina,2020-03-27,9
+33.020226,-83.562339,Jones @ Georgia,Jones @ Georgia,2020-03-27,2
+31.621044,-89.167262,Jones @ Mississippi,Jones @ Mississippi,2020-03-27,1
+31.24,36.51,Jordan,Jordan,2020-03-27,235
+42.385382,-123.597245,Josephine @ Oregon,Josephine @ Oregon,2020-03-27,4
+43.932836,-90.113984,Juneau @ Wisconsin,Juneau @ Wisconsin,2020-03-27,2
+58.3727,-134.178781,Juneau City and Borough @ Alaska,Juneau City and Borough @ Alaska,2020-03-27,4
+40.530673,-77.400438,Juniata @ Pennsylvania,Juniata @ Pennsylvania,2020-03-27,1
+42.246266,-85.532854,Kalamazoo @ Michigan,Kalamazoo @ Michigan,2020-03-27,11
+44.678881,-85.088992,Kalkaska @ Michigan,Kalkaska @ Michigan,2020-03-27,4
+38.328061,-81.523522,Kanawha @ West Virginia,Kanawha @ West Virginia,2020-03-27,17
+45.152714,-95.004981,Kandiyohi @ Minnesota,Kandiyohi @ Minnesota,2020-03-27,1
+41.939594,-88.42804,Kane @ Illinois,Kane @ Illinois,2020-03-27,77
+41.139494,-87.861125,Kankakee @ Illinois,Kankakee @ Illinois,2020-03-27,17
+38.573936,-92.60376,Kansas City @ Missouri,Kansas City @ Missouri,2020-03-27,78
+28.907618,-97.860767,Karnes @ Texas,Karnes @ Texas,2020-03-27,1
+22.012038,-159.705965,Kauai @ Hawaii,Kauai @ Hawaii,2020-03-27,5
+32.598944,-96.288378,Kaufman @ Texas,Kaufman @ Texas,2020-03-27,2
+36.814842,-97.143755,Kay @ Oklahoma,Kay @ Oklahoma,2020-03-27,17
+48.0196,66.9237,Kazakhstan,Kazakhstan,2020-03-27,150
+40.506269,-98.948461,Kearney @ Nebraska,Kearney @ Nebraska,2020-03-27,1
+32.750136,-88.625631,Kemper @ Mississippi,Kemper @ Mississippi,2020-03-27,1
+60.366373,-152.321973,Kenai Peninsula Borough @ Alaska,Kenai Peninsula Borough @ Alaska,2020-03-27,5
+41.58814,-88.430626,Kendall @ Illinois,Kendall @ Illinois,2020-03-27,8
+29.944524,-98.711094,Kendall @ Texas,Kendall @ Texas,2020-03-27,4
+44.417012,-69.765764,Kennebec @ Maine,Kennebec @ Maine,2020-03-27,6
+42.579703,-87.424898,Kenosha @ Wisconsin,Kenosha @ Wisconsin,2020-03-27,24
+39.097088,-75.502982,Kent @ Delaware,Kent @ Delaware,2020-03-27,21
+39.239177,-76.1242,Kent @ Maryland,Kent @ Maryland,2020-03-27,2
+43.032497,-85.547446,Kent @ Michigan,Kent @ Michigan,2020-03-27,45
+41.67775,-71.576314,Kent @ Rhode Island,Kent @ Rhode Island,2020-03-27,7
+38.930477,-84.533492,Kenton @ Kentucky,Kenton @ Kentucky,2020-03-27,15
+-0.0236,37.9062,Kenya,Kenya,2020-03-27,31
+35.346629,-118.729506,Kern @ California,Kern @ California,2020-03-27,41
+34.338356,-80.590885,Kershaw @ South Carolina,Kershaw @ South Carolina,2020-03-27,70
+55.449938,-131.106685,Ketchikan Gateway Borough @ Alaska,Ketchikan Gateway Borough @ Alaska,2020-03-27,12
+47.493554,-121.832375,King @ Washington,King @ Washington,2020-03-27,1830
+38.277179,-77.162702,King George @ Virginia,King George @ Virginia,2020-03-27,1
+36.072478,-119.81553,Kings @ California,Kings @ California,2020-03-27,1
+39.30534,-102.603023,Kit Carson @ Colorado,Kit Carson @ Colorado,2020-03-27,2
+47.639687,-122.649636,Kitsap @ Washington,Kitsap @ Washington,2020-03-27,42
+47.124444,-120.676714,Kittitas @ Washington,Kittitas @ Washington,2020-03-27,8
+42.683761,-121.646168,Klamath @ Oregon,Klamath @ Oregon,2020-03-27,2
+45.869509,-120.780117,Klickitat @ Washington,Klickitat @ Washington,2020-03-27,7
+44.042045,-69.038515,Knox @ Maine,Knox @ Maine,2020-03-27,2
+42.634405,-97.891349,Knox @ Nebraska,Knox @ Nebraska,2020-03-27,2
+40.40362,-82.422393,Knox @ Ohio,Knox @ Ohio,2020-03-27,2
+35.992727,-83.937721,Knox @ Tennessee,Knox @ Tennessee,2020-03-27,31
+47.677113,-116.694918,Kootenai @ Idaho,Kootenai @ Idaho,2020-03-27,11
+36,128,"Korea, South","Korea, South",2020-03-27,9332
+41.244293,-85.861575,Kosciusko @ Indiana,Kosciusko @ Indiana,2020-03-27,1
+42.602636,20.902977,Kosovo,Kosovo,2020-03-27,86
+43.212478,-94.213983,Kossuth @ Iowa,Kossuth @ Iowa,2020-03-27,1
+29.5,47.75,Kuwait,Kuwait,2020-03-27,225
+41.2044,74.7661,Kyrgyzstan,Kyrgyzstan,2020-03-27,58
+43.908222,-91.111758,La Crosse @ Wisconsin,La Crosse @ Wisconsin,2020-03-27,15
+33.727625,-114.038793,La Paz @ Arizona,La Paz @ Arizona,2020-03-27,2
+37.287367,-107.839718,La Plata @ Colorado,La Plata @ Colorado,2020-03-27,13
+44.999855,-96.176836,Lac qui Parle @ Minnesota,Lac qui Parle @ Minnesota,2020-03-27,1
+41.44025,-75.609587,Lackawanna @ Pennsylvania,Lackawanna @ Pennsylvania,2020-03-27,35
+30.206507,-92.06417,Lafayette @ Louisiana,Lafayette @ Louisiana,2020-03-27,44
+34.349298,-89.485903,Lafayette @ Mississippi,Lafayette @ Mississippi,2020-03-27,11
+39.068705,-93.802639,Lafayette @ Missouri,Lafayette @ Missouri,2020-03-27,4
+29.491993,-90.394849,Lafourche @ Louisiana,Lafourche @ Louisiana,2020-03-27,30
+41.642468,-85.426302,LaGrange @ Indiana,LaGrange @ Indiana,2020-03-27,2
+28.764113,-81.712282,Lake @ Florida,Lake @ Florida,2020-03-27,32
+42.326444,-87.436118,Lake @ Illinois,Lake @ Illinois,2020-03-27,230
+41.472239,-87.374337,Lake @ Indiana,Lake @ Indiana,2020-03-27,47
+47.642901,-114.083687,Lake @ Montana,Lake @ Montana,2020-03-27,1
+41.924116,-81.392643,Lake @ Ohio,Lake @ Ohio,2020-03-27,27
+33.787085,-88.087431,Lamar @ Alabama,Lamar @ Alabama,2020-03-27,1
+33.07446,-84.146721,Lamar @ Georgia,Lamar @ Georgia,2020-03-27,3
+31.197135,-89.514952,Lamar @ Mississippi,Lamar @ Mississippi,2020-03-27,4
+33.667263,-95.570348,Lamar @ Texas,Lamar @ Texas,2020-03-27,1
+44.603504,-72.638356,Lamoille @ Vermont,Lamoille @ Vermont,2020-03-27,6
+40.783547,-96.688658,Lancaster @ Nebraska,Lancaster @ Nebraska,2020-03-27,4
+40.041992,-76.250198,Lancaster @ Pennsylvania,Lancaster @ Pennsylvania,2020-03-27,33
+34.686818,-80.703689,Lancaster @ South Carolina,Lancaster @ South Carolina,2020-03-27,8
+43.928276,-122.897678,Lane @ Oregon,Lane @ Oregon,2020-03-27,9
+19.85627,102.495496,Laos,Laos,2020-03-27,6
+43.088633,-83.224325,Lapeer @ Michigan,Lapeer @ Michigan,2020-03-27,4
+41.549011,-86.744729,LaPorte @ Indiana,LaPorte @ Indiana,2020-03-27,2
+41.29283,-104.660395,Laramie @ Wyoming,Laramie @ Wyoming,2020-03-27,18
+40.663091,-105.482131,Larimer @ Colorado,Larimer @ Colorado,2020-03-27,67
+37.545518,-85.697209,Larue @ Kentucky,Larue @ Kentucky,2020-03-27,1
+41.343341,-88.885931,LaSalle @ Illinois,LaSalle @ Illinois,2020-03-27,3
+31.680836,-92.161809,LaSalle @ Louisiana,LaSalle @ Louisiana,2020-03-27,1
+34.875137,-95.272263,Latimer @ Oklahoma,Latimer @ Oklahoma,2020-03-27,1
+56.8796,24.6032,Latvia,Latvia,2020-03-27,280
+34.904122,-87.650997,Lauderdale @ Alabama,Lauderdale @ Alabama,2020-03-27,11
+32.403998,-88.660449,Lauderdale @ Mississippi,Lauderdale @ Mississippi,2020-03-27,10
+37.113268,-84.119395,Laurel @ Kentucky,Laurel @ Kentucky,2020-03-27,1
+32.39322,-82.926317,Laurens @ Georgia,Laurens @ Georgia,2020-03-27,7
+29.382578,-96.923633,Lavaca @ Texas,Lavaca @ Texas,2020-03-27,1
+34.529776,-87.321865,Lawrence @ Alabama,Lawrence @ Alabama,2020-03-27,3
+36.041098,-91.101153,Lawrence @ Arkansas,Lawrence @ Arkansas,2020-03-27,3
+38.839815,-86.48782,Lawrence @ Indiana,Lawrence @ Indiana,2020-03-27,5
+31.550009,-90.10753,Lawrence @ Mississippi,Lawrence @ Mississippi,2020-03-27,5
+38.603866,-82.517186,Lawrence @ Ohio,Lawrence @ Ohio,2020-03-27,1
+40.992735,-80.334446,Lawrence @ Pennsylvania,Lawrence @ Pennsylvania,2020-03-27,4
+44.353669,-103.796528,Lawrence @ South Dakota,Lawrence @ South Dakota,2020-03-27,2
+44.373397,-93.73018,Le Sueur @ Minnesota,Le Sueur @ Minnesota,2020-03-27,10
+32.795687,-103.413271,Lea @ New Mexico,Lea @ New Mexico,2020-03-27,2
+32.753268,-89.522568,Leake @ Mississippi,Leake @ Mississippi,2020-03-27,4
+39.189511,-95.038977,Leavenworth @ Kansas,Leavenworth @ Kansas,2020-03-27,12
+33.8547,35.8623,Lebanon,Lebanon,2020-03-27,391
+40.367344,-76.458009,Lebanon @ Pennsylvania,Lebanon @ Pennsylvania,2020-03-27,12
+32.604064,-85.353048,Lee @ Alabama,Lee @ Alabama,2020-03-27,53
+26.552134,-81.89225,Lee @ Florida,Lee @ Florida,2020-03-27,95
+31.818419,-84.146681,Lee @ Georgia,Lee @ Georgia,2020-03-27,37
+34.288965,-88.680887,Lee @ Mississippi,Lee @ Mississippi,2020-03-27,15
+35.476075,-79.17222,Lee @ North Carolina,Lee @ North Carolina,2020-03-27,2
+34.15864,-80.251209,Lee @ South Carolina,Lee @ South Carolina,2020-03-27,2
+36.702162,-83.130334,Lee @ Virginia,Lee @ Virginia,2020-03-27,2
+45.146182,-86.051574,Leelanau @ Michigan,Leelanau @ Michigan,2020-03-27,1
+33.54979,-90.294934,Leflore @ Mississippi,Leflore @ Mississippi,2020-03-27,13
+40.614241,-75.590627,Lehigh @ Pennsylvania,Lehigh @ Pennsylvania,2020-03-27,93
+41.895915,-84.066853,Lenawee @ Michigan,Lenawee @ Michigan,2020-03-27,8
+35.238062,-77.639023,Lenoir @ North Carolina,Lenoir @ North Carolina,2020-03-27,3
+30.45931,-84.2778,Leon @ Florida,Leon @ Florida,2020-03-27,15
+29.284409,-82.783483,Levy @ Florida,Levy @ Florida,2020-03-27,1
+35.523244,-87.496983,Lewis @ Tennessee,Lewis @ Tennessee,2020-03-27,2
+46.580071,-122.377444,Lewis @ Washington,Lewis @ Washington,2020-03-27,7
+47.122133,-112.382954,Lewis and Clark @ Montana,Lewis and Clark @ Montana,2020-03-27,7
+33.892554,-81.272853,Lexington @ South Carolina,Lexington @ South Carolina,2020-03-27,25
+41.2956,122.6085,Liaoning @ China,Liaoning,2020-03-27,128
+6.4281,-9.4295,Liberia,Liberia,2020-03-27,3
+31.807245,-81.457969,Liberty @ Georgia,Liberty @ Georgia,2020-03-27,1
+30.162189,-94.822682,Liberty @ Texas,Liberty @ Texas,2020-03-27,2
+26.3351,17.228331,Libya,Libya,2020-03-27,1
+40.093609,-82.481251,Licking @ Ohio,Licking @ Ohio,2020-03-27,10
+47.14,9.55,Liechtenstein,Liechtenstein,2020-03-27,56
+34.810239,-86.9814,Limestone @ Alabama,Limestone @ Alabama,2020-03-27,16
+31.547543,-96.593623,Limestone @ Texas,Limestone @ Texas,2020-03-27,1
+33.957665,-91.727624,Lincoln @ Arkansas,Lincoln @ Arkansas,2020-03-27,6
+38.99374,-103.507555,Lincoln @ Colorado,Lincoln @ Colorado,2020-03-27,1
+33.792151,-82.448299,Lincoln @ Georgia,Lincoln @ Georgia,2020-03-27,3
+32.601148,-92.662082,Lincoln @ Louisiana,Lincoln @ Louisiana,2020-03-27,7
+43.994265,-69.514029,Lincoln @ Maine,Lincoln @ Maine,2020-03-27,5
+44.408238,-96.272032,Lincoln @ Minnesota,Lincoln @ Minnesota,2020-03-27,1
+31.535216,-90.453566,Lincoln @ Mississippi,Lincoln @ Mississippi,2020-03-27,6
+39.058568,-90.957771,Lincoln @ Missouri,Lincoln @ Missouri,2020-03-27,2
+48.542232,-115.404343,Lincoln @ Montana,Lincoln @ Montana,2020-03-27,3
+41.050322,-100.744481,Lincoln @ Nebraska,Lincoln @ Nebraska,2020-03-27,3
+35.487825,-81.225176,Lincoln @ North Carolina,Lincoln @ North Carolina,2020-03-27,1
+35.703118,-96.881392,Lincoln @ Oklahoma,Lincoln @ Oklahoma,2020-03-27,3
+44.641076,-123.911183,Lincoln @ Oregon,Lincoln @ Oregon,2020-03-27,1
+43.27942,-96.722286,Lincoln @ South Dakota,Lincoln @ South Dakota,2020-03-27,2
+35.142532,-86.593388,Lincoln @ Tennessee,Lincoln @ Tennessee,2020-03-27,1
+47.582718,-118.417668,Lincoln @ Washington,Lincoln @ Washington,2020-03-27,1
+42.077951,-91.597674,Linn @ Iowa,Linn @ Iowa,2020-03-27,22
+38.216549,-94.844932,Linn @ Kansas,Linn @ Kansas,2020-03-27,4
+44.494824,-122.543756,Linn @ Oregon,Linn @ Oregon,2020-03-27,28
+41.791897,-73.235428,Litchfield @ Connecticut,Litchfield @ Connecticut,2020-03-27,52
+55.1694,23.8813,Lithuania,Lithuania,2020-03-27,358
+40.894376,-88.552852,Livingston @ Illinois,Livingston @ Illinois,2020-03-27,2
+30.440419,-90.727474,Livingston @ Louisiana,Livingston @ Louisiana,2020-03-27,11
+42.602532,-83.911718,Livingston @ Michigan,Livingston @ Michigan,2020-03-27,31
+42.727485,-77.76978,Livingston @ New York,Livingston @ New York,2020-03-27,3
+30.707585,-98.68469,Llano @ Texas,Llano @ Texas,2020-03-27,2
+40.728091,-103.090464,Logan @ Colorado,Logan @ Colorado,2020-03-27,3
+36.859829,-86.881436,Logan @ Kentucky,Logan @ Kentucky,2020-03-27,2
+40.387553,-83.766343,Logan @ Ohio,Logan @ Ohio,2020-03-27,2
+35.914151,-97.450764,Logan @ Oklahoma,Logan @ Oklahoma,2020-03-27,3
+37.830591,-81.940853,Logan @ West Virginia,Logan @ West Virginia,2020-03-27,1
+31.749563,-81.74287,Long @ Georgia,Long @ Georgia,2020-03-27,1
+34.755114,-91.894132,Lonoke @ Arkansas,Lonoke @ Arkansas,2020-03-27,4
+41.438805,-82.179722,Lorain @ Ohio,Lorain @ Ohio,2020-03-27,56
+34.196398,-118.261862,Los Angeles @ California,Los Angeles @ California,2020-03-27,1465
+35.73745,-84.316204,Loudon @ Tennessee,Loudon @ Tennessee,2020-03-27,6
+39.08113,-77.638857,Loudoun @ Virginia,Loudoun @ Virginia,2020-03-27,43
+37.971681,-77.959178,Louisa @ Virginia,Louisa @ Virginia,2020-03-27,5
+32.147888,-86.650586,Lowndes @ Alabama,Lowndes @ Alabama,2020-03-27,1
+30.83368,-83.268967,Lowndes @ Georgia,Lowndes @ Georgia,2020-03-27,20
+33.471424,-88.439723,Lowndes @ Mississippi,Lowndes @ Mississippi,2020-03-27,9
+33.611469,-101.819944,Lubbock @ Texas,Lubbock @ Texas,2020-03-27,31
+41.682321,-83.468867,Lucas @ Ohio,Lucas @ Ohio,2020-03-27,50
+46.940602,-85.582368,Luce @ Michigan,Luce @ Michigan,2020-03-27,1
+34.568149,-83.998828,Lumpkin @ Georgia,Lumpkin @ Georgia,2020-03-27,4
+49.8153,6.1296,Luxembourg,Luxembourg,2020-03-27,1605
+41.172787,-75.976035,Luzerne @ Pennsylvania,Luzerne @ Pennsylvania,2020-03-27,55
+41.343624,-77.055253,Lycoming @ Pennsylvania,Lycoming @ Pennsylvania,2020-03-27,2
+43.894812,-99.841925,Lyman @ South Dakota,Lyman @ South Dakota,2020-03-27,1
+37.399016,-79.195458,Lynchburg city @ Virginia,Lynchburg city @ Virginia,2020-03-27,2
+38.455498,-96.161589,Lyon @ Kansas,Lyon @ Kansas,2020-03-27,5
+37.023976,-88.083391,Lyon @ Kentucky,Lyon @ Kentucky,2020-03-27,1
+39.022214,-119.197417,Lyon @ Nevada,Lyon @ Nevada,2020-03-27,1
+22.1667,113.55,Macau @ China,Macau,2020-03-27,33
+42.671467,-82.910869,Macomb @ Michigan,Macomb @ Michigan,2020-03-27,404
+32.366216,-84.052162,Macon @ Georgia,Macon @ Georgia,2020-03-27,1
+36.537838,-86.001231,Macon @ Tennessee,Macon @ Tennessee,2020-03-27,1
+-18.7669,46.8691,Madagascar,Madagascar,2020-03-27,26
+37.210039,-119.749852,Madera @ California,Madera @ California,2020-03-27,11
+34.764238,-86.55108,Madison @ Alabama,Madison @ Alabama,2020-03-27,61
+34.128486,-83.203637,Madison @ Georgia,Madison @ Georgia,2020-03-27,3
+43.789709,-111.65655,Madison @ Idaho,Madison @ Idaho,2020-03-27,2
+38.827082,-89.900195,Madison @ Illinois,Madison @ Illinois,2020-03-27,8
+40.166203,-85.722454,Madison @ Indiana,Madison @ Indiana,2020-03-27,7
+37.723528,-84.277008,Madison @ Kentucky,Madison @ Kentucky,2020-03-27,5
+32.365824,-91.240729,Madison @ Louisiana,Madison @ Louisiana,2020-03-27,1
+32.63437,-90.03416,Madison @ Mississippi,Madison @ Mississippi,2020-03-27,25
+45.319288,-111.917328,Madison @ Montana,Madison @ Montana,2020-03-27,3
+41.909929,-97.606856,Madison @ Nebraska,Madison @ Nebraska,2020-03-27,1
+42.910026,-75.663575,Madison @ New York,Madison @ New York,2020-03-27,17
+39.896607,-83.400885,Madison @ Ohio,Madison @ Ohio,2020-03-27,4
+35.606056,-88.833424,Madison @ Tennessee,Madison @ Tennessee,2020-03-27,3
+38.412059,-78.276961,Madison @ Virginia,Madison @ Virginia,2020-03-27,2
+41.330797,-92.636366,Mahaska @ Iowa,Mahaska @ Iowa,2020-03-27,2
+47.325842,-95.810703,Mahnomen @ Minnesota,Mahnomen @ Minnesota,2020-03-27,1
+41.01088,-80.770396,Mahoning @ Ohio,Mahoning @ Ohio,2020-03-27,68
+2.5,112.5,Malaysia,Malaysia,2020-03-27,2161
+3.2028,73.2207,Maldives,Maldives,2020-03-27,16
+17.570692,-3.996166,Mali,Mali,2020-03-27,11
+35.9375,14.3754,Malta,Malta,2020-03-27,139
+38.747561,-77.484727,Manassas city @ Virginia,Manassas city @ Virginia,2020-03-27,3
+27.481386,-82.365784,Manatee @ Florida,Manatee @ Florida,2020-03-27,29
+44.350385,-86.602967,Manistee @ Michigan,Manistee @ Michigan,2020-03-27,1
+53.7609,-98.8139,Manitoba @ Canada,Manitoba,2020-03-27,39
+44.898036,-89.757823,Marathon @ Wisconsin,Marathon @ Wisconsin,2020-03-27,1
+32.247591,-87.791091,Marengo @ Alabama,Marengo @ Alabama,2020-03-27,2
+33.346541,-112.495534,Maricopa @ Arizona,Maricopa @ Arizona,2020-03-27,399
+38.051817,-122.745974,Marin @ California,Marin @ California,2020-03-27,69
+45.346899,-87.991198,Marinette @ Wisconsin,Marinette @ Wisconsin,2020-03-27,1
+34.138219,-87.881551,Marion @ Alabama,Marion @ Alabama,2020-03-27,7
+29.202805,-82.0431,Marion @ Florida,Marion @ Florida,2020-03-27,9
+39.782976,-86.135794,Marion @ Indiana,Marion @ Indiana,2020-03-27,484
+31.230126,-89.821736,Marion @ Mississippi,Marion @ Mississippi,2020-03-27,1
+40.588208,-83.172927,Marion @ Ohio,Marion @ Ohio,2020-03-27,5
+44.900898,-122.57626,Marion @ Oregon,Marion @ Oregon,2020-03-27,83
+34.080701,-79.362131,Marion @ South Carolina,Marion @ South Carolina,2020-03-27,1
+35.133422,-85.618399,Marion @ Tennessee,Marion @ Tennessee,2020-03-27,2
+39.505839,-80.243402,Marion @ West Virginia,Marion @ West Virginia,2020-03-27,3
+34.601805,-79.677942,Marlboro @ South Carolina,Marlboro @ South Carolina,2020-03-27,1
+46.656597,-87.584028,Marquette @ Michigan,Marquette @ Michigan,2020-03-27,1
+34.309564,-86.321668,Marshall @ Alabama,Marshall @ Alabama,2020-03-27,4
+41.031119,-89.342371,Marshall @ Illinois,Marshall @ Illinois,2020-03-27,1
+41.325003,-86.269036,Marshall @ Indiana,Marshall @ Indiana,2020-03-27,4
+42.041691,-92.981452,Marshall @ Iowa,Marshall @ Iowa,2020-03-27,1
+34.76619,-89.504231,Marshall @ Mississippi,Marshall @ Mississippi,2020-03-27,9
+39.854717,-80.671378,Marshall @ West Virginia,Marshall @ West Virginia,2020-03-27,3
+27.079954,-80.398211,Martin @ Florida,Martin @ Florida,2020-03-27,17
+37.796774,-82.506623,Martin @ Kentucky,Martin @ Kentucky,2020-03-27,1
+43.677118,-94.537198,Martin @ Minnesota,Martin @ Minnesota,2020-03-27,18
+32.30983,-101.961836,Martin @ Texas,Martin @ Texas,2020-03-27,1
+14.6415,-61.0242,Martinique @ France,Martinique,2020-03-27,81
+38.594068,-83.828052,Mason @ Kentucky,Mason @ Kentucky,2020-03-27,1
+47.354126,-123.17385,Mason @ Washington,Mason @ Washington,2020-03-27,2
+38.759288,-82.024172,Mason @ West Virginia,Mason @ West Virginia,2020-03-27,3
+28.783341,-95.997755,Matagorda @ Texas,Matagorda @ Texas,2020-03-27,9
+62.182174,-149.407974,Matanuska-Susitna Borough @ Alaska,Matanuska-Susitna Borough @ Alaska,2020-03-27,2
+37.425348,-76.268808,Mathews @ Virginia,Mathews @ Virginia,2020-03-27,1
+20.855931,-156.60155,Maui @ Hawaii,Maui @ Hawaii,2020-03-27,16
+21.0079,10.9408,Mauritania,Mauritania,2020-03-27,3
+-20.2,57.5,Mauritius,Mauritius,2020-03-27,94
+35.615696,-87.077763,Maury @ Tennessee,Maury @ Tennessee,2020-03-27,7
+28.745217,-100.311368,Maverick @ Texas,Maverick @ Texas,2020-03-27,1
+36.303804,-95.235638,Mayes @ Oklahoma,Mayes @ Oklahoma,2020-03-27,2
+-12.8275,45.1662,Mayotte @ France,Mayotte,2020-03-27,50
+35.016414,-97.449811,McClain @ Oklahoma,McClain @ Oklahoma,2020-03-27,2
+43.678924,-97.362036,McCook @ South Dakota,McCook @ South Dakota,2020-03-27,2
+37.053688,-88.712378,McCracken @ Kentucky,McCracken @ Kentucky,2020-03-27,2
+36.731136,-84.491052,McCreary @ Kentucky,McCreary @ Kentucky,2020-03-27,1
+36.630218,-94.343956,McDonald @ Missouri,McDonald @ Missouri,2020-03-27,1
+35.682232,-82.048029,McDowell @ North Carolina,McDowell @ North Carolina,2020-03-27,3
+33.482464,-82.473188,McDuffie @ Georgia,McDuffie @ Georgia,2020-03-27,1
+42.324298,-88.452245,McHenry @ Illinois,McHenry @ Illinois,2020-03-27,45
+48.233842,-100.633267,McHenry @ North Dakota,McHenry @ North Dakota,2020-03-27,1
+46.117034,-99.443041,McIntosh @ North Dakota,McIntosh @ North Dakota,2020-03-27,1
+35.573732,-108.255307,McKinley @ New Mexico,McKinley @ New Mexico,2020-03-27,5
+40.494559,-88.844539,McLean @ Illinois,McLean @ Illinois,2020-03-27,10
+31.549493,-97.201472,McLennan @ Texas,McLennan @ Texas,2020-03-27,33
+35.424471,-84.619963,McMinn @ Tennessee,McMinn @ Tennessee,2020-03-27,3
+38.395812,-97.647489,McPherson @ Kansas,McPherson @ Kansas,2020-03-27,1
+44.606792,-102.715864,Meade @ South Dakota,Meade @ South Dakota,2020-03-27,1
+46.585706,-110.921781,Meagher @ Montana,Meagher @ Montana,2020-03-27,1
+35.246862,-80.833832,Mecklenburg @ North Carolina,Mecklenburg @ North Carolina,2020-03-27,218
+36.687256,-78.368959,Mecklenburg @ Virginia,Mecklenburg @ Virginia,2020-03-27,4
+43.635295,-85.332751,Mecosta @ Michigan,Mecosta @ Michigan,2020-03-27,1
+41.116051,-81.899566,Medina @ Ohio,Medina @ Ohio,2020-03-27,32
+29.353661,-99.111085,Medina @ Texas,Medina @ Texas,2020-03-27,3
+35.503397,-84.823888,Meigs @ Tennessee,Meigs @ Tennessee,2020-03-27,1
+39.432388,-123.442881,Mendocino @ California,Mendocino @ California,2020-03-27,2
+37.950715,-83.597345,Menifee @ Kentucky,Menifee @ Kentucky,2020-03-27,2
+37.194806,-120.722802,Merced @ California,Merced @ California,2020-03-27,7
+37.812085,-84.879695,Mercer @ Kentucky,Mercer @ Kentucky,2020-03-27,1
+40.282503,-74.703724,Mercer @ New Jersey,Mercer @ New Jersey,2020-03-27,131
+40.535333,-84.632059,Mercer @ Ohio,Mercer @ Ohio,2020-03-27,2
+41.300014,-80.252786,Mercer @ Pennsylvania,Mercer @ Pennsylvania,2020-03-27,4
+37.403448,-81.106456,Mercer @ West Virginia,Mercer @ West Virginia,2020-03-27,2
+33.03022,-84.663279,Meriwether @ Georgia,Meriwether @ Georgia,2020-03-27,3
+43.299485,-71.68013,Merrimack @ New Hampshire,Merrimack @ New Hampshire,2020-03-27,11
+39.019492,-108.461837,Mesa @ Colorado,Mesa @ Colorado,2020-03-27,7
+23.6345,-102.5528,Mexico,Mexico,2020-03-27,585
+25.610494,-80.499045,Miami-Dade @ Florida,Miami-Dade @ Florida,2020-03-27,869
+40.772881,-86.044259,Miami @ Indiana,Miami @ Indiana,2020-03-27,1
+40.053326,-84.228414,Miami @ Ohio,Miami @ Ohio,2020-03-27,32
+41.434525,-72.524227,Middlesex @ Connecticut,Middlesex @ Connecticut,2020-03-27,25
+42.479477,-71.396507,Middlesex @ Massachusetts,Middlesex @ Massachusetts,2020-03-27,685
+40.439593,-74.407585,Middlesex @ New Jersey,Middlesex @ New Jersey,2020-03-27,640
+43.648378,-84.37922,Midland @ Michigan,Midland @ Michigan,2020-03-27,8
+31.870896,-102.024326,Midland @ Texas,Midland @ Texas,2020-03-27,6
+30.791242,-96.984395,Milam @ Texas,Milam @ Texas,2020-03-27,2
+31.162908,-84.730386,Miller @ Georgia,Miller @ Georgia,2020-03-27,3
+43.017655,-87.481575,Milwaukee @ Wisconsin,Milwaukee @ Wisconsin,2020-03-27,468
+43.667472,-96.795726,Minnehaha @ South Dakota,Minnehaha @ South Dakota,2020-03-27,18
+44.325424,-85.085471,Missaukee @ Michigan,Missaukee @ Michigan,2020-03-27,1
+47.027263,-113.892681,Missoula @ Montana,Missoula @ Montana,2020-03-27,8
+31.22894,-84.192407,Mitchell @ Georgia,Mitchell @ Georgia,2020-03-27,14
+39.393026,-98.207362,Mitchell @ Kansas,Mitchell @ Kansas,2020-03-27,3
+30.684573,-88.196568,Mobile @ Alabama,Mobile @ Alabama,2020-03-27,23
+35.717705,-113.749689,Mohave @ Arizona,Mohave @ Arizona,2020-03-27,4
+47.4116,28.3699,Moldova,Moldova,2020-03-27,199
+43.7333,7.4167,Monaco,Monaco,2020-03-27,42
+46.8625,103.8467,Mongolia,Mongolia,2020-03-27,11
+38.633037,-92.583642,Moniteau @ Missouri,Moniteau @ Missouri,2020-03-27,2
+40.287056,-74.152446,Monmouth @ New Jersey,Monmouth @ New Jersey,2020-03-27,634
+37.915836,-118.875167,Mono @ California,Mono @ California,2020-03-27,8
+42.049432,-95.956566,Monona @ Iowa,Monona @ Iowa,2020-03-27,2
+39.633645,-80.059074,Monongalia @ West Virginia,Monongalia @ West Virginia,2020-03-27,23
+25.601043,-81.206777,Monroe @ Florida,Monroe @ Florida,2020-03-27,19
+33.017435,-83.922938,Monroe @ Georgia,Monroe @ Georgia,2020-03-27,3
+38.277983,-90.179078,Monroe @ Illinois,Monroe @ Illinois,2020-03-27,3
+39.160751,-86.523325,Monroe @ Indiana,Monroe @ Indiana,2020-03-27,9
+41.916097,-83.487106,Monroe @ Michigan,Monroe @ Michigan,2020-03-27,28
+33.89003,-88.485038,Monroe @ Mississippi,Monroe @ Mississippi,2020-03-27,3
+43.464475,-77.664656,Monroe @ New York,Monroe @ New York,2020-03-27,160
+41.056233,-75.329037,Monroe @ Pennsylvania,Monroe @ Pennsylvania,2020-03-27,98
+35.447666,-84.249786,Monroe @ Tennessee,Monroe @ Tennessee,2020-03-27,3
+43.945175,-90.619969,Monroe @ Wisconsin,Monroe @ Wisconsin,2020-03-27,1
+33.676289,-97.724747,Montague @ Texas,Montague @ Texas,2020-03-27,1
+43.312782,-85.149468,Montcalm @ Michigan,Montcalm @ Michigan,2020-03-27,3
+42.5,19.3,Montenegro,Montenegro,2020-03-27,82
+36.240107,-121.315573,Monterey @ California,Monterey @ California,2020-03-27,27
+32.203651,-86.203831,Montgomery @ Alabama,Montgomery @ Alabama,2020-03-27,18
+40.040296,-86.892715,Montgomery @ Indiana,Montgomery @ Indiana,2020-03-27,3
+41.021735,-95.15779,Montgomery @ Iowa,Montgomery @ Iowa,2020-03-27,1
+38.038138,-83.912338,Montgomery @ Kentucky,Montgomery @ Kentucky,2020-03-27,2
+39.137382,-77.203063,Montgomery @ Maryland,Montgomery @ Maryland,2020-03-27,208
+33.500714,-89.639625,Montgomery @ Mississippi,Montgomery @ Mississippi,2020-03-27,4
+38.935162,-91.465437,Montgomery @ Missouri,Montgomery @ Missouri,2020-03-27,3
+42.900891,-74.435358,Montgomery @ New York,Montgomery @ New York,2020-03-27,5
+35.338071,-79.904196,Montgomery @ North Carolina,Montgomery @ North Carolina,2020-03-27,3
+39.755218,-84.290546,Montgomery @ Ohio,Montgomery @ Ohio,2020-03-27,19
+40.209999,-75.370201,Montgomery @ Pennsylvania,Montgomery @ Pennsylvania,2020-03-27,374
+36.500354,-87.380887,Montgomery @ Tennessee,Montgomery @ Tennessee,2020-03-27,9
+30.302364,-95.503523,Montgomery @ Texas,Montgomery @ Texas,2020-03-27,46
+41.029261,-76.665259,Montour @ Pennsylvania,Montour @ Pennsylvania,2020-03-27,4
+38.413427,-108.263042,Montrose @ Colorado,Montrose @ Colorado,2020-03-27,6
+16.7425,-62.1874,Montserrat @ United Kingdom,Montserrat,2020-03-27,5
+35.310163,-79.480664,Moore @ North Carolina,Moore @ North Carolina,2020-03-27,2
+32.820008,-91.800399,Morehouse @ Louisiana,Morehouse @ Louisiana,2020-03-27,2
+34.454484,-86.846402,Morgan @ Alabama,Morgan @ Alabama,2020-03-27,13
+40.262354,-103.807092,Morgan @ Colorado,Morgan @ Colorado,2020-03-27,4
+33.593732,-83.492324,Morgan @ Georgia,Morgan @ Georgia,2020-03-27,1
+39.716806,-90.202277,Morgan @ Illinois,Morgan @ Illinois,2020-03-27,1
+39.482646,-86.447457,Morgan @ Indiana,Morgan @ Indiana,2020-03-27,10
+41.091027,-111.577885,Morgan @ Utah,Morgan @ Utah,2020-03-27,2
+31.7917,-7.0926,Morocco,Morocco,2020-03-27,345
+38.687696,-96.644905,Morris @ Kansas,Morris @ Kansas,2020-03-27,2
+40.858581,-74.547427,Morris @ New Jersey,Morris @ New Jersey,2020-03-27,391
+33.116466,-94.731265,Morris @ Texas,Morris @ Texas,2020-03-27,1
+45.425496,-119.602311,Morrow @ Oregon,Morrow @ Oregon,2020-03-27,1
+46.713789,-101.279743,Morton @ North Dakota,Morton @ North Dakota,2020-03-27,11
+43.666249,-92.759514,Mower @ Minnesota,Mower @ Minnesota,2020-03-27,10
+-18.665695,35.529562,Mozambique,Mozambique,2020-03-27,7
+37.213816,-87.134092,Muhlenberg @ Kentucky,Muhlenberg @ Kentucky,2020-03-27,2
+45.547693,-122.417173,Multnomah @ Oregon,Multnomah @ Oregon,2020-03-27,67
+41.483776,-91.118699,Muscatine @ Iowa,Muscatine @ Iowa,2020-03-27,8
+32.510197,-84.874946,Muscogee @ Georgia,Muscogee @ Georgia,2020-03-27,8
+43.289258,-86.751892,Muskegon @ Michigan,Muskegon @ Michigan,2020-03-27,6
+39.966046,-81.943506,Muskingum @ Ohio,Muskingum @ Ohio,2020-03-27,2
+35.617551,-95.383911,Muskogee @ Oklahoma,Muskogee @ Oklahoma,2020-03-27,5
+31.62056,-94.62025,Nacogdoches @ Texas,Nacogdoches @ Texas,2020-03-27,1
+-22.9576,18.4904,Namibia,Namibia,2020-03-27,8
+41.305878,-70.14191,Nantucket @ Massachusetts,Nantucket @ Massachusetts,2020-03-27,2
+38.507351,-122.325995,Napa @ California,Napa @ California,2020-03-27,10
+35.965945,-77.987555,Nash @ North Carolina,Nash @ North Carolina,2020-03-27,2
+30.605926,-81.764929,Nassau @ Florida,Nassau @ Florida,2020-03-27,6
+40.729687,-73.589384,Nassau @ New York,Nassau @ New York,2020-03-27,4657
+31.734982,-93.086106,Natchitoches @ Louisiana,Natchitoches @ Louisiana,2020-03-27,2
+42.973641,-106.764877,Natrona @ Wyoming,Natrona @ Wyoming,2020-03-27,8
+35.390934,-110.320908,Navajo @ Arizona,Navajo @ Arizona,2020-03-27,49
+32.04845,-96.476908,Navarro @ Texas,Navarro @ Texas,2020-03-27,1
+37.803188,-85.465955,Nelson @ Kentucky,Nelson @ Kentucky,2020-03-27,2
+37.790016,-78.879394,Nelson @ Virginia,Nelson @ Virginia,2020-03-27,1
+40.387448,-95.850954,Nemaha @ Nebraska,Nemaha @ Nebraska,2020-03-27,1
+37.564283,-95.315683,Neosho @ Kansas,Neosho @ Kansas,2020-03-27,1
+28.1667,84.25,Nepal,Nepal,2020-03-27,4
+32.752518,-89.119274,Neshoba @ Mississippi,Neshoba @ Mississippi,2020-03-27,1
+52.1326,5.2913,Netherlands,Netherlands,2020-03-27,8603
+39.295191,-120.773446,Nevada @ California,Nevada @ California,2020-03-27,12
+46.5653,-66.4619,New Brunswick @ Canada,New Brunswick,2020-03-27,45
+-20.9043,165.618,New Caledonia @ France,New Caledonia,2020-03-27,15
+39.575915,-75.644132,New Castle @ Delaware,New Castle @ Delaware,2020-03-27,106
+34.177466,-77.871378,New Hanover @ North Carolina,New Hanover @ North Carolina,2020-03-27,13
+41.349717,-72.900204,New Haven @ Connecticut,New Haven @ Connecticut,2020-03-27,222
+41.47863,-72.103452,New London @ Connecticut,New London @ Connecticut,2020-03-27,15
+-33.8688,151.2093,New South Wales @ Australia,New South Wales,2020-03-27,1405
+40.7831,-73.9712,New York City @ New York,New York City @ New York,2020-03-27,25399
+-40.9006,174.886,New Zealand,New Zealand,2020-03-27,368
+43.562709,-85.791423,Newaygo @ Michigan,Newaygo @ Michigan,2020-03-27,1
+34.28973,-81.600053,Newberry @ South Carolina,Newberry @ South Carolina,2020-03-27,1
+53.1355,-57.6604,Newfoundland and Labrador @ Canada,Newfoundland and Labrador,2020-03-27,102
+41.502732,-71.284063,Newport @ Rhode Island,Newport @ Rhode Island,2020-03-27,8
+37.075978,-76.521719,Newport News city @ Virginia,Newport News city @ Virginia,2020-03-27,12
+33.544046,-83.855189,Newton @ Georgia,Newton @ Georgia,2020-03-27,15
+32.40197,-89.118412,Newton @ Mississippi,Newton @ Mississippi,2020-03-27,1
+36.908017,-94.334741,Newton @ Missouri,Newton @ Missouri,2020-03-27,3
+46.333766,-116.760903,Nez Perce @ Idaho,Nez Perce @ Idaho,2020-03-27,4
+43.456731,-78.792143,Niagara @ New York,Niagara @ New York,2020-03-27,23
+12.8654,-85.2072,Nicaragua,Nicaragua,2020-03-27,2
+44.35882,-94.245685,Nicollet @ Minnesota,Nicollet @ Minnesota,2020-03-27,3
+17.6078,8.0817,Niger,Niger,2020-03-27,10
+9.082,8.6753,Nigeria,Nigeria,2020-03-27,70
+37.2692,106.1655,Ningxia @ China,Ningxia,2020-03-27,75
+41.400794,-85.41785,Noble @ Indiana,Noble @ Indiana,2020-03-27,1
+36.384901,-97.236335,Noble @ Oklahoma,Noble @ Oklahoma,2020-03-27,3
+42.169703,-71.179875,Norfolk @ Massachusetts,Norfolk @ Massachusetts,2020-03-27,393
+36.923015,-76.244641,Norfolk city @ Virginia,Norfolk city @ Virginia,2020-03-27,8
+41.6086,21.7453,North Macedonia,North Macedonia,2020-03-27,219
+36.421774,-77.398352,Northampton @ North Carolina,Northampton @ North Carolina,2020-03-27,3
+40.752791,-75.307447,Northampton @ Pennsylvania,Northampton @ Pennsylvania,2020-03-27,79
+37.302629,-75.923868,Northampton @ Virginia,Northampton @ Virginia,2020-03-27,1
+-12.4634,130.8456,Northern Territory @ Australia,Northern Territory,2020-03-27,12
+40.851524,-76.709877,Northumberland @ Pennsylvania,Northumberland @ Pennsylvania,2020-03-27,1
+64.8255,-124.8457,Northwest Territories @ Canada,Northwest Territories,2020-03-27,1
+60.472,8.4689,Norway,Norway,2020-03-27,3755
+37.143696,-78.052162,Nottoway @ Virginia,Nottoway @ Virginia,2020-03-27,1
+44.682,-63.7443,Nova Scotia @ Canada,Nova Scotia,2020-03-27,90
+33.10627,-88.565787,Noxubee @ Mississippi,Noxubee @ Mississippi,2020-03-27,1
+27.739406,-97.521643,Nueces @ Texas,Nueces @ Texas,2020-03-27,18
+37.966379,-116.459047,Nye @ Nevada,Nye @ Nevada,2020-03-27,1
+42.660452,-83.38421,Oakland @ Michigan,Oakland @ Michigan,2020-03-27,824
+39.86585,-74.263027,Ocean @ New Jersey,Ocean @ New Jersey,2020-03-27,484
+43.647255,-86.807575,Oceana @ Michigan,Oceana @ Michigan,2020-03-27,1
+33.834125,-83.437728,Oconee @ Georgia,Oconee @ Georgia,2020-03-27,10
+34.748759,-83.061522,Oconee @ South Carolina,Oconee @ South Carolina,2020-03-27,3
+44.33328,-84.128073,Ogemaw @ Michigan,Ogemaw @ Michigan,2020-03-27,1
+38.940527,-84.964299,Ohio @ Indiana,Ohio @ Indiana,2020-03-27,1
+40.098932,-80.620728,Ohio @ West Virginia,Ohio @ West Virginia,2020-03-27,6
+30.665858,-86.594194,Okaloosa @ Florida,Okaloosa @ Florida,2020-03-27,25
+48.550971,-119.691035,Okanogan @ Washington,Okanogan @ Washington,2020-03-27,2
+35.554611,-97.409401,Oklahoma @ Oklahoma,Oklahoma @ Oklahoma,2020-03-27,94
+35.646879,-95.96458,Okmulgee @ Oklahoma,Okmulgee @ Oklahoma,2020-03-27,2
+33.422313,-88.876151,Oktibbeha @ Mississippi,Oktibbeha @ Mississippi,2020-03-27,12
+38.400046,-85.456059,Oldham @ Kentucky,Oldham @ Kentucky,2020-03-27,3
+35.401921,-102.59762,Oldham @ Texas,Oldham @ Texas,2020-03-27,1
+44.00343,-92.406722,Olmsted @ Minnesota,Olmsted @ Minnesota,2020-03-27,34
+21,57,Oman,Oman,2020-03-27,131
+43.242727,-75.434282,Oneida @ New York,Oneida @ New York,2020-03-27,13
+43.00653,-76.196117,Onondaga @ New York,Onondaga @ New York,2020-03-27,115
+34.76346,-77.503297,Onslow @ North Carolina,Onslow @ North Carolina,2020-03-27,4
+51.2538,-85.3232,Ontario @ Canada,Ontario,2020-03-27,994
+42.856695,-77.303277,Ontario @ New York,Ontario @ New York,2020-03-27,14
+33.675687,-117.777207,Orange @ California,Orange @ California,2020-03-27,321
+28.514435,-81.323295,Orange @ Florida,Orange @ Florida,2020-03-27,174
+38.547381,-86.489257,Orange @ Indiana,Orange @ Indiana,2020-03-27,1
+41.40241,-74.306252,Orange @ New York,Orange @ New York,2020-03-27,910
+36.062499,-79.119355,Orange @ North Carolina,Orange @ North Carolina,2020-03-27,24
+30.120918,-93.893358,Orange @ Texas,Orange @ Texas,2020-03-27,1
+44.003392,-72.369687,Orange @ Vermont,Orange @ Vermont,2020-03-27,3
+38.250439,-78.00998,Orange @ Virginia,Orange @ Virginia,2020-03-27,1
+33.436135,-80.802913,Orangeburg @ South Carolina,Orangeburg @ South Carolina,2020-03-27,12
+30.068636,-89.939007,Orleans @ Louisiana,Orleans @ Louisiana,2020-03-27,1170
+43.502287,-78.229726,Orleans @ New York,Orleans @ New York,2020-03-27,3
+44.828442,-72.25163,Orleans @ Vermont,Orleans @ Vermont,2020-03-27,4
+38.649706,-95.727275,Osage @ Kansas,Osage @ Kansas,2020-03-27,1
+36.62468,-96.408385,Osage @ Oklahoma,Osage @ Oklahoma,2020-03-27,5
+28.059027,-81.139312,Osceola @ Florida,Osceola @ Florida,2020-03-27,56
+43.461443,-76.209258,Oswego @ New York,Oswego @ New York,2020-03-27,4
+37.88417,-103.72126,Otero @ Colorado,Otero @ Colorado,2020-03-27,2
+45.021794,-84.576597,Otsego @ Michigan,Otsego @ Michigan,2020-03-27,7
+42.629776,-75.028841,Otsego @ New York,Otsego @ New York,2020-03-27,5
+39.137963,-97.654803,Ottawa @ Kansas,Ottawa @ Kansas,2020-03-27,1
+42.942346,-86.655342,Ottawa @ Michigan,Ottawa @ Michigan,2020-03-27,21
+36.835764,-94.802681,Ottawa @ Oklahoma,Ottawa @ Oklahoma,2020-03-27,1
+32.477495,-92.154798,Ouachita @ Louisiana,Ouachita @ Louisiana,2020-03-27,25
+44.418226,-88.464988,Outagamie @ Wisconsin,Outagamie @ Wisconsin,2020-03-27,4
+36.34485,-85.283076,Overton @ Tennessee,Overton @ Tennessee,2020-03-27,1
+39.317339,-86.838845,Owen @ Indiana,Owen @ Indiana,2020-03-27,5
+44.494585,-70.734688,Oxford @ Maine,Oxford @ Maine,2020-03-27,8
+43.360715,-87.496553,Ozaukee @ Wisconsin,Ozaukee @ Wisconsin,2020-03-27,30
+40.73909,-95.14429,Page @ Iowa,Page @ Iowa,2020-03-27,2
+30.3753,69.3451,Pakistan,Pakistan,2020-03-27,1373
+26.645763,-80.448673,Palm Beach @ Florida,Palm Beach @ Florida,2020-03-27,241
+8.538,-80.7821,Panama,Panama,2020-03-27,674
+34.365205,-89.963065,Panola @ Mississippi,Panola @ Mississippi,2020-03-27,4
+-6.315,143.9555,Papua New Guinea,Papua New Guinea,2020-03-27,1
+-23.4425,-58.4438,Paraguay,Paraguay,2020-03-27,52
+39.118914,-105.717648,Park @ Colorado,Park @ Colorado,2020-03-27,1
+45.421905,-110.532798,Park @ Montana,Park @ Montana,2020-03-27,1
+44.492387,-109.593598,Park @ Wyoming,Park @ Wyoming,2020-03-27,1
+32.777096,-97.805905,Parker @ Texas,Parker @ Texas,2020-03-27,2
+28.302024,-82.455707,Pasco @ Florida,Pasco @ Florida,2020-03-27,25
+36.265276,-76.260355,Pasquotank @ North Carolina,Pasquotank @ North Carolina,2020-03-27,1
+41.033763,-74.300308,Passaic @ New Jersey,Passaic @ New Jersey,2020-03-27,484
+33.920903,-84.866979,Paulding @ Georgia,Paulding @ Georgia,2020-03-27,13
+36.313704,-96.696669,Pawnee @ Oklahoma,Pawnee @ Oklahoma,2020-03-27,14
+44.00274,-116.748655,Payette @ Idaho,Payette @ Idaho,2020-03-27,1
+36.079225,-96.975255,Payne @ Oklahoma,Payne @ Oklahoma,2020-03-27,7
+32.571324,-83.831978,Peach @ Georgia,Peach @ Georgia,2020-03-27,6
+30.773791,-89.586832,Pearl River @ Mississippi,Pearl River @ Mississippi,2020-03-27,18
+36.209916,-89.785942,Pemiscot @ Missouri,Pemiscot @ Missouri,2020-03-27,1
+44.002349,-102.823802,Pennington @ South Dakota,Pennington @ South Dakota,2020-03-27,3
+45.390602,-68.657487,Penobscot @ Maine,Penobscot @ Maine,2020-03-27,6
+40.785999,-89.767358,Peoria @ Illinois,Peoria @ Illinois,2020-03-27,6
+31.169307,-88.988755,Perry @ Mississippi,Perry @ Mississippi,2020-03-27,2
+37.71113,-89.802125,Perry @ Missouri,Perry @ Missouri,2020-03-27,6
+35.659785,-87.877027,Perry @ Tennessee,Perry @ Tennessee,2020-03-27,2
+36.386387,-78.965471,Person @ North Carolina,Person @ North Carolina,2020-03-27,1
+-9.19,-75.0152,Peru,Peru,2020-03-27,635
+38.727367,-93.285207,Pettis @ Missouri,Pettis @ Missouri,2020-03-27,1
+40.009376,-75.133346,Philadelphia @ Pennsylvania,Philadelphia @ Pennsylvania,2020-03-27,530
+13,122,Philippines,Philippines,2020-03-27,803
+39.648947,-83.052827,Pickaway @ Ohio,Pickaway @ Ohio,2020-03-27,2
+33.296809,-88.096878,Pickens @ Alabama,Pickens @ Alabama,2020-03-27,1
+34.456621,-84.490256,Pickens @ Georgia,Pickens @ Georgia,2020-03-27,4
+34.887362,-82.725368,Pickens @ South Carolina,Pickens @ South Carolina,2020-03-27,7
+31.353988,-82.210427,Pierce @ Georgia,Pierce @ Georgia,2020-03-27,1
+48.238883,-99.966497,Pierce @ North Dakota,Pierce @ North Dakota,2020-03-27,2
+47.040716,-122.144709,Pierce @ Washington,Pierce @ Washington,2020-03-27,231
+44.725337,-92.426279,Pierce @ Wisconsin,Pierce @ Wisconsin,2020-03-27,4
+31.798726,-85.941997,Pike @ Alabama,Pike @ Alabama,2020-03-27,4
+34.158191,-93.658659,Pike @ Arkansas,Pike @ Arkansas,2020-03-27,2
+31.177517,-90.397725,Pike @ Mississippi,Pike @ Mississippi,2020-03-27,12
+41.325949,-75.031514,Pike @ Pennsylvania,Pike @ Pennsylvania,2020-03-27,23
+32.128237,-111.783018,Pima @ Arizona,Pima @ Arizona,2020-03-27,102
+32.91891,-111.367257,Pinal @ Arizona,Pinal @ Arizona,2020-03-27,36
+27.903122,-82.739518,Pinellas @ Florida,Pinellas @ Florida,2020-03-27,82
+39.217533,-106.915943,Pitkin @ Colorado,Pitkin @ Colorado,2020-03-27,25
+35.591065,-77.372404,Pitt @ North Carolina,Pitt @ North Carolina,2020-03-27,10
+34.92554,-95.74813,Pittsburg @ Oklahoma,Pittsburg @ Oklahoma,2020-03-27,2
+36.821721,-79.398502,Pittsylvania @ Virginia,Pittsylvania @ Virginia,2020-03-27,1
+39.062032,-120.722718,Placer @ California,Placer @ California,2020-03-27,41
+29.402337,-89.298489,Plaquemines @ Louisiana,Plaquemines @ Louisiana,2020-03-27,16
+39.378696,-94.761472,Platte @ Missouri,Platte @ Missouri,2020-03-27,5
+39.368133,-81.161172,Pleasants @ West Virginia,Pleasants @ West Virginia,2020-03-27,1
+41.987196,-70.741942,Plymouth @ Massachusetts,Plymouth @ Massachusetts,2020-03-27,187
+35.568981,-90.680595,Poinsett @ Arkansas,Poinsett @ Arkansas,2020-03-27,3
+30.708319,-91.604621,Pointe Coupee @ Louisiana,Pointe Coupee @ Louisiana,2020-03-27,1
+51.9194,19.1451,Poland,Poland,2020-03-27,1389
+34.490915,-94.230884,Polk @ Arkansas,Polk @ Arkansas,2020-03-27,2
+27.953115,-81.692783,Polk @ Florida,Polk @ Florida,2020-03-27,28
+33.995961,-85.186826,Polk @ Georgia,Polk @ Georgia,2020-03-27,10
+41.684281,-93.56972,Polk @ Iowa,Polk @ Iowa,2020-03-27,28
+44.904395,-123.397329,Polk @ Oregon,Polk @ Oregon,2020-03-27,10
+34.227081,-89.037239,Pontotoc @ Mississippi,Pontotoc @ Mississippi,2020-03-27,4
+34.721071,-96.692738,Pontotoc @ Oklahoma,Pontotoc @ Oklahoma,2020-03-27,2
+35.455297,-93.031535,Pope @ Arkansas,Pope @ Arkansas,2020-03-27,3
+37.12836,-76.303534,Poquoson city @ Virginia,Poquoson city @ Virginia,2020-03-27,1
+41.16864,-81.196932,Portage @ Ohio,Portage @ Ohio,2020-03-27,13
+44.476246,-89.49807,Portage @ Wisconsin,Portage @ Wisconsin,2020-03-27,1
+41.509922,-87.071308,Porter @ Indiana,Porter @ Indiana,2020-03-27,6
+36.85943,-76.356269,Portsmouth city @ Virginia,Portsmouth city @ Virginia,2020-03-27,3
+39.3999,-8.2245,Portugal,Portugal,2020-03-27,4268
+38.027614,-87.868653,Posey @ Indiana,Posey @ Indiana,2020-03-27,1
+39.382187,-96.337113,Pottawatomie @ Kansas,Pottawatomie @ Kansas,2020-03-27,1
+35.211393,-96.957007,Pottawatomie @ Oklahoma,Pottawatomie @ Oklahoma,2020-03-27,2
+41.340184,-95.544905,Pottawattamie @ Iowa,Pottawattamie @ Iowa,2020-03-27,3
+41.748222,-77.894735,Potter @ Pennsylvania,Potter @ Pennsylvania,2020-03-27,1
+35.398675,-101.893804,Potter @ Texas,Potter @ Texas,2020-03-27,2
+41.684526,-92.522882,Poweshiek @ Iowa,Poweshiek @ Iowa,2020-03-27,4
+34.620866,-88.52224,Prentiss @ Mississippi,Prentiss @ Mississippi,2020-03-27,1
+39.46903,-79.668865,Preston @ West Virginia,Preston @ West Virginia,2020-03-27,1
+37.224881,-78.432957,Prince Edward @ Virginia,Prince Edward @ Virginia,2020-03-27,2
+46.5107,-63.4168,Prince Edward Island @ Canada,Prince Edward Island,2020-03-27,9
+38.82588,-76.847272,Prince George's @ Maryland,Prince George's @ Maryland,2020-03-27,148
+37.187326,-77.220993,Prince George @ Virginia,Prince George @ Virginia,2020-03-27,2
+38.702332,-77.478887,Prince William @ Virginia,Prince William @ Virginia,2020-03-27,44
+41.870488,-71.578242,Providence @ Rhode Island,Providence @ Rhode Island,2020-03-27,42
+38.170658,-104.489893,Pueblo @ Colorado,Pueblo @ Colorado,2020-03-27,7
+34.773988,-92.316515,Pulaski @ Arkansas,Pulaski @ Arkansas,2020-03-27,89
+32.238794,-83.481855,Pulaski @ Georgia,Pulaski @ Georgia,2020-03-27,2
+37.108312,-84.579986,Pulaski @ Kentucky,Pulaski @ Kentucky,2020-03-27,7
+37.824835,-92.207022,Pulaski @ Missouri,Pulaski @ Missouri,2020-03-27,4
+29.606006,-81.740894,Putnam @ Florida,Putnam @ Florida,2020-03-27,12
+39.665545,-86.853325,Putnam @ Indiana,Putnam @ Indiana,2020-03-27,2
+41.427904,-73.743882,Putnam @ New York,Putnam @ New York,2020-03-27,111
+36.140807,-85.496928,Putnam @ Tennessee,Putnam @ Tennessee,2020-03-27,13
+38.510513,-81.906109,Putnam @ West Virginia,Putnam @ West Virginia,2020-03-27,3
+25.3548,51.1839,Qatar,Qatar,2020-03-27,562
+35.7452,95.9956,Qinghai @ China,Qinghai,2020-03-27,18
+52.9399,-73.5491,Quebec @ Canada,Quebec,2020-03-27,2024
+39.040693,-76.082405,Queen Anne's @ Maryland,Queen Anne's @ Maryland,2020-03-27,1
+-28.0167,153.4,Queensland @ Australia,Queensland,2020-03-27,555
+34.25264,-90.290525,Quitman @ Mississippi,Quitman @ Mississippi,2020-03-27,3
+42.754075,-87.414676,Racine @ Wisconsin,Racine @ Wisconsin,2020-03-27,9
+37.120036,-80.557048,Radford city @ Virginia,Radford city @ Virginia,2020-03-27,1
+37.76247,-81.264671,Raleigh @ West Virginia,Raleigh @ West Virginia,2020-03-27,3
+39.553455,-91.524787,Ralls @ Missouri,Ralls @ Missouri,2020-03-27,1
+45.01525,-93.100141,Ramsey @ Minnesota,Ramsey @ Minnesota,2020-03-27,34
+48.265551,-98.737329,Ramsey @ North Dakota,Ramsey @ North Dakota,2020-03-27,3
+34.962529,-101.895547,Randall @ Texas,Randall @ Texas,2020-03-27,3
+33.296475,-85.464068,Randolph @ Alabama,Randolph @ Alabama,2020-03-27,1
+36.341299,-91.028441,Randolph @ Arkansas,Randolph @ Arkansas,2020-03-27,2
+31.762651,-84.752311,Randolph @ Georgia,Randolph @ Georgia,2020-03-27,3
+40.164414,-85.005004,Randolph @ Indiana,Randolph @ Indiana,2020-03-27,1
+39.441601,-92.492725,Randolph @ Missouri,Randolph @ Missouri,2020-03-27,1
+35.709915,-79.806215,Randolph @ North Carolina,Randolph @ North Carolina,2020-03-27,5
+32.262057,-89.946552,Rankin @ Mississippi,Rankin @ Mississippi,2020-03-27,29
+31.193204,-92.535953,Rapides @ Louisiana,Rapides @ Louisiana,2020-03-27,26
+46.079298,-114.119065,Ravalli @ Montana,Ravalli @ Montana,2020-03-27,1
+39.308401,-93.995746,Ray @ Missouri,Ray @ Missouri,2020-03-27,1
+0,0,Recovered @ Canada,Recovered,2020-03-27,0
+37.948185,-98.078346,Reno @ Kansas,Reno @ Kansas,2020-03-27,5
+42.710421,-73.513845,Rensselaer @ New York,Rensselaer @ New York,2020-03-27,35
+44.723697,-94.955617,Renville @ Minnesota,Renville @ Minnesota,2020-03-27,1
+-21.1351,55.2471,Reunion @ France,Reunion,2020-03-27,145
+44.350943,-93.298503,Rice @ Minnesota,Rice @ Minnesota,2020-03-27,2
+32.418121,-91.758375,Richland @ Louisiana,Richland @ Louisiana,2020-03-27,2
+40.774167,-82.542715,Richland @ Ohio,Richland @ Ohio,2020-03-27,4
+34.029783,-80.896566,Richland @ South Carolina,Richland @ South Carolina,2020-03-27,65
+43.376199,-90.435693,Richland @ Wisconsin,Richland @ Wisconsin,2020-03-27,2
+33.361487,-82.074998,Richmond @ Georgia,Richmond @ Georgia,2020-03-27,11
+35.001957,-79.747809,Richmond @ North Carolina,Richmond @ North Carolina,2020-03-27,1
+37.531399,-77.476009,Richmond city @ Virginia,Richmond city @ Virginia,2020-03-27,17
+39.291211,-96.727489,Riley @ Kansas,Riley @ Kansas,2020-03-27,2
+36.509669,-106.693983,Rio Arriba @ New Mexico,Rio Arriba @ New Mexico,2020-03-27,3
+37.485763,-106.453214,Rio Grande @ Colorado,Rio Grande @ Colorado,2020-03-27,2
+39.10023,-85.260541,Ripley @ Indiana,Ripley @ Indiana,2020-03-27,14
+33.729828,-116.002239,Riverside @ California,Riverside @ California,2020-03-27,185
+35.847472,-84.523861,Roane @ Tennessee,Roane @ Tennessee,2020-03-27,1
+37.331077,-80.19011,Roanoke @ Virginia,Roanoke @ Virginia,2020-03-27,1
+37.27783,-79.958472,Roanoke city @ Virginia,Roanoke city @ Virginia,2020-03-27,1
+36.52753,-86.869377,Robertson @ Tennessee,Robertson @ Tennessee,2020-03-27,22
+31.025481,-96.514941,Robertson @ Texas,Robertson @ Texas,2020-03-27,1
+34.63921,-79.100881,Robeson @ North Carolina,Robeson @ North Carolina,2020-03-27,2
+42.669931,-89.075119,Rock @ Wisconsin,Rock @ Wisconsin,2020-03-27,12
+41.468404,-90.572203,Rock Island @ Illinois,Rock Island @ Illinois,2020-03-27,4
+37.814517,-79.447754,Rockbridge @ Virginia,Rockbridge @ Virginia,2020-03-27,1
+33.652081,-84.02637,Rockdale @ Georgia,Rockdale @ Georgia,2020-03-27,16
+42.98936,-71.099437,Rockingham @ New Hampshire,Rockingham @ New Hampshire,2020-03-27,75
+38.511257,-78.876307,Rockingham @ Virginia,Rockingham @ Virginia,2020-03-27,4
+41.154785,-74.024772,Rockland @ New York,Rockland @ New York,2020-03-27,1457
+32.889216,-96.407501,Rockwall @ Texas,Rockwall @ Texas,2020-03-27,3
+45.9432,24.9668,Romania,Romania,2020-03-27,1292
+48.282747,-104.99517,Roosevelt @ Montana,Roosevelt @ Montana,2020-03-27,1
+34.021457,-103.482725,Roosevelt @ New Mexico,Roosevelt @ New Mexico,2020-03-27,1
+44.339517,-84.611272,Roscommon @ Michigan,Roscommon @ Michigan,2020-03-27,1
+40.48316,-106.985289,Routt @ Colorado,Routt @ Colorado,2020-03-27,12
+35.639218,-80.525344,Rowan @ North Carolina,Rowan @ North Carolina,2020-03-27,10
+39.622312,-85.466527,Rush @ Indiana,Rush @ Indiana,2020-03-27,3
+32.109423,-94.756382,Rusk @ Texas,Rusk @ Texas,2020-03-27,2
+32.289811,-85.18698,Russell @ Alabama,Russell @ Alabama,2020-03-27,1
+60,90,Russia,Russia,2020-03-27,1036
+35.843369,-86.417213,Rutherford @ Tennessee,Rutherford @ Tennessee,2020-03-27,39
+43.580844,-73.038196,Rutland @ Vermont,Rutland @ Vermont,2020-03-27,5
+-1.9403,29.8739,Rwanda,Rwanda,2020-03-27,54
+38.450011,-121.340441,Sacramento @ California,Sacramento @ California,2020-03-27,164
+43.916694,-69.843994,Sagadahoc @ Maine,Sagadahoc @ Maine,2020-03-27,4
+43.328267,-84.05541,Saginaw @ Michigan,Saginaw @ Michigan,2020-03-27,14
+17.9,-62.8333,Saint Barthelemy @ France,Saint Barthelemy,2020-03-27,5
+17.357822,-62.782998,Saint Kitts and Nevis,Saint Kitts and Nevis,2020-03-27,2
+13.9094,-60.9789,Saint Lucia,Saint Lucia,2020-03-27,3
+12.9843,-61.2872,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,2020-03-27,1
+39.573828,-75.357356,Salem @ New Jersey,Salem @ New Jersey,2020-03-27,3
+34.648525,-92.674463,Saline @ Arkansas,Saline @ Arkansas,2020-03-27,4
+40.667882,-111.924244,Salt Lake @ Utah,Salt Lake @ Utah,2020-03-27,212
+34.005278,-81.727903,Saluda @ South Carolina,Saluda @ South Carolina,2020-03-27,1
+34.990575,-78.371382,Sampson @ North Carolina,Sampson @ North Carolina,2020-03-27,1
+36.610702,-121.085296,San Benito @ California,San Benito @ California,2020-03-27,11
+34.85722,-116.181197,San Bernardino @ California,San Bernardino @ California,2020-03-27,64
+33.023604,-116.776117,San Diego @ California,San Diego @ California,2020-03-27,417
+37.7749,-122.4194,San Francisco @ California,San Francisco @ California,2020-03-27,282
+37.935034,-121.272237,San Joaquin @ California,San Joaquin @ California,2020-03-27,93
+36.511625,-108.324578,San Juan @ New Mexico,San Juan @ New Mexico,2020-03-27,17
+48.508862,-123.100616,San Juan @ Washington,San Juan @ Washington,2020-03-27,3
+35.385227,-120.44754,San Luis Obispo @ California,San Luis Obispo @ California,2020-03-27,59
+43.9424,12.4578,San Marino,San Marino,2020-03-27,223
+37.414664,-122.371542,San Mateo @ California,San Mateo @ California,2020-03-27,239
+38.009374,-108.427326,San Miguel @ Colorado,San Miguel @ Colorado,2020-03-27,1
+35.476876,-104.803515,San Miguel @ New Mexico,San Miguel @ New Mexico,2020-03-27,1
+28.011782,-97.517165,San Patricio @ Texas,San Patricio @ Texas,2020-03-27,1
+35.685073,-106.882618,Sandoval @ New Mexico,Sandoval @ New Mexico,2020-03-27,15
+41.355291,-83.142735,Sandusky @ Ohio,Sandusky @ Ohio,2020-03-27,1
+39.756378,-89.662311,Sangamon @ Illinois,Sangamon @ Illinois,2020-03-27,7
+43.449155,-82.642815,Sanilac @ Michigan,Sanilac @ Michigan,2020-03-27,2
+34.537378,-120.038485,Santa Barbara @ California,Santa Barbara @ California,2020-03-27,47
+37.220777,-121.690622,Santa Clara @ California,Santa Clara @ California,2020-03-27,574
+31.525904,-110.84519,Santa Cruz @ Arizona,Santa Cruz @ Arizona,2020-03-27,2
+37.012488,-122.007205,Santa Cruz @ California,Santa Cruz @ California,2020-03-27,34
+35.513722,-105.966441,Santa Fe @ New Mexico,Santa Fe @ New Mexico,2020-03-27,29
+30.703633,-87.014255,Santa Rosa @ Florida,Santa Rosa @ Florida,2020-03-27,13
+27.184386,-82.365835,Sarasota @ Florida,Sarasota @ Florida,2020-03-27,43
+43.106135,-73.855387,Saratoga @ New York,Saratoga @ New York,2020-03-27,82
+41.115064,-96.109125,Sarpy @ Nebraska,Sarpy @ Nebraska,2020-03-27,11
+52.9399,-106.4509,Saskatchewan @ Canada,Saskatchewan,2020-03-27,95
+24,45,Saudi Arabia,Saudi Arabia,2020-03-27,1104
+43.427998,-89.943329,Sauk @ Wisconsin,Sauk @ Wisconsin,2020-03-27,8
+41.223152,-96.640923,Saunders @ Nebraska,Saunders @ Nebraska,2020-03-27,2
+42.817542,-74.043583,Schenectady @ New York,Schenectady @ New York,2020-03-27,66
+42.591294,-74.438172,Schoharie @ New York,Schoharie @ New York,2020-03-27,3
+40.70369,-76.2178,Schuylkill @ Pennsylvania,Schuylkill @ Pennsylvania,2020-03-27,13
+34.840023,-79.477337,Scotland @ North Carolina,Scotland @ North Carolina,2020-03-27,1
+38.679431,-85.751898,Scott @ Indiana,Scott @ Indiana,2020-03-27,1
+41.641679,-90.62229,Scott @ Iowa,Scott @ Iowa,2020-03-27,7
+38.289882,-84.579376,Scott @ Kentucky,Scott @ Kentucky,2020-03-27,3
+44.651932,-93.534553,Scott @ Minnesota,Scott @ Minnesota,2020-03-27,7
+32.427127,-89.533209,Scott @ Mississippi,Scott @ Mississippi,2020-03-27,6
+37.047793,-89.568098,Scott @ Missouri,Scott @ Missouri,2020-03-27,1
+36.437239,-84.498386,Scott @ Tennessee,Scott @ Tennessee,2020-03-27,2
+35.90966,-92.699351,Searcy @ Arkansas,Searcy @ Arkansas,2020-03-27,4
+35.196981,-94.274989,Sebastian @ Arkansas,Sebastian @ Arkansas,2020-03-27,3
+37.683807,-97.459451,Sedgwick @ Kansas,Sedgwick @ Kansas,2020-03-27,20
+28.690079,-81.13198,Seminole @ Florida,Seminole @ Florida,2020-03-27,54
+30.933894,-84.867592,Seminole @ Georgia,Seminole @ Georgia,2020-03-27,2
+41.120008,-83.127436,Seneca @ Ohio,Seneca @ Ohio,2020-03-27,2
+14.4974,-14.4524,Senegal,Senegal,2020-03-27,119
+35.502435,-94.750757,Sequoyah @ Oklahoma,Sequoyah @ Oklahoma,2020-03-27,1
+44.0165,21.0059,Serbia,Serbia,2020-03-27,457
+33.994608,-94.24329,Sevier @ Arkansas,Sevier @ Arkansas,2020-03-27,1
+35.791284,-83.521955,Sevier @ Tennessee,Sevier @ Tennessee,2020-03-27,6
+-4.6796,55.492,Seychelles,Seychelles,2020-03-27,7
+35.1917,108.8701,Shaanxi @ China,Shaanxi,2020-03-27,253
+36.3427,118.1498,Shandong @ China,Shandong,2020-03-27,772
+31.202,121.4491,Shanghai @ China,Shanghai,2020-03-27,468
+37.5777,112.2922,Shanxi @ China,Shanxi,2020-03-27,135
+32.89249,-90.827388,Sharkey @ Mississippi,Sharkey @ Mississippi,2020-03-27,1
+40.760522,-122.04355,Shasta @ California,Shasta @ California,2020-03-27,3
+39.041805,-95.755664,Shawnee @ Kansas,Shawnee @ Kansas,2020-03-27,5
+43.746002,-87.730546,Sheboygan @ Wisconsin,Sheboygan @ Wisconsin,2020-03-27,7
+33.262937,-86.678104,Shelby @ Alabama,Shelby @ Alabama,2020-03-27,70
+39.524135,-85.792174,Shelby @ Indiana,Shelby @ Indiana,2020-03-27,6
+39.797531,-92.088719,Shelby @ Missouri,Shelby @ Missouri,2020-03-27,1
+40.33668,-84.204143,Shelby @ Ohio,Shelby @ Ohio,2020-03-27,1
+35.183794,-89.895397,Shelby @ Tennessee,Shelby @ Tennessee,2020-03-27,223
+31.790137,-94.142565,Shelby @ Texas,Shelby @ Texas,2020-03-27,1
+38.856204,-78.573987,Shenandoah @ Virginia,Shenandoah @ Virginia,2020-03-27,3
+45.443171,-93.775092,Sherburne @ Minnesota,Sherburne @ Minnesota,2020-03-27,3
+44.781369,-106.881211,Sheridan @ Wyoming,Sheridan @ Wyoming,2020-03-27,5
+42.951545,-84.146352,Shiawassee @ Michigan,Shiawassee @ Michigan,2020-03-27,2
+44.575734,-94.230123,Sibley @ Minnesota,Sibley @ Minnesota,2020-03-27,1
+30.6171,102.7103,Sichuan @ China,Sichuan,2020-03-27,548
+45.895959,-112.660222,Silver Bow @ Montana,Silver Bow @ Montana,2020-03-27,7
+36.740863,-86.581464,Simpson @ Kentucky,Simpson @ Kentucky,2020-03-27,2
+31.902503,-89.917707,Simpson @ Mississippi,Simpson @ Mississippi,2020-03-27,1
+1.2833,103.8333,Singapore,Singapore,2020-03-27,732
+18.0425,-63.0548,Sint Maarten @ Netherlands,Sint Maarten,2020-03-27,3
+43.082854,-96.177929,Sioux @ Iowa,Sioux @ Iowa,2020-03-27,2
+41.587986,-122.533287,Siskiyou @ California,Siskiyou @ California,2020-03-27,3
+48.493066,-121.816278,Skagit @ Washington,Skagit @ Washington,2020-03-27,91
+46.024782,-121.953227,Skamania @ Washington,Skamania @ Washington,2020-03-27,1
+48.669,19.699,Slovakia,Slovakia,2020-03-27,269
+46.1512,14.9955,Slovenia,Slovenia,2020-03-27,632
+32.019034,-89.494973,Smith @ Mississippi,Smith @ Mississippi,2020-03-27,1
+36.25565,-85.942078,Smith @ Tennessee,Smith @ Tennessee,2020-03-27,1
+32.377093,-95.26963,Smith @ Texas,Smith @ Texas,2020-03-27,27
+48.054913,-121.766412,Snohomish @ Washington,Snohomish @ Washington,2020-03-27,913
+33.991614,-106.939003,Socorro @ New Mexico,Socorro @ New Mexico,2020-03-27,2
+38.267226,-121.939594,Solano @ California,Solano @ California,2020-03-27,39
+5.1521,46.1996,Somalia,Somalia,2020-03-27,3
+38.07445,-75.853323,Somerset @ Maryland,Somerset @ Maryland,2020-03-27,1
+40.565522,-74.61993,Somerset @ New Jersey,Somerset @ New Jersey,2020-03-27,222
+39.981297,-79.028486,Somerset @ Pennsylvania,Somerset @ Pennsylvania,2020-03-27,2
+38.532574,-122.945194,Sonoma @ California,Sonoma @ California,2020-03-27,50
+-30.5595,22.9375,South Africa,South Africa,2020-03-27,1170
+-34.9285,138.6007,South Australia @ Australia,South Australia,2020-03-27,257
+36.720173,-77.103856,Southampton @ Virginia,Southampton @ Virginia,2020-03-27,1
+40,-4,Spain,Spain,2020-03-27,65719
+33.262389,-84.286067,Spalding @ Georgia,Spalding @ Georgia,2020-03-27,11
+34.933239,-81.991053,Spartanburg @ South Carolina,Spartanburg @ South Carolina,2020-03-27,16
+38.026976,-85.321525,Spencer @ Kentucky,Spencer @ Kentucky,2020-03-27,1
+47.620379,-117.404392,Spokane @ Washington,Spokane @ Washington,2020-03-27,86
+38.182311,-77.65628,Spotsylvania @ Virginia,Spotsylvania @ Virginia,2020-03-27,3
+7,81,Sri Lanka,Sri Lanka,2020-03-27,106
+18.0708,-63.0501,St Martin @ France,St Martin,2020-03-27,11
+29.91811,-89.263494,St. Bernard @ Louisiana,St. Bernard @ Louisiana,2020-03-27,31
+29.913833,-90.359314,St. Charles @ Louisiana,St. Charles @ Louisiana,2020-03-27,23
+38.781102,-90.674915,St. Charles @ Missouri,St. Charles @ Missouri,2020-03-27,32
+33.712963,-86.315663,St. Clair @ Alabama,St. Clair @ Alabama,2020-03-27,9
+38.470198,-89.928546,St. Clair @ Illinois,St. Clair @ Illinois,2020-03-27,15
+42.928804,-82.668914,St. Clair @ Michigan,St. Clair @ Michigan,2020-03-27,15
+45.028959,-92.447284,St. Croix @ Wisconsin,St. Croix @ Wisconsin,2020-03-27,4
+37.810707,-90.473868,St. Francois @ Missouri,St. Francois @ Missouri,2020-03-27,4
+30.02482,-90.793956,St. James @ Louisiana,St. James @ Louisiana,2020-03-27,40
+30.117471,-90.504677,St. John the Baptist @ Louisiana,St. John the Baptist @ Louisiana,2020-03-27,41
+29.890593,-81.383914,St. Johns @ Florida,St. Johns @ Florida,2020-03-27,42
+41.617699,-86.288159,St. Joseph @ Indiana,St. Joseph @ Indiana,2020-03-27,27
+30.583441,-91.989275,St. Landry @ Louisiana,St. Landry @ Louisiana,2020-03-27,10
+44.488113,-75.074311,St. Lawrence @ New York,St. Lawrence @ New York,2020-03-27,3
+47.583852,-92.463645,St. Louis @ Minnesota,St. Louis @ Minnesota,2020-03-27,5
+38.640702,-90.445954,St. Louis @ Missouri,St. Louis @ Missouri,2020-03-27,247
+38.635699,-90.244582,St. Louis city @ Missouri,St. Louis city @ Missouri,2020-03-27,72
+27.380775,-80.443364,St. Lucie @ Florida,St. Lucie @ Florida,2020-03-27,17
+30.121433,-91.611481,St. Martin @ Louisiana,St. Martin @ Louisiana,2020-03-27,10
+38.222666,-76.534271,St. Mary's @ Maryland,St. Mary's @ Maryland,2020-03-27,4
+29.629349,-91.463804,St. Mary @ Louisiana,St. Mary @ Louisiana,2020-03-27,6
+30.410022,-89.951962,St. Tammany @ Louisiana,St. Tammany @ Louisiana,2020-03-27,111
+38.418933,-77.459043,Stafford @ Virginia,Stafford @ Virginia,2020-03-27,11
+37.562384,-121.002656,Stanislaus @ California,Stanislaus @ California,2020-03-27,23
+35.310523,-80.254355,Stanly @ North Carolina,Stanly @ North Carolina,2020-03-27,2
+46.817031,-102.662026,Stark @ North Dakota,Stark @ North Dakota,2020-03-27,7
+40.814131,-81.365667,Stark @ Ohio,Stark @ Ohio,2020-03-27,22
+41.28322,-86.64757,Starke @ Indiana,Starke @ Indiana,2020-03-27,1
+26.546335,-98.715803,Starr @ Texas,Starr @ Texas,2020-03-27,2
+45.555235,-94.610482,Stearns @ Minnesota,Stearns @ Minnesota,2020-03-27,5
+44.015261,-93.220453,Steele @ Minnesota,Steele @ Minnesota,2020-03-27,5
+34.552914,-83.290216,Stephens @ Georgia,Stephens @ Georgia,2020-03-27,2
+34.481361,-97.855607,Stephens @ Oklahoma,Stephens @ Oklahoma,2020-03-27,1
+42.349726,-89.665994,Stephenson @ Illinois,Stephenson @ Illinois,2020-03-27,2
+42.266725,-77.385525,Steuben @ New York,Steuben @ New York,2020-03-27,12
+48.390648,-117.854897,Stevens @ Washington,Stevens @ Washington,2020-03-27,3
+36.855428,-89.941735,Stoddard @ Missouri,Stoddard @ Missouri,2020-03-27,1
+35.856989,-92.140494,Stone @ Arkansas,Stone @ Arkansas,2020-03-27,4
+42.037538,-93.466093,Story @ Iowa,Story @ Iowa,2020-03-27,2
+43.293177,-71.035927,Strafford @ New Hampshire,Strafford @ New Hampshire,2020-03-27,11
+12.8628,30.2176,Sudan,Sudan,2020-03-27,3
+42.33196,-71.020173,Suffolk @ Massachusetts,Suffolk @ Massachusetts,2020-03-27,631
+40.943554,-72.692218,Suffolk @ New York,Suffolk @ New York,2020-03-27,3385
+36.697157,-76.634781,Suffolk city @ Virginia,Suffolk city @ Virginia,2020-03-27,1
+39.089225,-87.415843,Sullivan @ Indiana,Sullivan @ Indiana,2020-03-27,1
+43.361188,-72.222084,Sullivan @ New Hampshire,Sullivan @ New Hampshire,2020-03-27,2
+41.720176,-74.76468,Sullivan @ New York,Sullivan @ New York,2020-03-27,64
+36.510212,-82.299397,Sullivan @ Tennessee,Sullivan @ Tennessee,2020-03-27,6
+39.621023,-106.137555,Summit @ Colorado,Summit @ Colorado,2020-03-27,10
+41.121851,-81.534936,Summit @ Ohio,Summit @ Ohio,2020-03-27,65
+40.87206,-110.968486,Summit @ Utah,Summit @ Utah,2020-03-27,110
+37.236663,-97.493349,Sumner @ Kansas,Sumner @ Kansas,2020-03-27,1
+36.470015,-86.458517,Sumner @ Tennessee,Sumner @ Tennessee,2020-03-27,58
+28.714294,-82.074715,Sumter @ Florida,Sumter @ Florida,2020-03-27,29
+32.042203,-84.204283,Sumter @ Georgia,Sumter @ Georgia,2020-03-27,10
+33.916046,-80.382472,Sumter @ South Carolina,Sumter @ South Carolina,2020-03-27,10
+33.605529,-90.59509,Sunflower @ Mississippi,Sunflower @ Mississippi,2020-03-27,5
+3.9193,-56.0278,Suriname,Suriname,2020-03-27,8
+36.415416,-80.686463,Surry @ North Carolina,Surry @ North Carolina,2020-03-27,1
+41.819665,-75.800969,Susquehanna @ Pennsylvania,Susquehanna @ Pennsylvania,2020-03-27,1
+38.677511,-75.335495,Sussex @ Delaware,Sussex @ Delaware,2020-03-27,38
+41.137424,-74.691855,Sussex @ New Jersey,Sussex @ New Jersey,2020-03-27,65
+39.035257,-121.702758,Sutter @ California,Sutter @ California,2020-03-27,2
+30.189244,-82.992754,Suwannee @ Florida,Suwannee @ Florida,2020-03-27,1
+63,16,Sweden,Sweden,2020-03-27,3069
+41.660339,-108.875676,Sweetwater @ Wyoming,Sweetwater @ Wyoming,2020-03-27,1
+46.8182,8.2275,Switzerland,Switzerland,2020-03-27,12928
+34.802075,38.996815,Syria,Syria,2020-03-27,5
+23.7,121,Taiwan*,Taiwan*,2020-03-27,267
+38.749427,-76.17913,Talbot @ Maryland,Talbot @ Maryland,2020-03-27,1
+33.369277,-86.175805,Talladega @ Alabama,Talladega @ Alabama,2020-03-27,4
+33.955891,-90.172833,Tallahatchie @ Mississippi,Tallahatchie @ Mississippi,2020-03-27,2
+32.863369,-85.799553,Tallapoosa @ Alabama,Tallapoosa @ Alabama,2020-03-27,5
+42.074848,-92.529412,Tama @ Iowa,Tama @ Iowa,2020-03-27,5
+36.649827,-93.042819,Taney @ Missouri,Taney @ Missouri,2020-03-27,1
+30.621581,-90.406633,Tangipahoa @ Louisiana,Tangipahoa @ Louisiana,2020-03-27,7
+-6.369,34.8888,Tanzania,Tanzania,2020-03-27,13
+36.576529,-105.637987,Taos @ New Mexico,Taos @ New Mexico,2020-03-27,8
+32.77204,-97.291291,Tarrant @ Texas,Tarrant @ Texas,2020-03-27,114
+-41.4545,145.9707,Tasmania @ Australia,Tasmania,2020-03-27,47
+34.649553,-89.943105,Tate @ Mississippi,Tate @ Mississippi,2020-03-27,8
+32.043768,-82.059208,Tattnall @ Georgia,Tattnall @ Georgia,2020-03-27,2
+32.554667,-84.251426,Taylor @ Georgia,Taylor @ Georgia,2020-03-27,1
+32.295684,-99.89322,Taylor @ Texas,Taylor @ Texas,2020-03-27,1
+40.508074,-89.51626,Tazewell @ Illinois,Tazewell @ Illinois,2020-03-27,2
+38.871994,-105.182552,Teller @ Colorado,Teller @ Colorado,2020-03-27,7
+29.333266,-90.844191,Terrebonne @ Louisiana,Terrebonne @ Louisiana,2020-03-27,23
+31.777191,-84.439446,Terrell @ Georgia,Terrell @ Georgia,2020-03-27,6
+33.171229,-102.339284,Terry @ Texas,Terry @ Texas,2020-03-27,1
+43.760994,-111.211765,Teton @ Idaho,Teton @ Idaho,2020-03-27,2
+44.049321,-110.588102,Teton @ Wyoming,Teton @ Wyoming,2020-03-27,12
+37.314257,-91.964478,Texas @ Missouri,Texas @ Missouri,2020-03-27,1
+15,101,Thailand,Thailand,2020-03-27,1136
+30.864616,-83.919783,Thomas @ Georgia,Thomas @ Georgia,2020-03-27,3
+46.932598,-122.829441,Thurston @ Washington,Thurston @ Washington,2020-03-27,27
+39.3054,117.323,Tianjin @ China,Tianjin,2020-03-27,155
+31.6927,88.0924,Tibet @ China,Tibet,2020-03-27,1
+31.457003,-83.525931,Tift @ Georgia,Tift @ Georgia,2020-03-27,13
+45.455743,-123.759327,Tillamook @ Oregon,Tillamook @ Oregon,2020-03-27,1
+-8.874217,125.727539,Timor-Leste,Timor-Leste,2020-03-27,1
+42.178057,-76.29745,Tioga @ New York,Tioga @ New York,2020-03-27,2
+34.763618,-88.918819,Tippah @ Mississippi,Tippah @ Mississippi,2020-03-27,15
+40.38926,-86.893943,Tippecanoe @ Indiana,Tippecanoe @ Indiana,2020-03-27,8
+40.310229,-86.056207,Tipton @ Indiana,Tipton @ Indiana,2020-03-27,2
+35.500297,-89.763708,Tipton @ Tennessee,Tipton @ Tennessee,2020-03-27,10
+43.208172,-100.717204,Todd @ South Dakota,Todd @ South Dakota,2020-03-27,1
+8.6195,0.8248,Togo,Togo,2020-03-27,25
+41.858076,-72.340977,Tolland @ Connecticut,Tolland @ Connecticut,2020-03-27,33
+31.401583,-100.461355,Tom Green @ Texas,Tom Green @ Texas,2020-03-27,2
+42.453281,-76.473712,Tompkins @ New York,Tompkins @ New York,2020-03-27,26
+40.467692,-113.124015,Tooele @ Utah,Tooele @ Utah,2020-03-27,5
+48.645052,-111.733493,Toole @ Montana,Toole @ Montana,2020-03-27,5
+32.126698,-82.332071,Toombs @ Georgia,Toombs @ Georgia,2020-03-27,1
+35.210095,-82.816696,Transylvania @ North Carolina,Transylvania @ North Carolina,2020-03-27,2
+30.239513,-97.69127,Travis @ Texas,Travis @ Texas,2020-03-27,160
+10.6918,-61.2225,Trinidad and Tobago,Trinidad and Tobago,2020-03-27,66
+33.034482,-85.02836,Troup @ Georgia,Troup @ Georgia,2020-03-27,11
+41.308936,-80.767656,Trumbull @ Ohio,Trumbull @ Ohio,2020-03-27,17
+39.111175,-79.559968,Tucker @ West Virginia,Tucker @ West Virginia,2020-03-27,2
+36.230453,-118.780542,Tulare @ California,Tulare @ California,2020-03-27,24
+36.120121,-95.941731,Tulsa @ Oklahoma,Tulsa @ Oklahoma,2020-03-27,49
+34.652201,-90.37177,Tunica @ Mississippi,Tunica @ Mississippi,2020-03-27,6
+34,9,Tunisia,Tunisia,2020-03-27,227
+38.9637,35.2433,Turkey,Turkey,2020-03-27,5698
+31.718232,-83.628567,Turner @ Georgia,Turner @ Georgia,2020-03-27,2
+33.290202,-87.52286,Tuscaloosa @ Alabama,Tuscaloosa @ Alabama,2020-03-27,22
+40.447441,-81.471157,Tuscarawas @ Ohio,Tuscarawas @ Ohio,2020-03-27,3
+43.487902,-83.436618,Tuscola @ Michigan,Tuscola @ Michigan,2020-03-27,2
+32.665847,-83.425879,Twiggs @ Georgia,Twiggs @ Georgia,2020-03-27,2
+42.352309,-114.665639,Twin Falls @ Idaho,Twin Falls @ Idaho,2020-03-27,2
+1,32,Uganda,Uganda,2020-03-27,23
+40.125887,-109.517748,Uintah @ Utah,Uintah @ Utah,2020-03-27,1
+48.3794,31.1656,Ukraine,Ukraine,2020-03-27,310
+41.947232,-74.265447,Ulster @ New York,Ulster @ New York,2020-03-27,98
+45.5912,-118.73388,Umatilla @ Oregon,Umatilla @ Oregon,2020-03-27,3
+36.100215,-82.418245,Unicoi @ Tennessee,Unicoi @ Tennessee,2020-03-27,1
+33.168219,-92.598145,Union @ Arkansas,Union @ Arkansas,2020-03-27,2
+37.658029,-87.95165,Union @ Kentucky,Union @ Kentucky,2020-03-27,1
+32.829349,-92.37565,Union @ Louisiana,Union @ Louisiana,2020-03-27,4
+34.489101,-89.0023,Union @ Mississippi,Union @ Mississippi,2020-03-27,3
+40.659871,-74.308696,Union @ New Jersey,Union @ New Jersey,2020-03-27,519
+34.991501,-80.530131,Union @ North Carolina,Union @ North Carolina,2020-03-27,27
+40.295901,-83.367042,Union @ Ohio,Union @ Ohio,2020-03-27,3
+45.304047,-117.999136,Union @ Oregon,Union @ Oregon,2020-03-27,1
+40.962179,-77.055475,Union @ Pennsylvania,Union @ Pennsylvania,2020-03-27,1
+34.690514,-81.615831,Union @ South Carolina,Union @ South Carolina,2020-03-27,1
+42.831106,-96.650829,Union @ South Dakota,Union @ South Dakota,2020-03-27,1
+24,54,United Arab Emirates,United Arab Emirates,2020-03-27,405
+55.3781,-3.436,United Kingdom,United Kingdom,2020-03-27,14543
+34.799999,-92.199997,Unknown @ Arkansas,Unknown @ Arkansas,2020-03-27,61
+36.778259,-119.417931,Unknown @ California,Unknown @ California,2020-03-27,1
+39.113014,-105.358887,Unknown @ Colorado,Unknown @ Colorado,2020-03-27,136
+27.994402,-81.760254,Unknown @ Florida,Unknown @ Florida,2020-03-27,1
+33.247875,-83.441162,Unknown @ Georgia,Unknown @ Georgia,2020-03-27,217
+13.4443,144.7937,Unknown @ Guam,Unknown @ Guam,2020-03-27,53
+19.741755,-155.844437,Unknown @ Hawaii,Unknown @ Hawaii,2020-03-27,5
+44.068203,-114.742043,Unknown @ Idaho,Unknown @ Idaho,2020-03-27,1
+40,-89,Unknown @ Illinois,Unknown @ Illinois,2020-03-27,58
+37.839333,-84.27002,Unknown @ Kentucky,Unknown @ Kentucky,2020-03-27,45
+30.39183,-92.329102,Unknown @ Louisiana,Unknown @ Louisiana,2020-03-27,16
+45.367584,-68.972168,Unknown @ Maine,Unknown @ Maine,2020-03-27,5
+42.407211,-71.382439,Unknown @ Massachusetts,Unknown @ Massachusetts,2020-03-27,304
+44.182205,-84.506836,Unknown @ Michigan,Unknown @ Michigan,2020-03-27,23
+46.39241,-94.63623,Unknown @ Minnesota,Unknown @ Minnesota,2020-03-27,1
+33,-90,Unknown @ Mississippi,Unknown @ Mississippi,2020-03-27,6
+38.573936,-92.60376,Unknown @ Missouri,Unknown @ Missouri,2020-03-27,4
+39.876019,-117.224121,Unknown @ Nevada,Unknown @ Nevada,2020-03-27,91
+39.833851,-74.871826,Unknown @ New Jersey,Unknown @ New Jersey,2020-03-27,1984
+18.2208,-66.5901,Unknown @ Puerto Rico,Unknown @ Puerto Rico,2020-03-27,79
+41.700001,-71.5,Unknown @ Rhode Island,Unknown @ Rhode Island,2020-03-27,132
+35.860119,-86.660156,Unknown @ Tennessee,Unknown @ Tennessee,2020-03-27,172
+39.41922,-111.950684,Unknown @ Utah,Unknown @ Utah,2020-03-27,17
+44,-72.699997,Unknown @ Vermont,Unknown @ Vermont,2020-03-27,23
+18.3358,-64.8963,Unknown @ Virgin Islands,Unknown @ Virgin Islands,2020-03-27,19
+32.735878,-94.941649,Upshur @ Texas,Upshur @ Texas,2020-03-27,1
+38.902537,-80.231335,Upshur @ West Virginia,Upshur @ West Virginia,2020-03-27,1
+32.881837,-84.292281,Upson @ Georgia,Upson @ Georgia,2020-03-27,2
+-32.5228,-55.7658,Uruguay,Uruguay,2020-03-27,238
+40.120409,-111.668667,Utah @ Utah,Utah @ Utah,2020-03-27,27
+29.35034,-99.761074,Uvalde @ Texas,Uvalde @ Texas,2020-03-27,1
+41.3775,64.5853,Uzbekistan,Uzbekistan,2020-03-27,88
+29.884961,-101.146646,Val Verde @ Texas,Val Verde @ Texas,2020-03-27,2
+34.71684,-106.806582,Valencia @ New Mexico,Valencia @ New Mexico,2020-03-27,1
+44.771532,-115.637875,Valley @ Idaho,Valley @ Idaho,2020-03-27,1
+35.582959,-92.515977,Van Buren @ Arkansas,Van Buren @ Arkansas,2020-03-27,17
+42.283986,-86.305697,Van Buren @ Michigan,Van Buren @ Michigan,2020-03-27,3
+32.558948,-95.836391,Van Zandt @ Texas,Van Zandt @ Texas,2020-03-27,1
+36.365481,-78.405434,Vance @ North Carolina,Vance @ North Carolina,2020-03-27,2
+38.02007,-87.586166,Vanderburgh @ Indiana,Vanderburgh @ Indiana,2020-03-27,6
+6.4238,-66.5897,Venezuela,Venezuela,2020-03-27,107
+34.358742,-119.133143,Ventura @ California,Ventura @ California,2020-03-27,83
+29.786872,-92.29009,Vermilion @ Louisiana,Vermilion @ Louisiana,2020-03-27,2
+31.110563,-93.18152,Vernon @ Louisiana,Vernon @ Louisiana,2020-03-27,2
+-37.8136,144.9631,Victoria @ Australia,Victoria,2020-03-27,574
+28.79637,-96.971198,Victoria @ Texas,Victoria @ Texas,2020-03-27,3
+16,108,Vietnam,Vietnam,2020-03-27,163
+39.429143,-87.390375,Vigo @ Indiana,Vigo @ Indiana,2020-03-27,4
+46.049848,-89.501254,Vilas @ Wisconsin,Vilas @ Wisconsin,2020-03-27,2
+36.779322,-76.02402,Virginia Beach city @ Virginia,Virginia Beach city @ Virginia,2020-03-27,29
+29.057617,-81.161813,Volusia @ Florida,Volusia @ Florida,2020-03-27,43
+44.289693,-92.233341,Wabasha @ Minnesota,Wabasha @ Minnesota,2020-03-27,4
+35.963479,-95.5141,Wagoner @ Oklahoma,Wagoner @ Oklahoma,2020-03-27,8
+35.789846,-78.650624,Wake @ North Carolina,Wake @ North Carolina,2020-03-27,121
+44.505361,-69.139678,Waldo @ Maine,Waldo @ Maine,2020-03-27,2
+33.791571,-87.301092,Walker @ Alabama,Walker @ Alabama,2020-03-27,24
+30.74309,-95.569888,Walker @ Texas,Walker @ Texas,2020-03-27,2
+46.254606,-118.480374,Walla Walla @ Washington,Walla Walla @ Washington,2020-03-27,3
+48.376979,-97.72223,Walsh @ North Dakota,Walsh @ North Dakota,2020-03-27,1
+31.164492,-90.103431,Walthall @ Mississippi,Walthall @ Mississippi,2020-03-27,4
+30.631211,-86.176614,Walton @ Florida,Walton @ Florida,2020-03-27,14
+42.66811,-88.541731,Walworth @ Wisconsin,Walworth @ Wisconsin,2020-03-27,5
+41.031263,-92.409482,Wapello @ Iowa,Wapello @ Iowa,2020-03-27,1
+48.216686,-101.540537,Ward @ North Dakota,Ward @ North Dakota,2020-03-27,4
+31.050881,-82.421507,Ware @ Georgia,Ware @ Georgia,2020-03-27,2
+40.352658,-87.375847,Warren @ Indiana,Warren @ Indiana,2020-03-27,1
+41.336769,-93.564366,Warren @ Iowa,Warren @ Iowa,2020-03-27,1
+36.995634,-86.423579,Warren @ Kentucky,Warren @ Kentucky,2020-03-27,8
+40.853524,-75.009542,Warren @ New Jersey,Warren @ New Jersey,2020-03-27,38
+43.555105,-73.838139,Warren @ New York,Warren @ New York,2020-03-27,8
+39.425652,-84.169906,Warren @ Ohio,Warren @ Ohio,2020-03-27,11
+41.843669,-79.313173,Warren @ Pennsylvania,Warren @ Pennsylvania,2020-03-27,1
+38.908187,-78.207131,Warren @ Virginia,Warren @ Virginia,2020-03-27,2
+38.097764,-87.272023,Warrick @ Indiana,Warrick @ Indiana,2020-03-27,3
+40.334884,-111.161568,Wasatch @ Utah,Wasatch @ Utah,2020-03-27,29
+45.164536,-121.165069,Wasco @ Oregon,Wasco @ Oregon,2020-03-27,2
+44.01846,-93.589844,Waseca @ Minnesota,Waseca @ Minnesota,2020-03-27,3
+43.878831,-107.669052,Washakie @ Wyoming,Washakie @ Wyoming,2020-03-27,1
+31.406974,-88.202078,Washington @ Alabama,Washington @ Alabama,2020-03-27,2
+35.971209,-94.218417,Washington @ Arkansas,Washington @ Arkansas,2020-03-27,13
+39.965413,-103.209605,Washington @ Colorado,Washington @ Colorado,2020-03-27,1
+30.602217,-85.662797,Washington @ Florida,Washington @ Florida,2020-03-27,1
+32.971848,-82.798112,Washington @ Georgia,Washington @ Georgia,2020-03-27,2
+38.353141,-89.417187,Washington @ Illinois,Washington @ Illinois,2020-03-27,1
+38.600613,-86.104751,Washington @ Indiana,Washington @ Indiana,2020-03-27,4
+41.329401,-91.725052,Washington @ Iowa,Washington @ Iowa,2020-03-27,11
+30.852144,-90.046253,Washington @ Louisiana,Washington @ Louisiana,2020-03-27,8
+39.603621,-77.814671,Washington @ Maryland,Washington @ Maryland,2020-03-27,5
+45.037929,-92.890117,Washington @ Minnesota,Washington @ Minnesota,2020-03-27,22
+33.273131,-90.94443,Washington @ Mississippi,Washington @ Mississippi,2020-03-27,11
+41.533979,-96.224574,Washington @ Nebraska,Washington @ Nebraska,2020-03-27,5
+43.312377,-73.439428,Washington @ New York,Washington @ New York,2020-03-27,6
+39.450684,-81.490653,Washington @ Ohio,Washington @ Ohio,2020-03-27,2
+36.70438,-95.906155,Washington @ Oklahoma,Washington @ Oklahoma,2020-03-27,9
+45.553542,-123.097615,Washington @ Oregon,Washington @ Oregon,2020-03-27,122
+40.200005,-80.252132,Washington @ Pennsylvania,Washington @ Pennsylvania,2020-03-27,14
+41.401162,-71.617612,Washington @ Rhode Island,Washington @ Rhode Island,2020-03-27,9
+36.295665,-82.495037,Washington @ Tennessee,Washington @ Tennessee,2020-03-27,10
+37.262531,-113.4878,Washington @ Utah,Washington @ Utah,2020-03-27,6
+44.274953,-72.609475,Washington @ Vermont,Washington @ Vermont,2020-03-27,9
+36.747813,-81.950291,Washington @ Virginia,Washington @ Virginia,2020-03-27,1
+43.391156,-88.232917,Washington @ Wisconsin,Washington @ Wisconsin,2020-03-27,27
+40.703311,-119.710315,Washoe @ Nevada,Washoe @ Nevada,2020-03-27,75
+42.252327,-83.844634,Washtenaw @ Michigan,Washtenaw @ Michigan,2020-03-27,150
+36.235371,-81.709919,Watauga @ North Carolina,Watauga @ North Carolina,2020-03-27,4
+43.019308,-88.306707,Waukesha @ Wisconsin,Waukesha @ Wisconsin,2020-03-27,61
+44.478004,-88.967006,Waupaca @ Wisconsin,Waupaca @ Wisconsin,2020-03-27,1
+39.863091,-85.006735,Wayne @ Indiana,Wayne @ Indiana,2020-03-27,1
+36.802011,-84.83044,Wayne @ Kentucky,Wayne @ Kentucky,2020-03-27,1
+42.284664,-83.261953,Wayne @ Michigan,Wayne @ Michigan,2020-03-27,1810
+43.458758,-77.063164,Wayne @ New York,Wayne @ New York,2020-03-27,11
+35.362741,-78.004826,Wayne @ North Carolina,Wayne @ North Carolina,2020-03-27,3
+40.829661,-81.887194,Wayne @ Ohio,Wayne @ Ohio,2020-03-27,3
+41.646589,-75.292485,Wayne @ Pennsylvania,Wayne @ Pennsylvania,2020-03-27,6
+27.770584,-99.326641,Webb @ Texas,Webb @ Texas,2020-03-27,22
+41.270355,-111.875879,Weber @ Utah,Weber @ Utah,2020-03-27,12
+42.434397,-94.179157,Webster @ Iowa,Webster @ Iowa,2020-03-27,1
+37.520021,-87.685095,Webster @ Kentucky,Webster @ Kentucky,2020-03-27,1
+32.732152,-93.339825,Webster @ Louisiana,Webster @ Louisiana,2020-03-27,9
+33.612048,-89.283836,Webster @ Mississippi,Webster @ Mississippi,2020-03-27,3
+40.555794,-104.383649,Weld @ Colorado,Weld @ Colorado,2020-03-27,129
+40.735273,-85.212974,Wells @ Indiana,Wells @ Indiana,2020-03-27,1
+31.9522,35.2332,West Bank and Gaza,West Bank and Gaza,2020-03-27,91
+30.464052,-91.309808,West Baton Rouge @ Louisiana,West Baton Rouge @ Louisiana,2020-03-27,11
+30.872701,-91.421008,West Feliciana @ Louisiana,West Feliciana @ Louisiana,2020-03-27,1
+41.15277,-73.745912,Westchester @ New York,Westchester @ New York,2020-03-27,7187
+-31.9505,115.8605,Western Australia @ Australia,Western Australia,2020-03-27,231
+40.311068,-79.466688,Westmoreland @ Pennsylvania,Westmoreland @ Pennsylvania,2020-03-27,30
+44.331375,-85.570046,Wexford @ Michigan,Wexford @ Michigan,2020-03-27,1
+29.278481,-96.229675,Wharton @ Texas,Wharton @ Texas,2020-03-27,3
+48.842653,-121.836433,Whatcom @ Washington,Whatcom @ Washington,2020-03-27,92
+35.254722,-91.753158,White @ Arkansas,White @ Arkansas,2020-03-27,6
+34.643677,-83.743713,White @ Georgia,White @ Georgia,2020-03-27,1
+35.927062,-85.455766,White @ Tennessee,White @ Tennessee,2020-03-27,1
+41.750571,-89.910957,Whiteside @ Illinois,Whiteside @ Illinois,2020-03-27,2
+34.801726,-84.968541,Whitfield @ Georgia,Whitfield @ Georgia,2020-03-27,6
+41.136426,-85.501892,Whitley @ Indiana,Whitley @ Indiana,2020-03-27,1
+46.903322,-117.522962,Whitman @ Washington,Whitman @ Washington,2020-03-27,5
+33.991103,-98.716851,Wichita @ Texas,Wichita @ Texas,2020-03-27,15
+38.367389,-75.632206,Wicomico @ Maryland,Wicomico @ Maryland,2020-03-27,6
+31.99033,-87.302205,Wilcox @ Alabama,Wilcox @ Alabama,2020-03-27,2
+33.77904,-82.747922,Wilkes @ Georgia,Wilkes @ Georgia,2020-03-27,1
+46.362335,-96.476657,Wilkin @ Minnesota,Wilkin @ Minnesota,2020-03-27,1
+31.160249,-91.325567,Wilkinson @ Mississippi,Wilkinson @ Mississippi,2020-03-27,9
+41.448474,-87.978456,Will @ Illinois,Will @ Illinois,2020-03-27,104
+26.481092,-97.584224,Willacy @ Texas,Willacy @ Texas,2020-03-27,1
+33.626463,-79.716475,Williamsburg @ South Carolina,Williamsburg @ South Carolina,2020-03-27,1
+37.269293,-76.706717,Williamsburg city @ Virginia,Williamsburg city @ Virginia,2020-03-27,5
+37.730353,-88.930018,Williamson @ Illinois,Williamson @ Illinois,2020-03-27,1
+35.894972,-86.896958,Williamson @ Tennessee,Williamson @ Tennessee,2020-03-27,91
+30.64903,-97.605069,Williamson @ Texas,Williamson @ Texas,2020-03-27,34
+35.704125,-77.918982,Wilson @ North Carolina,Wilson @ North Carolina,2020-03-27,7
+36.148476,-86.29021,Wilson @ Tennessee,Wilson @ Tennessee,2020-03-27,20
+29.174303,-98.085899,Wilson @ Texas,Wilson @ Texas,2020-03-27,1
+41.824999,-71.990702,Windham @ Connecticut,Windham @ Connecticut,2020-03-27,3
+42.999143,-72.716335,Windham @ Vermont,Windham @ Vermont,2020-03-27,9
+43.588143,-72.591515,Windsor @ Vermont,Windsor @ Vermont,2020-03-27,18
+31.941187,-92.641269,Winn @ Louisiana,Winn @ Louisiana,2020-03-27,1
+42.337396,-89.161205,Winnebago @ Illinois,Winnebago @ Illinois,2020-03-27,8
+44.085707,-88.668149,Winnebago @ Wisconsin,Winnebago @ Wisconsin,2020-03-27,6
+43.292989,-91.850788,Winneshiek @ Iowa,Winneshiek @ Iowa,2020-03-27,2
+43.982268,-91.776708,Winona @ Minnesota,Winona @ Minnesota,2020-03-27,4
+34.155888,-87.364147,Winston @ Alabama,Winston @ Alabama,2020-03-27,2
+33.078724,-89.037391,Winston @ Mississippi,Winston @ Mississippi,2020-03-27,3
+41.360183,-83.622682,Wood @ Ohio,Wood @ Ohio,2020-03-27,9
+39.211679,-81.515928,Wood @ West Virginia,Wood @ West Virginia,2020-03-27,2
+44.461413,-90.038825,Wood @ Wisconsin,Wood @ Wisconsin,2020-03-27,2
+42.39322,-96.053296,Woodbury @ Iowa,Woodbury @ Iowa,2020-03-27,3
+40.789596,-89.210301,Woodford @ Illinois,Woodford @ Illinois,2020-03-27,3
+38.042789,-84.748147,Woodford @ Kentucky,Woodford @ Kentucky,2020-03-27,3
+35.189071,-91.244418,Woodruff @ Arkansas,Woodruff @ Arkansas,2020-03-27,1
+37.888484,-95.757553,Woodson @ Kansas,Woodson @ Kansas,2020-03-27,1
+38.222133,-75.309932,Worcester @ Maryland,Worcester @ Maryland,2020-03-27,2
+42.311693,-71.940282,Worcester @ Massachusetts,Worcester @ Massachusetts,2020-03-27,219
+31.551773,-83.84996,Worth @ Georgia,Worth @ Georgia,2020-03-27,7
+42.733007,-93.734735,Wright @ Iowa,Wright @ Iowa,2020-03-27,1
+45.175091,-93.966397,Wright @ Minnesota,Wright @ Minnesota,2020-03-27,5
+37.267636,-92.48001,Wright @ Missouri,Wright @ Missouri,2020-03-27,1
+40.840122,-83.313172,Wyandot @ Ohio,Wyandot @ Ohio,2020-03-27,1
+39.115384,-94.763087,Wyandotte @ Kansas,Wyandotte @ Kansas,2020-03-27,43
+42.701363,-78.228567,Wyoming @ New York,Wyoming @ New York,2020-03-27,7
+41.1129,85.2401,Xinjiang @ China,Xinjiang,2020-03-27,76
+46.456558,-120.740145,Yakima @ Washington,Yakima @ Washington,2020-03-27,72
+34.030669,-89.703793,Yalobusha @ Mississippi,Yalobusha @ Mississippi,2020-03-27,3
+45.248138,-123.316117,Yamhill @ Oregon,Yamhill @ Oregon,2020-03-27,11
+34.630044,-112.573745,Yavapai @ Arizona,Yavapai @ Arizona,2020-03-27,9
+32.765675,-90.387928,Yazoo @ Mississippi,Yazoo @ Mississippi,2020-03-27,4
+45.936987,-108.276656,Yellowstone @ Montana,Yellowstone @ Montana,2020-03-27,23
+33.172397,-102.823771,Yoakum @ Texas,Yoakum @ Texas,2020-03-27,1
+38.679268,-121.903178,Yolo @ California,Yolo @ California,2020-03-27,16
+43.427239,-70.670402,York @ Maine,York @ Maine,2020-03-27,33
+39.921839,-76.728446,York @ Pennsylvania,York @ Pennsylvania,2020-03-27,29
+34.97019,-81.183189,York @ South Carolina,York @ South Carolina,2020-03-27,19
+37.220914,-76.395533,York @ Virginia,York @ Virginia,2020-03-27,9
+33.158787,-98.678267,Young @ Texas,Young @ Texas,2020-03-27,1
+39.270026,-121.34428,Yuba @ California,Yuba @ California,2020-03-27,3
+64.2823,-135,Yukon @ Canada,Yukon,2020-03-27,3
+32.773942,-113.910905,Yuma @ Arizona,Yuma @ Arizona,2020-03-27,4
+40.000631,-102.422649,Yuma @ Colorado,Yuma @ Colorado,2020-03-27,2
+24.974,101.487,Yunnan @ China,Yunnan,2020-03-27,180
+-15.4167,28.2833,Zambia,Zambia,2020-03-27,22
+29.1832,120.0934,Zhejiang @ China,Zhejiang,2020-03-27,1247
+-20,30,Zimbabwe,Zimbabwe,2020-03-27,5
