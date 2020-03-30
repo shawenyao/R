@@ -21,7 +21,8 @@ for(i in 1:(length(all_dates))){
   }
   
   js_code <- js_code %>% paste0(
-    "await new Promise(r => setTimeout(r, 50));",
+    # controls frames per second
+    "await new Promise(r => setTimeout(r, 100));",
     "document.getElementsByTagName('input').item(", current_frame, ").click();"
   )
 }
