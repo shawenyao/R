@@ -19,10 +19,11 @@ coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
 
 # smooth scale for better visualization effect
 coronavirus <- coronavirus_input %>% 
+  filter(cases != 0) %>% 
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
-    cases_scaled = cases,
-    size = 4 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 106
+    cases_scaled = log(cases),
+    size = 1 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 30
   ) %>% 
   arrange(date, id)
 
@@ -43,8 +44,7 @@ for(a_date in all_dates){
   output <- output %>%
     addCircleMarkers(
       data = coronavirus %>% 
-        filter(date == as.Date(a_date)) %>% 
-        filter(cases != 0),
+        filter(date == as.Date(a_date)),
       lng = ~long, 
       lat = ~lat,
       radius = ~size,
