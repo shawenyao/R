@@ -19,7 +19,6 @@ coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
 
 # smooth scale for better visualization effect
 coronavirus <- coronavirus_input %>% 
-  filter(cases != 0) %>% 
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = log(cases),

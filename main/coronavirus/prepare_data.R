@@ -69,7 +69,8 @@ if(refresh_data){
     mutate(
       lat = if_else(id == "New York City @ New York", 40.7831, lat),
       long = if_else(id == "New York City @ New York", -73.9712, long)
-    )
+    ) %>% 
+    filter(cases != 0)
   
   print(paste0("Total NAs: ", sum(is.na(coronavirus_input))))
     
