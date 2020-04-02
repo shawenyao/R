@@ -3,3 +3,5 @@ main/alpha.R
 
 input/Harry Potter/*.*
 output/milky_way/harmonograph/*.*
+input/data_incubator/*.*
+*.txt
