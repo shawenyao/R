@@ -9,9 +9,13 @@ See the link below for the evolution of such power-ranking among all teams from 
 
 ## Exploratory Analysis
 
-<img src="https://shawenyao.github.io/R/output/data_incubator/plot1.svg">
+<div align="center">
+  <img src="https://shawenyao.github.io/R/output/data_incubator/plot1.svg">
+</div>
 
-<img src="https://shawenyao.github.io/R/output/data_incubator/plot1.svg">'
+<div align="center">
+  <img src="https://shawenyao.github.io/R/output/data_incubator/plot2.svg">
+</div>
 
 ## Final Results
 
