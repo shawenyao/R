@@ -7,14 +7,17 @@ Traditional win-loss-ratio-based performance ranking of soccer clubs is often ch
 
 In this project, I applied Colley's method on data scraped from bbc.com, in order to address all three concerns and reveal the true power ranking of the 2019-2020 soccer season.
 
-See the link below for the evolution of such power-ranking among all teams from the biggest 5 football league.
+See the link below for the evolution of such power-ranking among all teams from the biggest 5 football leagues.
 
 ## Exploratory Analysis
+
+There is a small but negative correlation between the scores of home and away teams.
 
 <div align="center">
   <img src="https://shawenyao.github.io/R/output/data_incubator/plot1.svg">
 </div>
 
+Of all big 5 leagues, German Bundesliga demonstrates the strongest scoring ability.
 <div align="center">
   <img src="https://shawenyao.github.io/R/output/data_incubator/plot2.svg">
 </div>
