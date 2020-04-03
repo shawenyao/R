@@ -17,7 +17,7 @@ There is a small but negative correlation between the scores of home and away te
   <img src="https://shawenyao.github.io/R/output/data_incubator/plot1.svg">
 </div>
 
-Of all big 5 leagues, German Bundesliga demonstrates the strongest offensive power.
+Of all big 5 leagues, German Bundesliga demonstrates the strongest offensive capability.
 <div align="center">
   <img src="https://shawenyao.github.io/R/output/data_incubator/plot2.svg">
 </div>
