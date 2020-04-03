@@ -1,11 +1,11 @@
 library(tidyverse)
 library(rio)
 
-setwd("C:/Users/Wenyao/Desktop/R/Data Incubator")
+setwd("C:/Users/Wenyao/Desktop/R/R/input/data_incubator")
 
 #==== load data ====
-data2016 <- import("data/PartD_Prescriber_PUF_NPI_16.txt", colClasses = c("npi" = "character"))
-data2017 <- import("data/PartD_Prescriber_PUF_NPI_17.txt", colClasses = c("npi" = "character"))
+data2016 <- import("PartD_Prescriber_PUF_NPI_16.txt", colClasses = c("npi" = "character"))
+data2017 <- import("PartD_Prescriber_PUF_NPI_17.txt", colClasses = c("npi" = "character"))
 
 
 #==== find answers =====
@@ -31,10 +31,8 @@ data2017 %>%
     total_claim_count = sum(total_claim_count),
     brand_claim_percent = sum(brand_claim_count) / sum(total_claim_count)
   ) %>% 
-  filter(total_claim_count > 1000) %>% 
-  summarise(
-    sd_brand_claim_percent = sd(brand_claim_percent)
-  )
+  filter(total_claim_count > 1000) %>%
+  summarise(sd(brand_claim_percent))
   
 # Find the ratio of beneficiaries with opioid prescriptions to beneficiaries with antibiotics prescriptions in each state. Assume that each beneficiary attends only a single provider. What is the difference between the largest and smallest ratios?
 data2017 %>% 
