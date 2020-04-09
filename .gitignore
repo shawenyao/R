@@ -5,3 +5,5 @@ input/Harry Potter/*.*
 output/milky_way/harmonograph/*.*
 input/data_incubator/*.*
 *.txt
+*.psd
+output/solar_zenith_angle/1.png
