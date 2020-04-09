@@ -118,7 +118,7 @@ plot <- tibble(theta = seq(from = 0, to = 2 * pi, by = 0.01)) %>%
 #===== save =====
 save_png(
   plot,
-  file_name = "output/solar_zenith_angle/1.png",
+  file_name = "output/animal_crossing/1.png",
   width = 600, 
   height = 600
 )
