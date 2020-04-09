@@ -8,7 +8,7 @@ setwd("C:/Users/Wenyao/Desktop/R/R/output/animal_crossing/")
 
 #==== plot map ====
 output <- leaflet(
-  options = leafletOptions(minZoom = 1, maxZoom = 6)
+  options = leafletOptions(minZoom = 2, maxZoom = 6)
 ) %>% 
   addProviderTiles(providers$Wikimedia) %>% 
   setView(lng = 0, lat = 45, zoom = 2) %>% 
