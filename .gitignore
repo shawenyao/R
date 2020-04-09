@@ -8,3 +8,4 @@ input/data_incubator/*.*
 *.psd
 
 output/solar_zenith_angle/1_label.png
+*.xlsx
