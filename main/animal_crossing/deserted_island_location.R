@@ -8,14 +8,14 @@ setwd("C:/Users/Wenyao/Desktop/R/R/output/animal_crossing/")
 
 #==== plot map ====
 output <- leaflet(
-  options = leafletOptions(minZoom = 2, maxZoom = 6)
+  options = leafletOptions(minZoom = 2, maxZoom = 4)
 ) %>% 
   addProviderTiles(providers$Wikimedia) %>% 
   setView(lng = -95, lat = 71, zoom = 2) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90) %>%
   addRectangles(
-    lng1 = -180, lat1 = 70.5,
-    lng2 = 180, lat2 = 71.5,
+    lng1 = -180, lat1 = 70.8,
+    lng2 = 180, lat2 = 71.2,
     stroke = FALSE,
     fillColor = "blue",
     fillOpacity = 0.4
