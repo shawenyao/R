@@ -11,7 +11,7 @@ output <- leaflet(
   options = leafletOptions(minZoom = 1, maxZoom = 6)
 ) %>% 
   addProviderTiles(providers$Wikimedia) %>% 
-  setView(lng = 0, lat = 45, zoom = 2) %>% 
+  setView(lng = 0, lat = 60, zoom = 2) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90) %>%
   addRectangles(
     lng1 = -180, lat1 = 34,
