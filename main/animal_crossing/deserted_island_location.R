@@ -11,11 +11,11 @@ output <- leaflet(
   options = leafletOptions(minZoom = 2, maxZoom = 4)
 ) %>% 
   addProviderTiles(providers$Wikimedia) %>% 
-  setView(lng = -95, lat = 71, zoom = 2) %>% 
+  setView(lng = -95, lat = 43.95881, zoom = 2) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90) %>%
   addRectangles(
-    lng1 = -180, lat1 = 70.8,
-    lng2 = 180, lat2 = 71.2,
+    lng1 = -180, lat1 = 43.95881 - 0.5,
+    lng2 = 180, lat2 = 43.95881 + 0.5,
     stroke = FALSE,
     fillColor = "blue",
     fillOpacity = 0.4
