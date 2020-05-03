@@ -9,3 +9,4 @@ input/data_incubator/*.*
 
 output/solar_zenith_angle/1_label.png
 *.xlsx
+input/animal_crossing/turnip_prices.csv
