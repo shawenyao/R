@@ -197,7 +197,7 @@ save_png(
   plot2,
   file_name = "output/animal_crossing/turnip_return.png",
   width = 800,
-  height = 200
+  height = 250
 )
 
 save_png(
