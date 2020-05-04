@@ -78,7 +78,7 @@ plot1 <- turnip %>%
   theme_minimal() +
   theme(
     legend.position = "none",
-    text = element_text(size = 20),
+    text = element_text(size = 25),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
@@ -114,7 +114,7 @@ plot2 <- turnip %>%
   theme_minimal() +
   theme(
     legend.position = "none",
-    text = element_text(size = 20),
+    text = element_text(size = 25),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
@@ -166,7 +166,7 @@ plot3 <- turnip_returns_multiple_islands %>%
   theme_minimal() +
   theme(
     legend.position = "none",
-    text = element_text(size = 20),
+    text = element_text(size = 25),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
