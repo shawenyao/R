@@ -123,7 +123,7 @@ plot2 <- turnip %>%
   xlim(-1, 1)
 
 # plot 3: the distribution of turnip return on Wednesday a.m., allowing for multiple islands
-  turnip_returns_1_islands <- turnip %>% 
+turnip_returns_1_islands <- turnip %>% 
   filter(time %in% c("Sunday", "Wednesday a.m.")) %>% 
   mutate(island = 1, label = "1 Island")
 
@@ -136,7 +136,7 @@ for(i in 2:6){
         mutate(id = floor((id - 1) / i)) %>%
         group_by(id, time) %>% 
         summarise(
-          base_price = base_price[1],
+          base_price = min(base_price),
           price = max(price)
         ) %>% 
         ungroup() %>% 
@@ -197,7 +197,7 @@ save_png(
   plot2,
   file_name = "output/animal_crossing/turnip_return.png",
   width = 800,
-  height = 250
+  height = 210
 )
 
 save_png(
