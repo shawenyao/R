@@ -190,7 +190,7 @@ save_png(
   plot1,
   file_name = "output/animal_crossing/turnip_price.png",
   width = 800,
-  height = 800
+  height = 900
 )
 
 save_png(
