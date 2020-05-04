@@ -119,7 +119,7 @@ plot2 <- turnip %>%
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
   ) +
-  labs(x = "Return") +
+  labs(x = "Turnip Return") +
   xlim(-1, 1)
 
 # plot 3: the distribution of turnip return on Wednesday a.m., allowing for multiple islands
@@ -171,7 +171,7 @@ plot3 <- turnip_returns_multiple_islands %>%
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
   ) +
-  labs(x = "Return") +
+  labs(x = "Turnip Return") +
   xlim(-1, 1)
 
 turnip_returns_multiple_islands %>% 
