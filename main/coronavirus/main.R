@@ -14,15 +14,18 @@ refresh_data <- TRUE
 
 #===== load data =====
 source("../../main/coronavirus/prepare_data.R", echo = TRUE)
-# read from pre-saved copy
 coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
+
+# show historical snapshot at certain interval
+all_dates_raw <- unique(coronavirus_input$date)
 
 # smooth scale for better visualization effect
 coronavirus <- coronavirus_input %>% 
+  filter(date %in% all_dates_raw[seq(from = 1, to = length(all_dates_raw), by = 5)]) %>% 
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = log(cases),
-    size = 1 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 29
+    size = 1 + (cases_scaled - min(cases_scaled)) / (max(cases_scaled) - min(cases_scaled)) * 19
   ) %>% 
   arrange(date, id)
 
