@@ -17,7 +17,7 @@ max_trial <- 1300
 unique_number <- 73
 
 # expectation
-sum(unique_number / (unique_number:1))
+expectation <- sapply(1:unique_number, function(i){sum(unique_number / (unique_number:(unique_number + 1 - i)))})
 
 one_trial <- function(trial_id){
   count = tibble(
@@ -51,7 +51,32 @@ stopCluster(cl)
 summary(results)
 
 #===== plot ======
-plot <- tibble(
+plot1 <- tibble(
+  x = seq_len(unique_number),
+  y = expectation
+) %>% 
+  mutate(
+    label = case_when(
+      x %in% c(seq(0, unique_number, by = 10), unique_number) ~ as.character(round(y)),
+      TRUE ~ NA_character_
+    )
+  ) %>% 
+  ggplot(aes(x = x, y = y)) +
+  geom_bar(aes(fill = x), stat = "identity") +
+  geom_label(aes(y = y + 30, label = label), size = 6, color = "dodgerblue") +
+  scale_fill_gradient(low = "#E3F6FB", high = "#6CB4CC") +
+  scale_x_continuous(breaks = c(seq(from = 0, to = unique_number, by = 10), unique_number)) +
+  ylim(NA, max(expectation) + 35) +
+  labs(x = "Number of Unique Fossils", y = "E(# of Trials)") +
+  theme_minimal() +
+  theme(
+    legend.position = "none",
+    text = element_text(size = 20),
+    axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
+    axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
+  )
+
+plot2 <- tibble(
   number_of_trials = results,
   id = ""
 ) %>% 
@@ -74,14 +99,20 @@ plot <- tibble(
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
   ) +
-  scale_x_continuous(limits = c(0, NA),breaks = seq(from = 0, to = 1100, by = 100)) +
+  scale_x_continuous(limits = c(90, NA), breaks = seq(from = 0, to = 1100, by = 100)) +
   labs(x = "Number of Trials")
 
 
 #==== save ====
 save_png(
-  plot,
-  file_name = "output/animal_crossing/fossils_collector.png",
+  plot1,
+  file_name = "output/animal_crossing/fossils_collector_1.png",
+  width = 800,
+  height = 250
+)
+save_png(
+  plot2,
+  file_name = "output/animal_crossing/fossils_collector_2.png",
   width = 800,
   height = 250
 )
