@@ -18,6 +18,9 @@ unique_number <- 73
 # number of trials per day
 trials_per_day <- 4
 
+# day 89: 2020-06-17
+as.Date("2020-03-20") + 89
+
 
 #==== calculations ====
 # the expected number of trials it takes to get a certain number of fossils
