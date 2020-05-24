@@ -176,7 +176,7 @@ plot4 <- tibble(
   ) %>% 
   ggplot(aes(x = x, y = y)) +
   geom_bar(aes(fill = x), stat = "identity", width = 0.7) +
-  geom_label(aes(y = y + 5, label = label), size = 6, color = "dodgerblue") +
+  geom_label(aes(y = y + 7.5, label = label), size = 6, color = "dodgerblue") +
   scale_fill_gradient(low = "#E3F6FB", high = "#6CB4CC") +
   scale_x_continuous(breaks = c(seq(from = 0, to = 356 / trials_per_day, by = 10), 356 / trials_per_day)) +
   ylim(NA, max(simulation2_expectation) + 10) +
