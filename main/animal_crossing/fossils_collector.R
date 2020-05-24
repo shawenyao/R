@@ -74,8 +74,7 @@ plot <- tibble(
     axis.title.y = element_blank(),
     axis.text.y = element_text(angle = 0, hjust = 0.5, margin = margin(r = -20))
   ) +
-  scale_x_continuous(breaks = seq(from = 0, to = 1300, by = 200)) +
-  # xlim(0, 1300) +
+  scale_x_continuous(limits = c(0, NA),breaks = seq(from = 0, to = 1100, by = 100)) +
   labs(x = "Number of Trials")
 
 
