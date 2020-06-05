@@ -27,8 +27,7 @@ if(refresh_data){
         `Province/State`
       )
     ) %>% 
-    select(-`Province/State`, -`Country/Region`) %>% 
-    gather(date, cases, -id, -Lat, -Long, -display_name) %>% 
+    gather(date, cases, -id, -Lat, -Long, -display_name, -`Province/State`, -`Country/Region`) %>% 
     mutate(
       date = as.Date(date, format = "%m/%d/%y")
     ) %>% 
@@ -39,7 +38,7 @@ if(refresh_data){
       cases = na.locf(cases)
     ) %>% 
     ungroup() %>% 
-    select(lat = Lat, long = Long, id, display_name, date, cases)
+    select(`Country/Region`, `Province/State`, lat = Lat, long = Long, id, display_name, date, cases)
   
   # format data: US
   coronavirus_input_us <- coronavirus_raw_us %>% 
@@ -50,6 +49,7 @@ if(refresh_data){
       cases = cases,
       fips = fips,
       county = tolower(county),
+      state_original = state,
       state = tolower(state)
     ) %>% 
     left_join(us_county_coordinates, by = "fips") %>% 
@@ -58,7 +58,8 @@ if(refresh_data){
       lat = if_else(!is.na(lat_county), lat_county, lat_state),
       long = if_else(!is.na(long_county), long_county, long_state)
     ) %>% 
-    select(lat, long, id, display_name, date, cases)
+    mutate(`Country/Region` = "USA") %>% 
+    select(`Country/Region`, `Province/State` = state_original, lat, long, id, display_name, date, cases)
   
   # remove extra dates in one of the datasets
   max_date <- min(max(coronavirus_input_nonus$date), max(coronavirus_input_us$date))
