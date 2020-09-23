@@ -21,7 +21,12 @@ all_dates_raw <- unique(coronavirus_input$date)
 
 # smooth scale for better visualization effect
 coronavirus <- coronavirus_input %>% 
-  filter(date %in% all_dates_raw[seq(from = 1, to = length(all_dates_raw), by = 5)]) %>% 
+  filter(date %in% all_dates_raw[seq(from = 1, to = length(all_dates_raw), by = 5)]) %>%
+  # show increments
+  # group_by(id) %>% 
+  # mutate(cases = pmax(cases - lag(cases), 0)) %>% 
+  # filter(!is.na(cases) & cases != 0) %>% 
+  # ungroup() %>% 
   mutate(
     # cases_scaled = pnorm(cases, mean = mean(cases), sd = sd(cases) * 3),
     cases_scaled = log(cases),
