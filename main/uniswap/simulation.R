@@ -85,7 +85,7 @@ plot1 <- v %>%
     plot.subtitle = element_text(size = 20)
   ) +
   labs(
-    title = "Return Distribution of Buy and Hold vs Liquidity Provider", 
+    title = "Return Distributions of Buy and Hold vs Liquidity Provider", 
     subtitle = TeX('$\\mu^A = 0.1%,\\; \\mu^B = 0.2%,\\; \\sigma^A = 2%,\\; \\sigma^B = 5%,\\; \\rho = 0.8,\\; A_0 = 100,\\; B_0 = 200,\\; c = 0.3% $'),
     x = "Return"
   ) +
@@ -108,7 +108,7 @@ plot2 <- v_fee %>%
   ) +
   facet_grid(fee~., switch = "y") +
   labs(
-    title = "Return Distribution of Buy and Hold vs Liquidity Provider", 
+    title = "Return Distributions under Various Fee Schedules", 
     subtitle = TeX('$ c = 0%,\\; 0.15%,\\; 0.3%,\\; 1%,\\; 5%,\\; 20% $'),
     x = "Return"
   ) +
@@ -131,7 +131,7 @@ plot3 <- v_rho %>%
   ) +
   facet_grid(rho~., switch = "y") +
   labs(
-    title = "Return Distribution of Buy and Hold vs Liquidity Provider", 
+    title = "Return Distributions under Various Correlation Assumptions",
     subtitle = TeX('$ \\rho = -0.5,\\; 0,\\; 0.5,\\; 0.8,\\; 0.9,\\; 1 $'),
     x = "Return"
   ) +
