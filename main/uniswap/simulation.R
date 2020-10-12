@@ -89,7 +89,7 @@ plot1 <- v %>%
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 18),
+    plot.subtitle = element_text(size = 15),
     legend.spacing.x = unit(0.5, 'cm')
   ) +
   labs(
