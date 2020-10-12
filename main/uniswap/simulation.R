@@ -143,21 +143,21 @@ save_png(
   plot1,
   file_name = "output/uniswap/return.png",
   width = 800,
-  height = 350
+  height = 250
 )
 
 save_png(
   plot2,
   file_name = "output/uniswap/return_vs_fees.png",
   width = 800,
-  height = 900
+  height = 600
 )
 
 save_png(
   plot3,
   file_name = "output/uniswap/return_vs_rhos.png",
   width = 800,
-  height = 900
+  height = 600
 )
 
 v_fee %>% 
