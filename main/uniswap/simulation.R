@@ -5,7 +5,13 @@ setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_save_png.R")
 source("./functions/functions_uniswap.R")
 
+
+#==== general setup ====
 set.seed(1)
+
+# number of paths
+N <- 1e6
+
 
 #==== simulation ====
 v <- simulate_uniswap_returns(
@@ -13,7 +19,7 @@ v <- simulate_uniswap_returns(
   sigma_A = 0.02, sigma_B = 0.05,
   rho = 0.8,
   fee = 0.3 / 100,
-  N = 1e5, t = 1000, dt = 1,
+  N = N, t = 1000, dt = 1,
   A0 = 100, B0 = 200,
   a0 = 20000
 )
@@ -27,7 +33,7 @@ v_fee <- map(
       sigma_A = 0.02, sigma_B = 0.05,
       rho = 0.8,
       fee = fee,
-      N = 1e5, t = 1000, dt = 1,
+      N = N, t = 1000, dt = 1,
       A0 = 100, B0 = 200,
       a0 = 20000
     ) %>% 
@@ -51,7 +57,7 @@ v_rho <- map(
       sigma_A = 0.02, sigma_B = 0.05,
       rho = rho,
       fee = 0.3 / 100,
-      N = 1e5, t = 1000, dt = 1,
+      N = N, t = 1000, dt = 1,
       A0 = 100, B0 = 200,
       a0 = 20000
     ) %>% 
@@ -139,7 +145,7 @@ plot3 <- v_rho %>%
   xlim(c(-0.5, 10))
 
 
-#===== save =====
+#===== output =====
 save_png(
   plot1,
   file_name = "output/uniswap/return.png",
@@ -161,6 +167,19 @@ save_png(
   height = 600
 )
 
+v %>% 
+  gather(
+    type, value
+  ) %>%
+  group_by(type) %>% 
+  summarise(
+    expected_return = mean(value),
+    volatility = sd(value),
+    sharpe_ratio = expected_return / volatility
+  ) %>% 
+  mutate_if(is.numeric, round, 2) %>%
+  write.table("clipboard-128", row.names = FALSE, sep = " | ")
+
 v_fee %>% 
   group_by(fee, type) %>% 
   summarise(
@@ -168,7 +187,8 @@ v_fee %>%
     volatility = sd(value),
     sharpe_ratio = expected_return / volatility
   ) %>% 
-  View()
+  mutate_if(is.numeric, round, 2) %>%
+  write.table("clipboard-128", row.names = FALSE, sep = " | ")
 
 v_rho %>% 
   group_by(rho, type) %>% 
@@ -177,4 +197,5 @@ v_rho %>%
     volatility = sd(value),
     sharpe_ratio = expected_return / volatility
   ) %>% 
-  View()
+  mutate_if(is.numeric, round, 2) %>%
+  write.table("clipboard-128", row.names = FALSE, sep = " | ")
