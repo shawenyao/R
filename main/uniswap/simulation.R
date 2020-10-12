@@ -32,7 +32,8 @@ v_fee <- map(
       a0 = 20000
     ) %>% 
       mutate(
-        fee = paste0(fee * 100, "%")
+        fee = paste0(fee * 100, "%") %>% 
+          factor(levels = paste0(c(0, 0.15, 0.3, 1, 5, 20), "%"))
       )
   }
 ) %>% 
