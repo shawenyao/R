@@ -86,7 +86,7 @@ plot1 <- v %>%
   ) +
   labs(
     title = "Return Distributions of Buy and Hold vs Liquidity Provider", 
-    subtitle = TeX('$\\mu^A = 0.1%,\\; \\mu^B = 0.2%,\\; \\sigma^A = 2%,\\; \\sigma^B = 5%,\\; \\rho = 0.8,\\; A_0 = 100,\\; B_0 = 200,\\; c = 0.3% $'),
+    subtitle = TeX('$\\mu^A = 0.1%,\\; \\mu^B = 0.2%,\\; \\sigma^A = 2%,\\; \\sigma^B = 5%,\\; \\rho = 0.8,\\; A_0 = 100,\\; B_0 = 200,\\; c = 0.3%,\\; t = 1000 $'),
     x = "Return"
   ) +
   xlim(c(-0.5, 10))
