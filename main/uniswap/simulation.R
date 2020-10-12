@@ -143,7 +143,7 @@ save_png(
   plot1,
   file_name = "output/uniswap/return.png",
   width = 800,
-  height = 400
+  height = 350
 )
 
 save_png(
