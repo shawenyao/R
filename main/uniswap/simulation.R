@@ -10,7 +10,7 @@ source("./functions/functions_uniswap.R")
 set.seed(1)
 
 # number of paths
-N <- 1e6
+N <- 1e5
 
 
 #==== simulation ====
@@ -167,7 +167,7 @@ save_png(
   height = 600
 )
 
-v %>% 
+baseline <- v %>% 
   gather(
     type, value
   ) %>%
@@ -176,26 +176,67 @@ v %>%
     expected_return = mean(value),
     volatility = sd(value),
     sharpe_ratio = expected_return / volatility
-  ) %>% 
-  mutate_if(is.numeric, round, 2) %>%
-  write.table("clipboard-128", row.names = FALSE, sep = " | ")
+  )
 
-v_fee %>% 
+sensitivity_fee <- v_fee %>% 
   group_by(fee, type) %>% 
   summarise(
     expected_return = mean(value),
     volatility = sd(value),
     sharpe_ratio = expected_return / volatility
-  ) %>% 
-  mutate_if(is.numeric, round, 2) %>%
-  write.table("clipboard-128", row.names = FALSE, sep = " | ")
+  )
 
-v_rho %>% 
+sensitivity_rho <- v_rho %>% 
   group_by(rho, type) %>% 
   summarise(
     expected_return = mean(value),
     volatility = sd(value),
     sharpe_ratio = expected_return / volatility
   ) %>% 
+  mutate_if(is.numeric, round, 2)
+
+baseline %>% 
   mutate_if(is.numeric, round, 2) %>%
   write.table("clipboard-128", row.names = FALSE, sep = " | ")
+
+sensitivity_fee %>% 
+  mutate_if(is.numeric, round, 2) %>%
+  write.table("clipboard-128", row.names = FALSE, sep = " | ")
+
+sensitivity_rho %>%
+  write.table("clipboard-128", row.names = FALSE, sep = " | ")
+
+sensitivity_fee %>% 
+  ggplot(aes(x = volatility, y = expected_return)) +
+  geom_point(aes(color = type), size = 2) +
+  geom_text(aes(label = fee), size = 5, position = position_jitter(width = 0, height = 1)) +
+  scale_color_manual(values = c("Liquidity Provider" = "tomato", "Buy and Hold" = "dodgerblue")) +
+  theme_minimal() +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    text = element_text(size = 20),
+    axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
+    axis.title.y = element_blank(),
+    plot.subtitle = element_text(size = 18)
+  ) 
+
+
+
+sensitivity_rho %>% 
+  rename(comment = rho) %>% 
+  mutate(comment = paste0("ρ = ", comment), comment2 = "rho") %>% 
+  ggplot(aes(x = volatility, y = expected_return)) +
+  geom_point(aes(color = type, shape = comment2), size = 2) +
+  scale_color_manual(values = c("Liquidity Provider" = "tomato", "Buy and Hold" = "dodgerblue")) +
+  theme_minimal() +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    text = element_text(size = 20),
+    axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
+    axis.title.y = element_blank(),
+    plot.subtitle = element_text(size = 18)
+  ) +
+  xlim(c(0, NA)) +
+  ylim(c(0, NA))

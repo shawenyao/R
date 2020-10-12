@@ -87,7 +87,7 @@ simulate_uniswap_returns <- function(
   v_bah <- a[,1] * A[,t] + b[,1] * B[,t]
   
   v <- tibble(
-    `Liquidity Provider` = v_liquidity / v0,
-    `Buy and Hold` = v_bah / v0
+    `Liquidity Provider` = v_liquidity / v0 - 1,
+    `Buy and Hold` = v_bah / v0 - 1
   )
 }
