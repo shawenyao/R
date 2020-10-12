@@ -78,11 +78,11 @@ plot1 <- v %>%
   theme(
     legend.position = "top",
     legend.title = element_blank(),
-    text = element_text(size = 25),
+    text = element_text(size = 20),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 20)
+    plot.subtitle = element_text(size = 15)
   ) +
   labs(
     title = "Return Distributions of Buy and Hold vs Liquidity Provider", 
@@ -100,11 +100,11 @@ plot2 <- v_fee %>%
   theme(
     legend.position = "top",
     legend.title = element_blank(),
-    text = element_text(size = 25),
+    text = element_text(size = 20),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 20)
+    plot.subtitle = element_text(size = 15)
   ) +
   facet_grid(fee~., switch = "y") +
   labs(
@@ -123,11 +123,11 @@ plot3 <- v_rho %>%
   theme(
     legend.position = "top",
     legend.title = element_blank(),
-    text = element_text(size = 25),
+    text = element_text(size = 20),
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 20)
+    plot.subtitle = element_text(size = 15)
   ) +
   facet_grid(rho~., switch = "y") +
   labs(
