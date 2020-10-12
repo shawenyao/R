@@ -150,21 +150,21 @@ save_png(
   plot1,
   file_name = "output/uniswap/return.png",
   width = 800,
-  height = 250
+  height = 300
 )
 
 save_png(
   plot2,
   file_name = "output/uniswap/return_vs_fees.png",
   width = 800,
-  height = 600
+  height = 800
 )
 
 save_png(
   plot3,
   file_name = "output/uniswap/return_vs_rhos.png",
   width = 800,
-  height = 600
+  height = 800
 )
 
 baseline <- v %>% 
