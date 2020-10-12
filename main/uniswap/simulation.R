@@ -82,7 +82,7 @@ plot1 <- v %>%
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 15)
+    plot.subtitle = element_text(size = 18)
   ) +
   labs(
     title = "Return Distributions of Buy and Hold vs Liquidity Provider", 
@@ -104,7 +104,7 @@ plot2 <- v_fee %>%
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 15)
+    plot.subtitle = element_text(size = 18)
   ) +
   facet_grid(fee~., switch = "y") +
   labs(
@@ -127,7 +127,7 @@ plot3 <- v_rho %>%
     axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
     axis.title.y = element_blank(),
     axis.text.y = element_blank(),
-    plot.subtitle = element_text(size = 15)
+    plot.subtitle = element_text(size = 18)
   ) +
   facet_grid(rho~., switch = "y") +
   labs(
