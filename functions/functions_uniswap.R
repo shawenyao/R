@@ -57,12 +57,12 @@ simulate_uniswap_returns <- function(
   )
   
   # pool size
-  a <- matrix(nrow = N, ncol = t + 1)
-  b <- matrix(nrow = N, ncol = t + 1)
+  a <- matrix(a0, nrow = N, ncol = t + 1)
+  b <- matrix(b0, nrow = N, ncol = t + 1)
   
-  # initial pool size
-  a[,1] <- a0
-  b[,1] <- b0
+  # total fee income
+  total_f_a <- matrix(0, nrow = N, ncol = t + 1)
+  total_f_b <- matrix(0, nrow = N, ncol = t + 1)
   
   # check the correlation in log price
   # sapply(seq_len(N), function(i){cor(log(A[i,]), log(B[i,]))}) %>% summary()
@@ -73,21 +73,31 @@ simulate_uniswap_returns <- function(
     a_prime <- sqrt(a[,i-1] * b[,i-1] * B[,i] / A[,i])
     b_prime <- sqrt(a[,i-1] * b[,i-1] * A[,i] / B[,i])
     
-    a[,i] <- a_prime + (a[,i-1] >= a_prime) * (a[,i-1] - a_prime) * fee
-    b[,i] <- b_prime + (a[,i-1] < a_prime) * (b[,i-1] - b_prime) * fee
+    f_a <- (a[,i-1] >= a_prime) * (a[,i-1] - a_prime) * fee
+    f_b <- (a[,i-1] < a_prime) * (b[,i-1] - b_prime) * fee
+    
+    a[,i] <- a_prime + f_a
+    b[,i] <- b_prime + f_b
+    
+    total_f_a[,i] <- total_f_a[,i-1] + f_a
+    total_f_b[,i] <- total_f_b[,i-1] + f_b
   }
   
   # initial value
   v0 <- unique(a[,1] * A[,1] + b[,1] * B[,1])
   
-  # strategy: provide liquidity
-  v_liquidity <- a[,t] * A[,t] + b[,t] * B[,t]
-  
-  # strategy: buy and hold
+  # strategy: buy and hold - terminal value
   v_bah <- a[,1] * A[,t] + b[,1] * B[,t]
   
+  # strategy: provide liquidity
+  #terminal value
+  v_liquidity <- a[,t] * A[,t] + b[,t] * B[,t]
+  # fee income
+  total_f <- total_f_a[,t] * A[,t] + total_f_b[,t] * B[,t]
+  
   v <- tibble(
+    `Buy and Hold` = v_bah / v0 - 1,
     `Liquidity Provider` = v_liquidity / v0 - 1,
-    `Buy and Hold` = v_bah / v0 - 1
+    `Total Fees` = total_f / v0
   )
 }
