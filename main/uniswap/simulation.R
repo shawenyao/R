@@ -45,7 +45,7 @@ v_fee <- map(
 ) %>% 
   bind_rows() %>% 
   gather(
-    type, value, -fee
+    type, value, -fee, -`Total Fees`
   )
 
 v_rho <- map(
@@ -68,14 +68,14 @@ v_rho <- map(
 ) %>% 
   bind_rows() %>% 
   gather(
-    type, value, -rho
+    type, value, -rho, -`Total Fees`
   )
 
 
 #==== plot =====
 plot1 <- v %>% 
   gather(
-    type, value
+    type, value, -`Total Fees`
   ) %>%
   ggplot(aes(x = value)) +
   geom_density(aes(fill = type), alpha = 0.5, color = NA) +
@@ -97,7 +97,40 @@ plot1 <- v %>%
     subtitle = TeX('$\\mu^A = 0.1%,\\; \\mu^B = 0.2%,\\; \\sigma^A = 2%,\\; \\sigma^B = 5%,\\; \\rho = 0.8,\\; A_0 = 100,\\; B_0 = 200,\\; c = 0.3%,\\; t = 1000 $'),
     x = "Return"
   ) +
-  xlim(c(-0.5, 10))
+  xlim(c(-1, 10))
+
+plot1.1 <- v %>% 
+  transmute(
+    `Fee Return` = `Total Fees`,
+    `Price Slippage Return` = `Liquidity Provider` - `Fee Return`
+  ) %>% 
+  summarise(
+    `Fee Return` = mean(`Fee Return`),
+    `Price Slippage Return` = mean(`Price Slippage Return`)
+  ) %>% 
+  gather(
+    type, value
+  ) %>%
+  ggplot(aes(x = type)) +
+  geom_bar(aes(weight = value, fill = type)) +
+  scale_fill_manual(values = c("Price Slippage Return" = "tomato", "Fee Return" = "dodgerblue")) +
+  theme_minimal() +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    text = element_text(size = 20),
+    axis.title.x = element_text(margin = margin(t = 15, r = 0, b = 0, l = 0)),
+    axis.title.y = element_blank(),
+    axis.text.y = element_blank(),
+    plot.subtitle = element_text(size = 15),
+    legend.spacing.x = unit(0.5, 'cm')
+  ) +
+  labs(
+    title = "Return Distributions of Buy and Hold vs Liquidity Provider", 
+    subtitle = TeX('$\\mu^A = 0.1%,\\; \\mu^B = 0.2%,\\; \\sigma^A = 2%,\\; \\sigma^B = 5%,\\; \\rho = 0.8,\\; A_0 = 100,\\; B_0 = 200,\\; c = 0.3%,\\; t = 1000 $'),
+    x = "Return"
+  ) +
+  xlim(c(-1, 10))
 
 plot2 <- v_fee %>% 
   ggplot(aes(x = value)) +
@@ -121,7 +154,7 @@ plot2 <- v_fee %>%
     subtitle = TeX('$ c = 0%,\\; 0.15%,\\; 0.3%,\\; 1%,\\; 5%,\\; 20% $'),
     x = "Return"
   ) +
-  xlim(c(-0.5, 10))
+  xlim(c(-1, 10))
 
 plot3 <- v_rho %>%
   ggplot(aes(x = value)) +
@@ -145,7 +178,7 @@ plot3 <- v_rho %>%
     subtitle = TeX('$ \\rho = -0.5,\\; 0,\\; 0.5,\\; 0.8,\\; 0.9,\\; 1 $'),
     x = "Return"
   ) +
-  xlim(c(-0.5, 10))
+  xlim(c(-1, 10))
 
 
 #===== output =====
@@ -172,7 +205,7 @@ save_png(
 
 baseline <- v %>% 
   gather(
-    type, value
+    type, value, -`Total Fees`
   ) %>%
   group_by(type) %>% 
   summarise(
