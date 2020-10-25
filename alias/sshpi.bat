@@ -1,1 +1,1 @@
-ssh pi@192.168.88.126
+ssh pi@retropie.local
