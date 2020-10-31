@@ -10,7 +10,8 @@ setwd("C:/Users/Wenyao/Desktop/R/R/output/animal_crossing/")
 output <- leaflet(
   options = leafletOptions(minZoom = 2, maxZoom = 4)
 ) %>% 
-  addProviderTiles(providers$Wikimedia) %>% 
+  # addProviderTiles(providers$Wikimedia) %>% 
+  addTiles() %>% 
   setView(lng = -95, lat = 43.95881, zoom = 2) %>% 
   setMaxBounds(lng1 = -180, lat1 = -90, lng2 = 180, lat2 = 90) %>%
   addRectangles(
