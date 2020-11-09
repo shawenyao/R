@@ -6,6 +6,8 @@ setwd("C:/Users/Wenyao/Desktop/R/R/")
 source("./functions/functions_plot_milky_way.R")
 source("./functions/functions_save_jpg.R")
 
+set.seed(1)
+
 
 #==== galaxy parameters ====
 num_of_arms <- 4
@@ -19,7 +21,7 @@ arm_width <- c(1.1, 0.8, 1.1, 0.8)
 arm_alpha_from <- 0.5
 arm_alpha_to <- 0.05
 
-star_intensity <- 3.5
+star_intensity <- 5
 star_size_from <- 0.25
 star_size_to <- 5
 star_size_interval <- 0.5
