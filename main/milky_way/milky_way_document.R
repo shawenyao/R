@@ -131,20 +131,31 @@ plot_3_spiral_arms <- ggplot(sprial_arms, aes(x = x, y = y)) +
 
 
 #==== output ====
-for(variable_name in ls()[startsWith(ls(), "plot_")]){
-  
-  print(variable_name)
-  
-  save_jpg(
-    get(variable_name),
-    file_name = paste0(
-      "output/milky_way/",
-      variable_name,
-      ".jpg"
-    ),
-    width = 1600, 
-    height = 1600,
-    print_plot = FALSE#,
-    # bg = "#000011"
+list(
+  plot_name = c(
+    "plot_1_spiral_arms_skeleton",
+    "plot_2_star_unit",         
+    "plot_3_spiral_arms"
+  ),
+  width = c(1600, 1600, 1600),
+  height = c(1600, 400, 1600),
+  bg = c("white", "white", "#000011")
+) %>% 
+  pmap(
+    function(plot_name, width, height, bg){
+      print(plot_name)
+      
+      save_jpg(
+        get(plot_name),
+        file_name = paste0(
+          "output/milky_way/",
+          plot_name,
+          ".jpg"
+        ),
+        width = width, 
+        height = height,
+        print_plot = FALSE,
+        bg = bg
+      )
+    }
   )
-}
