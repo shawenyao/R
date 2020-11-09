@@ -38,7 +38,7 @@ get_spiral_arms <- function(
         theta = seq(from = theta_from, to = theta_to, length.out = theta_length)
       ) %>% 
         mutate(
-          r = 1 / theta ^ theta_power,
+          r = theta ^ theta_power,
           x = r * cos(theta + 2 * pi * (id + rnorm(1, sd = arm_sd_x)) / num_of_arms),
           y = r * sin(theta + 2 * pi * (id + rnorm(1, sd = arm_sd_y)) / num_of_arms),
           width = arm_width,

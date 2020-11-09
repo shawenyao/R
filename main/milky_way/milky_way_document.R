@@ -14,7 +14,7 @@ num_of_arms <- 4
 theta_from <- c(2.7, 3.3, 2.7, 3.3)
 theta_to <- c(7.75, 8.5, 7.5, 8.25)
 theta_length <- 1000
-theta_power <- -1.5
+theta_power <- 1.5
 arm_sd_x <- 0.01
 arm_sd_y <- 0.01
 arm_width <- c(1.1, 0.8, 1.1, 0.8)
@@ -134,11 +134,11 @@ plot_3_spiral_arms <- ggplot(sprial_arms, aes(x = x, y = y)) +
 
 # galactic center
 plot_4_galactic_center_unit <- data.frame(
-  x = seq_along(gc_color),
+  x = seq_along(c(gc_color)),
   y = 0
 ) %>% 
   ggplot(aes(x = x, y = y)) +
-  geom_point(color = gc_color, shape = 8, size = 40, stroke = 4) +
+  geom_point(color = c(gc_color), shape = 8, size = 40, stroke = 4) +
   theme_minimal() +
   theme(
     axis.text = element_blank()
