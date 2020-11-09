@@ -28,14 +28,14 @@ star_size_interval <- 0.5
 star_color <- c("#64C5E8", "#81D3DE", "#C5DED8", "#E3E9D2", "#F2FFCF", "firebrick1")
 
 gc_rho <- 0.9
-gc_intensity <- 10000
+gc_intensity <- 20000
 gc_sd_x <- 1.5
 gc_sd_y <- 2.25
 gc_size_from <- 0.5
 gc_size_to <- 12
 gc_size_interval <- 0.5
-gc_alpha_from <- 0.01
-gc_alpha_slope <- 0.2
+gc_alpha_from <- 0.03
+gc_alpha_slope <- 0.3
 gc_color <- c("lemonchiffon", "lemonchiffon1", "khaki1", "khaki2", "gold")
 
 star_halo_size1 <- 30
