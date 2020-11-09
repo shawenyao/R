@@ -132,7 +132,7 @@ plot_3_spiral_arms <- ggplot(sprial_arms, aes(x = x, y = y)) +
   ) +
   labs(x = "", y = "")
 
-# galactic center
+# galactic center unit
 plot_4_galactic_center_unit <- data.frame(
   x = seq_along(c(gc_color)),
   y = 0
@@ -145,6 +145,25 @@ plot_4_galactic_center_unit <- data.frame(
   ) +
   labs(x = "", y = "")
 
+# galactic center
+plot_5_galactic_center <- ggplot(sprial_arms, aes(x = x, y = y)) +
+  geom_point(data = gc, size = gc_halo_size1, alpha = gc_halo_alpha1, color = "gold", shape = 8) +
+  geom_point(data = gc, size = gc_halo_size2, alpha = gc_halo_alpha2, color = "gold", shape = 8) +
+  geom_point(data = gc, size = gc$size, alpha = gc$alpha, color = gc$color, shape = 8) +
+  coord_fixed() +
+  theme_minimal() +
+  theme(
+    legend.position = "none",
+    axis.line = element_blank(),
+    axis.text = element_blank(), 
+    strip.text = element_blank(),
+    panel.grid = element_blank(),
+    panel.background = element_rect(fill = background_color),
+    plot.background = element_rect(fill = background_color),
+    plot.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "cm")
+  ) +
+  labs(x = "", y = "")
+
 
 #==== output ====
 list(
@@ -152,11 +171,12 @@ list(
     "plot_1_spiral_arms_skeleton",
     "plot_2_star_unit",
     "plot_3_spiral_arms",
-    "plot_4_galactic_center_unit"
+    "plot_4_galactic_center_unit",
+    "plot_5_galactic_center"
   ),
-  width = c(1600, 1600, 1600, 1600),
-  height = c(1600, 400, 1600, 400),
-  bg = c("white", "white", "#000011", "white")
+  width = c(1600, 1600, 1600, 1600, 1600),
+  height = c(1600, 400, 1600, 400, 1600),
+  bg = c("white", "white", "#000011", "white", "#000011")
 ) %>% 
   pmap(
     function(plot_name, width, height, bg){
