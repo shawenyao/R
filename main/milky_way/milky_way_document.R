@@ -21,7 +21,7 @@ arm_width <- c(1.1, 0.8, 1.1, 0.8)
 arm_alpha_from <- 0.5
 arm_alpha_to <- 0.05
 
-star_intensity <- 5
+star_intensity <- 4
 star_size_from <- 0.25
 star_size_to <- 5
 star_size_interval <- 0.5
