@@ -4,10 +4,13 @@
 #' @param dW a matrix of rnorms, useful when simulating with correlated processes
 #' @param price0 the initial price
 generate_paths <- function(mu, sigma, dW, price0, dt){
+  
   drift <- (mu - 0.5 * sigma^2) * dt
   diffusion <- sigma * sqrt(dt) * dW
+  
   log_price_increment <- cbind(0, drift + diffusion)
   log_price <- log(price0) + t(apply(log_price_increment, 1, cumsum))
+  
   exp(log_price)
 }
 
