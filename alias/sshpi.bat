@@ -1,1 +1,1 @@
-ssh pi@retropie.local
+ssh pi@kodi.local
