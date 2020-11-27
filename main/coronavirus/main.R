@@ -14,7 +14,8 @@ refresh_data <- TRUE
 
 #===== load data =====
 source("../../main/coronavirus/prepare_data.R", echo = TRUE)
-coronavirus_input <- import("../../input/coronavirus/coronavirus.csv")
+coronavirus_input <- import("../../input/coronavirus/coronavirus.csv") %>% 
+  filter(!is.na(lat))
 
 # show historical snapshot at certain interval
 all_dates_raw <- unique(coronavirus_input$date)
