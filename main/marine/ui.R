@@ -65,7 +65,7 @@ semanticPage(
       class = "ui raised segment",
       div(
         a(class="ui blue ribbon label", "Distance"),
-        plotlyOutput("distance", height = 300)
+        plotlyOutput("distance", height = 150)
       )
     ),
     
@@ -74,7 +74,7 @@ semanticPage(
       class = "ui raised segment",
       div(
         a(class="ui red ribbon label", "Total Distance"),
-        plotlyOutput("total_distance", height = 300)
+        plotlyOutput("total_distance", height = 150)
       )
     )
   )

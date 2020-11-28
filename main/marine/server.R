@@ -183,7 +183,6 @@ function(input, output, session) {
         return()
       }
       
-      # View(track)
       ggplotly(
         ggplot(track, aes(x = DATETIME, y = cumsum(distance))) +
           geom_line(size = 1, color = "tomato") +
