@@ -9,18 +9,16 @@ ships <- import("input/ships.RData")
 
 # the mapping between `ship_type` and `SHIPNAME`
 ship_types <- ships %>%
-  select(ship_type, SHIPNAME) %>% 
+  select(ship_type, SHIP_ID, SHIPNAME) %>% 
   distinct() %>% 
-  arrange(ship_type, SHIPNAME)
+  arrange(ship_type, SHIPNAME, SHIP_ID) %>% 
+  mutate(
+    display_name = paste0(SHIPNAME, " - ", SHIP_ID)
+  )
 
 initial_coordinates <- ships %>% 
   filter(
     ship_type == ship_types$ship_type[1], 
-    SHIPNAME == ship_types$SHIPNAME[1]
+    SHIP_ID == ship_types$SHIP_ID[1]
   )
 
-# ship_types %>%
-#   group_by(ship_type) %>%
-#   summarise(
-#     duplicates = sum(duplicated(SHIPNAME))
-#   )

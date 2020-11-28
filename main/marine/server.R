@@ -11,16 +11,21 @@ function(input, output, session) {
   
   # search ship names by ship type
   search_ship_names <- reactive({
-    ship_types %>% 
-      filter(ship_type == input$ship_type) %>% 
-      pull(SHIPNAME)
+    
+    ship_of_a_type <- ship_types %>% 
+      filter(ship_type == input$ship_type)
+    
+    ids <- ship_of_a_type$SHIP_ID
+    names(ids) <- ship_of_a_type$display_name
+    
+    ids
   })
   
   # update ship selector
   observe({
     updateSelectInput(
       session, 
-      "ship_name", 
+      "ship_id", 
       label = "Which ship?",
       choices = search_ship_names()
     )
@@ -29,7 +34,11 @@ function(input, output, session) {
   # create the map
   output$map <- renderLeaflet({
     leaflet(
-      options = leafletOptions(minZoom = 3, maxZoom = 15)
+      options = leafletOptions(
+        minZoom = 3, 
+        maxZoom = 15, 
+        zoomControl = FALSE
+      )
     ) %>% 
       addTiles() %>% 
       fitBounds(
@@ -43,26 +52,25 @@ function(input, output, session) {
   # wait for a while before triggering plot
   values <- reactiveValues(
     ship_type = "NA",
-    ship_name = "NA"
+    ship_id = "NA"
   )
   observe({
-    invalidateLater(500, session)
+    invalidateLater(100, session)
     isolate(values$ship_type <- input$ship_type)
-    isolate(values$ship_name <- input$ship_name)
+    isolate(values$ship_id <- input$ship_id)
   })
   
   # draw ship track
   observe({
-    if(values$ship_type != "NA" & values$ship_name != "NA"){
+    if(values$ship_type != "NA" & values$ship_id != "NA"){
       
       # find the specific ship
       track <- ships %>% 
         filter(
           ship_type == values$ship_type,
-          SHIPNAME == values$ship_name
+          SHIP_ID == values$ship_id
         )
       
-      # print(values$ship_type);print(values$ship_name)
       if(nrow(track) == 0){
         return()
       }
@@ -144,13 +152,13 @@ function(input, output, session) {
   # distance by time plot
   output$distance <- renderPlotly({
     
-    if(values$ship_type != "NA" & values$ship_name != "NA"){
+    if(values$ship_type != "NA" & values$ship_id != "NA"){
       
       # find the specific ship
       track <- ships %>% 
         filter(
           ship_type == values$ship_type,
-          SHIPNAME == values$ship_name
+          SHIP_ID == values$ship_id
         )
       
       if(nrow(track) == 0){
@@ -170,13 +178,13 @@ function(input, output, session) {
   # distance by time plot
   output$total_distance <- renderPlotly({
     
-    if(values$ship_type != "NA" & values$ship_name != "NA"){
+    if(values$ship_type != "NA" & values$ship_id != "NA"){
       
       # find the specific ship
       track <- ships %>% 
         filter(
           ship_type == values$ship_type,
-          SHIPNAME == values$ship_name
+          SHIP_ID == values$ship_id
         )
       
       if(nrow(track) == 0){

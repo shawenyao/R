@@ -51,7 +51,7 @@ semanticPage(
           column(
             6,
             selectInput(
-              inputId = "ship_name", 
+              inputId = "ship_id", 
               label = "Which ship?",
               choices = NA
             )
