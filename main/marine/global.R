@@ -1,5 +1,9 @@
-library(rio)
+library(shiny)
+library(leaflet)
 library(tidyverse)
+library(rio)
+library(shiny.semantic)
+library(plotly)
 
 ships <- import("input/ships.RData")
 

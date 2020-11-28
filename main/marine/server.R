@@ -1,5 +1,8 @@
+library(shiny)
 library(leaflet)
 library(tidyverse)
+library(rio)
+library(shiny.semantic)
 library(plotly)
 
 Sys.setlocale("LC_ALL","C")

@@ -1,12 +1,16 @@
 library(shiny)
+library(leaflet)
+library(tidyverse)
+library(rio)
 library(shiny.semantic)
+library(plotly)
+
+Sys.setlocale("LC_ALL","C")
 
 semanticPage(
   
   tags$head(
-    # Include our custom CSS
     includeCSS("styles.css"),
-    # includeScript("gomap.js"),
     tags$style(
       HTML('#controls {background-color: rgba(0,0,255,0.01);}
                  body {overflow-y: hidden;}')
