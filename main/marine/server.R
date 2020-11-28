@@ -46,7 +46,7 @@ function(input, output, session) {
     ship_name = "NA"
   )
   observe({
-    invalidateLater(2000, session)
+    invalidateLater(500, session)
     isolate(values$ship_type <- input$ship_type)
     isolate(values$ship_name <- input$ship_name)
   })
@@ -61,6 +61,11 @@ function(input, output, session) {
           ship_type == values$ship_type,
           SHIPNAME == values$ship_name
         )
+      
+      # print(values$ship_type);print(values$ship_name)
+      if(nrow(track) == 0){
+        return()
+      }
       
       # find the case where the ship travels the longest distance
       if(nrow(track) == 1){
@@ -86,7 +91,7 @@ function(input, output, session) {
         
         # plot the full track
         addCircles(
-          radius = 5,
+          radius = 10,
           lng = ~LON,
           lat = ~LAT,
           opacity = 0.1,
@@ -147,7 +152,10 @@ function(input, output, session) {
           ship_type == values$ship_type,
           SHIPNAME == values$ship_name
         )
-      # print(values$ship_type);print(values$ship_name)
+      
+      if(nrow(track) == 0){
+        return()
+      }
       
       ggplotly(
         ggplot(track, aes(x = DATETIME, y = distance)) +
@@ -170,7 +178,10 @@ function(input, output, session) {
           ship_type == values$ship_type,
           SHIPNAME == values$ship_name
         )
-      # print(values$ship_type);print(values$ship_name)
+      
+      if(nrow(track) == 0){
+        return()
+      }
       
       # View(track)
       ggplotly(
