@@ -1,4 +1,5 @@
 library(rio)
+library(tidyverse)
 
 ships <- import("input/ships.RData")
 
