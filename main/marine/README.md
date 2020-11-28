@@ -8,7 +8,7 @@ A Shiny app for visualization of the Marine data, where the users can:
 * track the ship's coordinates over time
 * see the farthest distance a ship has sailed between two consecutive records
 
-## Folder Scructure
+## Folder Structure
 * data_prep.R: convert raw data into Shiny-friendly format
 * global.R: global variables of the app
 * app.R: app launcher
@@ -19,7 +19,8 @@ A Shiny app for visualization of the Marine data, where the users can:
 input/ships_04112020.zip can be found [here](https://drive.google.com/file/d/1IeaDpJNqfgUZzGdQmR6cz2H3EQ3_QfCV/view?usp=sharing)
 
 ## Deploy Guide
-Edit the `root_dir` variable in app.R and run
+* Edit the `root_dir` variable in data_prep.R and run the script
+* Edit the `root_dir` variable in app.R and run the script
 
 ## Demo
 https://shawenyao.shinyapps.io/marine/
