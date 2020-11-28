@@ -57,6 +57,7 @@ semanticPage(
             selectInput(
               inputId = "ship_id", 
               label = "Which ship?",
+              # intended to be updated by the server side
               choices = NA
             )
           )

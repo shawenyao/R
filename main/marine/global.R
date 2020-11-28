@@ -5,7 +5,7 @@ library(rio)
 library(shiny.semantic)
 library(plotly)
 
-# the pre-processed data done in data_prep.R
+# the pre-processed data prepared in data_prep.R
 ships <- import("input/ships.RData")
 
 # the mapping between `ship_type` and `SHIP_ID`
