@@ -1,5 +1,7 @@
 # Visualization of Marine Data: A Shiny App
 
+![demo](demo.png)
+
 ## Summary
 A Shiny app for visualization of the Marine data, where the users can:
 * find ship by vessel type (e.g., passenger, fishing, etc.)
