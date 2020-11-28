@@ -9,12 +9,12 @@ setwd(root_dir)
 
 
 #==== input ====
-marine <- import("input/ships_04112020.zip", colClasses = c("SHIP_ID" = "character"))
+ships <- import("input/ships_04112020.zip", colClasses = c("SHIP_ID" = "character"))
 
 
 #==== data preparation ====
 # for each `SHIP_ID`, calculate the distance traveled between every 2 consecutive observations
-marine_with_distance <- marine %>% 
+ships_with_distance <- ships %>% 
   arrange(SHIP_ID, DATETIME) %>% 
   group_by(SHIP_ID) %>% 
   mutate(
@@ -35,7 +35,7 @@ marine_with_distance <- marine %>%
   )
 
 # for each `SHIP_ID`, find the longest distance that it has traveled between 2 consecutive observations
-marine_longest_distance <- marine_with_distance %>% 
+ships_longest_distance <- ships_with_distance %>% 
   filter(distance == max(distance, na.rm = TRUE)) %>% 
   # if there's a tie, choose the most recent
   filter(DATETIME == max(DATETIME)) %>% 
@@ -43,7 +43,7 @@ marine_longest_distance <- marine_with_distance %>%
   mutate(ind_longest = TRUE)
 
 # put everything together
-output <- marine_with_distance %>% 
+output <- ships_with_distance %>% 
   ungroup() %>% 
   # bring `ind_longest` to the original data.frame
   left_join(

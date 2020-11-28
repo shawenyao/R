@@ -9,7 +9,7 @@ Sys.setlocale("LC_ALL","C")
 
 function(input, output, session) {
   
-  # search ship names by ship type
+  # search ship ids by ship type
   search_ship_names <- reactive({
     
     ship_of_a_type <- ship_types %>% 
@@ -21,7 +21,7 @@ function(input, output, session) {
     ids
   })
   
-  # update ship selector
+  # update ship id selector
   observe({
     updateSelectInput(
       session, 
@@ -31,7 +31,7 @@ function(input, output, session) {
     )
   })
   
-  # create the map
+  # create map
   output$map <- renderLeaflet({
     leaflet(
       options = leafletOptions(
@@ -77,9 +77,11 @@ function(input, output, session) {
       
       # find the case where the ship travels the longest distance
       if(nrow(track) == 1){
+        # cases where there's only one observation given an id
         track_longest <- rbind(track, track)
       }else{
         track_longest <- track %>% 
+          # the 2 rows where distance is the largest
           slice(
             c(which(track$ind_longest) - 1, which(track$ind_longest))
           )
@@ -175,7 +177,7 @@ function(input, output, session) {
     }
   })
   
-  # distance by time plot
+  # total distance by time plot
   output$total_distance <- renderPlotly({
     
     if(values$ship_type != "NA" & values$ship_id != "NA"){
