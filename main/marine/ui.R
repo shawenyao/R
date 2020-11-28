@@ -45,7 +45,8 @@ semanticPage(
             selectInput(
               inputId = "ship_type", 
               label = "What kind of ship?",
-              choices = unique(ship_types$ship_type)
+              choices = unique(ship_types$ship_type),
+              selected = unique(initial_coordinates$ship_type)
             ),
           ),
           column(

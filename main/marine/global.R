@@ -19,6 +19,8 @@ ship_types <- ships %>%
 # the initial coordinates (for setting the initial map view)
 initial_coordinates <- ships %>% 
   filter(
-    ship_type == ship_types$ship_type[1], 
-    SHIP_ID == ship_types$SHIP_ID[1]
+    SHIP_ID == ship_types %>% 
+      filter(ship_type == "Tanker") %>% 
+      slice(1) %>% 
+      pull(SHIP_ID)
   )
