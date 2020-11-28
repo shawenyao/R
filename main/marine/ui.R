@@ -5,6 +5,7 @@ library(rio)
 library(shiny.semantic)
 library(plotly)
 
+# to use English as the locale
 Sys.setlocale("LC_ALL","C")
 
 semanticPage(
@@ -17,6 +18,7 @@ semanticPage(
     )
   ),
   
+  # the map instance
   leafletOutput(
     "map", width="100%", height="100%"
   ),
@@ -34,6 +36,7 @@ semanticPage(
     height = "auto",
     style = "opacity: 0.85",
     
+    # the dropdown menus
     div(
       id = "ship_controls",
       class = "ui raised segment",
@@ -61,6 +64,7 @@ semanticPage(
       )
     ),
     
+    # the distance plot
     div(
       id = "ship_distance",
       class = "ui raised segment",
@@ -70,6 +74,7 @@ semanticPage(
       )
     ),
     
+    # the total distance plot
     div(
       id = "ship_total_distance",
       class = "ui raised segment",

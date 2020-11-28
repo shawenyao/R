@@ -5,16 +5,19 @@ library(rio)
 library(shiny.semantic)
 library(plotly)
 
+# to use English as the locale
 Sys.setlocale("LC_ALL","C")
 
 function(input, output, session) {
   
   # search ship ids by ship type
   search_ship_names <- reactive({
-    
+    # given a `ship_type`, find the corresponding rows
     ship_of_a_type <- ship_types %>% 
       filter(ship_type == input$ship_type)
     
+    # a named vector of `SHIP_ID`
+    # with `display_name` as the names (for display purposes)
     ids <- ship_of_a_type$SHIP_ID
     names(ids) <- ship_of_a_type$display_name
     
@@ -41,6 +44,7 @@ function(input, output, session) {
       )
     ) %>% 
       addTiles() %>% 
+      # set initial map view based on arbitrary choice given in global.R
       fitBounds(
         lng1 = min(initial_coordinates$LON, na.rm = TRUE), 
         lat1 = min(initial_coordinates$LAT, na.rm = TRUE), 
@@ -82,6 +86,7 @@ function(input, output, session) {
       }else{
         track_longest <- track %>% 
           # the 2 rows where distance is the largest
+          # i.e., the row where `ind_longest` == TRUE and the previous one
           slice(
             c(which(track$ind_longest) - 1, which(track$ind_longest))
           )
@@ -89,9 +94,13 @@ function(input, output, session) {
       
       # plot on map
       leafletProxy("map", data = track) %>% 
+        
+        # clear everything from the last iteration
         clearShapes() %>% 
         clearMarkers() %>% 
         clearPopups() %>% 
+        
+        # set map view to fit the current track
         flyToBounds(
           lng1 = min(track$LON, na.rm = TRUE), 
           lat1 = min(track$LAT, na.rm = TRUE), 
@@ -100,6 +109,7 @@ function(input, output, session) {
         ) %>% 
         
         # plot the full track
+        # 1) the dots
         addCircles(
           radius = 10,
           lng = ~LON,
@@ -107,6 +117,7 @@ function(input, output, session) {
           opacity = 0.1,
           fillOpacity = 0.1
         ) %>% 
+        # 2) the lines
         addPolylines(
           lng = ~LON, 
           lat = ~LAT, 
@@ -115,6 +126,7 @@ function(input, output, session) {
         ) %>% 
         
         # plot the longest track
+        # 1) the dots
         addMarkers(
           data = track_longest,
           lng = ~LON,
@@ -130,6 +142,7 @@ function(input, output, session) {
             )
           )
         ) %>%
+        # 2) the lines (with labels)
         addPolylines(
           data = track_longest,
           lng = ~LON, 
@@ -153,7 +166,6 @@ function(input, output, session) {
   
   # distance by time plot
   output$distance <- renderPlotly({
-    
     if(values$ship_type != "NA" & values$ship_id != "NA"){
       
       # find the specific ship
@@ -170,7 +182,7 @@ function(input, output, session) {
       ggplotly(
         ggplot(track, aes(x = DATETIME, y = distance)) +
           geom_line(size = 1, color = "dodgerblue") +
-          labs(x = "Time", y = "Distance") +
+          labs(x = "Time", y = "Total Distance") +
           theme_minimal() +
           theme(text = element_text(size = 12))
       )
@@ -179,7 +191,6 @@ function(input, output, session) {
   
   # total distance by time plot
   output$total_distance <- renderPlotly({
-    
     if(values$ship_type != "NA" & values$ship_id != "NA"){
       
       # find the specific ship

@@ -13,7 +13,8 @@ ships <- import("input/ships_04112020.zip", colClasses = c("SHIP_ID" = "characte
 
 
 #==== data preparation ====
-# for each `SHIP_ID`, calculate the distance traveled between every 2 consecutive observations
+# for each `SHIP_ID`, pre-calculate the distance traveled between every 2 consecutive observations
+# (so that it doesn't have to be done at runtime)
 ships_with_distance <- ships %>% 
   arrange(SHIP_ID, DATETIME) %>% 
   group_by(SHIP_ID) %>% 
@@ -51,6 +52,7 @@ output <- ships_with_distance %>%
     by = c("SHIP_ID", "DATETIME")
   ) %>% 
   # standardize `SHIPNAME` given a `SHIP_ID`
+  # (otherwise for a given `SHIP_ID`, the `SHIPNAME` won't be consistent)
   group_by(SHIP_ID) %>% 
   mutate(
     SHIPNAME = SHIPNAME[1]
