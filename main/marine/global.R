@@ -15,7 +15,7 @@ ship_types <- ships %>%
   distinct() %>% 
   arrange(ship_type, SHIPNAME, SHIP_ID) %>% 
   mutate(
-    # to be used for display purposes for the dropdown menu
+    # the "name - id" pair to be used for display purposes for the dropdown menu
     display_name = paste0(SHIPNAME, " - ", SHIP_ID)
   )
 
