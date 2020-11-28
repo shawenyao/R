@@ -17,7 +17,7 @@ A Shiny app for visualization of Marine data, where the users can:
 input/ships_04112020.zip can be found [here](https://drive.google.com/file/d/1IeaDpJNqfgUZzGdQmR6cz2H3EQ3_QfCV/view?usp=sharing)
 
 ## Deploy Guide
-Edit the `root_dir` variable in app.R and run.
+Edit the `root_dir` variable in app.R and run
 
 ## Demo
 https://shawenyao.shinyapps.io/marine/
