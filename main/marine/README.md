@@ -1,7 +1,9 @@
 # Visualization of Marine Data: A Shiny App
 
+![demo](demo.png)
+
 ## Summary
-A Shiny app for visualization of Marine data, where the users can:
+A Shiny app for visualization of the Marine data, where the users can:
 * find ship by vessel type (e.g., passenger, fishing, etc.)
 * track the ship's coordinates over time
 * see the farthest distance a ship has sailed between two consecutive records
