@@ -11,3 +11,7 @@ output/solar_zenith_angle/1_label.png
 *.xlsx
 input/animal_crossing/turnip_prices.csv
 
+main/marine/deploy.R
+main/marine/input/*.*
+
+*.dcf

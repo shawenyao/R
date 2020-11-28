@@ -1,3 +1,5 @@
+library(rio)
+
 ships <- import("input/ships.RData")
 
 # the mapping between `ship_type` and `SHIPNAME`

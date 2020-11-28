@@ -1,6 +1,5 @@
 library(leaflet)
 library(tidyverse)
-library(rio)
 library(plotly)
 
 Sys.setlocale("LC_ALL","C")
