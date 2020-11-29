@@ -41,7 +41,15 @@ semanticPage(
       id = "ship_controls",
       class = "ui raised segment",
       div(
-        a(class="ui green ribbon label", "Controls"),
+        a(class = "ui green ribbon label", "Controls"),
+        div(
+          tags$i(
+            class = "ui exclamation circle icon link",
+          ), 
+          align = "right",
+          `data-tooltip` = "Display a ship's track",
+          `data-position` = "bottom right"
+        ),
         fluidRow(
           column(
             6,
@@ -50,7 +58,7 @@ semanticPage(
               label = "What kind of ship?",
               choices = unique(ship_types$ship_type),
               selected = unique(initial_coordinates$ship_type)
-            ),
+             ),
           ),
           column(
             6,
@@ -71,6 +79,14 @@ semanticPage(
       class = "ui raised segment",
       div(
         a(class="ui blue ribbon label", "Distance"),
+        div(
+          tags$i(
+            class = "ui exclamation circle icon link",
+          ), 
+          align = "right",
+          `data-tooltip` = "The incremental distance sailed over time",
+          `data-position` = "bottom right"
+        ),
         plotlyOutput("distance", height = 150)
       )
     ),
@@ -81,6 +97,14 @@ semanticPage(
       class = "ui raised segment",
       div(
         a(class="ui red ribbon label", "Total Distance"),
+        div(
+          tags$i(
+            class = "ui exclamation circle icon link",
+          ), 
+          align = "right",
+          `data-tooltip` = "The total distance sailed over time",
+          `data-position` = "bottom right"
+        ),
         plotlyOutput("total_distance", height = 150)
       )
     )
