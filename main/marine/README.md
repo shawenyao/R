@@ -14,6 +14,7 @@ A Shiny app for visualization of the Marine data, where the users can:
 * app.R: app launcher
 * ui.R: UI implementation
 * server.R: server implementation
+* test.R: test script
 
 ## Input Data
 input/ships_04112020.zip can be found [here](https://drive.google.com/file/d/1IeaDpJNqfgUZzGdQmR6cz2H3EQ3_QfCV/view?usp=sharing)
