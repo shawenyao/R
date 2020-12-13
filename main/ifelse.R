@@ -1,3 +1,5 @@
+# test if the "ifelse" function evaluates the statements lazily
+# (the answer is no)
 
 test1 <- function(v){
   print(paste0("test1 + ", v))
