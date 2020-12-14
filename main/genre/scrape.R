@@ -4,13 +4,6 @@ library(janitor)
 
 setwd("C:/Users/Wenyao/Desktop/R/R")
 
-
-#==== input ====
-
-tibble(
-  
-)
-
 scrape_ps4 <- function(url, css){
   url %>% 
     read_html() %>% 
