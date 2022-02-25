@@ -1,1 +1,1 @@
-ssh pi@kodi.local
+ssh pi@kodi
