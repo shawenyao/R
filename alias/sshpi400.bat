@@ -1,1 +1,1 @@
-ssh pi@pi400.local
+ssh pi@pi400
