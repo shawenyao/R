@@ -1,7 +1,5 @@
 n <- 2019
-
 m <- matrix(nrow = ceiling(sqrt(n)), ncol = ceiling(sqrt(n)))
-
 
 for(i in 1:ceiling(sqrt(n))^2){
   if(i == 1){
@@ -38,4 +36,4 @@ for(i in 1:ceiling(sqrt(n))^2){
 }
 
 View(m)
-which(m==2019, arr.ind = T)
+which(m==n, arr.ind = T)
