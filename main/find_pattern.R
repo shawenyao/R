@@ -36,5 +36,5 @@ for(i in 1:ceiling(sqrt(n))^2){
 }
 
 View(m)
-which(m==n, arr.ind = T)
+which(m == n, arr.ind = T)
   
